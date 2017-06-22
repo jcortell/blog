@@ -1,30 +1,31 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "Casper Theme"
+languageCode = "en"
+title = "Jorge Cortell blog in English"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+disqusShortname = "jorgecortell"
 # Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-51273041-1"
 # Define how many posts should appear on a site
 paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "suspended disbelief"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
-  authorwebsite = "http://vjeantet.fr"
-  bio= "my bio"
+  author = "Jorge Cortell"
+  authorlocation = "Londion, UK"
+  authorwebsite = "http://jorge.cortell.net"
+  bio= "Founder @kanteron | Serial entrepreneur (x8) | Art Curator"
   logo = "images/logo.png"
-  googleAnalyticsUserID = "UA-79101-12"
+  googleAnalyticsUserID = "UA-51273041-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "vjeantet"
-  twitterName = "vjeantet"
+  githubName = "jcortell"
+  twitterName = "jorgecortell"
   # facebookName = ""
-  # linkedinName = ""
+  # linkedinName = "jcortell"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
-    twitter = "your_twitter"
+    twitter = "jorgecortell"
+    facebook = "694855997"
