@@ -1,13 +1,8 @@
 ---
 id: 3754
-title: '22ºF that feels like 10ºF: how &quot;RealFeel&quot; works'
+title: 'How &quot;RealFeel&quot; works'
 date: 2012-01-15T19:20:28+00:00
 author: Jorge Cortell
-layout: post
-guid: http://cortell.net/blog/?p=3754
-permalink: '/blog/2012/01/15/22%c2%baf-that-feels-like-10%c2%baf-how-realfeel-works/'
-wpsd_autopost:
-  - "1"
 categories:
   - General
   - 'Humor &amp; curiosities'
