@@ -3,9 +3,6 @@ id: 8304
 title: A little over 24 hours in Peru
 date: 2017-05-25T15:13:54+00:00
 author: Jorge Cortell
-layout: post
-guid: http://blog.cortell.net/?p=8304
-permalink: /blog/2017/05/25/a-little-over-24-hours-in-peru/
 categories:
   - General
   - "Life's pleasures"
@@ -13,8 +10,9 @@ categories:
   - Personal
   - Technology
 ---
+ 
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/jcortell/q76S8Y" title="Lima May 2017"><img src="https://c1.staticflickr.com/5/4269/34063463123_c3c0466bcb_z.jpg" width="640" height="480" alt="Lima May 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-  
 On Sunday I left London to go to Peru for a business trip. I was connecting in Madrid but, due to a 4-hour delay in the departure of the flight, I missed my red-eye connection to Lima.
 
 Fortunately, European Union regulations mandate that airlines feed and provide shelter to stranded passengers (subject to some conditions), unlike in the USA, where the same unfortunate circumstance is usually the passengers’ problem. So Iberia gave me a voucher for a dinner, a breakfast, a hotel night in a nearby hotel, two phone calls and the transfer to and from the hotel.
