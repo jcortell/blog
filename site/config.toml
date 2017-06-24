@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en"
 title = "Jorge Cortell blog in English"
 theme = "hugo-theme-casper"
-disqusShortname = "jorgecortell"
+disqusShortname = "jorge_cortell"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = "UA-51273041-1"
 # Define how many posts should appear on a site
@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "suspended disbelief"
+  description = "scroll down if you dare"
   cover = "images/cover.jpg"
   author = "Jorge Cortell"
   authorlocation = "London, UK"
@@ -20,10 +20,10 @@ canonifyurls = true
   googleAnalyticsUserID = "UA-51273041-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "jcortell"
-  twitterName = "jorgecortell"
-  # facebookName = ""
-  # linkedinName = "jcortell"
+#  githubName = "jcortell"
+#  twitterName = "jorgecortell"
+#  facebookName = "694855997"
+#  linkedinName = "jcortell"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
