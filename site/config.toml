@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "scroll down if you dare"
+  description = "scroll down if you dare ↓"
   cover = "images/cover.jpg"
   author = "Jorge Cortell"
   authorlocation = "London, UK"
@@ -29,3 +29,15 @@ canonifyurls = true
   [params.social]
     twitter = "jorgecortell"
     facebook = "694855997"
+
+    [[menu.main]]
+      name = "Home"
+      weight = -120
+      identifier = "home"
+      url = "https://jorge.cortell.net"
+
+    [[menu.main]]
+      name = "About"
+      weight = -110
+      identifier = "about"
+      url = "https://jorge.cortell.net/about.html"
