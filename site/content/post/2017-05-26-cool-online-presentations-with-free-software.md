@@ -3,9 +3,6 @@ id: 8308
 title: Cool online presentations with free software
 date: 2017-05-26T08:45:38+00:00
 author: Jorge Cortell
-layout: post
-guid: http://blog.cortell.net/?p=8308
-permalink: /blog/2017/05/26/cool-online-presentations-with-free-software/
 categories:
   - Copyfight
   - Free Software
