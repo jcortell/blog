@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://blog.cortell.net/"
 languageCode = "en"
 title = "Jorge Cortell blog in English"
 theme = "hugo-theme-casper"
