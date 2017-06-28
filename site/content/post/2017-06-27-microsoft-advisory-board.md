@@ -2,7 +2,7 @@
 author: ""
 date: "2017-06-27T10:54:24+02:00"
 draft: false
-title: "Microsoft PArtner Advisory Council"
+title: "Microsoft Partner Advisory Council"
 tags: ["events","London","work"]
 image: "https://c1.staticflickr.com/5/4251/34584736734_36d61a4edd_z.jpg"
 comments: true     # set false to hide Disqus comments
@@ -13,4 +13,4 @@ share: true        # set false to share buttons
 
 Last Tuesday, June 20, I was invited to participate in the III Microsoft Partner Advisory Council, which took place at [The Hawksmoor Guildhall](http://thehawksmoor.com/locations/guildhall/), London.   
 
-As usual, business talk, nice lunch, and... a funny wall list (check out the pics)
+As usual, business talk and a nice lunch. One curiosity: we met in a 'secret room' called The Sublime Society of Beef Steaks (founded in the year 1735), and there were no vegetarian options on the menu. I wonder what the team at Redmond would think of that :-)
