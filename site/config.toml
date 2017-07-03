@@ -2,7 +2,7 @@
 # Version : 0.3.1-BETA
 # Author : Thibaud Leprêtre
 
-baseurl = "https://bloges.cortell.net/"
+baseurl = "https://blog.cortell.net/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Blog de Jorge Cortell en Castellano"
