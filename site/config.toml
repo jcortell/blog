@@ -5,7 +5,7 @@
 baseurl = "https://blog.cortell.net/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Blog de Jorge Cortell en Castellano"
+title = "Jorge Cortell blog"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "jorge_cortell"
 googleAnalytics = "UA-51273041-1"
