@@ -1,11 +1,9 @@
 ---
-id: 442
 title: Trips
 date: 2006-05-08T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus comments
-share: true        # set false to share buttons
-menu: "main"           # set "main" to add this content to the main menu
+share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
 ---
 Here are my **upcoming** trips (your can see my previous trips and lectures below).
 
