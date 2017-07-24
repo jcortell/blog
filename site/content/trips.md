@@ -19,6 +19,9 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
   <strong>08-30/09/17, Valencia (Spain)</strong>, <span>Business and personal trip</span>
 </li>
 <li style="text-align: left;">
+  <strong>25/09/17, Brussels (Belgium)</strong>, <span>Business trip</span>
+</li>
+<li style="text-align: left;">
   <strong>01/10/17-28/02/18, Ontario (Canada)</strong>, <span>Business and personal trip</span>
 </li>
 <li style="text-align: left;">
@@ -30,11 +33,20 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 </p>
 
 <li style="text-align: left;">
+  <strong>11/01/18, Brussels (Belgium)</strong>, <span>Business trip</span>
+</li>
+<li style="text-align: left;">
+  <strong>23/02/18, Brussels (Belgium)</strong>, <span>Business trip</span>
+</li>
+<li style="text-align: left;">
   05-09/03/18, Las Vegas (USA), Business trip
 </li>
 <li style="text-align: left;">
+  <strong>24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point and Hubbard Glacier (USA), Vancouver (Canada) </strong>, Personal trip (invited to <a href="https://www.celebritycruises.com/cruise-ships/celebrity-millennium">cruise in the Celebrity Millennium</a>)
+</li> 
+<li style="text-align: left;">
   <strong>19/11-01/12/18, Hong Kong (China), Manila, Romblon Island, Coron, Puerto Princesa, Palawan (Philippines), Kota Kinabalu (Malaysia), Muara (Brunei Darussalam), Kuching, Sarawak (Malaysia), Singapore</strong>, Personal trip (invited to <a href="http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2">cruise in the Silversea&#8217;s Silver Muse</a>)
-</li>
+</li> 
 
 <p style="text-align: center;">
   <strong>PREVIOUS:</strong>
