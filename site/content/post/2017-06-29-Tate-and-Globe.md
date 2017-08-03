@@ -25,4 +25,4 @@ At the Tate we enjoyed, as usual, their exhibition. They keep changing and rearr
 
 What was new for me (not for my wife) was attending a theater play at the Globe Theater, a very faithful reproduction of the original Shakespeare Globe Theater, which was located a few feet from where this one is.
 
-We attended a wonderful version of Shakespeare's "Twelfth Night", which give it was Gay Pride and had a Drag in the cast, made it all the more delightful.
+We attended a wonderful version of Shakespeare's "Twelfth Night", which given that it was Gay Pride and the play had a Drag in the cast, made it all the more delightful.
