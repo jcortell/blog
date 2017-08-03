@@ -7,7 +7,7 @@ tags: ["events","Valencia", "Art","personal"]
 image: "https://farm5.staticflickr.com/4296/36313765755_f14efc7271_z.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: //farm5.staticflickr.com/4296/36313765755_f14efc7271_z.jpg
 coverImage: //farm5.staticflickr.com/4296/36313765755_f14efc7271_z.jpg
 metaAlignment: center
