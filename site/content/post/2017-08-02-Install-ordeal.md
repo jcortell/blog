@@ -43,7 +43,7 @@ First I tried the iMac. I will try to make a very long story short, by listing t
 	f. Even Yellow Dog!
 	h. Here it is: Ubuntu... 7.0.4. Oh, well, I can always update later
 8. Finally the installer CD loads... only to display a garbled error message in multi-techno-color. But I've been there before: it's the graphics card. So let's repeat, in compatibility (extra slow) mode.
-9. Error: 7vmlinuz not found. I check the CD contents. The file is there, but it has a .efi at the end. Online forums suggest to use USB and delete the file appendix. But that's not an option for me. So I have to mess with the ISO content, and brun another CD. Oh, joy.
+9. Error: 7vmlinuz not found. I check the CD contents. The file is there, but it has a .efi at the end. Online forums suggest to use USB and delete the file appendix. But that's not an option for me. So I have to mess with the ISO content, and burn another CD. Oh, joy.
 10. Tada! It worked. Now we can update. Next one available: 7.10. OK, no problem, even if it takes 10 updates, I will get it to the current version eventually...
 11. What? Error? But...? Let's research online: I see, the only unresolved issue with old Ubuntu updaters is: 7.0.4 to 7.10 in iMacs. You have to be kidding me!
 12. Wait, now that we have the GNU/Linux bootloader, maybe I can skip ahead to a new version by installing anew on top of it, right? Bring in the Linux Mint 17 CD!
