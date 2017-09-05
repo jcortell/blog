@@ -9,43 +9,18 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **Bold** = confirmed; otherwise = tentative:
 
-<li style="text-align: left;">
-  <strong>05/07-30/08/17, Valencia (Spain)</strong>, <span>Business and personal trip</span>
-</li>
-<li style="text-align: left;">
-  <strong>30/08-07/09/17, Rome, Amalfi, Giardini Naxos (Italy), Kotor (Montenegro), Dubrovnik, Split, Rovinj (Croatia), Venice (Italy)</strong>, Personal trip (invited to <a href="https://www.windstarcruises.com/cruise/italy/classic-italy-and-dalmatian-coast/">cruise in the Windstar StarBreeze</a>)
-</li>
-<li style="text-align: left;">
-  <strong>08-30/09/17, Valencia (Spain)</strong>, <span>Business and personal trip</span>
-</li>
-<li style="text-align: left;">
-  <strong>25/09/17, Brussels (Belgium)</strong>, <span>Business trip</span>
-</li>
-<li style="text-align: left;">
-  <strong>01/10/17-28/02/18, Ontario (Canada)</strong>, <span>Business and personal trip</span>
-</li>
-<li style="text-align: left;">
-  26/11-01/12/17, Chicago (USA), Business trip
-</li>
+* **05-30/09/17, Valencia (Spain)**, Business and personal trip
+* **25/09/17, Brussels (Belgium)**, Business trip
+* **01/10/17-28/02/18, Ontario (Canada)**, Business and personal 
+* **26/11-01/12/17, Chicago (USA)**, Business trip
 
-<p style="text-align: center;">
-  <strong>2018</strong>
-</p>
+**2018**
 
-<li style="text-align: left;">
-  <strong>11/01/18, Brussels (Belgium)</strong>, <span>Business trip</span>
-</li>
-<li style="text-align: left;">
-  <strong>23/02/18, Brussels (Belgium)</strong>, <span>Business trip</span>
-</li>
-<li style="text-align: left;">
-  05-09/03/18, Las Vegas (USA), Business trip
-</li>
-<li style="text-align: left;">
-  <strong>24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point and Hubbard Glacier (USA), Vancouver (Canada) </strong>, Personal trip (invited to <a href="https://www.celebritycruises.com/cruise-ships/celebrity-millennium">cruise in the Celebrity Millennium</a>)
-</li> 
-<li style="text-align: left;">
-  <strong>19/11-01/12/18, Hong Kong (China), Manila, Romblon Island, Coron, Puerto Princesa, Palawan (Philippines), Kota Kinabalu (Malaysia), Muara (Brunei Darussalam), Kuching, Sarawak (Malaysia), Singapore</strong>, Personal trip (invited to <a href="http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2">cruise in the Silversea&#8217;s Silver Muse</a>)
+* **11/01/18, Brussels (Belgium)**, Business trip
+* **23/02/18, Brussels (Belgium**), Business trip
+* **05-09/03/18, Las Vegas (USA)**, Business trip
+* ** 24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point and Hubbard Glacier (USA), Vancouver (Canada)**, Personal trip (invited to [cruise in the Celebrity Millennium](https://www.celebritycruises.com/cruise-ships/celebrity-millennium)
+* **19/11-01/12/18, Hong Kong (China), Manila, Romblon Island, Coron, Puerto Princesa, Palawan (Philippines), Kota Kinabalu (Malaysia), Muara (Brunei Darussalam), Kuching, Sarawak (Malaysia), Singapore**, Personal trip (invited to [cruise in the Silversea's Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
 </li> 
 
 <p style="text-align: center;">
@@ -56,12 +31,13 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
-<div style="text-align: center;">
-  <strong>2017</strong>
-</div>
-
-<div style="text-align: center;">
+**2017**
+  
+  * **30/08-~~07~~04/09/17, Rome, Amalfi, Giardini Naxos (Italy), Kotor (Montenegro), Dubrovnik, ~~Split, Rovinj~~ (Croatia), ~~Venice (Italy~~)**, Personal trip (invited to cruise in the [Windstar StarBreeze](https://www.windstarcruises.com/cruise/italy/classic-italy-and-dalmatian-coast/) but cruise cut short for death in the family)
   <ul>
+  <li style="text-align: left;">
+  <strong>05/07-30/08/17, Valencia (Spain)</strong>, <span>Business and personal trip</span>
+</li>
     <li style="text-align: left;">
   <strong>18-19/06/17, Brussels (Belgium)</strong>, Business trip
 </li>
