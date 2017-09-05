@@ -12,15 +12,15 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * **05-30/09/17, Valencia (Spain)**, Business and personal trip
 * **25/09/17, Brussels (Belgium)**, Business trip
 * **01/10/17-28/02/18, Ontario (Canada)**, Business and personal 
-* **26/11-01/12/17, Chicago (USA)**, Business trip
+* **26/11/17-01/12/17, Chicago (USA)**, Business trip
 
 **2018**
 
 * **11/01/18, Brussels (Belgium)**, Business trip
 * **23/02/18, Brussels (Belgium**), Business trip
 * **05-09/03/18, Las Vegas (USA)**, Business trip
-* ** 24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point and Hubbard Glacier (USA), Vancouver (Canada)**, Personal trip (invited to [cruise in the Celebrity Millennium](https://www.celebritycruises.com/cruise-ships/celebrity-millennium)
-* **19/11-01/12/18, Hong Kong (China), Manila, Romblon Island, Coron, Puerto Princesa, Palawan (Philippines), Kota Kinabalu (Malaysia), Muara (Brunei Darussalam), Kuching, Sarawak (Malaysia), Singapore**, Personal trip (invited to [cruise in the Silversea's Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
+* **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point and Hubbard Glacier (USA), Vancouver (Canada)**, Personal trip (invited to [cruise in the Celebrity Millennium](https://www.celebritycruises.com/cruise-ships/celebrity-millennium)
+* **19/11/18-01/12/18, Hong Kong (China), Manila, Romblon Island, Coron, Puerto Princesa, Palawan (Philippines), Kota Kinabalu (Malaysia), Muara (Brunei Darussalam), Kuching, Sarawak (Malaysia), Singapore**, Personal trip (invited to [cruise in the Silversea's Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
 </li> 
 
 <p style="text-align: center;">
@@ -33,7 +33,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2017**
   
-  * **30/08-~~07~~04/09/17, Rome, Amalfi, Giardini Naxos (Italy), Kotor (Montenegro), Dubrovnik, ~~Split, Rovinj~~ (Croatia), ~~Venice (Italy~~)**, Personal trip (invited to cruise in the [Windstar StarBreeze](https://www.windstarcruises.com/cruise/italy/classic-italy-and-dalmatian-coast/) but cruise cut short for death in the family)
+  * **30/08/17-~~07~~04/09/17, Rome, Amalfi, Giardini Naxos (Italy), Kotor (Montenegro), Dubrovnik, ~~Split, Rovinj~~ (Croatia), ~~Venice (Italy~~)**, Personal trip (invited to cruise in the [Windstar StarBreeze](https://www.windstarcruises.com/cruise/italy/classic-italy-and-dalmatian-coast/) but cruise cut short for death in the family)
   <ul>
   <li style="text-align: left;">
   <strong>05/07-30/08/17, Valencia (Spain)</strong>, <span>Business and personal trip</span>

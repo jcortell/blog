@@ -32,7 +32,7 @@ To end the day in a very Roman note, we embarked on a quest to find the best gel
 
 At night, once we conquered the puzzling challenge of the very automatic and modern hotel light switches system, we slept like babies, with one of those beds so high and thick you feel you sunk into a quicksand hole.
 
-<div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/albums/72157685376054071&sort=5&by=album&theme=default&scale=fill&limit=100&skin=default&autoplay=true'></script>
+[PHOTOS HERE](https://www.flickr.com/photos/jcortell/albums/72157685376054071)
 
 **Tuesday, August 29**:
 
@@ -74,4 +74,4 @@ Sailaway was at 4pm after the mandatory safety drill. Leaving Civitavecchia is n
 
 After a delicious dinner in the Amphora restaurant, we saw the movie 'God's Pocket', from the ship's library DVD collection.
 
-<div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;">></div><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/sets/72157688615746695&sort=5&by=album&theme=default&scale=fill&limit=5&skin=default&autoplay=true'></script>
+[PHOTOS HERE](https://www.flickr.com/photos/jcortell/albums/72157688615746695) 
