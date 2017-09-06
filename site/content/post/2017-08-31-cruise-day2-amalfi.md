@@ -4,12 +4,12 @@ date: "2017-08-31T18:54:24+02:00"
 draft: false
 title: "Cruise Day 2: Amalfi"
 tags: ["trip","personal"]
-image: "https://farm5.staticflickr.com/4326/35919108670_f5e1f6b067_z.jpg"
+image: "https://farm5.staticflickr.com/4341/36205570734_292548239c_k.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
-thumbnailImage: //farm5.staticflickr.com/4326/35919108670_f5e1f6b067_z.jpg
-coverImage: //farm5.staticflickr.com/4326/35919108670_f5e1f6b067_z.jpg
+thumbnailImage: //farm5.staticflickr.com/4341/36205570734_292548239c_k.jpg
+coverImage: //farm5.staticflickr.com/4341/36205570734_292548239c_k.jpg
 metaAlignment: center
 coverMeta: out
 ---
