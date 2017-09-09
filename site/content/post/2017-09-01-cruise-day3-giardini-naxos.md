@@ -30,4 +30,4 @@ We then went back to the ship, and the next day was day at sea, so my wonderful 
 
 I'm not one to enjoy small talk or mingling, but I like diversity and learning, as much about a destination, as about people, so it was a lot of fun after all.
 
-<div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;">></div><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/sets/72157686140694534&sort=5&by=album&theme=default&scale=fill&limit=5&skin=default&autoplay=true'></script>
+<div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/albums/72157686140694534&sort=5&by=album&theme=default&scale=fill&limit=100&skin=default&autoplay=true'></script>
