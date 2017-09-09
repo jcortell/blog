@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-Our 5 day onboard the Windstar Star Breeze cruise took us to Kotor (Montenegro).
+Our 5th day onboard the Windstar Star Breeze cruise took us to Kotor (Montenegro).
 
 <!--more-->
 
