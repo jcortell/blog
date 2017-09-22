@@ -12,7 +12,8 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * **05-30/09/17, Valencia (Spain)**, Business and personal trip
 * **24-25/09/17, Brussels (Belgium)**, Business trip
 * **01/10/17-28/02/18, Ontario (Canada)**, Business and personal
-* **14-16/12/17, Mexico DF (Mexico)**, Business trip 
+* **18/10/17, Orlando (USA)**, Business trip
+* **13-17/12/17, Mexico DF (Mexico)**, Business trip 
 * **26/11/17-01/12/17, Chicago (USA)**, Business trip
 
 **2018**
