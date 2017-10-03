@@ -9,15 +9,13 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **Bold** = confirmed; otherwise = tentative:
 
-* **05-30/09/17, Valencia (Spain)**, Business and personal trip
-* **01/10/17-28/02/18, Ontario (Canada)**, Business and personal
 * **18/10/17, Orlando (USA)**, Business trip
-* **13-17/12/17, Mexico DF (Mexico)**, Business trip 
 * **26/11/17-01/12/17, Chicago (USA)**, Business trip
 
 **2018**
 
 * **11/01/18, Brussels (Belgium)**, Business trip
+* 13-17/02/18, Mexico DF (Mexico), Business trip 
 * **23/02/18, Brussels (Belgium**), Business trip
 * **05-09/03/18, Las Vegas (USA)**, Business trip
 * **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point and Hubbard Glacier (USA), Vancouver (Canada)**, Personal trip (invited to [cruise in the Celebrity Millennium](https://www.celebritycruises.com/cruise-ships/celebrity-millennium)
@@ -32,6 +30,8 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2017**
   
+* **01/10/17-28/02/18, Ontario (Canada)**, Business and personal
+* **05-30/09/17, Valencia (Spain)**, Business and personal trip
 * **24-25/09/17, Brussels (Belgium)**, Business trip
 * **30/08/17-~~07~~04/09/17, Rome, Amalfi, Giardini Naxos (Italy), Kotor (Montenegro), Dubrovnik, ~~Split, Rovinj~~ (Croatia), ~~Venice (Italy~~)**, Personal trip (invited to cruise in the [Windstar StarBreeze](https://www.windstarcruises.com/cruise/italy/classic-italy-and-dalmatian-coast/) but cruise cut short for death in the family)
 * **05/07-30/08/17, Valencia (Spain)**, Business and personal trip
