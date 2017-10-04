@@ -10,6 +10,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 **Bold** = confirmed; otherwise = tentative:
 
 * **18/10/17, Orlando (USA)**, Business trip
+* **13-17/11/17, Mexico DF (Mexico)**, Business trip 
 * **26/11/17-01/12/17, Chicago (USA)**, Business trip
 
 **2018**
