@@ -18,7 +18,7 @@ Artificial Intelligence (AI) / Machine Learning researchers are producing amazin
 
 <!--more-->
 
-The other day I saw an interesting AI code repository to transfer the coloring style of an image onto a ketch.
+The other day I saw an interesting AI code repository to transfer the coloring style of an image onto a sketch.
 
 This is nothing new, as there are many similar examples, like Cloudinary's. But this is open source, and easy to use. Two qualities that I appreciate in software.
 
@@ -30,7 +30,7 @@ And with the more complex version:
 
 ![Cuda version](http://res.cloudinary.com/jcortell/image/upload/v1507152307/GPU_Cuda_python_3-6_m2klcn.png  "Simplified pseudo code with Cuda")
 
-After tinkering with it, I made it work with my own examples. For that, I used Paulina's (an illustrator friend) black and white sketch and a colored image. Then I sent her the results, to see what she thought of it. She wrote "I'm dancing in my chair" :-)
+After tinkering with it, I made it work with my own examples. For that, I used my friend Paulina's black and white sketch and one of her colored drawings. Then I sent her the results, to see what she thought of it. She wrote "I'm dancing in my chair" :-)
 
 ![Base and style](http://res.cloudinary.com/jcortell/image/upload/v1507147502/Style2Paint_c0kija.png) 
 
