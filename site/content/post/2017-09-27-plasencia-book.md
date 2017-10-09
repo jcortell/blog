@@ -2,7 +2,7 @@
 author: ""
 date: "2017-09-27T18:54:24+02:00"
 draft: false
-title: "AI Autocoloring"
+title: "Invited to a book launch"
 tags: ["event","personal"]
 image: "https://farm5.staticflickr.com/4379/37359199131_9a88e2382d_z.jpg"
 comments: true     # set false to hide Disqus comments
