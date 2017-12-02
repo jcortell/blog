@@ -9,8 +9,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **Bold** = confirmed; otherwise = tentative:
 
-* **26/11/17-01/12/17, Chicago (USA)**, Business trip
-
 **2018**
 
 * **11/01/18, Brussels (Belgium)**, Business trip
@@ -29,6 +27,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2017**
   
+* **26/11/17-01/12/17, Chicago (USA)**, Business trip, participating in RSNA and speaking at the [Google Symposium](https://blog.kanteron.com/2017/11/kanteron-systems-presents-in-google-symposium-at-rsna-2017/) 
 * **13-17/11/17, Mexico DF (Mexico)**, Business trip 
 * **18/10/17, Orlando (USA)**, Business trip
 * **01/10/17-28/02/18, Ontario (Canada)**, Business and personal
