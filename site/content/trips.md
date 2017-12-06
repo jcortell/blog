@@ -27,6 +27,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2017**
   
+* **03/12/17, Toronto (Canada)**, Personal trip
 * **26/11/17-01/12/17, Chicago (USA)**, Business trip, participating in RSNA and speaking at the [Google Symposium](https://blog.kanteron.com/2017/11/kanteron-systems-presents-in-google-symposium-at-rsna-2017/) 
 * **13-17/11/17, Mexico DF (Mexico)**, Business trip 
 * **18/10/17, Orlando (USA)**, Business trip
