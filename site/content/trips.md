@@ -11,9 +11,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* **08/01/18, Lisbon (Portugal)**, Business trip
-* **09/01/18, London (UK)**, Business trip
-* **10-12/01/18, Brussels (Belgium)**, Business trip
+* **15-16/01/18, Dallas (USA)**, Business trip
 * **22-23/02/18, Brussels (Belgium**), Business trip
 * **24/02/18, Reykjavik (Iceland)**, Personal trip
 * **05-09/03/18, Las Vegas (USA)**, Business trip
@@ -29,7 +27,10 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 </div>
 
 **2017**
-  
+
+* **10-12/01/18, Brussels (Belgium)**, Business trip
+* **09/01/18, London (UK)**, Business trip 
+* **08/01/18, Lisbon (Portugal)**, Business trip
 * **03/12/17, Toronto (Canada)**, Personal trip
 * **26/11/17-01/12/17, Chicago (USA)**, Business trip, participating in RSNA and speaking at the [Google Symposium](https://blog.kanteron.com/2017/11/kanteron-systems-presents-in-google-symposium-at-rsna-2017/) 
 * **13-17/11/17, Mexico DF (Mexico)**, Business trip 
