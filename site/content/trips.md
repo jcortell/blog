@@ -11,9 +11,9 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* **15-16/01/18, Dallas (USA)**, Business trip
 * **22-23/02/18, Brussels (Belgium**), Business trip
 * **24/02/18, Reykjavik (Iceland)**, Personal trip
+* **02-04/03/18, Valencia (Spain)**, Personal and business trip
 * **05-09/03/18, Las Vegas (USA)**, Business trip
 * **12-16/03/18, Mexico DF (Mexico)**, Business trip 
 * **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point and Hubbard Glacier (USA), Vancouver (Canada)**, Personal trip (invited to [cruise in the Celebrity Millennium](https://www.celebritycruises.com/cruise-ships/celebrity-millennium)
@@ -28,6 +28,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2017**
 
+* **15-16/01/18, Houston (USA)**, Business trip
 * **10-12/01/18, Brussels (Belgium)**, Business trip
 * **09/01/18, London (UK)**, Business trip 
 * **08/01/18, Lisbon (Portugal)**, Business trip
