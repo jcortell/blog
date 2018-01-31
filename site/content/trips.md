@@ -11,7 +11,9 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* **22-23/02/18, Brussels (Belgium**), Business trip
+* **19/02/18, Houston (USA**), Business trip
+* **22/02/18, London (UK**), Business trip
+* **23/02/18, Brussels (Belgium**), Business trip
 * **24/02/18, Reykjavik (Iceland)**, Personal trip
 * **02-04/03/18, Valencia (Spain)**, Personal and business trip
 * **05-09/03/18, Las Vegas (USA)**, Business trip
