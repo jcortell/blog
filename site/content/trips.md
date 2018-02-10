@@ -11,7 +11,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* **09/02/18, Rochester, NY (USA**), Personal trip
 * **18-19/02/18, Houston, TX (USA**), Business trip
 * **22/02/18, London (UK**), Business trip
 * **23/02/18, Brussels (Belgium**), Business trip
@@ -31,12 +30,15 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
-**2017**
 
+* **09/02/18, Rochester, NY (USA**), Personal trip
 * **15-16/01/18, Houston (USA)**, Business trip
 * **10-12/01/18, Brussels (Belgium)**, Business trip
 * **09/01/18, London (UK)**, Business trip 
 * **08/01/18, Lisbon (Portugal)**, Business trip
+
+**2017**
+
 * **03/12/17, Toronto (Canada)**, Personal trip
 * **26/11/17-01/12/17, Chicago (USA)**, Business trip, participating in RSNA and speaking at the [Google Symposium](https://blog.kanteron.com/2017/11/kanteron-systems-presents-in-google-symposium-at-rsna-2017/) 
 * **13-17/11/17, Mexico DF (Mexico)**, Business trip 
