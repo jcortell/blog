@@ -11,7 +11,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* **18-19/02/18, Houston, TX (USA**), Business trip
 * **22/02/18, London (UK**), Business trip
 * **23/02/18, Brussels (Belgium**), Business trip
 * **24/02/18, Reykjavik (Iceland)**, Personal trip
@@ -30,7 +29,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
-
+* **18-20/02/18, Houston, TX (USA**), Business trip
 * **09/02/18, Rochester, NY (USA**), Personal trip
 * **15-16/01/18, Houston (USA)**, Business trip
 * **10-12/01/18, Brussels (Belgium)**, Business trip
