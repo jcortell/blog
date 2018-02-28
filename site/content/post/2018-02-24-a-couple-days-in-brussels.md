@@ -14,15 +14,15 @@ metaAlignment: center
 coverMeta: out
 ---
 
-In order to attend a meeting of the Expert Group on Venture Philantropy and Social Investment of which I'm a member, I had to spend a couple of days in Brussels.
+In order to attend a meeting of the Expert Group on Venture Philanthropy and Social Investment of which I'm a member, I had to spend a couple of days in Brussels.
 
 <!--more-->
 
-Day 1 was fairly boring: go to the EU Commission, attend meeting, make legislative and regulatory proposals, have dinner (delicious Musels Frites at ([Aux Armes de Bruxelles](http://www.auxarmesdebruxelles.com/en/)), and go to the hotel. By the way, I have to remember not to stay in that [hotel](https://www.nh-hotels.com/hotel/nh-brussels-carrefour-de-l-europe) again. While the location is excellent, the wifi is unbereable slow and unreliable.
+Day 1 was fairly boring: go to the EU Commission, attend meeting, make legislative and regulatory proposals, have dinner (delicious Musels Frites at ([Aux Armes de Bruxelles](http://www.auxarmesdebruxelles.com/en/)), and go to the hotel. By the way, I have to remember not to stay in that [hotel](https://www.nh-hotels.com/hotel/nh-brussels-carrefour-de-l-europe) again. While the location is excellent, the wifi is unbearable slow and unreliable.
 
-Day 2, on the other hand, was a lot more fun. As my "free day", I decided to go to see several exhibitions. 
+Day 2, on the other hand, was a lot more fun. As my "free day", I decided to go to see several exhibitions.
 
-The first one was the Musical Instruments Museum[Musical Instruments Museum](https://www.mim.be/) . An impressive collection of musical instruments, hosted in probably the most impressive Art Deco building in Brussels (The Old England). I totally recommend visiting the MIM, particualry with kids, and make sure to get the audio guide, to find out what those instruments sound like, which is not always obvious.
+The first one was the Musical Instruments Museum[Musical Instruments Museum](https://www.mim.be/) . An impressive collection of musical instruments, hosted in probably the most impressive Art Deco building in Brussels (The Old England). I totally recommend visiting the MIM, particularly with kids, and make sure to get the audio guide, to find out what those instruments sound like, which is not always obvious.
 
 After the MIM I went straight to the Parlamentarium. Although I have been in the European Parliament several times before, I had never visited the educational space that is the Parlametarium.
 
