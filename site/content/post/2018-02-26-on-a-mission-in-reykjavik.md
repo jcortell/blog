@@ -50,7 +50,7 @@ And that's what I did: half way through the tour, Sacha directed me to remain at
 
 He told me reassuring words that did not make me feel much better, like "if you get stuck, try to remove clothing or shoes, but don't try to pull, as the lava layers could give in", and "if you don't come back, don't worry, I'll make sure a rescue team gets here as soon as possible". The last sentence sounded particularly bad, as I saw a sign on the road saying something like "From this point we can not guarantee a rescue team will reach you on time due to extreme weather and geological conditions. Enter at your own risk".
 
-In any case, as it's always the case, once I'm determined, I go for it. Good thing I'm not clautrophobic! There were parts where it was almost impossible to go through, even though I was crawling. Then there was the light situation: the light on my helmet went off, and I was left in absolute darkness. And silence (other than an occasional water drop, which meant that the temperature was increasing, as the areas we passed were full of icycles).
+In any case, as it's always the case, once I'm determined, I go for it. Good thing I'm not claustrophobic! There were parts where it was almost impossible to go through, even though I was crawling. Then there was the light situation: the light on my helmet went off, and I was left in absolute darkness. And silence (other than an occasional water drop, which meant that the temperature was increasing, as the areas we passed were full of icycles).
 
 Not prone to panic, I will admit it was quite te uncomfortable situation, not unlike several nightmares I've had before. But, oddly enough, at the same time, it was almost trascendent in its absoluteness.
 
