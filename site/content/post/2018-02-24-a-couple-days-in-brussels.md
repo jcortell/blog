@@ -22,7 +22,7 @@ Day 1 was fairly boring: go to the EU Commission, attend meeting, make legislati
 
 Day 2, on the other hand, was a lot more fun. As my "free day", I decided to go to see several exhibitions.
 
-The first one was the Musical Instruments Museum[Musical Instruments Museum](https://www.mim.be/) . An impressive collection of musical instruments, hosted in probably the most impressive Art Deco building in Brussels (The Old England). I totally recommend visiting the MIM, particularly with kids, and make sure to get the audio guide, to find out what those instruments sound like, which is not always obvious.
+The first one was the Musical Instruments Museum[Musical Instruments Museum](https://www.mim.be/) . An impressive collection of musical instruments, hosted in probably the most impressive Art Nouveau building in Brussels (The Old England). I totally recommend visiting the MIM, particularly with kids, and make sure to get the audio guide, to find out what those instruments sound like, which is not always obvious.
 
 After the MIM I went straight to the Parlamentarium. Although I have been in the European Parliament several times before, I had never visited the educational space that is the Parlametarium.
 
