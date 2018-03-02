@@ -22,13 +22,13 @@ Iceland is the windiest populated place on Earth. When I disembarked in Reykjavi
 
 The drive to my hotel revealed another truth about Iceland: it has a uniquely out-of-this-word topography. The ever constant lava establishes a dark foundation on top only green moss and white snow compete for your attention. No trees, no animals, no insects... nothing. Other than the volcanoes themselves. Tall mountains with tongues of ice and rivers of snow running down their dark sides.
 
-Enchanting as it was, I was there on a very specific mission. That mission was to obtain as rare a lava rock as possible in order to make my wife a very unique ring, which would replace another very unique ring I gave her when I proposed (but that is another story). This time I also wanted to give my kids this special gift. But first I had to obtain the rock.
+Enchanting as it was, I was there on a very specific mission. That mission was to obtain as rare a lava rock as possible in order to make my wife a unique ring, which would replace another unique ring I gave her when I proposed (but that is another story). This time I also wanted to give my kids this special gift. But first I had to obtain the rock.
 
-I set up plan A and plan B, as there was no time form more options (my return flight departed the following day), and there was uncertainty enough to not be satisfied with a single plan. That strategy proved to be the right one.
+I set up plan A and plan B, as there was no time for more options (my return flight departed the following day), and there was uncertainty enough to not be satisfied with a single plan. That strategy proved to be the right one.
 
 So that same night I went for plan A. To avoid getting anyone in trouble, I will omit details like names, vessels, companies etc. What matters is that there I was, sailing on a fisherman's boat through waters near the North Pole, in the middle of gale level winds, trying to locate a column of underwater lava.
 
-Usually those columns are very deep (around 2km below the surface), but sometimes they are powerful enough to shoot the lava near the surface, and sometimes they happen nearer to the surface. In any case, of we could locate a "live" and accessible one, I could get what I wanted: the rarest form of lava. Had we found it, the next I was ready to jump on a dry suit and dive into the freezing waters to obtain the prized memento.
+Usually those columns are very deep (around 2km below the surface), but sometimes they are powerful enough to shoot the lava near the surface, and sometimes they happen nearer to the surface. In any case, if we could locate a "live" and accessible one, I could get what I wanted: the rarest form of lava. Had we found it, the next I was ready to jump on a dry suit and dive into the freezing waters to obtain the prized memento.
 
 Unfortunately our efforts were thwarted by the inclement weather. So the next morning I would go for plan B. But before going to sleep, I had to get that stinging freezing cold and North Atlantic Ocean spray out of my body, so I went to Sundhöll thermal baths.
 
@@ -42,11 +42,11 @@ I returned to the hotel musing about the difference between 'vigor' and 'strengt
 
 The following morning I had an early breakfast, during which I surprised myself enjoying for the first time a pickle: pickled herring, to be exact. How exactly do they make it taste sweet?
 
-After the breakfast, I was picked up by Sacha (fake name, to protect his identity), in a "covert mission". As, you see, Plan B involved doing something I was not supposed to do (not that Plan A was exactly a "tourist attraction"): I arranged before hand that I would join a group visit to the lava tunnel of Leiðarendi ("The end of the road"), during which I would stray into an off-limits tunnel deeper and closer to the caldera of the volcano than any tourist would even be allowed to.
+After the breakfast, I was picked up by Sacha (fake name, to protect his identity), in a "covert mission". As, you see, Plan B involved doing something I was not supposed to do (not that Plan A was exactly a "tourist attraction"): I arranged beforehand that I would join a group visit to the lava tunnel of Leiðarendi ("The end of the road"), during which I would stray into an off-limits tunnel deeper and closer to the caldera of the volcano Stori-Bolli (in the [Brennisteinsfjöll](https://volcano.si.edu/volcano.cfm?vn=371040) volcanic system, east of Kleifarvatn lake) than any tourist would even be allowed to.
 
-Why? As I mentioned before, I wanted to collect a rare piece of lava. If you want lava, it's literally everywhere in Iceland. Almost the whole friggin' island is covered with it. So why go to such extreme to get a rock? Well, to prove a point, to enrich the memento with additional symbolism: I will go to the end of the world, to hell and back, for my wife and my kids.
+Why? As I mentioned before, I wanted to collect a rare piece of lava. If you want lava, it's literally everywhere in Iceland. Almost the whole friggin' island is covered with it. So why go to such extremes to get a rock? Well, to prove a point, to enrich the memento with additional symbolism: I will go to the end of the world, to hell and back, for my wife and my kids.
 
-And that's what I did: half way through the tour, Sacha directed me to remain at the back of the line of tourists, and when he would say "watch your head, big boy", I was to enter a tiny little whole on the side of the lava wall, and follow it as far as I could, for a preset amount of time, and then exit and join the group as if nothing happened.
+And that's what I did: halfway through the tour, Sacha directed me to remain at the back of the line of tourists, and when he would say "watch your head, big boy", I was to enter a tiny little hole on the side of the lava wall, and follow it as far as I could, for a preset amount of time, and then exit and join the group as if nothing happened.
 
 He told me reassuring words that did not make me feel much better, like "if you get stuck, try to remove clothing or shoes, but don't try to pull, as the lava layers could give in", and "if you don't come back, don't worry, I'll make sure a rescue team gets here as soon as possible". The last sentence sounded particularly bad, as I saw a sign on the road saying something like "From this point we can not guarantee a rescue team will reach you on time due to extreme weather and geological conditions. Enter at your own risk".
 
@@ -72,6 +72,6 @@ With barely enough time to change out of my snow pants before being picked up to
 
 Unfortunately that exhilaration wore off as my flight was delayed due to strong winds (which means it was serious business; it's as bad as when Buffalo or Toronto cancel flights because of the snow), and then we had to disembark and change planes due to a mechanical problem. But at least the Saga Lounge it's super cozy, and has a good food selection, so even though they don't let you use a VPN in their wifi, it was much better than sitting on a chair for hours.
 
-And now, finally back home, I can say that seeing the smile in wife's face was worth going through any hell and back. Wait until I give the kids the presents and tell them how crazy their dad is! (They already know).
+And now, finally back home, I can say that seeing the smile on my wife's face was worth going through any hell and back. Wait until I give the kids the presents and tell them how crazy their dad is! (They already know).
 
 <div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/albums/72157688215171670&sort=5&by=album&theme=default&scale=fill&limit=100&skin=default&autoplay=true'></script>
