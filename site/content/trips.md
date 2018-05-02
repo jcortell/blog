@@ -11,11 +11,10 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* 01/05-07/18, Singapur (Singapur)**, Business trip
-* 01-30/07/18, Bangkok (Thailand)**, Business trip
-* 01-30/08/18, Hanoi (Vietnam)**, Business trip
+* **05-06/05/18, Barcelona (Spain)**, Personal trip
+* **28-29/05/18, Brussels (Belguim)**, Business trip
 * **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point and Hubbard Glacier (USA), Vancouver (Canada)**, Personal trip (invited to [cruise in the Celebrity Millennium](https://www.celebritycruises.com/itinerary-details?packageID=ML07A149)
-* 13-14/11/18, Oslo (Norway)**, Business trip
+* **13-14/11/18, Oslo (Norway)**, Business trip
 * **19/11/18-01/12/18, Hong Kong (China), Manila, Romblon Island, Coron, Puerto Princesa, Palawan (Philippines), Kota Kinabalu (Malaysia), Muara (Brunei Darussalam), Kuching, Sarawak (Malaysia), Singapore**, Personal trip (invited to [cruise in the Silversea's Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
 </li> 
 
