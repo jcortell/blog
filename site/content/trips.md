@@ -11,12 +11,12 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* **05-06/05/18, Barcelona (Spain)**, Personal trip
+* **18-19/05/18, Barcelona (Spain)**, Personal trip
 * **28-29/05/18, Brussels (Belguim)**, Business trip
 * **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point and Hubbard Glacier (USA), Vancouver (Canada)**, Personal trip (invited to [cruise in the Celebrity Millennium](https://www.celebritycruises.com/itinerary-details?packageID=ML07A149)
 * **13-14/11/18, Oslo (Norway)**, Business trip
 * **19/11/18-01/12/18, Hong Kong (China), Manila, Romblon Island, Coron, Puerto Princesa, Palawan (Philippines), Kota Kinabalu (Malaysia), Muara (Brunei Darussalam), Kuching, Sarawak (Malaysia), Singapore**, Personal trip (invited to [cruise in the Silversea's Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
-</li> 
+</li>
 
 **PREVIOUS:**
 
@@ -36,15 +36,15 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * **09/02/18, Rochester, NY (USA**), Personal trip
 * **15-16/01/18, Houston (USA)**, Business trip
 * **10-12/01/18, Brussels (Belgium)**, Business trip
-* **09/01/18, London (UK)**, Business trip 
+* **09/01/18, London (UK)**, Business trip
 * **08/01/18, Lisbon (Portugal)**, Business trip
 
 **2017**
 
 * **23-24/02/18, Brussels (Belgium**), Business trip
 * **03/12/17, Toronto (Canada)**, Personal trip
-* **26/11/17-01/12/17, Chicago (USA)**, Business trip, participating in RSNA and speaking at the [Google Symposium](https://blog.kanteron.com/2017/11/kanteron-systems-presents-in-google-symposium-at-rsna-2017/) 
-* **13-17/11/17, Mexico DF (Mexico)**, Business trip 
+* **26/11/17-01/12/17, Chicago (USA)**, Business trip, participating in RSNA and speaking at the [Google Symposium](https://blog.kanteron.com/2017/11/kanteron-systems-presents-in-google-symposium-at-rsna-2017/)
+* **13-17/11/17, Mexico DF (Mexico)**, Business trip
 * **18/10/17, Orlando (USA)**, Business trip
 * **01/10/17-28/02/18, Ontario (Canada)**, Business and personal
 * **05-30/09/17, Valencia (Spain)**, Business and personal trip
@@ -124,7 +124,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * **26-29/01/15, Dubai (UAE)**, Business trip
 * **20/01/15, Baltimore (USA)**, Business trip
 * **05-09/01/15, Valencia (Spain)**, Business trip
-  
+
 **2014**
 
 * **18-26/12/14, Malaga and Valencia (Spain)**, Business trip
