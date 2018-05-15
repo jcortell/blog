@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2006-05-08T01:50:28+00:00
+date: 2018-05-15T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,9 +11,8 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* 15-16/05/18, Cambridge (UK), Business trip
 * **18-19/05/18, Barcelona (Spain)**, Personal trip
-* **28-29/05/18, Brussels (Belguim)**, Business trip
+* **28-29/05/18, Brussels (Belgium)**, Business trip
 * **16-19/06/18, Milan (Italy)**, Business trip
 * **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point and Hubbard Glacier (USA), Vancouver (Canada)**, Personal trip (invited to [cruise in the Celebrity Millennium](https://www.celebritycruises.com/itinerary-details?packageID=ML07A149)
 * **13-14/11/18, Oslo (Norway)**, Business trip
