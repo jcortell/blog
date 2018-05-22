@@ -11,7 +11,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* **18-19/05/18, Barcelona (Spain)**, Personal trip
 * **28-29/05/18, Brussels (Belgium)**, Business trip
 * **16-19/06/18, Milan (Italy)**, Business trip
 * **24-31/08/18, Skagway, Juneau, Ketchikan, Icy Straight Point and Hubbard Glacier (USA), Vancouver (Canada)**, Personal trip (invited to [cruise in the Celebrity Millennium](https://www.celebritycruises.com/itinerary-details?packageID=ML07A149)
@@ -29,6 +28,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
 
+* **18-19/05/18, Barcelona (Spain)**, Personal trip
 * **01-04/04/18, Dublin (Ireland)**, Personal trip
 * **25-29/03/18, Ibiza (Spain)**, Personal trip
 * **22/03/18, Malaga (Spain)**, Business trip
