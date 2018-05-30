@@ -27,6 +27,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 <div style="text-align: center;">
   <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
 </div>
+https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
 
 * **28-29/05/18, Brussels (Belgium)**, Business trip
 * **18-19/05/18, Barcelona (Spain)**, Personal trip
