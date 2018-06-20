@@ -11,8 +11,9 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* **16-17/06/18, Milan (Italy)**, Business trip
-* **18/06/18, Malaga (Spain)**, Business trip
+* 16-20/07/18, Hanoi (Vietnam), Business trip
+* 21-29/07/18, Singapore (Singapore), Business trip
+* 30/07 - 03/08/18, Bangkok (Thailand), Business trip
 * **02-09/09/18, Barcelona (Spain), Naples, Rome, Florence/Pisa (Italy), Cannes (France), Palma de Majorca, Barcelona (Spain)**, Personal trip (invited to [cruise in the Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
 * **13-14/11/18, Oslo (Norway)**, Business trip
 * **19/11/18-01/12/18, Hong Kong (China), Manila, Romblon Island, Coron, Puerto Princesa, Palawan (Philippines), Kota Kinabalu (Malaysia), Muara (Brunei Darussalam), Kuching, Sarawak (Malaysia), Singapore**, Personal trip (invited to [cruise in the Silversea's Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
@@ -29,6 +30,8 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 </div>
 https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
 
+* **18-19/06/18, Malaga (Spain)**, Business trip
+* **16-17/06/18, Milan (Italy)**, Business trip
 * **28-29/05/18, Brussels (Belgium)**, Business trip
 * **18-19/05/18, Barcelona (Spain)**, Personal trip
 * **01-04/04/18, Dublin (Ireland)**, Personal trip
