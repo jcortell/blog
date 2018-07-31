@@ -11,9 +11,9 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* 16-20/07/18, Hanoi (Vietnam), Business trip
-* 21-29/07/18, Singapore (Singapore), Business trip
-* 30/07 - 03/08/18, Bangkok (Thailand), Business trip
+* 14-15/08/18, Houston, TX (USA), Business trip
+* 16-17/08/18, Dallas, TX (USA), Business trip
+* 18-23/08/18, Mexico DF (Mexico), Business trip
 * **02-09/09/18, Barcelona (Spain), Naples, Rome, Florence/Pisa (Italy), Cannes (France), Palma de Majorca, Barcelona (Spain)**, Personal trip (invited to [cruise in the Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
 * **13-14/11/18, Oslo (Norway)**, Business trip
 * **19/11/18-01/12/18, Hong Kong (China), Manila, Romblon Island, Coron, Puerto Princesa, Palawan (Philippines), Kota Kinabalu (Malaysia), Muara (Brunei Darussalam), Kuching, Sarawak (Malaysia), Singapore**, Personal trip (invited to [cruise in the Silversea's Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
@@ -41,6 +41,7 @@ https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
 * **04-10/03/18, Las Vegas (USA)**, Business trip
 * **02-04/03/18, Valencia (Spain)**, Personal and business trip
 * **25-26/02/18, Reykjavik (Iceland)**, Personal trip
+* **23-24/02/18, Brussels (Belgium**), Business trip
 * **22/02/18, London (UK**), Business trip
 * **18-20/02/18, Houston, TX (USA**), Business trip
 * **09/02/18, Rochester, NY (USA**), Personal trip
@@ -51,7 +52,6 @@ https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
 
 **2017**
 
-* **23-24/02/18, Brussels (Belgium**), Business trip
 * **03/12/17, Toronto (Canada)**, Personal trip
 * **26/11/17-01/12/17, Chicago (USA)**, Business trip, participating in RSNA and speaking at the [Google Symposium](https://blog.kanteron.com/2017/11/kanteron-systems-presents-in-google-symposium-at-rsna-2017/)
 * **13-17/11/17, Mexico DF (Mexico)**, Business trip

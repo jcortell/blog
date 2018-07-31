@@ -3,7 +3,7 @@ author: ""
 date: "2018-07-25T18:54:24+02:00"
 draft: false
 title: "Back to Emacs"
-tags: ["personal", "tecnología"]
+tags: ["personal", "technology"]
 image: "http://res.cloudinary.com/jcortell/image/upload/v1532528969/Personal/emacs.png"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
