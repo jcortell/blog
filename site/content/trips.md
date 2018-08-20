@@ -11,7 +11,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* 23-27/08/18, Cambridge (UK), Business trip
+* **25-29/08/18, Cambridge (UK)**, Business trip
 * **02-09/09/18, Barcelona (Spain), Naples, Rome, Florence/Pisa (Italy), Cannes (France), Palma de Majorca, Barcelona (Spain)**, Personal trip (invited to [cruise in the Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
 * 16-21/09/18, Mexico DF (Mexico), Business trip
 * **13-14/11/18, Oslo (Norway)**, Business trip (lecture)
