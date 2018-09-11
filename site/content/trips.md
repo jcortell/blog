@@ -11,13 +11,15 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* **02-09/09/18, Barcelona (Spain), Naples, Rome, Florence/Pisa (Italy), Cannes (France), Palma de Majorca, Barcelona (Spain)**, Personal trip (invited to [cruise in the Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
-* **12/09/18 - 09/01/19, Toronto (Canada)**, Business trip
-* 16-21/09/18, Mexico DF (Mexico), Business trip
-* **13-14/11/18, Oslo (Norway)**, Business trip (lecture)
+* **15/09/18 - 09/01/19, Toronto (Canada)**, Business trip
+* 19-22/09/18, Mexico DF (Mexico), Business trip
+* 26/09/18, Washington DC (USA), Business trip
+* 25-26/10/18, Boston (USA), Business trip (invited to UBS Industry Leader Network event - Harvard Medical School)
+* **13-14/11/18, Oslo (Norway)**, Business trip (invited to lecture at [EHiN](http://www.ehin.no/))
 * 25-27/11/18, Fort Lauderdale (USA), Personal trip (invited to the Celebrity Edge Inaugural Sailing)
 * 27-30/11/18, Chicago, IL (USA), Business trip (RSNA)
 * 19/11/18-01/12/18, Hong Kong (China), Manila, Romblon Island, Coron, Puerto Princesa, Palawan (Philippines), Kota Kinabalu (Malaysia), Muara (Brunei Darussalam), Kuching, Sarawak (Malaysia), Singapore, Personal trip (invited to [cruise in the Silversea's Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
+* 03/12/18, San Antonio, TX (USA), Business trip (invited to F&S Award gala)
 </li>
 
 **2019**
@@ -35,6 +37,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 </div>
 https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
 
+* **02-09/09/18, Barcelona (Spain), Naples, Rome, Florence/Pisa (Italy), Cannes (France), Palma de Majorca, Barcelona (Spain)**, Personal trip (invited to [cruise in the Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
 * **25-29/08/18, Cambridge (UK)**, Business trip
 * **18-19/06/18, Malaga (Spain)**, Business trip
 * **16-17/06/18, Milan (Italy)**, Business trip
