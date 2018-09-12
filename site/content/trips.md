@@ -14,17 +14,17 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * **15/09/18 - 09/01/19, Toronto (Canada)**, Business trip
 * 19-22/09/18, Mexico DF (Mexico), Business trip
 * 26/09/18, Washington DC (USA), Business trip
-* 25-26/10/18, Boston (USA), Business trip (invited to UBS Industry Leader Network event - Harvard Medical School)
-* **13-14/11/18, Oslo (Norway)**, Business trip (invited to lecture at [EHiN](http://www.ehin.no/))
-* 25-27/11/18, Fort Lauderdale (USA), Personal trip (invited to the Celebrity Edge Inaugural Sailing)
-* 27-30/11/18, Chicago, IL (USA), Business trip (RSNA)
+* 25-26/10/18, Boston (USA), Business trip (invited to UBS Industry Leader Network [event](https://uhnw.ubs.com/iln-boston-2018/home/) - Harvard Medical School)
+* **10-14/11/18, Oslo (Norway)**, Business trip (invited to lecture at [EHiN](http://www.ehin.no/))
+* 25-27/11/18, Fort Lauderdale (USA), Personal trip (invited to the [Celebrity Edge Inaugural Sailing](https://www.celebritycruises.com/edge/inaugural-sailings/))
+* 27-30/11/18, Chicago, IL (USA), Business trip ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
 * 19/11/18-01/12/18, Hong Kong (China), Manila, Romblon Island, Coron, Puerto Princesa, Palawan (Philippines), Kota Kinabalu (Malaysia), Muara (Brunei Darussalam), Kuching, Sarawak (Malaysia), Singapore, Personal trip (invited to [cruise in the Silversea's Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
-* 03/12/18, San Antonio, TX (USA), Business trip (invited to F&S Award gala)
+* 03/12/18, San Antonio, TX (USA), Business trip (invited to F&S Award [gala](https://ww2.frost.com/event/calendar/2018-excellence-awards-san-antonio/?eID=1823))
 </li>
 
 **2019**
 
-* 11-15/02/19, Orlando, FL (USA), Business trip (HIMSS)
+* 11-15/02/19, Orlando, FL (USA), Business trip ([HIMSS](https://www.himssconference.org/))
 * **23/03-08/04/19, Auckland (New Zealand), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Dusky Fjord,	Doubtful Fjord, Milford Sound, Tasmania Sea, Hobart (Tasmania, Australia), Port Arthur, Sydney**, Personal trip (invited to [cruise in the Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
 * 07/07 - 03/08/19, New York, NY (USA), Personal trip (NYU)
 * 01-06/12/19, Chicago, IL (USA), Business trip (RSNA)
