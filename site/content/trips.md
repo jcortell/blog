@@ -14,6 +14,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * **15/09/18 - 09/01/19, Toronto (Canada)**, Business trip
 * 24-28/09/18, Mexico DF (Mexico), Business trip
 * **03/10/18, New York, NY (USA)**, Business trip
+* **22/10/18, Chicago, IL (USA)**, Business trip (to film a media interview)
 * 25-26/10/18, Boston, MA (USA), Business trip (invited to UBS Industry Leader Network [event](https://uhnw.ubs.com/iln-boston-2018/home/) - Harvard Medical School)
 * **11-14/11/18, Oslo (Norway)**, Business trip (invited to lecture at [EHiN](http://www.ehin.no/))
 * 25-27/11/18, Fort Lauderdale (USA), Personal trip (invited to the [Celebrity Edge Inaugural Sailing](https://www.celebritycruises.com/edge/inaugural-sailings/))
