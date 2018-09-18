@@ -14,13 +14,13 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * **15/09/18 - 09/01/19, Toronto (Canada)**, Business trip
 * 24-28/09/18, Mexico DF (Mexico), Business trip
 * **03/10/18, New York, NY (USA)**, Business trip
-* **22/10/18, Chicago, IL (USA)**, Business trip (to film a media interview)
-* 25-26/10/18, Boston, MA (USA), Business trip (invited to UBS Industry Leader Network [event](https://uhnw.ubs.com/iln-boston-2018/home/) - Harvard Medical School)
+* **2/10/18, Chicago, IL (USA)**, Business trip (to film a media interview)
+* **24-26/10/18, Boston, MA (USA)**, Business trip (invited to UBS Industry Leader Network [event](https://uhnw.ubs.com/iln-boston-2018/home/) - Harvard Medical School)
 * **11-14/11/18, Oslo (Norway)**, Business trip (invited to lecture at [EHiN](http://www.ehin.no/))
-* 25-27/11/18, Fort Lauderdale (USA), Personal trip (invited to the [Celebrity Edge Inaugural Sailing](https://www.celebritycruises.com/edge/inaugural-sailings/))
+* **25-27/11/18, Fort Lauderdale (USA)**, Personal trip (invited to the [Celebrity Edge Inaugural Sailing](https://www.celebritycruises.com/edge/inaugural-sailings/))
 * 27-30/11/18, Chicago, IL (USA), Business trip ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
-* 19/11/18-01/12/18, Hong Kong (China), Manila, Romblon Island, Coron, Puerto Princesa, Palawan (Philippines), Kota Kinabalu (Malaysia), Muara (Brunei Darussalam), Kuching, Sarawak (Malaysia), Singapore, Personal trip (invited to [cruise in the Silversea's Silver Muse](http://www.silversea.com/destinations/asia-cruise/hong-kong-to-singapore-6832/?fycref=row2))
-* 03/12/18, San Antonio, TX (USA), Business trip (invited to F&S Award [gala](https://ww2.frost.com/event/calendar/2018-excellence-awards-san-antonio/?eID=1823))
+* **28/11-11/12/18, Fort Lauderdale, FL (USA), Grand Turk (Turks & Caicos Islands), San Juan (Puerto Rico), St. Kitts (St Kitts & Nevis), Roseau (Dominica), St. John's (Antigua & Barbuda), Gustavia (French West Indies), Road Town (British Virgin Islands), Samana (Domenican Republic), Key West, Fort Lauderdale, FL (USA)**, Personal trip (invited to the [Silversea Silver Spirit cruise](https://www.silversea.com/destinations/central-america-caribbean-cruise/fort-lauderdale-to-fort-lauderdale-5832.html))
+* **03/12/18, San Antonio, TX (USA)**, Business trip (invited to F&S Award [gala](https://ww2.frost.com/event/calendar/2018-excellence-awards-san-antonio/?eID=1823))
 </li>
 
 **2019**
