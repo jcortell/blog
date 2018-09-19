@@ -11,15 +11,14 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* **15/09/18 - 09/01/19, Toronto (Canada)**, Business trip
 * 24-28/09/18, Mexico DF (Mexico), Business trip
 * **03/10/18, New York, NY (USA)**, Business trip
 * **2/10/18, Chicago, IL (USA)**, Business trip (to film a media interview)
 * **24-26/10/18, Boston, MA (USA)**, Business trip (invited to UBS Industry Leader Network [event](https://uhnw.ubs.com/iln-boston-2018/home/) - Harvard Medical School)
+* **06-09/11/18, Valencia (Spain)**, Frankfurt (Germany), Mortsel (Belgium), Business trip (invited as speaker to the [Longevity World Forum](https://www.longevityworldforum.com/))
 * **11-14/11/18, Oslo (Norway)**, Business trip (invited to lecture at [EHiN](http://www.ehin.no/))
 * **25-27/11/18, Fort Lauderdale (USA)**, Personal trip (invited to the [Celebrity Edge Inaugural Sailing](https://www.celebritycruises.com/edge/inaugural-sailings/))
-* 27-30/11/18, Chicago, IL (USA), Business trip ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
-* **28/11-11/12/18, Fort Lauderdale, FL (USA), Grand Turk (Turks & Caicos Islands), San Juan (Puerto Rico), St. Kitts (St Kitts & Nevis), Roseau (Dominica), St. John's (Antigua & Barbuda), Gustavia (French West Indies), Road Town (British Virgin Islands), Samana (Domenican Republic), Key West, Fort Lauderdale, FL (USA)**, Personal trip (invited to the [Silversea Silver Spirit cruise](https://www.silversea.com/destinations/central-america-caribbean-cruise/fort-lauderdale-to-fort-lauderdale-5832.html))
+* **27-30/11/18, Chicago, IL (USA)**, Business trip ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
 * **03/12/18, San Antonio, TX (USA)**, Business trip (invited to F&S Award [gala](https://ww2.frost.com/event/calendar/2018-excellence-awards-san-antonio/?eID=1823))
 </li>
 
@@ -38,6 +37,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 </div>
 https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
 
+* **15/09/18 - 09/01/19, Toronto (Canada)**, Business trip
 * **02-09/09/18, Barcelona (Spain), Naples, Rome, Florence/Pisa (Italy), Cannes (France), Palma de Majorca, Barcelona (Spain)**, Personal trip (invited to [cruise in the Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
 * **25-29/08/18, Cambridge (UK)**, Business trip
 * **18-19/06/18, Malaga (Spain)**, Business trip
