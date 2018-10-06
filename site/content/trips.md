@@ -11,7 +11,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* **03/10/18, New York, NY (USA)**, Business trip
 * **22/10/18, Chicago, IL (USA)**, Business trip (to film a media interview)
 * **24-26/10/18, Boston, MA (USA)**, Business trip (invited to UBS Industry Leader Network [event](https://uhnw.ubs.com/iln-boston-2018/home/) - Harvard Medical School)
 * **05-09/11/18, Valencia (Spain), Frankfurt (Germany), Mortsel (Belgium)**, Business trip (invited as speaker to the [Longevity World Forum](https://www.longevityworldforum.com/es/jorge-cortell/))
@@ -35,6 +34,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 </div>
 https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
 
+* **03/10/18, New York, NY (USA)**, Business trip
 * **24-28/09/18, Mexico DF (Mexico)**, Business trip
 * **15/09/18 - 09/01/19, Toronto (Canada)**, Business trip
 * **02-09/09/18, Barcelona (Spain), Naples, Rome, Florence/Pisa (Italy), Cannes (France), Palma de Majorca, Barcelona (Spain)**, Personal trip (invited to [cruise in the Norwegian Epic](https://www.ncl.com/es/en/cruises/7-day-western-mediterranean-from-barcelona-EPIC7BCNNAPCIVLIVCEQPMIBCN/schedule?&itineraryCode=EPIC7BCNNAPCIVLIVCEQPMIBCN&customerStoriesCurrentPage=1&customerStoriesPageSize=3)
