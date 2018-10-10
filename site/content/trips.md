@@ -11,6 +11,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
+* **19/10/18, Boston, MA (USA)**, Business trip
 * **22/10/18, Chicago, IL (USA)**, Business trip (to film a media interview)
 * **24-26/10/18, Boston, MA (USA)**, Business trip (invited to UBS Industry Leader Network [event](https://uhnw.ubs.com/iln-boston-2018/home/) - Harvard Medical School)
 * **05-09/11/18, Valencia (Spain), Frankfurt (Germany), Mortsel (Belgium)**, Business trip (invited as speaker to the [Longevity World Forum](https://www.longevityworldforum.com/es/jorge-cortell/))
