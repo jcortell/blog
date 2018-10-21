@@ -18,7 +18,8 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * **18-24/11/18, Sao Paulo (Brazil), Asuncion (Paraguay), Lima (Peru)**, Business trip (invited to speak at a Ministry of Health event - [II Healthcare IT Congress](https://jis.spis.org.py/))
 * **25-29/11/18, Chicago, IL (USA)**, Business trip ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
 * **03/12/18, San Antonio, TX (USA)**, Business trip (invited to F&S Award [gala](https://ww2.frost.com/event/calendar/2018-excellence-awards-san-antonio/?eID=1823))
-</li>
+* **09-11/12/18, Vancouver (Canada)**, Personal trip (VFS)
+
 
 **2019**
 
