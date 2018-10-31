@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-October 25 and 26 I attended Harvard Medical School Executive Education "Trends in Health Technology" program invited by UBS bank [event](https://uhnw.ubs.com/iln-boston-2018/home/). Here are some of my notes from the lectures.
+October 25 and 26 I attended a Harvard Medical School Executive Education [program](https://uhnw.ubs.com/iln-boston-2018/home/) titled "Trends in Health Technology" invited by UBS bank. Here are some of my notes from the lectures.
 
 <!--more-->
 
