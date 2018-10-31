@@ -3,7 +3,7 @@ author: ""
 date: "2018-10-26T18:54:24+02:00"
 draft: false
 title: "Three days in Boston"
-tags: ["personal", "viajes"]
+tags: ["personal", "trips"]
 image: "https://farm2.staticflickr.com/1914/31683582838_afbb4a9431_b.jpg"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
@@ -50,7 +50,7 @@ On Friday we also started soon.
 - 10:00 Coffee break
 - 10:30 (Sara Smith's presentation had to be canceled due to medical reasons)
 - 11:15 Lunch
-- 12:15 "What’s Next in Digital Health – Lessons from Around the World" John D. Halamka, a well-known character, with whom I will share the stage at an event in Oslo in a few days
+- 12:15 "What’s Next in Digital Health – Lessons from Around the World" John D. Halamka, a well-known personality, quite a character, with whom I will share the stage at an event in Oslo in a few days
 - 13:15 "Summary and reflections" Stanley Shaw
 - 14:00 Departure to the airport (from where I publish this post thanks to a pretty good wifi)
 
