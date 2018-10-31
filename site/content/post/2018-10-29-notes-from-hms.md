@@ -2,7 +2,7 @@
 author: ""
 date: "2018-10-29T18:54:24+02:00"
 draft: false
-title: "Thing I learned at Harvard Medical School Executive Education"
+title: "Things I learned at Harvard Medical School Executive Education"
 tags: ["personal", "trips", "healthcare"]
 image: "https://farm2.staticflickr.com/1955/31681675678_25db29d81d_b.jpg"
 comments: false     # set false to hide Disqus comments
