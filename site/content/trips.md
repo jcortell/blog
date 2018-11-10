@@ -11,19 +11,17 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2018**
 
-* **05-09/11/18, Frankfurt (Germany), Valencia (Spain)**, Business trip (invited as speaker to the [Longevity World Forum](https://www.longevityworldforum.com/es/jorge-cortell/))
 * **11-14/11/18, Oslo (Norway)**, Business trip (invited as [speaker at EHiN](https://ehin.no/en/highlights/))
-* **18-24/11/18, Sao Paulo (Brazil), Asuncion (Paraguay), Lima (Peru)**, Business trip (invited to speak at a Ministry of Health event - [II Healthcare IT Congress](https://jis.spis.org.py/))
+* **18-24/11/18, Sao Paulo (Brazil), Asuncion (Paraguay), Lima (Peru)**, Business trip (invited to speak at a Ministry of Health event - [II Healthcare IT Congress](https://jis.spis.org.py/) in Asuncion, and the Telefonica event in Lima)
 * **25-29/11/18, Chicago, IL (USA)**, Business trip ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
-* **03/12/18, San Antonio, TX (USA)**, Business trip (invited to F&S Award [gala](https://ww2.frost.com/event/calendar/2018-excellence-awards-san-antonio/?eID=1823))
 * **09-11/12/18, Vancouver (Canada)**, Personal trip (VFS)
 * **21-23/12/18, Valencia (Spain)**, Personal trip
-* **05/01/19, Valencia (Spain)**, Personal trip
 
 
 **2019**
 
-* 09-10/01/19, London (UK), Personal trip
+* **05/01/19, Valencia (Spain)**, Personal trip
+* **05-07/02/19, Alicante (Spain)**, Personal trip
 * 11-15/02/19, Orlando, FL (USA), Business trip ([HIMSS](https://www.himssconference.org/))
 * **23/03-08/04/19, Auckland (New Zealand), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Dusky Fjord,	Doubtful Fjord, Milford Sound, Tasmania Sea, Hobart (Tasmania, Australia), Port Arthur, Sydney**, Personal trip (invited to [cruise in the Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
 * 07/07 - 03/08/19, New York, NY (USA), Personal trip (NYU)
@@ -37,6 +35,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 </div>
 https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
 
+* **05-09/11/18, Frankfurt (Germany), Valencia (Spain)**, Business trip (invited as speaker to the [Longevity World Forum](https://www.longevityworldforum.com/es/jorge-cortell/))
 * **24-26/10/18, Boston, MA (USA)**, Business trip (invited to UBS Industry Leader Network [event](https://uhnw.ubs.com/iln-boston-2018/home/) - Harvard Medical School)
 * **22/10/18, Chicago, IL (USA)**, Business trip (to film a TV interview for [ICEX.tv](https://www.icex.tv))
 * **03/10/18, New York, NY (USA)**, Business trip
