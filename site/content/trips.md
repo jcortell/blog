@@ -14,8 +14,8 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * **18-24/11/18, Sao Paulo (Brazil), Asuncion (Paraguay), Lima (Peru)**, Business trip (invited to [speak](http://sicompy.blogspot.com/2018/11/ii-jornada-informatica-en-salud-es.html) at a Ministry of Health event - [II Healthcare IT Congress](https://jis.spis.org.py/) in Asuncion, and the Telefonica event in Lima)
 * **25-29/11/18, Chicago, IL (USA)**, Business trip ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
 * **09-11/12/18, Vancouver (Canada)**, Personal trip (VFS)
-* **17/12/18, London (UK)**, Business trip
-* **18-23/12/18, Valencia (Spain)**, Personal trip
+* **17-20/12/18, London (UK)**, Business trip
+* **21-23/12/18, Valencia (Spain)**, Personal trip
 
 
 **2019**
