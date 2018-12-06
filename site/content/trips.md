@@ -12,7 +12,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 **2018**
 
 * **09-11/12/18, Vancouver (Canada)**, Personal trip (VFS)
-* **17-20/12/18, London (UK)**, Business trip
+* **16-19/12/18, London (UK)**, Business trip
 * **21-23/12/18, Valencia (Spain)**, Personal trip
 
 
@@ -20,7 +20,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 * **05/01/19, Valencia (Spain)**, Personal trip
 * **05-07/02/19, Alicante (Spain)**, Personal trip
-* 11-15/02/19, Orlando, FL (USA), Business trip ([HIMSS](https://www.himssconference.org/))
+* **11-15/02/19, Orlando, FL (USA)**, Business trip ([HIMSS](https://www.himssconference.org/))
 * **23/03-08/04/19, Auckland (New Zealand), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Dusky Fjord,	Doubtful Fjord, Milford Sound, Tasmania Sea, Hobart (Tasmania, Australia), Port Arthur, Sydney**, Personal trip (invited to [cruise in the Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
 * 07/07 - 03/08/19, New York, NY (USA), Personal trip (NYU)
 * 01-06/12/19, Chicago, IL (USA), Business trip (RSNA)
