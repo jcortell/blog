@@ -9,11 +9,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **Bold** = confirmed; otherwise = tentative:
 
-**2018**
-
-* **16-19/12/18, London (UK)**, Business trip
-* **21-23/12/18, Valencia (Spain)**, Personal trip
-
 
 **2019**
 
@@ -33,6 +28,10 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
 
 
+**2018**
+
+* **21-23/12/18, Valencia (Spain)**, Personal trip
+* **16-19/12/18, London (UK)**, Business trip
 * **09-11/12/18, Vancouver (Canada)**, Personal trip (VFS)
 * **25-29/11/18, Chicago, IL (USA)**, Business trip ([RSNA](http://www.rsna.org/Annual_Meeting.aspx))
 * **18-24/11/18, São Paulo (Brazil), Asuncion (Paraguay), Lima (Peru)**, Business trip (invited to [speak](http://sicompy.blogspot.com/2018/11/ii-jornada-informatica-en-salud-es.html) at a Ministry of Health event - [II Healthcare IT Congress](https://jis.spis.org.py/) in Asuncion, and the Telefonica event in Lima)
