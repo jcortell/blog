@@ -12,6 +12,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
+* **01/01/19, Buffalo (USA)**, Personal trip
 * **05/01/19, Valencia (Spain)**, Personal trip
 * **05-07/02/19, Alicante (Spain)**, Personal trip
 * **11-15/02/19, Orlando, FL (USA)**, Business trip ([HIMSS](https://www.himssconference.org/))
@@ -30,6 +31,7 @@ https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
 
 **2018**
 
+* **27/12/18, Buffalo (USA)**, Personal trip
 * **21-23/12/18, Valencia (Spain)**, Personal trip
 * **16-19/12/18, London (UK)**, Business trip
 * **09-11/12/18, Vancouver (Canada)**, Personal trip (VFS)
