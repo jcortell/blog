@@ -20,7 +20,7 @@ We started the year with a controversial visit: the Buffalo Zoo.
 
 I dislike the idea of a Zoo: caged animals, constantly observed against their will. But, on the other hand, some serve several positive functions: from research to injured animal welfare.
 
-Personally, I decided to take my daughter to make sure she gets to see some animals that soon will be extinct. And to apologize, in the name of my generation, for not having done enough to ensure the planet is a plce for all of us living beings to live in and share.
+Personally, I decided to take my daughter to make sure she gets to see some animals that soon will be extinct. And to apologize, in the name of my generation, for not having done enough to ensure the planet is a place for all of us living beings to live in and share.
 
 The [Buffalo Zoo](https://buffalozoo.org/) is a small one. Like so many other zoos, it has undergone comprehensive renovations, to make it look less like a jail for animals, and more like a "living museum". But, as usual, it made me sad to visit and see all those wonderful and magnificent animals restricted in the movements and life. At least I know my daughter now has an even deeper appreciation of all living beings, having seen many she had not seen before.
 
