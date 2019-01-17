@@ -12,6 +12,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
+* **28-30/01/19, Bucharest (Romania)**, Business trip
 * **05-07/02/19, Alicante (Spain)**, Personal trip
 * **11-15/02/19, Orlando, FL (USA)**, Business trip ([HIMSS](https://www.himssconference.org/))
 * **23/03-08/04/19, Auckland (New Zealand), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Dusky Fjord,	Doubtful Fjord, Milford Sound, Tasmania Sea, Hobart (Tasmania, Australia), Port Arthur, Sydney**, Personal trip (invited to [cruise in the Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
