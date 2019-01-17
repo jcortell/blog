@@ -12,8 +12,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* **01/01/19, Buffalo (USA)**, Personal trip
-* **05/01/19, Valencia (Spain)**, Personal trip
 * **05-07/02/19, Alicante (Spain)**, Personal trip
 * **11-15/02/19, Orlando, FL (USA)**, Business trip ([HIMSS](https://www.himssconference.org/))
 * **23/03-08/04/19, Auckland (New Zealand), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Dusky Fjord,	Doubtful Fjord, Milford Sound, Tasmania Sea, Hobart (Tasmania, Australia), Port Arthur, Sydney**, Personal trip (invited to [cruise in the Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
@@ -28,6 +26,13 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 </div>
 https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
 
+
+**2019**
+
+* **08-10/01/19, Southampton (UK)**, Personal trip
+* **05/01/19, Valencia (Spain)**, Personal trip
+* **04/01/19, Buffalo (USA)**, Personal trip
+* **01/01/19, Buffalo (USA)**, Personal trip
 
 **2018**
 
