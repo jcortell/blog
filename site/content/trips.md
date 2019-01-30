@@ -12,12 +12,15 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* **28-30/01/19, Bucharest (Romania)**, Business trip
 * **05-07/02/19, Alicante (Spain)**, Personal trip
 * **11-15/02/19, Orlando, FL (USA)**, Business trip ([HIMSS](https://www.himssconference.org/))
-* **23/03-08/04/19, Auckland (New Zealand), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Dusky Fjord,	Doubtful Fjord, Milford Sound, Tasmania Sea, Hobart (Tasmania, Australia), Port Arthur, Sydney**, Personal trip (invited to [cruise in the Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
+* **20/03-11/04/19, Auckland (New Zealand), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Dusky Fjord,	Doubtful Fjord, Milford Sound, Tasmania Sea, Hobart (Tasmania, Australia), Port Arthur, Sydney**, Personal trip (invited to [cruise in the Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
 * 07/07 - 03/08/19, New York, NY (USA), Personal trip (NYU)
 * 01-06/12/19, Chicago, IL (USA), Business trip (RSNA)
+
+**2020**
+
+* 01-31/01/20, Vancouver (Canada), Personal trip
 
 
 **PREVIOUS:**
@@ -30,6 +33,7 @@ https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
 
 **2019**
 
+* **28-30/01/19, Bucharest (Romania)**, Business trip
 * **08-10/01/19, Southampton (UK)**, Personal trip
 * **05/01/19, Valencia (Spain)**, Personal trip
 * **04/01/19, Buffalo (USA)**, Personal trip
