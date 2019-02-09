@@ -18,7 +18,7 @@ January 28-30th I spent a couple of days in Bucharest (Romania).
 
 <!--more-->
 
-I stayed in [The Grand Hotel Continetal](https://grand-hotel-continental-bucuresti.continentalhotels.ro/en/), built on the grounds of the former Grand Hotel Broft and considered a historic monument. The hotel has 53 rooms overlooking Calea Victoriei, decorated in different styles: Renaissance, Baroque, Empire, Ludovic XV...
+I stayed in [The Grand Hotel Continental](https://grand-hotel-continental-bucuresti.continentalhotels.ro/en/), built on the grounds of the former Grand Hotel Broft and considered a historic monument. The hotel has 53 rooms overlooking Calea Victoriei, decorated in different styles: Renaissance, Baroque, Empire, Ludovic XV...
 
 The trip itself was for meeting the Romanian Secretary of State for Health. Other than that, lots of working in my hotel room (the wifi was excellent), and a night stroll to enjoy the city's palatial architecture.
 
