@@ -7,7 +7,7 @@ tags: ["business", "trips"]
 image: "https://lh3.googleusercontent.com/mb5-uN4sRlf4yrNz5WoQSIIXT87U3KQEsy9z0q5wyJ2ZgCj0kkhgYVtJrlXEvnRJIGJcQfTSzuGiNwwEJQO5PH4lJC8g4wA_qQ5aL6aPdmRBXJShfmMVrQm7bf-knMIT9H0ft98P0xE=w1920-h1080"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: https://lh3.googleusercontent.com/mb5-uN4sRlf4yrNz5WoQSIIXT87U3KQEsy9z0q5wyJ2ZgCj0kkhgYVtJrlXEvnRJIGJcQfTSzuGiNwwEJQO5PH4lJC8g4wA_qQ5aL6aPdmRBXJShfmMVrQm7bf-knMIT9H0ft98P0xE=w1920-h1080
 coverImage: https://lh3.googleusercontent.com/mb5-uN4sRlf4yrNz5WoQSIIXT87U3KQEsy9z0q5wyJ2ZgCj0kkhgYVtJrlXEvnRJIGJcQfTSzuGiNwwEJQO5PH4lJC8g4wA_qQ5aL6aPdmRBXJShfmMVrQm7bf-knMIT9H0ft98P0xE=w1920-h1080
 metaAlignment: center
@@ -15,7 +15,7 @@ coverMeta: out
 ---
 
 You know when a customer calls you on a Sunday night on your cell and tells you "I want to meet you tomorrow"? Yeah, it happens all the time. Except my customer was in Bangkok (Thailand) and I was in Valencia (Spain). Of course, I said "yes".
-Here's another one: you know when you're supposed to take an 11 hour flight back home, but Pakistan and India escalate military frictions, close air space, and your flight gets rerouted for an extra 4 hours, making you miss your connexion and forcing you to stay in another country for an extra day? Yeah, it doesn't happen that often. Now try both at the same time. Welcome to my world.
+Here's another one: you know when you're supposed to take an 11 hour flight back home, but Pakistan and India escalate military frictions, close air space, and your flight gets rerouted for an extra 3 hours, making you miss your connexion and forcing you to stay in another country for an extra day? Yeah, it doesn't happen that often. Now try both at the same time. Welcome to my world.
 
 <!--more-->
 

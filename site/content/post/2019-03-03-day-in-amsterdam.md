@@ -7,7 +7,7 @@ tags: ["business", "trips"]
 image: "https://lh3.googleusercontent.com/2P6_P3GDateNn-Hn4pXd7XCh3uMzz7U1Kf-a8snG1ybJjNI5gNh-AWW29zlSdTgttQIXo1p3UOqE_Q-CnkH3JN1vSsYAtHra8LBR9RDkg9_rMJRU1J6DqlJfmHbgutfoQ0tim1DRfEk=w1920-h1080"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: https://lh3.googleusercontent.com/2P6_P3GDateNn-Hn4pXd7XCh3uMzz7U1Kf-a8snG1ybJjNI5gNh-AWW29zlSdTgttQIXo1p3UOqE_Q-CnkH3JN1vSsYAtHra8LBR9RDkg9_rMJRU1J6DqlJfmHbgutfoQ0tim1DRfEk=w1920-h1080
 coverImage: https://lh3.googleusercontent.com/2P6_P3GDateNn-Hn4pXd7XCh3uMzz7U1Kf-a8snG1ybJjNI5gNh-AWW29zlSdTgttQIXo1p3UOqE_Q-CnkH3JN1vSsYAtHra8LBR9RDkg9_rMJRU1J6DqlJfmHbgutfoQ0tim1DRfEk=w1920-h1080
 metaAlignment: center
