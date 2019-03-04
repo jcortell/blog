@@ -2,8 +2,8 @@
 author: ""
 date: "2019-02-23T18:54:24+02:00"
 draft: false
-title: "A spa weekend"
-tags: ["business", "trips"]
+title: "A weekend in the Best Spa in Europe"
+tags: ["personal", "trips"]
 image: "https://lh3.googleusercontent.com/STepCb5i963hKrMklAvHB1dsMeGoE5-BFJTDRCCQytgNChJaEZ9b4Rvb-4fN_QRoMP8fnKbKfCJYu5d1cOEFpDJ9VA0b4FylAp1sDcNLKTLkEMwUEPhVq8XhK0L61UhMCu33axkiTak=w1920-h1080"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
@@ -18,13 +18,13 @@ I don't know that anyone does any more, nor do I care, but if you read my blog, 
 
 <!--more-->
 
-Not that I'm being partial or exaggerating. [SHA Wellness](https://shawellness.com) has received a very long list of awards, including Best Spa in Europe. And for good reason.
+Not that I'm being partial or exaggerating. [SHA Wellness](https://shawellnessclinic.com) has received a very long list of awards, including Best Spa in Europe. And for good reason.
 
 The "spa treatment" starts way before you arrive. They contact you, send you the list of treatments, and work with you to create a personalized stay. You can also manage it all via their app, although CompSec paranoid that I am, I decided not to use it. Besides, I wanted to NOT look at my phone while enjoying some very much needed downtime!
 
 The location, and views that go with it, is the first thing that you notice when you arrive at SHA. From the fourth floor, where the infinity pool and restaurant are located, you can see the whole bay, the Mediterranean sea, the green mountains... breathtaking views. Our suite had a very nice terrace overlooking the mountains, and was very well equipped. Of course there were robes and slippers that most customers walked all day around in.
 
-After un packing, we started the treatments. Two days of massages (pressure, oil, facial...), dietary consultation with personalized menu, and water activities: hot and cold stone walk, jet pool, Roman thermae, steam sauna, ice bucket, etc.
+After un packing, we started the treatments. Two days of massages (Abhyanga, oil, facial...), dietary consultation with personalized menu, and water activities: hot and cold stone walk, jet pool, Roman thermae, steam sauna, ice bucket, etc.
 
 The weakest point was the cultural activities, with a poor book selection in the library and not exactly awesome movies in the movie theater. But you're not there to be entertained, you're there to improve your health, your habits, and to relax. That's what everyone there (mostly, but not exclusively, rich Russian oligarchs with their young prize wives or "friends", and Arab families) seemed to be doing.
 
@@ -32,7 +32,7 @@ The highlight was the food. Amazing plates, ALL of them. Specially when consider
 
 I reserved the best treatment for last: AiChi. An hour of floating in a pool, while a specialist stretches your limbs, drags you around, and gives you acupressure massage. You definitely feel like you're floating, falling, dead, flying... a truly amazing experience.
 
-To top it off, on the way back home we stopped at Altea for the views of the white town by the sea, and then in Javea to have lunch at the Michelin Guide restaurant [La Perla](https://).
+To top it off, on the way back home we stopped at Altea for the views of the white town by the sea, and then in Javea to have lunch at the Michelin Guide restaurant [La Perla](https://www.laperladejavea.com/).
 
 Ready to go back to work! Or so I thought, because the very next day a customer called me (yes, on a weekend) and asked me to fly to Bangkok... the next day. That relaxation didn't last long!
 
