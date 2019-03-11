@@ -14,8 +14,9 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 * **20/03-11/04/19, Auckland (New Zealand), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Dusky Fjord,	Doubtful Fjord, Milford Sound, Tasmania Sea, Hobart (Tasmania, Australia), Port Arthur, Sydney**, Personal trip (invited to [cruise in the Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
 * 12/04 - 12/05/19, Bangkok (Thailand), Business trip
+* 14-20/05/19, Tokyo (Japan), Business trip
 * 22-25/05/19, Aguas Calientes (Mexico), Business trip
-* 25-27/05/19, Bilbao (Spain), Personal trip
+* **25-27/05/19, Bilbao (Spain)**, Personal trip
 * **07/07 - 03/08/19, New York, NY (USA)**, Personal trip (NYU)
 * 01-06/12/19, Chicago, IL (USA), Business trip (RSNA)
 
