@@ -17,6 +17,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * 14-20/05/19, Tokyo (Japan), Business trip
 * 22-25/05/19, Aguas Calientes (Mexico), Business trip
 * **25-27/05/19, Bilbao (Spain)**, Personal trip
+* **20-22/06/19, Granada (Spain)**, Personal trip (to attend eslib.re)
 * **07/07 - 03/08/19, New York, NY (USA)**, Personal trip (NYU)
 * 01-06/12/19, Chicago, IL (USA), Business trip (RSNA)
 
