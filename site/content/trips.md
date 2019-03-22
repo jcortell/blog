@@ -12,8 +12,8 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* **20/03-11/04/19, Auckland (New Zealand), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Dusky Fjord,	Doubtful Fjord, Milford Sound, Tasmania Sea, Hobart (Tasmania, Australia), Port Arthur, Sydney**, Personal trip (invited to [cruise in the Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
-* 12/04 - 12/05/19, Bangkok (Thailand), Business trip
+* 22/04 - 12/05/19, Bangkok (Thailand), Business trip
+* 15/05/19, Tallinn (Estonia), Business trip
 * 14-20/05/19, Tokyo (Japan), Business trip
 * 22-25/05/19, Aguas Calientes (Mexico), Business trip
 * **25-27/05/19, Bilbao (Spain)**, Personal trip
@@ -29,13 +29,14 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 **PREVIOUS:**
 
 <div style="text-align: center;">
-  <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,1ce500,1ce500&chf=bg,s,eaf7fe&chtm=world&chld=ADARATBSBDBBBEBMBRBGKHCACLCNCOCZDKDMDOECFIFRDEGRVAHKHUISINIDIRITJPKRLALILUMYMXMCNLNOPAPYPEPLPTPRRORULCVCSMSTSGSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000" alt="Make yours @ BigHugeLabs.com" />
+  <img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,3399ff,3399ff&chf=bg,s,eaf7fe&chtm=world&chld=ALADAQAGARAWAUATBDBEBMBRBGKHCACLCNCOHRCZDKDMDOECEEFIFRDEGRVAHKHUISINIDIEITJPKRLVLILTLUMYMTMXMCMENLNZNOPAPYPEPLPTPRRORUKNLCVCSMSTRSSGSKSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000000000000000" alt="Made with BigHugeLabs.com">
 </div>
-https://www.jetlovers.com/flights/map/?w=50&h=35&uid=11060
+https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 
 **2019**
 
+* **20/03-11/04/19, Auckland (New Zealand), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Dusky Fjord,	Doubtful Fjord, Milford Sound, Tasmania Sea, Hobart (Tasmania, Australia), Port Arthur, Sydney**, Personal trip (invited to [cruise in the Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
 * **02/03/19, Amsterdam (Netherlands)**, Business trip
 * **26/02 - 01/03/19, Bangkok (Thailand)**, Business trip
 * **22-24/02/19, Alicante (Spain)**, Personal trip
