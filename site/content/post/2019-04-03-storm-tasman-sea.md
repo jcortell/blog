@@ -20,13 +20,13 @@ April 1st to 3rd, we sailed through a storm in the Tasman Sea (between New Zeala
 
 With gale strength winds and 15 feet waves, we sailed towards Hobart - Tasmania (New Zealand), which unfortunately meant changing the original itinerary and missing the fjords in the southern tip of the South Island.
 
-But, of course, we can't complain, as we enjoyed tremendously. Not only the rocking of the boat, which forces you into a "drunk teenager" sway and rocks you to sleep like a baby, but we also enjoyed lectures and performances by: 
+But, of course, we can't complain, as we enjoyed tremendously. Not only the rocking of the boat, which forces you into a "drunk teenager" sway and rocks you to sleep like a baby, but we also enjoyed lectures and performances by:
 
 * Comedian Col Cameron (he even made some guests act like dogs on the stage!)
 * Military Analyst, Middle East Expert and ex-CIA Agent Rick Francona (Middle East Borders, Religion and Culture in the Middle East, and Capturing War Criminals in the Balkans)
-* Historian Peter Donovan (History of Aborigines in Australia)
+* Historians Peter Donovan (History of Aborigines in Australia) and Brian Lawrenson (History of Tasmania)
 * Magician from Hollywood's Magic Castle (they even gave us an invitation to attend the by-invitation-only Magic Castle!)
-* Galley tour with the Executive Chef (I must say the food has been consistently amazing)
+* Galley tour with the Executive Chef Peter Degner (I must say the food has been consistently amazing)
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
