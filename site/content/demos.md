@@ -1,5 +1,5 @@
 ---
-title: Trips
+title: Demos
 date: 2019-04-17T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus comments
