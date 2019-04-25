@@ -12,7 +12,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* 22/04 - 12/05/19, Bangkok (Thailand), Business trip
+* **08-11/05/19, Amsterdam (Netherlands)**, Business trip, invited to attend [TNW](https://thenextweb.com/conference/)
 * 22-25/05/19, Aguas Calientes (Mexico), Business trip
 * **25-27/05/19, Bilbao (Spain)**, Personal trip
 * **30/05/19, Madrid (Spain)**, Personal and business trip
