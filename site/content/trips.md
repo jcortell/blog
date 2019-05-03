@@ -22,6 +22,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 **2020**
 
 * 01-31/01/20, Vancouver (Canada), Personal trip
+* 07-25/04/20, Papeete (Tahiti), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (French Polynesia), Hanga Roa (Easter Island - Chile), Lima (Peru), Personal trip (invited to [cruise in the Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
 
 
 **PREVIOUS:**
