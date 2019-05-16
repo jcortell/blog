@@ -24,7 +24,7 @@ After that we headed to the [Moco Museum](https://mocomuseum.com/). As much as I
 
 After the two museums, we were invited to a cocktail at the [Tunes Bar](https://www.conservatoriumhotel.com/tunes-bar) where I had my first virgin pornstar martini, and then we headed to [Tomaz](https://tomaz.nl/en/), for some traditional Dutch dinner. Before going to bed, we "had to" try the fabulous bathtub and of course I took the opportunity to have fun in twiter:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">☑️ Bathtub 🛁<br>☑️ City views 🌃<br>☑️ Champagne 🍾 for <a href="https://twitter.com/Cruise_Curator?ref_src=twsrc%5Etfw">@Cruise_Curator</a><br>☑️ Grapes 🍇 <br>☑️ Bath salts 🧂<br>🔲Bubbles 🧼... building up! <a href="https://t.co/FViVsBrK0B">pic.twitter.com/FViVsBrK0B</a></p>&mdash; Jorge Cortell (@jorgecortell) <a href="https://twitter.com/jorgecortell/status/1127339299408576512?ref_src=twsrc%5Etfw">May 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://twitter.com/jorgecortell/status/1127339299408576512?s=20
 
 On Sunday we visited the All the Rembrandts exhibition at the [Rijksmuseum](https://www.rijksmuseum.nl/en). It was really crowded, but online ticket purchase and an excellent companion app made a big difference.
 
