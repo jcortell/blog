@@ -20,7 +20,7 @@ We spent Sunday at the [Guggenheim Museum in Bilbao](https://www.guggenheim-bilb
 
 Our [hotel](https://www.hoteldominebilbao.com/) was magnificently located right across the street from the Museum, which not only made it extremely convenient, but also gave us amazing vies for breakfast.
 
-Other than the extremely annoying fact that they do not allow any kind of photography in any of the exhibitions, the Guggenheim Museum in Bilbao is a decent one from the art exhibited point of view (besides part of the permanent collection, we saw the monographic exhibits on Giorgio Morandi, Gerhard Richter, Jenny Holzer, Lucio FOntana, and Richard Serra), including the outdoors sculptures including my favorite, Louise Bourgeois' Maman. But where the museum really shines is architecturally, designed by Canadian-American architect Frank Gehry. Truly stunning.
+Other than the extremely annoying fact that they do not allow any kind of photography in any of the exhibitions, the Guggenheim Museum in Bilbao is a decent one from the art exhibited point of view (besides part of the permanent collection, we saw the monographic exhibits on Giorgio Morandi, Gerhard Richter, Jenny Holzer, Lucio Fontana, and Richard Serra), including the outdoors sculptures and my favorite, Louise Bourgeois' Maman. But where the museum really shines is architecturally, designed by Canadian-American architect Frank Gehry. Truly stunning.
 
 After a day of art, we walked along the estuary to the [Ribera Gastro Plaza](https://laribera.eus/), where we had some pintxos, and then around the old town, where we had more pintxos at [Víctor Montes](http://www.victormontes.com/history-of-the-restaurant-victor-montes/).
 
