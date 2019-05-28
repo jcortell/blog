@@ -12,7 +12,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* **25-27/05/19, Bilbao (Spain)**, Personal trip
 * **30/05/19, Madrid (Spain)**, Personal and business trip
 * **20-22/06/19, Granada (Spain)**, Personal trip (to attend eslib.re)
 * **07/07 - 03/08/19, New York, NY (USA)**, Personal trip (NYU)
@@ -34,6 +33,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **25-27/05/19, Zaragoza, San Sebastian, and Bilbao (Spain)**, Personal trip
+* **22/05/19, L'Albir, Alicante (Spain)**, Business trip
 * **08-12/05/19, Amsterdam (Netherlands)**, Business trip, invited to attend [TNW](https://thenextweb.com/conference/)
 * **20/03-11/04/19, Auckland (New Zealand), Tauranga, Napier, Picton, Akaroa, Dunedin - Port Chalmers, Dusky Fjord,	Doubtful Fjord, Milford Sound, Tasmania Sea, Hobart (Tasmania, Australia), Port Arthur, Sydney**, Personal trip (invited to [cruise in the Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16))
 * **02/03/19, Amsterdam (Netherlands)**, Business trip
