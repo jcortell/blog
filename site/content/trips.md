@@ -12,9 +12,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* **30/05/19, Madrid (Spain)**, Personal and business trip
-* **20-22/06/19, Granada (Spain)**, Personal trip (to attend eslib.re)
-* **07/07 - 03/08/19, New York, NY (USA)**, Personal trip (NYU)
+* **04/07 - 05/08/19, New York, NY (USA)**, Personal and business trip (NYU)
 * 01-06/12/19, Chicago, IL (USA), Business trip (RSNA)
 
 **2020**
@@ -33,6 +31,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **30/05/19, Madrid (Spain)**, Personal and business trip
 * **25-27/05/19, Zaragoza, San Sebastian, and Bilbao (Spain)**, Personal trip
 * **22/05/19, L'Albir, Alicante (Spain)**, Business trip
 * **08-12/05/19, Amsterdam (Netherlands)**, Business trip, invited to attend [TNW](https://thenextweb.com/conference/)
