@@ -24,6 +24,8 @@ After enjoying a vegan burger at the nearby [Bare Burger](https://www.bareburger
 
 https://twitter.com/jorgecortell/status/1147986918602432513
 
+{{< tweet 1147986918602432513 >}}
+
 In any case, a couple days later we helped my son move into his dorm near Union Square, and had lunch with him at [Momofuku Ssäm Bar](https://ssambar.momofuku.com/). Of course, we crossed the street to buy a compost cookie at [Milk Bar](https://milkbarstore.com/).
 
 Time to start walking fast on the sidewalks avoiding the crowds, paying attention to subway train schedule changes, having an extra dose of attitude, trying to cram as much as we can into each day in the city, and avoid the consumerist temptations all around us... while enjoying people and building watching.
