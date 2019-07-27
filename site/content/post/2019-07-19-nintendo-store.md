@@ -18,6 +18,6 @@ Last Friday we went to the Nintendo Store at Rockefeller Center, New York.
 
 <!--more-->
 
-Of course, it was a blast. Not only the merchandise (任天堂 New York, Kirby, Link, Yoshi, Gumbas... they have ot all!), but also being able to play all kinds of Nintendo games in different systems (mainly the Switch, of course).
+Of course, it was a blast. Not only the merchandise (任天堂 New York, Kirby, Link, Yoshi, Goombas... they have it all!), but also being able to play all kinds of Nintendo games in different systems (mainly the Switch, of course).
 
 ![Nintendo store](https://lh3.googleusercontent.com/t6yg1U0QCtokH5pwGFsBnklTeiv6WUC8IpXPeJ5GKgu4w8RhfAew6jDLhLZF_4Qs0FYWRoGtqfvqwIbQe-HIoWkc6Or335XNYyZ1Yrw9HoVJyeSJV4elEgmddWwaltGUS3-UDDhbDD4=w1920-h1080)
