@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2019-06-14T01:50:28+00:00
+date: 2019-07-30T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -13,6 +13,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 **2019**
 
 * **10-24/08/19, Bangkok (Thailand)**, Business trip
+* 28/10 - 3/11/19, Hong Kong (China), Business trip
 * **21-24/11/19, Iaşi (Romania)**, Business trip (Guest speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
 * 01-06/12/19, Chicago, IL (USA), Business trip (RSNA)
 
