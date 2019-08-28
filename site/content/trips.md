@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2019-08-05T01:50:28+00:00
+date: 2019-08-23T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,9 +12,10 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* **12-24/08/19, Bangkok (Thailand)**, Business trip
-* 13-19/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China), Business trip (China Start)
-* 28/10 - 3/11/19, Hong Kong (China), Business trip
+* 25-27/09/19, Bangkok (Thailand), Business trip
+* **13-19/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Business trip (China Start)
+* **28/10 - 03/11/19, Hong Kong (China)**, Business trip
+* 11-13/11/19, Dubai (UAE), Business trip
 * **21-24/11/19, Iaşi (Romania)**, Business trip (Guest speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
 * 01-06/12/19, Chicago, IL (USA), Business trip (RSNA)
 
@@ -36,6 +37,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **12-24/08/19, Bangkok (Thailand)**, Business trip
 * **04/07 - 05/08/19, New York, NY (USA)**, Personal and business trip (NYU)
 * **30/05/19, Madrid (Spain)**, Personal and business trip
 * **25-27/05/19, Zaragoza, San Sebastian, and Bilbao (Spain)**, Personal trip
