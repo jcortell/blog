@@ -12,12 +12,12 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* **08-11/09/19, Orlando, FL (USA)**, Business trip (Finalist at [NASA iTech](https://www.nasaitech.com/ignite-the-night) event)
-* **24-28/09/19, Bangkok (Thailand)**, Business trip (Speaker at the UBS Disruptive Technology CEO Summit)
+* **07-12/09/19, Orlando, FL (USA)**, Business trip (selected for [NASA iTech](https://www.nasaitech.com/ignite-the-night) event)
+* **23-28/09/19, Bangkok (Thailand)**, Business trip (Speaker at [Bio Investment Asia](http://www.bioinvestmentasia.com/))
 * **13-19/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Business trip ([China Start](https://www.china-start.org/))
-* **28/10 - 01/11/19, Hong Kong (China)**, Business trip (Speaker at [Bio Investment Asia](http://www.bioinvestmentasia.com/))
+* **27/10 - 01/11/19, Hong Kong (China)**, Business trip (UBS Disruptive Technology CEO Summit)
 * 11-13/11/19, Dubai (UAE), Business trip (Speaker at UBS Health Tech Perspectives)
-* **21-24/11/19, Iaşi (Romania)**, Business trip (Guest speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
+* **21-24/11/19, Iaşi (Romania)**, Business trip (Speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
 * 01-06/12/19, Chicago, IL (USA), Business trip (RSNA)
 
 **2020**
