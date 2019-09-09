@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2019-09-03T01:50:28+00:00
+date: 2019-09-09T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,9 +12,8 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* **07-12/09/19, Orlando, FL (USA)**, Business trip (selected for [NASA iTech](https://www.nasaitech.com/ignite-the-night) event)
-* **23-28/09/19, Bangkok (Thailand)**, Business trip (Speaker at [Bio Investment Asia](http://www.bioinvestmentasia.com/))
-* **13-19/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Business trip ([China Start](https://www.china-start.org/))
+* **22-27/09/19, Bangkok (Thailand)**, Business trip (Speaker at [Bio Investment Asia](http://www.bioinvestmentasia.com/))
+* **12-20/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Business trip ([China Start](https://www.china-start.org/))
 * **27/10 - 01/11/19, Hong Kong (China)**, Business trip (UBS Disruptive Technology CEO Summit)
 * 11-13/11/19, Dubai (UAE), Business trip (Speaker at UBS Health Tech Perspectives)
 * **21-24/11/19, Iaşi (Romania)**, Business trip (Speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
@@ -22,6 +21,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2020**
 
+* **07-12/09/19, Orlando, FL (USA)**, Business trip (selected for [NASA iTech](https://www.nasaitech.com/ignite-the-night) event)
 * **01-31/01/20, Vancouver (Canada)**, Personal trip
 * **09-13/03/20, Orlando (USA)**, Business trip (HIMSS)
 * 14-19/03/20, Tokyo (Japan), Business trip (Medtec Japan)
