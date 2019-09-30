@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2019-09-14T01:50:28+00:00
+date: 2019-09-22T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* **22-27/09/19, Bangkok (Thailand)**, Business trip (Speaker at [Bio Investment Asia](http://www.bioinvestmentasia.com/))
 * **12-20/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Business trip ([China Start](https://www.china-start.org/))
 * **27/10 - 01/11/19, Hong Kong (China)**, Business trip (UBS Disruptive Technology CEO Summit)
 * **04-06/11/19, Dubai (UAE)**, Business trip (Speaker at UBS Health Tech Perspectives)
@@ -21,7 +20,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2020**
 
-* **07-12/09/19, Orlando, FL (USA)**, Business trip (selected for [NASA iTech](https://www.nasaitech.com/ignite-the-night) event)
 * **01-31/01/20, Vancouver (Canada)**, Personal trip
 * **09-13/03/20, Orlando (USA)**, Business trip (HIMSS)
 * 14-19/03/20, Tokyo (Japan), Business trip (Medtec Japan)
@@ -38,6 +36,10 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **22-27/09/19, Bangkok (Thailand)**, Business trip (Speaker at [Bio Investment Asia](http://www.bioinvestmentasia.com/))
+* **17/09/19, Madrid (Spain)**, Personal and business trip
+* **13/09/19, Madrid (Spain)**, Personal and business trip
+* **07-12/09/19, Orlando, FL (USA)**, Business trip (selected for [NASA iTech](https://www.nasaitech.com/ignite-the-night) event)
 * **12-24/08/19, Bangkok (Thailand)**, Business trip
 * **04/07 - 05/08/19, New York, NY (USA)**, Personal and business trip (NYU)
 * **30/05/19, Madrid (Spain)**, Personal and business trip
