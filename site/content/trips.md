@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2019-09-22T01:50:28+00:00
+date: 2019-10-08T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -16,11 +16,10 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * **27/10 - 01/11/19, Hong Kong (China)**, Business trip (UBS Disruptive Technology CEO Summit)
 * **04-06/11/19, Dubai (UAE)**, Business trip (Speaker at UBS Health Tech Perspectives)
 * **21-24/11/19, Iaşi (Romania)**, Business trip (Speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
-* 01-06/12/19, Chicago, IL (USA), Business trip (RSNA)
+* **30/11/19 - 31/01/20, Vancouver (Canada)**, Personal trip
 
 **2020**
 
-* **01-31/01/20, Vancouver (Canada)**, Personal trip
 * **09-13/03/20, Orlando (USA)**, Business trip (HIMSS)
 * 14-19/03/20, Tokyo (Japan), Business trip (Medtec Japan)
 * 07-25/04/20, Papeete (Tahiti), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (French Polynesia), Hanga Roa (Easter Island - Chile), Lima (Peru), Personal trip (invited to [cruise in the Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
