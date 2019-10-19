@@ -12,14 +12,17 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* **12-20/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Business trip ([China Start](https://www.china-start.org/))
-* **27/10 - 01/11/19, Hong Kong (China)**, Business trip (UBS Disruptive Technology CEO Summit)
+* **27/10 - 01/11/19, Hong Kong (China)**, Business trip (UBS Disruptive Technology CEO Summit and [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-apac-2019/home/))
+* 29-31/10/19, Doha (Qatar), Business trip (Qitcom)
 * **04-06/11/19, Dubai (UAE)**, Business trip (Speaker at UBS Health Tech Perspectives)
 * **21-24/11/19, Iaşi (Romania)**, Business trip (Speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
 * **30/11/19 - 31/01/20, Vancouver (Canada)**, Personal trip
 
 **2020**
 
+* 02-04/01/20, Shanghai (China), Business trip 
+* 03/01/20, Paris (France), Business trip (Huawei Event)
+* 03/01/20, Helsinki (Finland), Business trip (HIMSS Future50 event)
 * **09-13/03/20, Orlando (USA)**, Business trip (HIMSS)
 * 14-19/03/20, Tokyo (Japan), Business trip (Medtec Japan)
 * 07-25/04/20, Papeete (Tahiti), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (French Polynesia), Hanga Roa (Easter Island - Chile), Lima (Peru), Personal trip (invited to [cruise in the Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
@@ -35,6 +38,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **12-20/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Business trip ([China Start](https://www.china-start.org/))
 * **22-27/09/19, Bangkok (Thailand)**, Business trip (Speaker at [Bio Investment Asia](http://www.bioinvestmentasia.com/))
 * **17/09/19, Madrid (Spain)**, Personal and business trip
 * **13/09/19, Madrid (Spain)**, Personal and business trip
