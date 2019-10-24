@@ -16,7 +16,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * 04-05/11/19, Paris (France), Business trip (Huawei Eco-Connect Europe event)
 * **04-06/11/19, Dubai (UAE)**, Business trip (Speaker at UBS Health Tech Perspectives)
 * **21-24/11/19, Iaşi (Romania)**, Business trip (Speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
-* 26/11/19, Beijing (China), Business trip
+* **25-27/11/19, Hangzhou (China)**, Business trip
 * **30/11/19 - 31/01/20, Vancouver (Canada)**, Personal trip
 * 03/12/19, Helsinki (Finland), Business trip
 * 15/12/19, Shanghai (China), Business trip
