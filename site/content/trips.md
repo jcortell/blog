@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2019-10-24T01:50:28+00:00
+date: 2019-11-02T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,18 +12,16 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* **27/10 - 01/11/19, Hong Kong (China)**, Business trip (UBS Disruptive Technology CEO Summit and [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-apac-2019/home/))
-* 04-05/11/19, Paris (France), Business trip (Huawei Eco-Connect Europe event)
 * **04-06/11/19, Dubai (UAE)**, Business trip (Speaker at UBS Health Tech Perspectives)
 * **21-24/11/19, Iaşi (Romania)**, Business trip (Speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
-* **25-27/11/19, Hangzhou (China)**, Business trip
+* **25-27/11/19, Hangzhou (China)**, Business trip (Cybernaut)
 * **30/11/19 - 31/01/20, Vancouver (Canada)**, Personal trip
-* 03/12/19, Helsinki (Finland), Business trip
-* 15/12/19, Shanghai (China), Business trip
+* 02-06/12/19, Shanghai (China), Business trip (CENTI-HITS)
+* 03/12/19, Helsinki (Finland), Business trip (HIMSS Future50)
+* **15/12/19, Shanghai (China)**, Business trip (Wowo & Fosun Protechting Innovation Camp Final Round)
 
 **2020**
 
-* 02-04/01/20, Shanghai (China), Business trip
 * **09-13/03/20, Orlando (USA)**, Business trip (HIMSS)
 * 14-19/03/20, Tokyo (Japan), Business trip (Medtec Japan)
 * **07-25/04/20, Papeete (Tahiti), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (French Polynesia), Hanga Roa (Easter Island - Chile), Lima (Peru)**, Personal trip (invited to [cruise in the Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
@@ -39,6 +37,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **27/10 - 01/11/19, Hong Kong (China)**, Business trip (UBS Disruptive Technology CEO Summit and [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-apac-2019/home/))
 * **12-20/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Business trip ([China Start](https://www.china-start.org/))
 * **22-27/09/19, Bangkok (Thailand)**, Business trip (Speaker at [Bio Investment Asia](http://www.bioinvestmentasia.com/))
 * **17/09/19, Madrid (Spain)**, Personal and business trip
