@@ -12,13 +12,13 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2019**
 
-* **13/11/19, Madrid (Spain)**, Business trip
 * **21-24/11/19, Iaşi (Romania)**, Business trip (Speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
 * **25-27/11/19, Hangzhou (China)**, Business trip (Cybernaut)
 * **30/11/19 - 31/01/20, Vancouver (Canada)**, Personal trip
 * 02-06/12/19, Shanghai (China), Business trip (CENTI-HITS)
 * 03/12/19, Helsinki (Finland), Business trip (HIMSS Future50)
-* **15/12/19, Shanghai (China)**, Business trip (Wowo & Fosun Protechting Innovation Camp Final Round)
+* 04/12/19, London (UK), Business trip (KPMG Investment Dinner)
+* **14-16/12/19, Shanghai (China)**, Business trip (Wowo & Fosun Protechting Innovation Camp Final Round)
 
 **2020**
 
@@ -37,6 +37,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **13/11/19, Malaga (Spain)**, Business trip
 * **04-06/11/19, Dubai (UAE)**, Business trip (Speaker at UBS Health Tech Perspectives)
 * **27/10 - 01/11/19, Hong Kong (China)**, Business trip (UBS Disruptive Technology CEO Summit and [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-apac-2019/home/))
 * **12-20/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Business trip ([China Start](https://www.china-start.org/))
