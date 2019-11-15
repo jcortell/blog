@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2019-11-07T01:50:28+00:00
+date: 2019-11-15T01:50:28+00:00
 author: Jorge Cortell
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -15,7 +15,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * **21-24/11/19, Iaşi (Romania)**, Business trip (Speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
 * **25-27/11/19, Hangzhou (China)**, Business trip (Cybernaut)
 * **30/11/19 - 31/01/20, Vancouver (Canada)**, Personal trip
-* 02-06/12/19, Shanghai (China), Business trip (CENTI-HITS)
 * 03/12/19, Helsinki (Finland), Business trip (HIMSS Future50)
 * 04/12/19, London (UK), Business trip (KPMG Investment Dinner)
 * **14-16/12/19, Shanghai (China)**, Business trip (Wowo & Fosun Protechting Innovation Camp Final Round)
