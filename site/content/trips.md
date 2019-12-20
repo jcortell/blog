@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2019-12-19T01:50:28+00:00
+date: 2019-12-20T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2020**
 
-* **16/01/20, Brussels (Belgium)**, Business trip
+* **15-17/01/20, Brussels (Belgium)**, Business trip
 * **22-24/01/20, Boston (USA)**, Business trip (Invited to lecture at MIT)
 * 24/01 - 19/02/20, Fort Erie (Canada), Personal trip
 * **09-13/03/20, Orlando (USA)**, Business trip (HIMSS)
