@@ -23,13 +23,9 @@ I was invited to attend the HIMSS Stakeholder Meeting at Messukeskus, where I wa
 > "These are the people whom we should look to for the future of healthcare. These leaders have the potential to influence digital health in Europe and globally, with regards to both policy, practice and patients.”
 Sean Roberts, Vice President of HIMSS EMEA
 
-HIMSS (Healthcare Information Management System and Society) has more than 80,000 individuals, 475 provider organizations and 650 health services organizations as members.
+HIMSS (Healthcare Information Management System and Society) has more than 80,000 individuals, 475 provider organizations and 650 health services organizations as members. A few days later, I was featured in the HIMSS Insights (8.2) publication.
 
 I stayed at Scandic Grand Marina hotel. Not that interesting.
-
-A few days later, I was featured in the HIMSS Insights (8.2) publication:
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6613143627113869316" allowfullscreen="" title="Embedded post" width="504" height="430" frameborder="0"></iframe>
 
 Photos: https://photos.app.goo.gl/VusNrGTXnHGJ3Lxd7
 
