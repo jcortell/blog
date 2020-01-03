@@ -69,7 +69,7 @@ canonifyurls = true
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "https://web.cortell.net/sobre.html"
+  url = "https://jorge.cortell.net"
 
 [[menu.links]]
   weight = 0
@@ -191,7 +191,7 @@ canonifyurls = true
 
   # Customize like of author avatar in sidebar
   [params.sidebar.profile]
-   url = "https://www.cortell.net/about.html"
+   url = "https://www.cortell.net"
 
   # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
  [params.footer]
