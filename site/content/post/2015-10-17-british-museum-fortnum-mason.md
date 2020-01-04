@@ -1,6 +1,6 @@
 ---
 id: 7658
-title: 'British Museum &#038; Fortnum &#038; Mason'
+title: 'British Museum and Fortnum & Mason'
 date: 2015-10-17T22:49:41+00:00
 author: Jorge Cortell
 layout: post
