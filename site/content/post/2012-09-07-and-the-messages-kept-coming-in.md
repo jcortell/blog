@@ -1,6 +1,6 @@
 ---
 id: 4282
-title: 'And the messages kept coming in&#8230;'
+title: 'And the messages kept coming in'
 date: 2012-09-07T09:25:17+00:00
 author: Jorge Cortell
 layout: post
