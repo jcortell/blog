@@ -1,6 +1,6 @@
 ---
 id: 3963
-title: 'Madison Square Garden: the L&#039;Arc~en~Ciel concert'
+title: 'Madison Square Garden: the LArc~en~Ciel concert'
 date: 2012-03-25T23:16:08+00:00
 author: Jorge Cortell
 layout: post

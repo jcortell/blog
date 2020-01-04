@@ -1,6 +1,10 @@
 ---
 title: Trips
+<<<<<<< Updated upstream
 date: 2020-01-03T01:50:28+00:00
+=======
+date: 2019-11-06T01:50:28+00:00
+>>>>>>> Stashed changes
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -10,6 +14,19 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 **Bold** = confirmed; otherwise = tentative:
 
 
+<<<<<<< Updated upstream
+=======
+**2019**
+
+* **13/10/19, Malaga (Spain)**, Business trip
+* **21-24/11/19, Iaşi (Romania)**, Business trip (Speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
+* **25-27/11/19, Hangzhou (China)**, Business trip (Cybernaut)
+* **30/11/19 - 31/01/20, Vancouver (Canada)**, Personal trip
+* 02-06/12/19, Shanghai (China), Business trip (CENTI-HITS)
+* 03/12/19, Helsinki (Finland), Business trip (HIMSS Future50)
+* **15/12/19, Shanghai (China)**, Business trip (Wowo & Fosun Protechting Innovation Camp Final Round)
+
+>>>>>>> Stashed changes
 **2020**
 
 * **15-17/01/20, Brussels (Belgium)**, Business trip
@@ -32,6 +49,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+<<<<<<< Updated upstream
 * **14-16/12/19, Shanghai (China)**, Business trip (Wowo & Fosun Protechting Innovation Camp Final Round)
 * **04/12/19, London (UK)**, Business trip (KPMG Investment Dinner)
 * **03/12/19, Helsinki (Finland)**, Business trip (HIMSS Future50)
@@ -39,6 +57,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 * **25-29/11/19, Hangzhou (China)**, Business trip (Cybernaut)
 * **21-24/11/19, Iaşi (Romania)**, Business trip (Speaker at [Romanian Oncology Conference 2019](http://inscrieri.oncologieiasi.ro))
 * **13/11/19, Malaga (Spain)**, Business trip
+=======
+>>>>>>> Stashed changes
 * **04-06/11/19, Dubai (UAE)**, Business trip (Speaker at UBS Health Tech Perspectives)
 * **27/10 - 01/11/19, Hong Kong (China)**, Business trip (UBS Disruptive Technology CEO Summit and [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-apac-2019/home/))
 * **12-20/10/19, Beijing-Hangzhou-Shanghai-Shenzhen (China)**, Business trip ([China Start](https://www.china-start.org/))

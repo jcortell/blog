@@ -1,6 +1,6 @@
 ---
 id: 7373
-title: 'Bitcoin &#8211; block chain event in New York'
+title: 'Bitcoin and block chain event in New York'
 date: 2015-02-16T16:00:12+00:00
 author: Jorge Cortell
 layout: post
