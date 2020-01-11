@@ -73,10 +73,10 @@ canonifyurls = true
 
 [[menu.links]]
   weight = 1
-  identifier = "spanish"
-  name = "Spanish"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-flag-o\"></i>"
-  url = "https://bloges.cortell.net"
+  identifier = "rss"
+  name = "RSS"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
+  url = "/index.xml"  
 [[menu.links]]
   weight = 2
   identifier = "linkedin"
@@ -89,12 +89,23 @@ canonifyurls = true
   name = "Twitter"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
   url = "https://twitter.com/jorgecortell"
-[[menu.links]]
   weight = 4
+  identifier = "mastodon"
+  name = "Mastodon"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-retweet\"></i>"
+  url = "https://mas.to/@uno"
+[[menu.links]]
+  weight = 5
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/jcortell"
+[[menu.links]]
+  weight = 6
+  identifier = "tumblr"
+  name = "Tumblr"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tumblr\"></i>"
+  url = "https://jcortell.tumblr.com/"
 #[[menu.links]]
 #  weight = 1
 #  identifier = "stackoverflow"
@@ -103,11 +114,11 @@ canonifyurls = true
 #  url = "https://stackoverflow.com/users/636472/kakawait"
 
 [[menu.misc]]
-  weight = 1
-  identifier = "rss"
-  name = "RSS"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
-  url = "/index.xml"
+weight = 1
+  identifier = "spanish"
+  name = "Spanish"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-flag-o\"></i>"
+  url = "https://bloges.cortell.net"
 
 [params]
   # Customize date format use to render blog post date, categories and other
@@ -145,7 +156,7 @@ canonifyurls = true
   #    large sidebar is swiped on all lower screens
   # 5: Display header bar on all screens and large sidebar is swiped on large screen
   # 6: Display header bar on all screens and medium sidebar is swiped
-  sidebarBehavior = 1
+  sidebarBehavior = 2
 
   # Your blog cover picture. I STRONGLY recommend you to use a CDN to speed up loading of pages.
   # There is many free CDN like Cloudinary or you can also use indirectly
@@ -207,6 +218,16 @@ canonifyurls = true
     name = "Twitter"
     icon = "fa-twitter"
     url = "https://twitter.com/intent/tweet?text=%s"
+
+  [[params.sharingOptions]]
+    name = "Reddit"
+    icon = "fa-reddit"
+    url = "https://www.reddit.com/submit?url=%s"
+
+  [[params.sharingOptions]]
+    name = "HackerNews"
+    icon = "fa-hacker-news"
+    url = "https://news.ycombinator.com/submitlink?u=%s"
 
   # [[params.sharingOptions]]
   # name = "Google+"
