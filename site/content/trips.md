@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-01-10T01:50:28+00:00
+date: 2020-01-17T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2020**
 
-* **14-17/01/20, Brussels (Belgium)**, Business trip
 * **22-24/01/20, Boston (USA)**, Business trip (Invited to lecture at MIT)
 * **24/01/ - 11/02/20, Fort Erie (Canada)**, Personal trip
 * **28/01/20, Dallas Ft. Worth (USA)**, Business trip
@@ -36,6 +35,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2019**
 
+* **14-17/01/20, Brussels (Belgium)**, Business trip
 * **14-16/12/19, Shanghai (China)**, Business trip (Wowo & Fosun Protechting Innovation Camp Final Round)
 * **04/12/19, London (UK)**, Business trip (KPMG Investment Dinner)
 * **03/12/19, Helsinki (Finland)**, Business trip (HIMSS Future50)
