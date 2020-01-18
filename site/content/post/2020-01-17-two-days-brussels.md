@@ -20,11 +20,11 @@ On Tuesday I flew from Vancouver to Brussels to attend a pre-departure meeting a
 
 For the first time, after so many flights, I took a combo flight+train by AirFrance. All easy and seamless, with the TGV train station inside the CDG airport, arriving in Brussels on Wednesday.
 
-The event, which took place at the [Sheraton Brussels Airport Hotel](https://www.marriott.com/hotels/travel/brusi-sheraton-brussels-airport-hotel/), which had one of those awesome Zumex machines to make freshly squeezed orange juice (too bad the oranges were not good). Meeting on Thursday 40 of the top MedTech companies in Europe was great, after an early morning call with an investment bank, was well organized and quite useful. But what I enjoyed the most, of course, was art.
+The event took place at the [Sheraton Brussels Airport Hotel](https://www.marriott.com/hotels/travel/brusi-sheraton-brussels-airport-hotel/), which had one of those awesome Zumex machines to make freshly squeezed orange juice (too bad the oranges were not good). Meeting on Thursday 40 of the top MedTech companies in Europe was great, after an early morning call with an investment bank. It was well organized and quite useful. But what I enjoyed the most, of course, was art.
 
 Fortunately, on Thursdays Bozar opens until 21:00h, which allowed me to take the train from the airport straight into the Central Station, and spend several hours enjoying some of their exhibitions, not only their highlights Keith Haring (which, with its completely valid contemporary commentaries, totally took me back to my first visits to NY in the 80s and 90s) and Brancusi, but also the nice exhibition Datami, and the interesting installation La Mente Che Mente. Special mention to something most people miss: the display of early motion picture devices at the Bozar Cinema lobby.
 
-Most moving of all was the old lady, back completely hunched, barely able to walk, that braved the stairs up to exhibition space upstairs from the Bozar Cafe,to see Datami, and art exhibition about computers and big data. RESPECT.
+Most moving of all was the old lady, back completely hunched, barely able to walk, that braved the stairs up to exhibition space upstairs from the Bozar Cafe, to see Datami, an art exhibition about computers and big data. RESPECT.
 
 [Photos here](https://photos.app.goo.gl/9rswMAcwE6K7yizq9).
 
