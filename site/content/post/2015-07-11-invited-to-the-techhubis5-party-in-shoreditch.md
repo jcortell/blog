@@ -1,6 +1,6 @@
 ---
 id: 7575
-title: 'Invited to the #TechHubIs5 Party in Shoreditch'
+title: 'Invited to the TechHubIs5 Party in Shoreditch'
 date: 2015-07-11T16:27:44+00:00
 author: Jorge Cortell
 layout: post
