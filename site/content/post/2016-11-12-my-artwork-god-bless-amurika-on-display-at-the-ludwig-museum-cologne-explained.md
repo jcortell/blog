@@ -1,6 +1,6 @@
 ---
 id: 8111
-title: 'My artwork “God bless #Amurika”, on display at the Ludwig Museum (Cologne), explained'
+title: 'My artwork “God bless Amurika”, on display at the Ludwig Museum (Cologne), explained'
 date: 2016-11-12T09:26:59+00:00
 author: Jorge Cortell
 layout: post
@@ -55,7 +55,7 @@ In Cloud 1 I wrote:
   * Improve: it is what should happen in that journey, constant improvement, aspiring to go higher. Not to trump anyone, but to gain perspective and understanding.
   * Aspire: what will drive that improvement. Not “ambition”.
   * Pride: not the kind that gives us a wrong and rotten feeling of superiority in an artificially stratified society, but the kind that we feel inside, when we overcome challenges, when we improve compared to our previous self. As “we” are always changing, for we are what we want and mean to be.
-  
+
     Inspire: because, in the end, we are a group (society, species, family, ‘hood… however you look at it). And our well-being can only come from the well-being of all the members in the group. We should and must take care of each other, helping propel each other higher and higher.
 
 In Cloud 2:
@@ -66,11 +66,11 @@ In Cloud 2:
   * Equality / Share: Didn’t they tell you as a kid? Share. When did we stop thinking that was a good idea? When did “the other” become someone to be worried about, or even scared of? When will we realize that there is no “other”, that we are all “we”?
 
 At the bottom, inside a “speech balloon”, I wrote:
-  
+
 Thank you Obama, but it was not enough
-  
+
 #MichelleForPresident2020
-  
+
 Because if we are to remain in a representative democracy, Michelle Obama might make a great president.
 
 I added my signature, and for the date I wrote:
@@ -80,5 +80,5 @@ The day the USA woke up to reality: Nov. 9, 2016
 Notice how in the picture I wrote all that in ALL CAPS to reflect the common online practice of using all caps convey a scream. A scream because this election has been more about shouting than it has been about reasoning. And because I want to shout, to scream in a different way: to reach the world, to spread the message. Finally a scream as a primal instinct. A shout because it hurts, because I’m angry, because I need to shout.
 
 That’s, in a nutshell, what I meant, what I wanted to say.
-  
+
 Good luck and good night.
