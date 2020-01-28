@@ -12,9 +12,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2020**
 
-* **22-24/01/20, Boston (USA)**, Business trip (Invited to lecture at MIT)
 * **24/01/ - 11/02/20, Fort Erie (Canada)**, Personal trip
-* **28/01/20, Dallas Ft. Worth (USA)**, Business trip
 * **29-31/01/20, Bogota (Colombia)**, Business trip
 * **23-29/02/20, Bangkok (Thailand)**, Business trip (Speaker at the Thailand Pathology Congress)
 * **05-06/03/20, Zurich (Switzerland)**, Business trip (UBS [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-switzerland-2020))
@@ -33,9 +31,14 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 
+**2020**
+
+* **28/01/20, Dallas Ft. Worth (USA)**, Business trip
+* **22-24/01/20, Boston (USA)**, Business trip (Invited to lecture at MIT)
+* **14-17/01/20, Brussels (Belgium)**, Business trip
+
 **2019**
 
-* **14-17/01/20, Brussels (Belgium)**, Business trip
 * **14-16/12/19, Shanghai (China)**, Business trip (Wowo & Fosun Protechting Innovation Camp Final Round)
 * **04/12/19, London (UK)**, Business trip (KPMG Investment Dinner)
 * **03/12/19, Helsinki (Finland)**, Business trip (HIMSS Future50)
