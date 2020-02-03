@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-Having a JAM stack with a static generator CMS  under VC in Git with automated CI/CD through a global CDN is great for many reasons (speed, security, scaleability...) but what happens when a new version decides to change which characters are accepted in the build and which ones are deemed invalid? Then you have a problem that in my case spawn over more than two thousand files. How to fix it without spending days with a word processor? CLI to the rescue.
+Having a <abbr title="JavaScript, APIs, and Markup">JAM</abbr> stack with a static generator CMS  under VC in Git with automated CI/CD through a global CDN is great for many reasons (speed, security, scalability...) but what happens when a new version decides to change which characters are accepted in the build and which ones are deemed invalid? Then you have a problem that in my case spawn over more than two thousand files. How to fix it without spending days with a word processor? CLI to the rescue.
 
 <!--more-->
 
