@@ -14,11 +14,13 @@ metaAlignment: center
 coverMeta: out
 ---
 
-Having a <abbr title="JavaScript, APIs, and Markup">JAM</abbr> stack with a static generator CMS  under VC in Git with automated CI/CD through a global CDN is great for many reasons (speed, security, scalability...) but what happens when a new version decides to change which characters are accepted in the build and which ones are deemed invalid? Then you have a problem that in my case spawn over more than two thousand files. How to fix it without spending days with a word processor? CLI to the rescue.
+How to fix a problem that spawns over more than two thousand files without spending days with a word processor? CLI to the rescue.
 
 <!--more-->
 
-I'm not nearly as much of a CLI master as my friends Alvaro or Santiago. But I love to learn new tricks, and get a kick out of the power of the terminal.
+Having a JAM[^jam] stack with a static generator CMS[^cms]  under VC[^vc] in Git with automated CI/CD[^cid] through a global CDN[^cdn] is great for many reasons (speed, security, scalability...) but what happens when a new version decides to change which characters are accepted in the build and which ones are deemed invalid? Then you have a problem that in my case spawn over more than two thousand files.
+
+I'm not nearly as much of a CLI[^cli] master as my friends Alvaro or Santiago. But I love to learn new tricks, and get a kick out of the power of the terminal.
 
 In this case I had to locate a number of "offending characters" (left overs from a previous blog engine migration, that handled the text encoding differently) in thousands of files, and then do a "replace with" in all of them at once.
 
@@ -46,3 +48,10 @@ find . -type f -exec sed -i 's/&#8230;/.../g' {} +
 And, just like magic, in the blink of an eye, all the offending occurrences of `&#8230;` were turned into `...`.
 
 That is, in essence, what lies at the heart of modern software and data transformation. Unix, still so brilliant after over half a century.
+
+[^jam]: JavaScript, APIs, and Markup
+[^cms]: Content Management System
+[^vc]: Version Control
+[^cid]: Continuous Integration / Continuous Delivery
+[^cdn]: Content Delivery Network
+[^cli]: Command Line Interface
