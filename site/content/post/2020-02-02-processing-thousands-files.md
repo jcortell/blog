@@ -1,7 +1,7 @@
 ---
 author: ""
 date: "2020-02-02T01:00:24+02:00"
-draft: true
+draft: false
 title: "Processing thousands of files using Terminal commands"
 tags: ["technology", "work", "geek"]
 images: "https://p1.pxfuel.com/preview/595/744/913/monitor-screen-browser-computer.jpg"
