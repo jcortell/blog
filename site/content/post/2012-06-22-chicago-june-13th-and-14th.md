@@ -4,7 +4,7 @@ title: Chicago June 13th and 14th
 date: 2012-06-22T17:59:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4204
+guid: https://cortell.net/blog/?p=4204
 permalink: /blog/2012/06/22/chicago-june-13th-and-14th/
 wpsd_autopost:
   - "1"
@@ -29,6 +29,6 @@ On June 13th and 14th I went to Chicago. Here are a few anecdotes.
   [mudslide:picasa,0,111219615350942087056,5755877679307920161]
 </p>
 
-So, once in Chicago, straight to my first meeting at IBM Innovation Center. Intense, interesting... and off to my <a title="http://www.getawayhostel.com" href="http://www.getawayhostel.com" target="_blank">hotel</a> for a few hours of preparing for the next day (and BIG meeting). The next day, great presentations and meetings (including lunch with the big boss), and something very interesting: they had a Watson interactive kiosk with which anyone could try and compete at Jeopardy. But more on that in another post.
+So, once in Chicago, straight to my first meeting at IBM Innovation Center. Intense, interesting... and off to my <a title="https://www.getawayhostel.com" href="https://www.getawayhostel.com" target="_blank">hotel</a> for a few hours of preparing for the next day (and BIG meeting). The next day, great presentations and meetings (including lunch with the big boss), and something very interesting: they had a Watson interactive kiosk with which anyone could try and compete at Jeopardy. But more on that in another post.
 
 And straight to the airport where a woman told me the real reason why Chicago is called "the windy city" is not because of the lake effect and nasty wind gusts, but because of their "windy" politicians. Bull or not, that`s what she said. So long, Chicago.

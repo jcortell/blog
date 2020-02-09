@@ -4,14 +4,14 @@ title: Madrid, London, and Valencia
 date: 2014-06-21T15:31:09+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7112
+guid: https://blog.cortell.net/?p=7112
 permalink: /blog/2014/06/21/madrid-london-and-valencia/
 categories:
   - General
   - "Life's pleasures"
   - Personal
 ---
-After a weekend in Valencia, last Monday I went to Madrid. Awesome high speed train from Valencia in the morning, business presentation, and a delicious Japanese lunch at <a title="http://www.restaurantekabuki.com/" href="http://www.restaurantekabuki.com/" target="_blank">Kabuki</a> with my friends Juan and Alvaro. So good was the lunch and company that I almost missed my flight. It did not help that I went to Terminal 4 as usual, when my flight to London departed from Terminal 1, and in the Adolfo Suarez Madrid Barajas airport, it takes a long time to go from terminal to terminal.
+After a weekend in Valencia, last Monday I went to Madrid. Awesome high speed train from Valencia in the morning, business presentation, and a delicious Japanese lunch at <a title="https://www.restaurantekabuki.com/" href="https://www.restaurantekabuki.com/" target="_blank">Kabuki</a> with my friends Juan and Alvaro. So good was the lunch and company that I almost missed my flight. It did not help that I went to Terminal 4 as usual, when my flight to London departed from Terminal 1, and in the Adolfo Suarez Madrid Barajas airport, it takes a long time to go from terminal to terminal.
 
 I arrived in London Monday night.
 

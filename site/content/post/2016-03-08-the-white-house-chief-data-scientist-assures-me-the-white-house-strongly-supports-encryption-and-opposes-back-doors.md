@@ -4,7 +4,7 @@ title: The White House Chief Data Scientist assures me the White House strongly 
 date: 2016-03-08T13:01:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7828
+guid: https://blog.cortell.net/?p=7828
 permalink: /blog/2016/03/08/the-white-house-chief-data-scientist-assures-me-the-white-house-strongly-supports-encryption-and-opposes-back-doors/
 categories:
   - CyberRights

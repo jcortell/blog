@@ -34,7 +34,7 @@ After our swim, we departed towards our next port of call (Giardini Naxos) at 4p
 
 Internet speeds on a cruise ship are never blazing fast, but this one was the slowest I have ever suffered. I could even hear the 56k modem making its funny little hand-shake noises in my head!
 
-![Net speeds](http://res.cloudinary.com/jcortell/image/upload/v1504701023/CruiseNetSpeed_2017-09-01_19-01-16_p6dlbo.png) 
+![Net speeds](https://res.cloudinary.com/jcortell/image/upload/v1504701023/CruiseNetSpeed_2017-09-01_19-01-16_p6dlbo.png) 
 
 We ended the day with another delicious dinner and watching the movie 'Stranger than fiction'.
 

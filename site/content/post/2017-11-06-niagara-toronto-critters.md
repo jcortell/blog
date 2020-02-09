@@ -24,7 +24,7 @@ When we want to do a little outing, all we have to do is go to nearby beautiful 
 
 <div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jcortell/albums/72157689797923586&sort=5&by=album&theme=default&scale=fill&limit=100&skin=default&autoplay=true'></script>
 
-Even Toronto is not far. The other day I had to go to take a plane, so we made it a weekend outing, staying at the [Four Seasons Hotel](https://www.fourseasons.com/toronto/), visiting the [Ontario Science Centre](https://www.ontariosciencecentre.ca/), and having dinner at [Kasa Moto](http://www.kasamoto.ca/)  ([photos](https://www.flickr.com/photos/jcortell/sets/72157687293746922)).
+Even Toronto is not far. The other day I had to go to take a plane, so we made it a weekend outing, staying at the [Four Seasons Hotel](https://www.fourseasons.com/toronto/), visiting the [Ontario Science Centre](https://www.ontariosciencecentre.ca/), and having dinner at [Kasa Moto](https://www.kasamoto.ca/)  ([photos](https://www.flickr.com/photos/jcortell/sets/72157687293746922)).
 
 Although, truth be told, we're afraid the video below shows what the evolution of our idealized expectations and true experience is going to be like in the end [video in Spanish] :-)
 

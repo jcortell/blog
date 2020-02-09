@@ -4,7 +4,7 @@ title: 'In Tokyo, day 1: Asakusa'
 date: 2014-09-07T22:36:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7177
+guid: https://blog.cortell.net/?p=7177
 permalink: /blog/2014/09/07/in-tokyo-day-1/
 categories:
   - Art
@@ -16,7 +16,7 @@ The trip started with serious work.
 
 During the flight from Newark to Narita there were many movies available in the personal entertainment system, some quite appealing since I would not easily have access to them; movies like a selection from Tribeca Film Festival, _Bolt from the Blue, Genome Hazard, Horseplay, Samurai Hustle, The Monkey King, The Snow White Murder Case_, or TV shows like _Hanasaki Mai Speaks Out, Happy Camp, Secret Series, Tasty Road, Treasures of the Country_… but I had access to electrical current outlet plug, so I slept 4 hours and worked on my laptop for 9 hours straight, with “Creep” by Radiohead playing in single repeat mode. I love the song, and lyrics, since I re-discovered through the cover in Terry Gilliam’s _Zero Theorem_’s soundtrack.
 
-Thanks to <a title="http://www.seatguru.com/" href="http://www.seatguru.com/" target="_blank">SeatGuru</a> I knew I would have access to electricity, that’s why I self-imposed a tough challenge: to write a “Translational Bioinformatics Innovation” textbook for my students at the Open University of Catalonia (in Spanish), in one flight. In order to put more pressure onto myself, I tweeted it, #ChallengeAccepted hashtag included. And, guess what? I did it! Of course it needs a lot of editing. I might even translate it to English. In any case, as soon as it is completely ready, I will post it here for anyone to download with a CC (0) or )S( license, so anyone will be able to modify it, copy it, and even sell it.
+Thanks to <a title="https://www.seatguru.com/" href="https://www.seatguru.com/" target="_blank">SeatGuru</a> I knew I would have access to electricity, that’s why I self-imposed a tough challenge: to write a “Translational Bioinformatics Innovation” textbook for my students at the Open University of Catalonia (in Spanish), in one flight. In order to put more pressure onto myself, I tweeted it, #ChallengeAccepted hashtag included. And, guess what? I did it! Of course it needs a lot of editing. I might even translate it to English. In any case, as soon as it is completely ready, I will post it here for anyone to download with a CC (0) or )S( license, so anyone will be able to modify it, copy it, and even sell it.
 
 Once I arrived to Narita I took the KS line straight to my hotel, 55min., located in Sumida, literally across the new Tokyo SkyTree Tower.
 

@@ -4,7 +4,7 @@ title: A conversation with Walt Mossberg and Kara Swisher at NYU
 date: 2012-04-28T11:15:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4108
+guid: https://cortell.net/blog/?p=4108
 permalink: /blog/2012/04/28/a-conversation-with-walt-mossberg-and-kara-swisher-at-nyu/
 wpsd_autopost:
   - "1"
@@ -22,7 +22,7 @@ categories:
   <img class="aligncenter" title="NYU" src="https://lh6.googleusercontent.com/-1dKqln4AqTY/T5gyt2xgJAI/AAAAAAAABhs/-RxCJ6KjKtE/s828/20120424_194455.jpg" alt="" width="596" height="222" />
 </p>
 
-On Tuesday I went to New York University for a nice conversation in the <a title="http://www.incnyu.org/internet-garage/" href="http://www.incnyu.org/internet-garage/" target="_blank">Inside the Internet Garage</a> series, with journalists Walt Mossberg and Kara Swisher (<a title="http://allthingsd.com/" href="http://allthingsd.com/" target="_blank">AllThingsDigital</a>, Wall Street Journal, etc).
+On Tuesday I went to New York University for a nice conversation in the <a title="https://www.incnyu.org/internet-garage/" href="https://www.incnyu.org/internet-garage/" target="_blank">Inside the Internet Garage</a> series, with journalists Walt Mossberg and Kara Swisher (<a title="https://allthingsd.com/" href="https://allthingsd.com/" target="_blank">AllThingsDigital</a>, Wall Street Journal, etc).
 
 Besides the very interesting bio/background overview of them that the interviewer did, here are some quotes that caught my attention.
 

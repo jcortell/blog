@@ -4,7 +4,7 @@ title: 'Meetings in London (HSBC, Microsoft, solicitors, events...)'
 date: 2015-12-09T10:31:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7742
+guid: https://blog.cortell.net/?p=7742
 permalink: /blog/2015/12/09/meetings-in-london-hsbc-microsoft-solicitors-events/
 categories:
   - General

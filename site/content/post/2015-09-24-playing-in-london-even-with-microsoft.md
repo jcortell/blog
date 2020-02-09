@@ -4,7 +4,7 @@ title: Playing in London… even with Microsoft!
 date: 2015-09-24T09:01:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7626
+guid: https://blog.cortell.net/?p=7626
 permalink: /blog/2015/09/24/playing-in-london-even-with-microsoft/
 categories:
   - Copyfight

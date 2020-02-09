@@ -4,7 +4,7 @@ title: A few days in Lima and Bogota
 date: 2014-11-17T20:16:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7268
+guid: https://blog.cortell.net/?p=7268
 permalink: /blog/2014/11/17/a-few-days-in-lima-and-bogota/
 categories:
   - General

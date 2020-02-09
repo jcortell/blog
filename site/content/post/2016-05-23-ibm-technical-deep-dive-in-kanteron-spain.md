@@ -4,7 +4,7 @@ title: IBM technical deep dive in Kanteron Spain
 date: 2016-05-23T19:19:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7858
+guid: https://blog.cortell.net/?p=7858
 permalink: /blog/2016/05/23/ibm-technical-deep-dive-in-kanteron-spain/
 categories:
   - General

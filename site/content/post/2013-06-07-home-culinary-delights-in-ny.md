@@ -4,7 +4,7 @@ title: Home culinary delights in NY
 date: 2013-06-07T14:56:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4729
+guid: https://cortell.net/blog/?p=4729
 permalink: /blog/2013/06/07/home-culinary-delights-in-ny/
 categories:
   - "Life's pleasures"
@@ -18,7 +18,7 @@ categories:
 
 My friends and family in Valencia have serious doubts that one can eat in the USA as well as in Spain.
 
-Granted, Spain is a foodie`s paradise (by the way, amazing how many of the <a title="http://www.grubstreet.com/2013/04/worlds-50-best-restaurants-2013.html" href="http://www.grubstreet.com/2013/04/worlds-50-best-restaurants-2013.html" target="_blank">top 50 restaurants in the world</a> I have had the pleasure to try, the latest one being _Dinner by Heston Blumenthal_ in London thanks to Stephanie). But this little post goes to show that in New York (not exactly "representative of the whole USA") one can eat wonderfully well without the need to have a table at _Eleven Madison Park_, _Per Se_ or _Le Bernardin_.
+Granted, Spain is a foodie`s paradise (by the way, amazing how many of the <a title="https://www.grubstreet.com/2013/04/worlds-50-best-restaurants-2013.html" href="https://www.grubstreet.com/2013/04/worlds-50-best-restaurants-2013.html" target="_blank">top 50 restaurants in the world</a> I have had the pleasure to try, the latest one being _Dinner by Heston Blumenthal_ in London thanks to Stephanie). But this little post goes to show that in New York (not exactly "representative of the whole USA") one can eat wonderfully well without the need to have a table at _Eleven Madison Park_, _Per Se_ or _Le Bernardin_.
 
 [mudslide:picasa,0,111219615350942087056,5879888514160189441]
 

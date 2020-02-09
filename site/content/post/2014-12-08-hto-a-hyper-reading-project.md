@@ -4,7 +4,7 @@ title: 'HTO: a hyper-reading project'
 date: 2014-12-08T17:37:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7317
+guid: https://blog.cortell.net/?p=7317
 permalink: /blog/2014/12/08/hto-a-hyper-reading-project/
 categories:
   - Art
@@ -19,7 +19,7 @@ Iban M. G. and Ben Martin have launched a writing project that breaks the bounda
 
 Note: Literary review aside. I have not read the novel yet and, as a matter of fact, that`s irrelevant for the purposes of this post.
 
-[HTO. Hostile Takeover](http://www.htonovel.cc/) is a literary saga action and science fiction in Spanish. The first novel in the series,<a title="https://www.htonovel.cc/comprar" href="https://www.htonovel.cc/comprar" target="_blank">"El legado de Henry Bobson"</a> is already available for about $4.85 (€ 3.95) in eBook format licensed under Creative Commons with a reading mode they call [hyper-reading](http://www.htonovel.cc/hiperlectura). You can also read for free the first seven chapters of the novel from a new online reader they have developed. They have also created an [online enciclopedia](http://htonovel.cc/HTOpedia) to clarify concepts, characters, plots and the future of the project.
+[HTO. Hostile Takeover](https://www.htonovel.cc/) is a literary saga action and science fiction in Spanish. The first novel in the series,<a title="https://www.htonovel.cc/comprar" href="https://www.htonovel.cc/comprar" target="_blank">"El legado de Henry Bobson"</a> is already available for about $4.85 (€ 3.95) in eBook format licensed under Creative Commons with a reading mode they call [hyper-reading](https://www.htonovel.cc/hiperlectura). You can also read for free the first seven chapters of the novel from a new online reader they have developed. They have also created an [online enciclopedia](https://htonovel.cc/HTOpedia) to clarify concepts, characters, plots and the future of the project.
 
 As if this were not enough, once you buy the book you can download the novel in several formats, DRM-free, 4 times, and they even ask "please, share it with your friends using our PRO piracy system and your social networks."
 

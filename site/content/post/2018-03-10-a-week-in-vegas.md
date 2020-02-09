@@ -18,7 +18,7 @@ I spent a week in Las Vegas participating in the HIMSS trade show, both as exhib
 
 <!--more-->
 
-Between March 5th and March 10th I was in Las Vegas with my company, Kanteron Systems, as ([exhibitor](https://exhibitionfloor.himss.org/himss2018/Public/Exhibitors.aspx?Index=K#) at the ([HIMSS](http://www.himssconference.org/) trade show. I also participated in the ([Google](https://www.blog.google/topics/google-cloud/google-cloud-healthcare-new-apis-customers-partners-and-security-updates/) Partner Panel:
+Between March 5th and March 10th I was in Las Vegas with my company, Kanteron Systems, as ([exhibitor](https://exhibitionfloor.himss.org/himss2018/Public/Exhibitors.aspx?Index=K#) at the ([HIMSS](https://www.himssconference.org/) trade show. I also participated in the ([Google](https://www.blog.google/topics/google-cloud/google-cloud-healthcare-new-apis-customers-partners-and-security-updates/) Partner Panel:
 https://www.linkedin.com/feed/update/urn:li:activity:6377275573068271616
 
 There were also a ton of parties, receptions, cocktails, and similar social gatherings.

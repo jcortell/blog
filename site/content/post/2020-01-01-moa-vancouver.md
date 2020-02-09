@@ -22,7 +22,7 @@ The MoA is renowned for its displays of world arts and cultures, in particular w
 
 On top of their amazing permanent collection, they also have a new temporary group-exhibition called "Playing with fire: Ceramics of the extraordinary", featuring 11 BC-based artists who have created a series of awesome ceramic works. I particularly loved the works by [Brendan Tang](https://www.brendantang.com/).
 
-By the way, they have a really nice website, with tons of documentation and an excellent [online catalogue](http://collection-online.moa.ubc.ca/home) of nearly 50,000 digitized works, all under Creative Commons license. Nice!
+By the way, they have a really nice website, with tons of documentation and an excellent [online catalogue](https://collection-online.moa.ubc.ca/home) of nearly 50,000 digitized works, all under Creative Commons license. Nice!
 
 And, at least, on the bottom of their website, they mention:
 

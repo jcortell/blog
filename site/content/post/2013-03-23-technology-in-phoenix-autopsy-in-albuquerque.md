@@ -4,7 +4,7 @@ title: Technology in Phoenix, autopsy in Albuquerque
 date: 2013-03-23T16:56:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4650
+guid: https://cortell.net/blog/?p=4650
 permalink: /blog/2013/03/23/technology-in-phoenix-autopsy-in-albuquerque/
 wpsd_autopost:
   - "1"
@@ -19,11 +19,11 @@ categories:
   [mudslide:picasa,0,111219615350942087056,5858242196358685121]
 </p>
 
-4 flights and 40 hours later (after having missed <a title="http://www.grandcentralterminal.com/event/japan-week/2145410449" href="http://www.grandcentralterminal.com/event/japan-week/2145410449" target="_blank">Japan Week</a>), I am back in New York in the modern and technological Delta terminal (C, not D) at Laguardia Airport, with its tablets and card readers on all tables and bars at all bars and restaurants.What a difference from the Delta Terminal 4 at JFK! Luckily the new one will be finished in May, because the old one is falling apart.
+4 flights and 40 hours later (after having missed <a title="https://www.grandcentralterminal.com/event/japan-week/2145410449" href="https://www.grandcentralterminal.com/event/japan-week/2145410449" target="_blank">Japan Week</a>), I am back in New York in the modern and technological Delta terminal (C, not D) at Laguardia Airport, with its tablets and card readers on all tables and bars at all bars and restaurants.What a difference from the Delta Terminal 4 at JFK! Luckily the new one will be finished in May, because the old one is falling apart.
 
 Even the fastest business trips can be full of anecdotes. This time they were not all fun or nice ones, though.
 
-Wednesday, in Phoenix I learned how technology is put together and delivered via a very interesting "back stage" tour of one of <a title="http://www.avnet.com" href="http://www.avnet.com" target="_blank">Avnet</a>‘s largest integration facilities. It really makes you understand the technology delivery process much better.
+Wednesday, in Phoenix I learned how technology is put together and delivered via a very interesting "back stage" tour of one of <a title="https://www.avnet.com" href="https://www.avnet.com" target="_blank">Avnet</a>‘s largest integration facilities. It really makes you understand the technology delivery process much better.
 
 The next day, in Albuquerque I received a very different tour: probably the largest and best equipped medical examiner`s office in the world, where I had the "privilege" of seeing restricted areas like the evidence room, the refrigeration unit full of corpses (where we will all, one day or another, end up), and one of the hardest things I have seen in my life (and I have seen very very rough things): the autopsy of a baby and an adult.
 

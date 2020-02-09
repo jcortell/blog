@@ -4,7 +4,7 @@ title: At a WhiteBox NY exhibition closing party
 date: 2012-03-24T15:21:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3949
+guid: https://cortell.net/blog/?p=3949
 permalink: /blog/2012/03/24/at-a-whitebox-ny-exhibition-closing-party/
 wpsd_autopost:
   - "1"
@@ -19,14 +19,14 @@ categories:
   - Philosophy
 ---
 <p style="text-align: center">
-  <img class="aligncenter" title="Mookie Tenembaum Endgame" src="http://mookie-tenembaum.com/imagenes/endgame/03.jpg" alt="" width="492" height="369" />
+  <img class="aligncenter" title="Mookie Tenembaum Endgame" src="https://mookie-tenembaum.com/imagenes/endgame/03.jpg" alt="" width="492" height="369" />
 </p>
 
 Yesterday I attended WhiteBox`s exhibition closing party. The invitation said:
 
-> Author and curator <a title="http://raulzamudio.blogspot.com/" href="http://raulzamudio.blogspot.com/" target="_blank">Raul Zamudio</a> in conversation with <a title="http://mookie-tenembaum.com/" href="http://mookie-tenembaum.com/" target="_blank">Mookie Tenembaum</a>.
+> Author and curator <a title="https://raulzamudio.blogspot.com/" href="https://raulzamudio.blogspot.com/" target="_blank">Raul Zamudio</a> in conversation with <a title="https://mookie-tenembaum.com/" href="https://mookie-tenembaum.com/" target="_blank">Mookie Tenembaum</a>.
 > 
-> Please join us at <a title="http://www.whiteboxny.org/" href="http://www.whiteboxny.org/" target="_blank">White Box</a> for the closing reception of DISILLUSIONISM, and to engage in a stimulating conversation between Raul Zamudio and Mookie Tenembaum at 8pm sharp. Mookie will be presenting his new artist book, Paranoia. Malbec wines and truffles will be served.
+> Please join us at <a title="https://www.whiteboxny.org/" href="https://www.whiteboxny.org/" target="_blank">White Box</a> for the closing reception of DISILLUSIONISM, and to engage in a stimulating conversation between Raul Zamudio and Mookie Tenembaum at 8pm sharp. Mookie will be presenting his new artist book, Paranoia. Malbec wines and truffles will be served.
 
 Although I am grateful for the invitation, and it sure was an interesting event, some things just beg to be commented. Here are some curious trivia about the evening:
 

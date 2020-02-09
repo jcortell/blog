@@ -4,7 +4,7 @@ title: Crossing the border for a genetic test
 date: 2013-04-27T13:57:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4678
+guid: https://cortell.net/blog/?p=4678
 permalink: /blog/2013/04/27/crossing-the-border-for-a-genetic-test/
 wpsd_autopost:
   - "1"
@@ -25,7 +25,7 @@ So a few days later the kits came, with very detailed instructions and easy to f
 
 [mudslide:picasa,0,111219615350942087056,5867117073119704769]
 
-But being cautious as I am, I decided to research online, from reputable sources, the whole legal status of genetic sample and shipment in New York. Both, a <a title="http://www.legalgenealogist.com/blog/2012/12/23/ny-and-md-limits-on-23andme/" href="http://www.legalgenealogist.com/blog/2012/12/23/ny-and-md-limits-on-23andme/" target="_blank">genealogist</a> with a law degree, and a couple of <a title="http://silberzahnjones.com/2011/04/20/moores-law-steam-engines-and-genetic-technology/" href="http://silberzahnjones.com/2011/04/20/moores-law-steam-engines-and-genetic-technology/" target="_blank">scholars</a>, wrote posts about it with enough detail and information to make me reconsider my "who-cares" attitude.
+But being cautious as I am, I decided to research online, from reputable sources, the whole legal status of genetic sample and shipment in New York. Both, a <a title="https://www.legalgenealogist.com/blog/2012/12/23/ny-and-md-limits-on-23andme/" href="https://www.legalgenealogist.com/blog/2012/12/23/ny-and-md-limits-on-23andme/" target="_blank">genealogist</a> with a law degree, and a couple of <a title="https://silberzahnjones.com/2011/04/20/moores-law-steam-engines-and-genetic-technology/" href="https://silberzahnjones.com/2011/04/20/moores-law-steam-engines-and-genetic-technology/" target="_blank">scholars</a>, wrote posts about it with enough detail and information to make me reconsider my "who-cares" attitude.
 
 What was my only way out? To cross the border to produce and send the samples back. And that`s what I did. I took the train in Grand Central Station, rode to New Jersey, delivered to FedEx, and rode back. One hour later I had accomplished my mission of both getting what I wanted and abiding with the law. Annoying and stupid. But it`s the law. 
 

@@ -4,7 +4,7 @@ title: A couple days in Lisbon
 date: 2015-11-02T16:21:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7697
+guid: https://blog.cortell.net/?p=7697
 permalink: /blog/2015/11/02/a-couple-days-in-lisbon/
 categories:
   - General

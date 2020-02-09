@@ -4,7 +4,7 @@ title: Family Christmas in New York
 date: 2015-01-22T17:58:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7341
+guid: https://blog.cortell.net/?p=7341
 permalink: /blog/2015/01/22/family-christmas-in-new-york/
 categories:
   - General

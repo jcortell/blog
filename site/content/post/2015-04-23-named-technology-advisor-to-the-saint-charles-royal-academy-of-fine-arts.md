@@ -4,7 +4,7 @@ title: Named Technology Advisor to the Saint Charles Royal Academy of Fine Arts
 date: 2015-04-23T20:33:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7414
+guid: https://blog.cortell.net/?p=7414
 permalink: /blog/2015/04/23/named-technology-advisor-to-the-saint-charles-royal-academy-of-fine-arts/
 categories:
   - Art
@@ -12,7 +12,7 @@ categories:
   - "Life's pleasures"
   - Personal
 ---
-<img class="aligncenter" src="http://www.injuve.es/sites/default/files/imagecache/galeria_primera/2015/06/convocatorias/realacademiasancarlos.png" alt="" width="214" height="112" />
+<img class="aligncenter" src="https://www.injuve.es/sites/default/files/imagecache/galeria_primera/2015/06/convocatorias/realacademiasancarlos.png" alt="" width="214" height="112" />
 
 On March 23rd I was named Technology Advisor to the 250 year old Saint Charles Royal Academy of Fine Arts by its 56th president, Dr. Manuel Muñoz.
 

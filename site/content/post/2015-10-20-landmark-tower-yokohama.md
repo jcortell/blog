@@ -4,7 +4,7 @@ title: Landmark Tower Yokohama
 date: 2015-10-20T15:15:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7675
+guid: https://blog.cortell.net/?p=7675
 permalink: /blog/2015/10/20/landmark-tower-yokohama/
 categories:
   - General

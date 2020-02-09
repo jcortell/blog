@@ -4,7 +4,7 @@ title: UCL MechEng Party
 date: 2015-06-03T15:51:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7500
+guid: https://blog.cortell.net/?p=7500
 permalink: /blog/2015/06/03/ucl-mecheng-party/
 categories:
   - Art
@@ -21,6 +21,6 @@ It was a blast. A geek blast. Many featured projects, such as giant drone, hydro
 
 <img class="aligncenter" src="https://www.ucl.ac.uk/news/students/052015/cable-street-collective" alt="" width="193" height="193" />
 
-[Note: Congratulations on launching the <a href="http://www.ucl.ac.uk/news/news-articles/0515/270515-ucl-press#sthash.kQIw0GG9.dpuf" target="_blank">UK’s first fully Open Access university press</a>!!]
+[Note: Congratulations on launching the <a href="https://www.ucl.ac.uk/news/news-articles/0515/270515-ucl-press#sthash.kQIw0GG9.dpuf" target="_blank">UK’s first fully Open Access university press</a>!!]
 
 On my way home, a nice walk (although it’s still quite cold), I took some pictures of St. Paul’s Cathedral and the Millennium bridge, and enjoyed how quiet the streets get even before sunset.

@@ -4,7 +4,7 @@ title: Moving to a castle
 date: 2016-04-17T14:54:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7842
+guid: https://blog.cortell.net/?p=7842
 permalink: /blog/2016/04/17/moving-to-a-castle/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Horse riding surrounded by parks
 date: 2016-04-17T15:23:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7849
+guid: https://blog.cortell.net/?p=7849
 permalink: /blog/2016/04/17/horse-riding-surrounded-by-parks/
 categories:
   - Environment

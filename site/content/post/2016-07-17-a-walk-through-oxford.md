@@ -4,7 +4,7 @@ title: A walk through Oxford
 date: 2016-07-17T08:10:40+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7986
+guid: https://blog.cortell.net/?p=7986
 permalink: /blog/2016/07/17/a-walk-through-oxford/
 categories:
   - Art

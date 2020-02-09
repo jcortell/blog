@@ -4,7 +4,7 @@ title: 'Family Mediterranean Cruise Day 3: Rome'
 date: 2014-08-20T13:33:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7140
+guid: https://blog.cortell.net/?p=7140
 permalink: /blog/2014/08/20/family-mediterranean-cruise-day-3-rome/
 categories:
   - General

@@ -4,7 +4,7 @@ title: A couple days in Zürich
 date: 2015-11-19T10:44:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7732
+guid: https://blog.cortell.net/?p=7732
 permalink: /blog/2015/11/19/a-couple-days-in-zurich/
 categories:
   - Geek Fun

@@ -4,7 +4,7 @@ title: San Francisco, day 2
 date: 2016-09-14T00:33:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8018
+guid: https://blog.cortell.net/?p=8018
 permalink: /blog/2016/09/14/san-francisco-day-2/
 categories:
   - Geek Fun

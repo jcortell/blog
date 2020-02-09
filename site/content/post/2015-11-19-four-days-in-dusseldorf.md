@@ -4,7 +4,7 @@ title: Four days in Düsseldorf
 date: 2015-11-19T11:13:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7734
+guid: https://blog.cortell.net/?p=7734
 permalink: /blog/2015/11/19/four-days-in-dusseldorf/
 categories:
   - General

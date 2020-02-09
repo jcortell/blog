@@ -4,7 +4,7 @@ title: Visiting the London Design Museum
 date: 2016-11-30T08:53:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8134
+guid: https://blog.cortell.net/?p=8134
 permalink: /blog/2016/11/30/visiting-the-london-design-museum/
 categories:
   - Art

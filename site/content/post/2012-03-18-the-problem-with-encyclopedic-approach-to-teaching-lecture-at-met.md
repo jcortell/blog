@@ -4,7 +4,7 @@ title: 'The problem with encyclopedic approach to teaching: lecture at MET'
 date: 2012-03-18T14:21:00+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3916
+guid: https://cortell.net/blog/?p=3916
 permalink: /blog/2012/03/18/the-problem-with-encyclopedic-approach-to-teaching-lecture-at-met/
 wpsd_autopost:
   - "1"
@@ -15,9 +15,9 @@ categories:
   - NY
   - Personal
 ---
-Friday I attended the Annual Lecture on the Arts of South and Southeast Asia at the NY Metropolitan Museum of Art (<a title="http://www.metmuseum.org/events" href="http://www.metmuseum.org/events" target="_blank">MET</a>), delivered by <a title="http://www.soas.ac.uk/staff/staff30688.php" href="http://www.soas.ac.uk/staff/staff30688.php" target="_blank">Crispin Branfoot</a>, School of Oriental and African Studies, University of London. His <a title="https://plus.google.com/photos/111219615350942087056/albums/5720880222642868929" href="https://plus.google.com/photos/111219615350942087056/albums/5720880222642868929" target="_blank">lecture</a> was titled: "Making Madurai: Temple Arts in Early Modern South India".
+Friday I attended the Annual Lecture on the Arts of South and Southeast Asia at the NY Metropolitan Museum of Art (<a title="https://www.metmuseum.org/events" href="https://www.metmuseum.org/events" target="_blank">MET</a>), delivered by <a title="https://www.soas.ac.uk/staff/staff30688.php" href="https://www.soas.ac.uk/staff/staff30688.php" target="_blank">Crispin Branfoot</a>, School of Oriental and African Studies, University of London. His <a title="https://plus.google.com/photos/111219615350942087056/albums/5720880222642868929" href="https://plus.google.com/photos/111219615350942087056/albums/5720880222642868929" target="_blank">lecture</a> was titled: "Making Madurai: Temple Arts in Early Modern South India".
 
-Dr. Branfoot is, I am sure, a world renowned expert, and the MET has some wonderful education programs. And this one in particular was filled to capacity, such that I had to watch it from an adjacent "study room". So, definitely, this was a wonderful learning opportunity, right? Even worth missing the first part of the <a title="http://www.sva.edu/events/events-exhibitions/art-in-the-twenty-first-century-season-six-sneak-preview" href="http://www.sva.edu/events/events-exhibitions/art-in-the-twenty-first-century-season-six-sneak-preview" target="_blank">Art21 Season 6 sneak preview at School of Visual Arts (SVA)</a>, right? 
+Dr. Branfoot is, I am sure, a world renowned expert, and the MET has some wonderful education programs. And this one in particular was filled to capacity, such that I had to watch it from an adjacent "study room". So, definitely, this was a wonderful learning opportunity, right? Even worth missing the first part of the <a title="https://www.sva.edu/events/events-exhibitions/art-in-the-twenty-first-century-season-six-sneak-preview" href="https://www.sva.edu/events/events-exhibitions/art-in-the-twenty-first-century-season-six-sneak-preview" target="_blank">Art21 Season 6 sneak preview at School of Visual Arts (SVA)</a>, right? 
 
 WRONG!
 

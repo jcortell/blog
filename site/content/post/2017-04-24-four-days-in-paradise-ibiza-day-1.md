@@ -4,7 +4,7 @@ title: Four days in paradise (Ibiza), day 1
 date: 2017-04-24T16:51:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8279
+guid: https://blog.cortell.net/?p=8279
 permalink: /blog/2017/04/24/four-days-in-paradise-ibiza-day-1/
 categories:
   - General

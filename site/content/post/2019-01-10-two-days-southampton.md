@@ -18,7 +18,7 @@ January 8-10th I spent a couple of days in Southampton.
 
 <!--more-->
 
-I stayed in [The Mercure Southampton Centre Dolphin Hotel](https://www.dolphin-southampton.com/), the oldest hotel in Southampton dating back over 500 years, and ate at [Shanghai 1814](http://www.shanghai1814.co.uk/), a spectacular and reasonably priced Chinese restaurant, [The Standing Order Pub](https://www.jdwetherspoon.com/pubs/all-pubs/england/hampshire/the-standing-order-southampton), and [Kuti's Brasserie](https://www.kutis.co.uk/) located at The Royal Pier and winner of The Best Bangledeshi Restaurant award in Britain by the Cobra Good Curry Awards and the Restaurant of the Year 2018 at Tommy Miah MBE’s Indian Chef of The Year Awards.
+I stayed in [The Mercure Southampton Centre Dolphin Hotel](https://www.dolphin-southampton.com/), the oldest hotel in Southampton dating back over 500 years, and ate at [Shanghai 1814](https://www.shanghai1814.co.uk/), a spectacular and reasonably priced Chinese restaurant, [The Standing Order Pub](https://www.jdwetherspoon.com/pubs/all-pubs/england/hampshire/the-standing-order-southampton), and [Kuti's Brasserie](https://www.kutis.co.uk/) located at The Royal Pier and winner of The Best Bangledeshi Restaurant award in Britain by the Cobra Good Curry Awards and the Restaurant of the Year 2018 at Tommy Miah MBE’s Indian Chef of The Year Awards.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"

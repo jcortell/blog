@@ -4,7 +4,7 @@ title: Let’s pretend none of this ever happened
 date: 2016-02-05T10:25:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7804
+guid: https://blog.cortell.net/?p=7804
 permalink: /blog/2016/02/05/lets-pretend-none-of-this-ever-happened/
 categories:
   - Art
@@ -79,7 +79,7 @@ in the hopes that he’s defacing the wall with his urine,
   
 I see the ultimate social irony:
   
-inside the <a href="http://www.bloombergspace.com/artists/upcoming/tim-etchells/" target="_blank">Bloomberg Space</a>
+inside the <a href="https://www.bloombergspace.com/artists/upcoming/tim-etchells/" target="_blank">Bloomberg Space</a>
   
 a neon sign
   

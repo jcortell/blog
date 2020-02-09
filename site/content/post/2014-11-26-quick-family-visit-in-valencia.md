@@ -4,7 +4,7 @@ title: Quick family visit in Valencia
 date: 2014-11-26T09:03:28+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7291
+guid: https://blog.cortell.net/?p=7291
 permalink: /blog/2014/11/26/quick-family-visit-in-valencia/
 categories:
   - Geek Fun
@@ -15,7 +15,7 @@ categories:
 ---
 Of course, everytime I go to Europe I make sure I stop in Valencia and see my kids. It makes me SO tremendously happy to see them! I can’t wait until we can all live in the same city again. Some day, soon.
 
-We had fun meeting the family (although my parents were on a cruise), projecting movies at night on the “large screen” over the living room windows, and playing all kinds of games. I also gave them a couple of surprises: the certificates of their names, along with <a title="http://mars.nasa.gov/participate/send-your-name/orion-first-flight/?cn=841637" href="http://mars.nasa.gov/participate/send-your-name/orion-first-flight/?cn=841637" target="_blank">mine</a>:
+We had fun meeting the family (although my parents were on a cruise), projecting movies at night on the “large screen” over the living room windows, and playing all kinds of games. I also gave them a couple of surprises: the certificates of their names, along with <a title="https://mars.nasa.gov/participate/send-your-name/orion-first-flight/?cn=841637" href="https://mars.nasa.gov/participate/send-your-name/orion-first-flight/?cn=841637" target="_blank">mine</a>:
   
 
   

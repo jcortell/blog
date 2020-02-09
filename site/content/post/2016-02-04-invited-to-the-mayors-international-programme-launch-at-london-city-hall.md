@@ -4,7 +4,7 @@ title: Invited to the Mayor’s International Programme launch at London City Ha
 date: 2016-02-04T16:17:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7801
+guid: https://blog.cortell.net/?p=7801
 permalink: /blog/2016/02/04/invited-to-the-mayors-international-programme-launch-at-london-city-hall/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - London
   - Personal
 ---
-Yesterday I was invited to attend the official launch of the <a href="http://gotogrow.london/" target="_blank">Mayor’s International Programme</a> at City Hall, London, where I met some of London`s top entrepreneurs, mentors, and the Mayor (who gave a short speech using 007 as a reference).
+Yesterday I was invited to attend the official launch of the <a href="https://gotogrow.london/" target="_blank">Mayor’s International Programme</a> at City Hall, London, where I met some of London`s top entrepreneurs, mentors, and the Mayor (who gave a short speech using 007 as a reference).
 
 One of my companies (Kanteron Systems) has been selected as one of the 35 companies forming the initial cohort.
 

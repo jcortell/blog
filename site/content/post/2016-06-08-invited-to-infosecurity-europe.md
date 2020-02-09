@@ -4,7 +4,7 @@ title: Invited to InfoSecurity Europe
 date: 2016-06-08T15:30:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7922
+guid: https://blog.cortell.net/?p=7922
 permalink: /blog/2016/06/08/invited-to-infosecurity-europe/
 categories:
   - Geek Fun
@@ -17,7 +17,7 @@ categories:
   - Technology
   - Technolust
 ---
-Today I was invited to attend [InfoSecurity Europe](http://www.infosecurityeurope.com/), Europe`s largest Information Security industry event.
+Today I was invited to attend [InfoSecurity Europe](https://www.infosecurityeurope.com/), Europe`s largest Information Security industry event.
 
 As always, it was interesting to have a chance to catch up with this rapidly moving field, and a great opportunity to chat with old friends.
 

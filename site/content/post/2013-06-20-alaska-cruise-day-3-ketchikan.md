@@ -4,7 +4,7 @@ title: 'Alaska Cruise Day 3: Ketchikan'
 date: 2013-06-20T16:43:15+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4758
+guid: https://cortell.net/blog/?p=4758
 permalink: /blog/2013/06/20/alaska-cruise-day-3-ketchikan/
 categories:
   - General
@@ -29,4 +29,4 @@ After our plane landed on the water, we disembarked the plane directly onto a pe
 
 Once back in Ketchikan we took a walk around town, going by the totem pole museum, and strolling through colorful Creek Street with the marina in the background. As was to be expected, there were many fishing boats docked there: Ketchikan calls herself “King Salmon Capital of the World”. As they say: salmon loves rain, and in Ketchikan they get and average of 12,5 feet of rain per year (16,88 feet or 202,55 inches in 1949!). The temperature here goes from an average of 32,6ºF in January to 57,5ºF in July).
 
-Back on the ship, I attended the cocktail party my lovely travel agent (<a title="http://stephanieserinotravelblog.blogspot.com" href="http://stephanieserinotravelblog.blogspot.com" target="_blank">blog</a>, <a title="http://www.stephaniestravels.com" href="http://www.stephaniestravels.com" target="_blank">web site</a>, <a title="https://twitter.com/Cruise_Curator" href="https://twitter.com/Cruise_Curator" target="_blank">twitter</a>) and I hosted at the Stars Lounge, and then we stopped at the library to get the “Hyde Park on Hudson” DVD. Interesting but not great story about the FDR-Prince Albert pre-WWII “negotiations” (too bad it felt as if it was produced by Disney), and went to bed early. More adventures tomorrow!
+Back on the ship, I attended the cocktail party my lovely travel agent (<a title="https://stephanieserinotravelblog.blogspot.com" href="https://stephanieserinotravelblog.blogspot.com" target="_blank">blog</a>, <a title="https://www.stephaniestravels.com" href="https://www.stephaniestravels.com" target="_blank">web site</a>, <a title="https://twitter.com/Cruise_Curator" href="https://twitter.com/Cruise_Curator" target="_blank">twitter</a>) and I hosted at the Stars Lounge, and then we stopped at the library to get the “Hyde Park on Hudson” DVD. Interesting but not great story about the FDR-Prince Albert pre-WWII “negotiations” (too bad it felt as if it was produced by Disney), and went to bed early. More adventures tomorrow!

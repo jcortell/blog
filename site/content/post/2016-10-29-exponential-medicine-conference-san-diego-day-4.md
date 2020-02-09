@@ -4,7 +4,7 @@ title: Exponential Medicine Conference San Diego day 4
 date: 2016-10-29T16:06:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8083
+guid: https://blog.cortell.net/?p=8083
 permalink: /blog/2016/10/29/exponential-medicine-conference-san-diego-day-4/
 categories:
   - Geek Fun

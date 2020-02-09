@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-Last Tuesday, June 20, I was invited to participate in the III Microsoft Partner Advisory Council, which took place at [The Hawksmoor Guildhall](http://thehawksmoor.com/locations/guildhall/), London. 
+Last Tuesday, June 20, I was invited to participate in the III Microsoft Partner Advisory Council, which took place at [The Hawksmoor Guildhall](https://thehawksmoor.com/locations/guildhall/), London. 
 
 <!--more-->  
 

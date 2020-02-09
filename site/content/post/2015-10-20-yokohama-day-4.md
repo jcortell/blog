@@ -4,7 +4,7 @@ title: Yokohama day 4
 date: 2015-10-20T10:52:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7672
+guid: https://blog.cortell.net/?p=7672
 permalink: /blog/2015/10/20/yokohama-day-4/
 categories:
   - General

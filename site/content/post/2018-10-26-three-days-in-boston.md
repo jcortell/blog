@@ -18,7 +18,7 @@ October 24 to 26 I was in Boston invited to a UBS bank [event](https://uhnw.ubs.
 
 <!--more-->
 
-The first day, Wednesday, I arrived at the [hotel](https://www.lenoxhotel.com/), dropped my luggage, and went straight to [Northeastern University](http://www.northeastern.edu/), to gather some personal information. Then I went back to the hotel and got to work. Luckily, I had a [Luke's Lobster](https://www.lukeslobster.com) next door to the hotel. How I missed it since I was living in New York!, so I enjoyed a quick dinner, and got a lot of work done.
+The first day, Wednesday, I arrived at the [hotel](https://www.lenoxhotel.com/), dropped my luggage, and went straight to [Northeastern University](https://www.northeastern.edu/), to gather some personal information. Then I went back to the hotel and got to work. Luckily, I had a [Luke's Lobster](https://www.lukeslobster.com) next door to the hotel. How I missed it since I was living in New York!, so I enjoyed a quick dinner, and got a lot of work done.
 
 The next two days were completely dedicated to the event. As defined by UBS:
 

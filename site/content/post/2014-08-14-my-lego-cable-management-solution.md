@@ -4,7 +4,7 @@ title: My Lego cable management solution
 date: 2014-08-14T21:51:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7133
+guid: https://blog.cortell.net/?p=7133
 permalink: /blog/2014/08/14/my-lego-cable-management-solution/
 categories:
   - Art

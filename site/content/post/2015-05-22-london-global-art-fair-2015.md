@@ -4,7 +4,7 @@ title: London Global Art Fair 2015
 date: 2015-05-22T15:32:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7464
+guid: https://blog.cortell.net/?p=7464
 permalink: /blog/2015/05/22/london-global-art-fair-2015/
 categories:
   - Art
@@ -13,7 +13,7 @@ categories:
   - London
   - Personal
 ---
-Yesterday I was invited to the <a href="http://www.artfairslondon.com/" target="_blank">London Global Art Fair 2015</a>, which takes place May 21-23 at Olympia, Kensington, London.
+Yesterday I was invited to the <a href="https://www.artfairslondon.com/" target="_blank">London Global Art Fair 2015</a>, which takes place May 21-23 at Olympia, Kensington, London.
 
 With 150 galleries from 40 countries exhibiting works by over 500 artists, aged 25 (Nicole Wong and Vivien Zhang) to 93 (SH Raza) from 63 countries across the globe, in walling that would wrap over 13 times around the Royal Albert Hall, London Global Art Fair is as much a market as it is a celebration of creativity, art and culture.
 
@@ -38,7 +38,7 @@ It was a very illustrative and lively talk, which raised a few good points. Here
 
 At 14:00: “**At Some Point, Freedom of Expression Defines Art**” panel chaired by Kathleen Soriano, with Bonnie Greer, Helene Lundbye Petersen, and Mimsy.
 
-Kathleen <a href="http://www.independent.co.uk/arts-entertainment/art/news/public-debate-warns-of-selfcensorship-in-the-arts-10112075.html" target="_blank">quoted</a> Michael Attenborough, saying that even since leaving his post as artistic director of the Almeida Theatre two years ago, “something is beginning to creep in [at arts organisations] that I can best describe as self-censorship”. “There is an apprehension growing up around access to subsidy,” he said. “People are admitting privately that they are concerned they are self-censoring what they are doing. This is catastrophic.”
+Kathleen <a href="https://www.independent.co.uk/arts-entertainment/art/news/public-debate-warns-of-selfcensorship-in-the-arts-10112075.html" target="_blank">quoted</a> Michael Attenborough, saying that even since leaving his post as artistic director of the Almeida Theatre two years ago, “something is beginning to creep in [at arts organisations] that I can best describe as self-censorship”. “There is an apprehension growing up around access to subsidy,” he said. “People are admitting privately that they are concerned they are self-censoring what they are doing. This is catastrophic.”
 
 > Bonnie explicitly said, and repeated “cultural institutions are a mafia”, and offered a shocking fact: ALL of the one person (solo) exhibitions at large cultural institutions in the USA last year came out of (are represented by) only 5 dealers.
 

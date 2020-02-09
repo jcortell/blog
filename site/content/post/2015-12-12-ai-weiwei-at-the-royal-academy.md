@@ -4,7 +4,7 @@ title: Ai Weiwei at the Royal Academy
 date: 2015-12-12T13:18:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7753
+guid: https://blog.cortell.net/?p=7753
 permalink: /blog/2015/12/12/ai-weiwei-at-the-royal-academy/
 categories:
   - Art
@@ -20,6 +20,6 @@ I knew I would enjoy it since Ai Weiwei is one of my favourite artists. I knew 
 
 But I was not anticipating to like it so much. It was awesome.
 
-After that, to make the day even better, we stopped at <a href="http://www.kitchoan.co.uk" target="_blank">Minamoto Kitchoan</a> to buy some delicious Japanese wagashi. We got _maccha_ senbei (wafers), _okoicha baumkuchen_ (green roll cake), _dorayaki_, _hakuto mochi_ (peach), and _yuzu_-flavored bunny-shaped _ayashirabe_, but they were out of _chocolat mochi maccha_, and _shimizuhakuto_ jelly (peach jelly). Now we have an excuse to go back soon!
+After that, to make the day even better, we stopped at <a href="https://www.kitchoan.co.uk" target="_blank">Minamoto Kitchoan</a> to buy some delicious Japanese wagashi. We got _maccha_ senbei (wafers), _okoicha baumkuchen_ (green roll cake), _dorayaki_, _hakuto mochi_ (peach), and _yuzu_-flavored bunny-shaped _ayashirabe_, but they were out of _chocolat mochi maccha_, and _shimizuhakuto_ jelly (peach jelly). Now we have an excuse to go back soon!
 
 ^_^

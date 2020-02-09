@@ -4,7 +4,7 @@ title: New Years Eve party at Iridium and Times Square
 date: 2012-01-01T02:53:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3718
+guid: https://cortell.net/blog/?p=3718
 permalink: /blog/2012/01/01/new-years-eve-party-at-iridium-and-times-square/
 wpsd_autopost:
   - "1"
@@ -15,7 +15,7 @@ categories:
   - Others
   - Personal
 ---
-Of course, the first year living in NY, new year`s eve party HAD to include a peregrination to Times Square. And since we had tickets to the Iridium <a title="http://theiridium.com/events/527/new-years-eve-w-the-mike-stern-band-featuring-randy-brecker-john-patitucci-dave-weckl/" href="http://theiridium.com/events/527/new-years-eve-w-the-mike-stern-band-featuring-randy-brecker-john-patitucci-dave-weckl/" target="_blank">concert</a> (the Mike Stern Band featuring Randy Brecker, John Patitucci & Dave Weckl), we figured we would get a taste of it taking the subway to 42nd/Times Square (since police closed the nearer 50th st station)... and did we indeed!!
+Of course, the first year living in NY, new year`s eve party HAD to include a peregrination to Times Square. And since we had tickets to the Iridium <a title="https://theiridium.com/events/527/new-years-eve-w-the-mike-stern-band-featuring-randy-brecker-john-patitucci-dave-weckl/" href="https://theiridium.com/events/527/new-years-eve-w-the-mike-stern-band-featuring-randy-brecker-john-patitucci-dave-weckl/" target="_blank">concert</a> (the Mike Stern Band featuring Randy Brecker, John Patitucci & Dave Weckl), we figured we would get a taste of it taking the subway to 42nd/Times Square (since police closed the nearer 50th st station)... and did we indeed!!
 
 The Broadway/42nd intersection was incredibly packed. 9:30pm and it took over half an hour to move past that intersection, being shuffled, pushed, and stomped upon. The worst part?: seeing irresponsible (or utterly ignorant) parents with their toddlers and trolleys trying to get by.
 

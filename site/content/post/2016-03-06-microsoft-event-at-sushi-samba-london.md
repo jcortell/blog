@@ -4,7 +4,7 @@ title: Microsoft event at Sushi Samba London
 date: 2016-03-06T18:39:28+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7819
+guid: https://blog.cortell.net/?p=7819
 permalink: /blog/2016/03/06/microsoft-event-at-sushi-samba-london/
 categories:
   - General

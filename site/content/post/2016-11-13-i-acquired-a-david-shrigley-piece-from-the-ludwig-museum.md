@@ -4,7 +4,7 @@ title: I acquired a David Shrigley piece from the Ludwig Museum
 date: 2016-11-13T16:11:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8116
+guid: https://blog.cortell.net/?p=8116
 permalink: /blog/2016/11/13/i-acquired-a-david-shrigley-piece-from-the-ludwig-museum/
 categories:
   - Art

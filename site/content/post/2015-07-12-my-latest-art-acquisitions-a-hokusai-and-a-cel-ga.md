@@ -4,7 +4,7 @@ title: 'My latest art acquisitions: a Hokusai and a Cel-ga'
 date: 2015-07-12T08:51:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7580
+guid: https://blog.cortell.net/?p=7580
 permalink: /blog/2015/07/12/my-latest-art-acquisitions-a-hokusai-and-a-cel-ga/
 categories:
   - Art
@@ -15,7 +15,7 @@ categories:
 ---
 On Friday I acquired two very different works of Japanese fine art.
 
-One was a very rare and wonderful find: an original **Ukiyo-e woodblock print by Katsushika Hokusai** (1760-1849), whose "Great Wave off Kanagawa" is one of the best-known works of Japanese art, titled **“Wavy shadow of Mount Fuji”** from the “<a href="http://www.degener.com/1606-2.htm" target="_blank">One Hundred Views of Mount Fuji</a>, Vol. 2” Series, created in 1835. The “One Hundred Views of Mount Fuji” series was featured by the <a href="https://www.britishmuseum.org/explore/online_tours/japan/views_of_mount_fuji/100_views_of_mount_fuji_a_sel.aspx" target="_blank">British Museum in 2001</a> and is part of the <a href="http://www.metmuseum.org/collection/the-collection-online/search/78803" target="_blank">MET Museum collection</a> in New York.
+One was a very rare and wonderful find: an original **Ukiyo-e woodblock print by Katsushika Hokusai** (1760-1849), whose "Great Wave off Kanagawa" is one of the best-known works of Japanese art, titled **“Wavy shadow of Mount Fuji”** from the “<a href="https://www.degener.com/1606-2.htm" target="_blank">One Hundred Views of Mount Fuji</a>, Vol. 2” Series, created in 1835. The “One Hundred Views of Mount Fuji” series was featured by the <a href="https://www.britishmuseum.org/explore/online_tours/japan/views_of_mount_fuji/100_views_of_mount_fuji_a_sel.aspx" target="_blank">British Museum in 2001</a> and is part of the <a href="https://www.metmuseum.org/collection/the-collection-online/search/78803" target="_blank">MET Museum collection</a> in New York.
 
 <img class=" aligncenter" src="https://farm1.staticflickr.com/477/19562282756_2bd31d08e4_n.jpg" alt="IMG_20150710_231431" width="320" height="240" />
 

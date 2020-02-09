@@ -4,7 +4,7 @@ title: Nice day in London
 date: 2015-11-19T10:29:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7728
+guid: https://blog.cortell.net/?p=7728
 permalink: /blog/2015/11/19/nice-day-in-london/
 categories:
   - Art

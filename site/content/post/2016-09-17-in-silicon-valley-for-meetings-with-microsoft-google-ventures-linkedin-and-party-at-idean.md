@@ -4,7 +4,7 @@ title: In Silicon Valley for meetings with Microsoft, Google Ventures, LinkedIn,
 date: 2016-09-17T03:02:28+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8037
+guid: https://blog.cortell.net/?p=8037
 permalink: /blog/2016/09/17/in-silicon-valley-for-meetings-with-microsoft-google-ventures-linkedin-and-party-at-idean/
 categories:
   - Geek Fun

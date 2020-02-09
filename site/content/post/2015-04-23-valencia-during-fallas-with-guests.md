@@ -4,7 +4,7 @@ title: Valencia during Fallas with guests
 date: 2015-04-23T20:07:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7409
+guid: https://blog.cortell.net/?p=7409
 permalink: /blog/2015/04/23/valencia-during-fallas-with-guests/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Microsoft comes to Valencia to meet with my team, collaborate on medical 
 date: 2016-03-07T08:44:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7821
+guid: https://blog.cortell.net/?p=7821
 permalink: /blog/2016/03/07/microsoft-comes-to-valencia-to-meet-with-my-team-collaborate-on-medical-technology-research-and-discuss-a-term-sheet/
 categories:
   - Geek Fun

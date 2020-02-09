@@ -4,7 +4,7 @@ title: First days living in London
 date: 2015-05-08T12:31:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7452
+guid: https://blog.cortell.net/?p=7452
 permalink: /blog/2015/05/08/first-days-living-in-london/
 categories:
   - General

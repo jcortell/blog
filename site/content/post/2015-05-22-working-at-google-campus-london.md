@@ -4,7 +4,7 @@ title: Working at Google Campus London
 date: 2015-05-22T11:35:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7459
+guid: https://blog.cortell.net/?p=7459
 permalink: /blog/2015/05/22/working-at-google-campus-london/
 categories:
   - Geek Fun

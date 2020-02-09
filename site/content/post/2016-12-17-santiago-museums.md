@@ -4,7 +4,7 @@ title: Santiago Museums
 date: 2016-12-17T16:52:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8152
+guid: https://blog.cortell.net/?p=8152
 permalink: /blog/2016/12/17/santiago-museums/
 categories:
   - Art

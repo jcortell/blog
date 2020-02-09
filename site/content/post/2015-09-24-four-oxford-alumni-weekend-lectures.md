@@ -4,7 +4,7 @@ title: Four Oxford Alumni Weekend lectures
 date: 2015-09-24T10:11:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7630
+guid: https://blog.cortell.net/?p=7630
 permalink: /blog/2015/09/24/four-oxford-alumni-weekend-lectures/
 categories:
   - General
@@ -76,7 +76,7 @@ Again, here are some notes in no particular order:
   
     Electroweak + Strong energy = Grand Unified Force / Supersymmetry or SUSY (dark matter)
   * How do we find dark matter… through asymmetry
-  * <a href="http://atlas.ch" target="_blank">Atlas</a> is the largest digital camera in the world, inside the LHC. It’s as large as a cathedral, to be able to capture the smallest of events (particle reactions). It will be upgraded in 2023
+  * <a href="https://atlas.ch" target="_blank">Atlas</a> is the largest digital camera in the world, inside the LHC. It’s as large as a cathedral, to be able to capture the smallest of events (particle reactions). It will be upgraded in 2023
   * It took 10,000 people from 60 countries to come up with the LHC. It produces the equivalent to 10,000 Encyclopedia Brittanica of data every second, which if recorded in CDs and stacked up it would reach 1.5 the hight of Mount Everest
   * The LHC has only run 1% of the collisions as of yet
   * There are 20 cells in a mm, 500,000 DNA, 500 billion atomic nuclei, and 10 trillion quarks

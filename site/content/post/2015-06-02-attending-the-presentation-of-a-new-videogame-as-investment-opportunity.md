@@ -4,7 +4,7 @@ title: Attending the presentation of a new videogame as investment opportunity
 date: 2015-06-02T20:29:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7495
+guid: https://blog.cortell.net/?p=7495
 permalink: /blog/2015/06/02/attending-the-presentation-of-a-new-videogame-as-investment-opportunity/
 categories:
   - General
@@ -15,7 +15,7 @@ categories:
   - Technology
   - Videogames
 ---
-On Monday I attended the presentation of <a href="http://www.projectmstudio.com/franchise.php" target="_blank">Project M</a>, a new video-game as investment opportunity, in Google Campus, London.
+On Monday I attended the presentation of <a href="https://www.projectmstudio.com/franchise.php" target="_blank">Project M</a>, a new video-game as investment opportunity, in Google Campus, London.
 
 [<img class=" aligncenter" src="https://c1.staticflickr.com/9/8848/17732393093_4498867e73_n.jpg" alt="IMG_20150601_183112" width="320" height="240" />](https://www.flickr.com/photos/jcortell/17732393093 "IMG_20150601_183112 by Jorge Cortell, on Flickr")
 

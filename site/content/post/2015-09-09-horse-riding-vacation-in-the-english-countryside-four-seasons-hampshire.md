@@ -4,7 +4,7 @@ title: 'Horse riding vacation in the English countryside: Four Seasons Hampshire
 date: 2015-09-09T09:49:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7602
+guid: https://blog.cortell.net/?p=7602
 permalink: /blog/2015/09/09/horse-riding-vacation-in-the-english-countryside-four-seasons-hampshire/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - London
   - Personal
 ---
-Last month we took the kids to an idyllic English countryside retreat: the <a href="http://www.fourseasons.com/hampshire/" target="_blank">Four Seasons Hampshire</a>, where we stayed in two adjacent suites.
+Last month we took the kids to an idyllic English countryside retreat: the <a href="https://www.fourseasons.com/hampshire/" target="_blank">Four Seasons Hampshire</a>, where we stayed in two adjacent suites.
 
 Not far from London, it has everything a kid can dream of for a wonderful countryside vacation: green hills, a fishing pond, clay pigeon shooting, indoors heated swimming pool, bicycles, a large collection of DVDs, library, a playground, a rope-adventure course, a crocket lawn, tennis courts, a kids playroom with videogames, foosball, pool table… even a resident black labrador dog called Oliver!
 

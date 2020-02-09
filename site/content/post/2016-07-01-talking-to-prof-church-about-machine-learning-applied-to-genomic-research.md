@@ -4,7 +4,7 @@ title: Talking to Prof. Church about machine learning applied to genomic researc
 date: 2016-07-01T12:44:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7964
+guid: https://blog.cortell.net/?p=7964
 permalink: /blog/2016/07/01/talking-to-prof-church-about-machine-learning-applied-to-genomic-research/
 categories:
   - Geek Fun
@@ -17,7 +17,7 @@ categories:
   - Technolust
   - Why not? Utopia?
 ---
-During my flight to Boston I read “[Regenesis](http://www.regenesisthebook.com/)”, the interesting genomic science book by Professor George Church, which was a gift from my friend Dr. Raminderpal Singh.
+During my flight to Boston I read “[Regenesis](https://www.regenesisthebook.com/)”, the interesting genomic science book by Professor George Church, which was a gift from my friend Dr. Raminderpal Singh.
 
 <img class="aligncenter" src="https://c3.staticflickr.com/8/7288/27881551722_868f869297.jpg" alt="George, Raminder and Jorge 2016 Boston" width="500" height="375" />
 

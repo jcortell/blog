@@ -4,7 +4,7 @@ title: Moraira and Javea January 3, 2016
 date: 2016-01-24T17:12:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7775
+guid: https://blog.cortell.net/?p=7775
 permalink: /blog/2016/01/24/moraira-and-javea-january-3-2016/
 categories:
   - General

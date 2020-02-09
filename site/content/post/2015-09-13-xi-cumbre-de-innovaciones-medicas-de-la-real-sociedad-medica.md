@@ -4,7 +4,7 @@ title: Royal Society of Medicine 11th Medical Innovations Summit
 date: 2015-09-13T14:07:37+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7610
+guid: https://blog.cortell.net/?p=7610
 permalink: /blog/2015/09/13/xi-cumbre-de-innovaciones-medicas-de-la-real-sociedad-medica/
 categories:
   - General
@@ -18,7 +18,7 @@ Yesterday I attended the <a href="https://www.rsm.ac.uk/events/events-listing/20
 
 Like everyone else, I usually attend these events because there is a chance you may get to actually listen to an interesting presenter, or learn about a true innovation. But I usually leave disappointed due to a number of reasons like too much hype and lack of substance, bad organisation, “innovations” that are not really innovations, or bad presenters.
 
-This was not one of those disappointing events. It was a truly inspirational day. We got to listen to <a href="http://www.rsm-medicalinnovations.com/" target="_blank">13 presentations</a>, and meet and be inspired by modern day heroes. They were all excellent but my absolute favorites were:
+This was not one of those disappointing events. It was a truly inspirational day. We got to listen to <a href="https://www.rsm-medicalinnovations.com/" target="_blank">13 presentations</a>, and meet and be inspired by modern day heroes. They were all excellent but my absolute favorites were:
 
   * Dr Jesse Selber: kidney and a pancreas transplant while simultaneously undergoing a scalp and skull transplant
   * Dr Marie Johnson: founder and president of AUM Cardiovascular

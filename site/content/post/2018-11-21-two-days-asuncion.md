@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-November 20th and 21st I went to Asuncion de Paraguay, to [speak](http://sicompy.blogspot.com/2018/11/ii-jornada-informatica-en-salud-es.html) at the [II Healthcare IT Congress](https://jis.spis.org.py/) and to meet Paraguay's Minister (Secretary) of Health.
+November 20th and 21st I went to Asuncion de Paraguay, to [speak](https://sicompy.blogspot.com/2018/11/ii-jornada-informatica-en-salud-es.html) at the [II Healthcare IT Congress](https://jis.spis.org.py/) and to meet Paraguay's Minister (Secretary) of Health.
 
 <!--more-->
 

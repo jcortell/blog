@@ -4,7 +4,7 @@ title: 'A fun summer with the kiddos: Legoland, Parks, Museums, Zoo, Bowling, an
 date: 2015-09-08T06:33:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7598
+guid: https://blog.cortell.net/?p=7598
 permalink: /blog/2015/09/08/a-fun-summer-with-the-kiddos-legoland-parks-museums-zoo-bowling-and-gardens/
 categories:
   - General
@@ -34,7 +34,7 @@ I have only been bowling once before in my life, but my kids like it, and this p
   <strong>Hyde Park and Serpentine Gallery and Pavillion</strong>
 </p>
 
-Hyde Park is always lovely, and this summer, although not really hot, we enjoyed several sunny days. One of those we had a picnic in the park, played Frisbee, fed (cereals, not bread) the swans, ducks, and squirrels, got a pedal boat, visited the Serpentine Gallery, and had fun at the <a href="http://www.serpentinegalleries.org/exhibitions-events/serpentine-pavilion-2015" target="_blank">Serpentine Pavillion</a>.
+Hyde Park is always lovely, and this summer, although not really hot, we enjoyed several sunny days. One of those we had a picnic in the park, played Frisbee, fed (cereals, not bread) the swans, ducks, and squirrels, got a pedal boat, visited the Serpentine Gallery, and had fun at the <a href="https://www.serpentinegalleries.org/exhibitions-events/serpentine-pavilion-2015" target="_blank">Serpentine Pavillion</a>.
 
 <p style="text-align: center;">
   <strong>Natural History Museum</strong>

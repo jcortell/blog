@@ -4,7 +4,7 @@ title: Blue Christmas in Valencia
 date: 2016-01-24T16:30:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7773
+guid: https://blog.cortell.net/?p=7773
 permalink: /blog/2016/01/24/blue-christmas-in-valencia/
 categories:
   - General

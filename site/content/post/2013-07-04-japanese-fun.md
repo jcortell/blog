@@ -4,7 +4,7 @@ title: Japanese fun
 date: 2013-07-04T15:10:10+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4792
+guid: https://cortell.net/blog/?p=4792
 permalink: /blog/2013/07/04/japanese-fun/
 categories:
   - General
@@ -15,7 +15,7 @@ categories:
 ---
 <blockquote class="twitter-tweet">
   <p>
-    NY Brokers Club: presentation by Excelion Tech (@ Citrin Cooperman) <a href="http://t.co/ChYQpwRSJU">http://t.co/ChYQpwRSJU</a>
+    NY Brokers Club: presentation by Excelion Tech (@ Citrin Cooperman) <a href="https://t.co/ChYQpwRSJU">https://t.co/ChYQpwRSJU</a>
   </p>
   
   <p>
@@ -23,13 +23,13 @@ categories:
   </p>
 </blockquote>
 
-Yesterday, on my way to a financial presentation, I stopped at <a title="http://www.kinokuniya.com/us/" href="http://www.kinokuniya.com/us/" target="_blank">Kinokuniya Bookstore</a> to browse books and to enjoy the origami they had on display as part of the <a title="http://origamiasart.com" href="http://origamiasart.com" target="_blank">OrigamiAsArt</a> exhibition.
+Yesterday, on my way to a financial presentation, I stopped at <a title="https://www.kinokuniya.com/us/" href="https://www.kinokuniya.com/us/" target="_blank">Kinokuniya Bookstore</a> to browse books and to enjoy the origami they had on display as part of the <a title="https://origamiasart.com" href="https://origamiasart.com" target="_blank">OrigamiAsArt</a> exhibition.
 
 [mudslide:picasa,0,111219615350942087056,5896481691678261089]
 
 <blockquote class="twitter-tweet">
   <p>
-    Origami as art (@ Kinokuniya Bookstore) [pic]: <a href="http://t.co/eEdvYqggdY">http://t.co/eEdvYqggdY</a>
+    Origami as art (@ Kinokuniya Bookstore) [pic]: <a href="https://t.co/eEdvYqggdY">https://t.co/eEdvYqggdY</a>
   </p>
   
   <p>
@@ -37,9 +37,9 @@ Yesterday, on my way to a financial presentation, I stopped at <a title="http:/
   </p>
 </blockquote>
 
-To round the Japanese-themed day up, I went in the <a title="http://www.nypl.org" href="http://www.nypl.org" target="_blank">New York Public Library</a> and got two films:
+To round the Japanese-themed day up, I went in the <a title="https://www.nypl.org" href="https://www.nypl.org" target="_blank">New York Public Library</a> and got two films:
 
-  * <a title="http://www.filmaffinity.com/en/film747522.html" href="http://www.filmaffinity.com/en/film747522.html" target="_blank">Densha Otoko (Train_Man)</a>
-  * <a title="http://www.filmaffinity.com/en/film857214.html" href="http://www.filmaffinity.com/en/film857214.html" target="_blank">Fish Story</a>
+  * <a title="https://www.filmaffinity.com/en/film747522.html" href="https://www.filmaffinity.com/en/film747522.html" target="_blank">Densha Otoko (Train_Man)</a>
+  * <a title="https://www.filmaffinity.com/en/film857214.html" href="https://www.filmaffinity.com/en/film857214.html" target="_blank">Fish Story</a>
 
 ^_^

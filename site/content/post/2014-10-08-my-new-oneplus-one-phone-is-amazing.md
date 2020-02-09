@@ -4,7 +4,7 @@ title: My new OnePlus One phone is amazing
 date: 2014-10-08T22:05:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7245
+guid: https://blog.cortell.net/?p=7245
 permalink: /blog/2014/10/08/my-new-oneplus-one-phone-is-amazing/
 categories:
   - Copyfight
@@ -19,7 +19,7 @@ categories:
   - Technology
   - Technolust
 ---
-I have just bought a <a title="http://oneplus.net/" href="http://oneplus.net/" target="_blank">OnePlus</a> One phone, and have been using it for a couple of days. Let me tell you: it`s AMAZING.
+I have just bought a <a title="https://oneplus.net/" href="https://oneplus.net/" target="_blank">OnePlus</a> One phone, and have been using it for a couple of days. Let me tell you: it`s AMAZING.
 
 If you have never heard of the company, don`t worry, you`re not alone. But you should definitely check it out, because their phones are incredibly high quality, high specs, and low price (mine was $349). No catch:
 

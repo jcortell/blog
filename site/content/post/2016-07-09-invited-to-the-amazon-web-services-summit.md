@@ -4,7 +4,7 @@ title: Invited to the Amazon Web Services Summit
 date: 2016-07-09T07:53:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7970
+guid: https://blog.cortell.net/?p=7970
 permalink: /blog/2016/07/09/invited-to-the-amazon-web-services-summit/
 categories:
   - Free Software

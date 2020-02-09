@@ -4,7 +4,7 @@ title: A day in Warsaw
 date: 2014-11-25T10:08:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7285
+guid: https://blog.cortell.net/?p=7285
 permalink: /blog/2014/11/25/a-day-in-warsaw/
 categories:
   - General

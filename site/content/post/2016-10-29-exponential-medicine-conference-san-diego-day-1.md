@@ -4,7 +4,7 @@ title: Exponential Medicine Conference San Diego day 1
 date: 2016-10-29T09:14:28+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8070
+guid: https://blog.cortell.net/?p=8070
 permalink: /blog/2016/10/29/exponential-medicine-conference-san-diego-day-1/
 categories:
   - Geek Fun
@@ -27,13 +27,13 @@ But, without a doubt, the most important part of the conference was the extremel
 
 <img class="alignnone size-medium" src="https://farm6.staticflickr.com/5698/30599603375_162f04cf8a_k.jpg" alt="" width="2048" height="1048" />
 
-  * [Nanotechnology & NanoMedicine](http://singularityhub.com/2015/11/13/exponential-medicine-the-most-advanced-nanotechnology-today-is-already-inside-you/): Andrew Hessel, Autodesk Fellow
+  * [Nanotechnology & NanoMedicine](https://singularityhub.com/2015/11/13/exponential-medicine-the-most-advanced-nanotechnology-today-is-already-inside-you/): Andrew Hessel, Autodesk Fellow
 
-  * [Blockchain](http://singularityhub.com/2015/11/12/exponential-medicine-health-data-discomfort-blockchain-is-the-cure/): Rajeev Ronanki – Principal, Deloitte Consulting; and Mariya Filipova – Healthcare Transformation, Deloitte Consulting
+  * [Blockchain](https://singularityhub.com/2015/11/12/exponential-medicine-health-data-discomfort-blockchain-is-the-cure/): Rajeev Ronanki – Principal, Deloitte Consulting; and Mariya Filipova – Healthcare Transformation, Deloitte Consulting
 
 <img class="alignnone size-medium" src="https://farm6.staticflickr.com/5797/29967502074_f9fef36f9f_b.jpg" alt="" width="1024" height="517" />
 
-  * From [Big Data](http://singularityhub.com/2016/05/16/mits-sandy-pentland-big-data-can-be-a-profoundly-humanizing-force-in-industry/) to Actionable Information: Leroy Hood, PhD – President & Co-Founder, Institute for Systems Biology; Senior Vice President & Chief Science Officer, Providence Health & Services
+  * From [Big Data](https://singularityhub.com/2016/05/16/mits-sandy-pentland-big-data-can-be-a-profoundly-humanizing-force-in-industry/) to Actionable Information: Leroy Hood, PhD – President & Co-Founder, Institute for Systems Biology; Senior Vice President & Chief Science Officer, Providence Health & Services
 
 We ended up the day with a beachside dinner under the stars.
 

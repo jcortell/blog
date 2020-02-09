@@ -4,7 +4,7 @@ title: Playing with my new Lytro
 date: 2012-05-29T18:29:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4169
+guid: https://cortell.net/blog/?p=4169
 permalink: /blog/2012/05/29/playing-with-my-new-lytro/
 wpsd_autopost:
   - "1"
@@ -22,7 +22,7 @@ categories:
   <img class="aligncenter" title="my lytro" src="https://lh4.googleusercontent.com/-WjaNuQpNuX0/T7LVVG1qusE/AAAAAAAABmc/R-oIw4-hVyg/s325-c/May15201203" alt="" width="325" height="325" />
 </p>
 
-A couple of weeks ago I received my new <a title="http://www.lytro.com/" href="http://www.lytro.com/" target="_blank">Lytro</a> camera. Although it is an incredible technology, and allows things that were unthinkable until now, so far I am mixed.
+A couple of weeks ago I received my new <a title="https://www.lytro.com/" href="https://www.lytro.com/" target="_blank">Lytro</a> camera. Although it is an incredible technology, and allows things that were unthinkable until now, so far I am mixed.
 
 Pros:
 

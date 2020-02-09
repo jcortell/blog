@@ -4,7 +4,7 @@ title: Invited to the UK-China Hi! Technology event in London
 date: 2016-12-17T16:19:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8148
+guid: https://blog.cortell.net/?p=8148
 permalink: /blog/2016/12/17/invited-to-the-uk-china-hi-technology-event-in-london/
 categories:
   - Geek Fun
@@ -16,7 +16,7 @@ categories:
 ---
  
 
-For reasons beyond the scope of this post I was invited to participate in the [UK-China Hi! Technology](http://www.cocoon-networks.com/in-the-press/inaugural-china-uk-hi-technology-festival-marks-launch-of-innovation-centre/) event in London.
+For reasons beyond the scope of this post I was invited to participate in the [UK-China Hi! Technology](https://www.cocoon-networks.com/in-the-press/inaugural-china-uk-hi-technology-festival-marks-launch-of-innovation-centre/) event in London.
 
 The event was well attended by a large number of entrepreneurs, funds and investors from the UK and China.
 

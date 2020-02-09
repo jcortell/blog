@@ -4,7 +4,7 @@ title: Invited to the introduction of IBM Watson at WTC NY
 date: 2014-01-29T13:38:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=5088
+guid: https://cortell.net/blog/?p=5088
 permalink: /blog/2014/01/29/invited-to-the-introduction-of-ibm-watson-at-wtc-ny/
 categories:
   - Geek Fun

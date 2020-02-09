@@ -4,7 +4,7 @@ title: Baltic Cruise Day 4
 date: 2016-05-24T17:39:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7878
+guid: https://blog.cortell.net/?p=7878
 permalink: /blog/2016/05/24/baltic-cruise-day-4/
 categories:
   - Art

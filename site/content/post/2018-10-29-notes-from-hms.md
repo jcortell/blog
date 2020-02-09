@@ -31,7 +31,7 @@ Thursday, October 25
 - Validation for a new test kit requires over 100,000 samples
 - More info: [NIH HMP](https://commonfund.nih.gov/hmp)
 
-Visiting the [Karp laboratory](http://www.karplab.net/) with Jeffrey Karp, Professor of Medicine at Brigham and Women’s Hospital Harvard Medical School, where we were shown several ongoing research projects, with prototypes: from biodegradable adhesives to repair the heart, to temporary blockers of stomach absorption. Again, SUPER interesting, especially the engineering approach applied to medical innovation. Check out their research projects in their website.
+Visiting the [Karp laboratory](https://www.karplab.net/) with Jeffrey Karp, Professor of Medicine at Brigham and Women’s Hospital Harvard Medical School, where we were shown several ongoing research projects, with prototypes: from biodegradable adhesives to repair the heart, to temporary blockers of stomach absorption. Again, SUPER interesting, especially the engineering approach applied to medical innovation. Check out their research projects in their website.
 
 [Boston Children's Hospital Innovation and Digital Health Accelerator](https://accelerator.childrenshospital.org/) "Catalyzing innovation and start-ups from a world-leading hospital" with John Brownstein, Chief Innovation Officer, Boston Children’s Hospital (amazing what a bunch of useful small apps and devices can do in a medical environment, which naturally comes from health personnel inspired by their day to day work).
 
@@ -71,7 +71,7 @@ Friday, October 26
 - Patients prefer "humanizing" technologies (e.g. to be able to share pictures of flowers and puppies, not just 140 characters or anonymous forums)
 - Although it works, Crizotinib is not covered by the NHS because there was no randomized double-blind clinical trial
 
-"What’s Next in Digital Health – Lessons from Around the World" [John D. Halamka](http://geekdoctor.blogspot.com/), Chief Information Officer of the Beth Israel Deaconess Medical Center, Chief Information Officer and Dean for Technology at Harvard Medical School, Practicing Emergency Physician (I will give [a talk with him next month in Oslo](http://ehin.no/en/highlights/))
+"What’s Next in Digital Health – Lessons from Around the World" [John D. Halamka](https://geekdoctor.blogspot.com/), Chief Information Officer of the Beth Israel Deaconess Medical Center, Chief Information Officer and Dean for Technology at Harvard Medical School, Practicing Emergency Physician (I will give [a talk with him next month in Oslo](https://ehin.no/en/highlights/))
 
 - He made his hospital's EMR
 - He's the world's top most expert on toxic mushrooms (he received a consultation, during his speech, about a group of Russian mushroom collectors who ate the wrong one while in Boston) receiving 900 teleconsultations per year

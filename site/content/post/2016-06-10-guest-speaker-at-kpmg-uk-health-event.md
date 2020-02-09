@@ -4,7 +4,7 @@ title: Guest speaker at KPMG UK Health event
 date: 2016-06-10T16:33:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7925
+guid: https://blog.cortell.net/?p=7925
 permalink: /blog/2016/06/10/guest-speaker-at-kpmg-uk-health-event/
 categories:
   - General

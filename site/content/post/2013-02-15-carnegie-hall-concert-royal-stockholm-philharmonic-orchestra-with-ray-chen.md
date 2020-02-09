@@ -4,7 +4,7 @@ title: Carnegie Hall concert Royal Stockholm Philharmonic Orchestra with Ray Che
 date: 2013-02-15T12:58:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4587
+guid: https://cortell.net/blog/?p=4587
 permalink: /blog/2013/02/15/carnegie-hall-concert-royal-stockholm-philharmonic-orchestra-with-ray-chen/
 wpsd_autopost:
   - "1"
@@ -19,7 +19,7 @@ categories:
   <img class="aligncenter" alt="Carnegie Hall" src="https://lh3.googleusercontent.com/-Ailg9O40xS4/UR7NO-0kqwI/AAAAAAAAJWU/2Y9qoUN2KCw/s780/20130215_190354.jpg" width="468" height="351" />
 </p>
 
-Tonight my friend Caterina has invited us (thank you Cat!!) to the <a title="http://www.carnegiehall.org/Calendar/2013/2/15/0700/PM/Royal-Stockholm-Philharmonic-Orchestra/" href="http://www.carnegiehall.org/Calendar/2013/2/15/0700/PM/Royal-Stockholm-Philharmonic-Orchestra/" target="_blank">Carnegie Hall concert</a>: Royal Stockholm Philharmonic Orchestra featuring her friend, awesome violinist Ray Chen.
+Tonight my friend Caterina has invited us (thank you Cat!!) to the <a title="https://www.carnegiehall.org/Calendar/2013/2/15/0700/PM/Royal-Stockholm-Philharmonic-Orchestra/" href="https://www.carnegiehall.org/Calendar/2013/2/15/0700/PM/Royal-Stockholm-Philharmonic-Orchestra/" target="_blank">Carnegie Hall concert</a>: Royal Stockholm Philharmonic Orchestra featuring her friend, awesome violinist Ray Chen.
 
 **Performers**
 

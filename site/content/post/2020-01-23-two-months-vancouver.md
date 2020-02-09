@@ -18,7 +18,7 @@ For the past two months we've been living in Vancouver, helping my son find an a
 
 <!--more-->
 
-We enjoyed many aspects of the city, from the abundance of Asian restaurants (like [Kita no Donburi](https://kita-no-donburi.com/) or [New Town Bakery & Restaurant](http://www.newtownbakery.ca/)) and supermarkets (like [T&T](https://www.tntsupermarket.com/)), to how very nice Canadians in general are. We also [enjoyed the MOA](https://blog.cortell.net/2020/01/moa-vancouver/) very much. But if there's one thing we definitely did NOT enjoy was the weather. Always cloudy, so cloudy that the sky is just a screen of gray. And wet. Rain all the time. The good side of it is that it almost never snows.
+We enjoyed many aspects of the city, from the abundance of Asian restaurants (like [Kita no Donburi](https://kita-no-donburi.com/) or [New Town Bakery & Restaurant](https://www.newtownbakery.ca/)) and supermarkets (like [T&T](https://www.tntsupermarket.com/)), to how very nice Canadians in general are. We also [enjoyed the MOA](https://blog.cortell.net/2020/01/moa-vancouver/) very much. But if there's one thing we definitely did NOT enjoy was the weather. Always cloudy, so cloudy that the sky is just a screen of gray. And wet. Rain all the time. The good side of it is that it almost never snows.
 
 You would think that in two months we would have had a chance to really explore the city and its surroundings. But the truth is, with all the moving, paperwork, and work, we barely had time to visit anything. In any case, the city is beautiful, so here are some [photos](https://photos.app.goo.gl/Svqt54qBTd6ie9GY9).
 

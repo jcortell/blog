@@ -4,7 +4,7 @@ title: I am being sued by a troll
 date: 2013-07-29T10:28:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4850
+guid: https://cortell.net/blog/?p=4850
 permalink: /blog/2013/07/29/i-am-being-sued-by-a-troll/
 categories:
   - Copyfight
@@ -17,7 +17,7 @@ categories:
   - Society and politics
   - Technology
 ---
-**A few hours after <a title="http://cortell.net/blog/2013/07/i-am-requested-to-take-a-link-down-and-streisand-effect/" href="http://cortell.net/blog/2013/07/i-am-requested-to-take-a-link-down-and-streisand-effect/" target="_blank">the first email</a>, I received this second one with a threat (again, translated by me; <a title="http://cortell.net/blog/es/2013/07/i-am-being-sued-by-a-troll/" href="http://cortell.net/blog/es/2013/07/i-am-being-sued-by-a-troll/" target="_blank">here is the original</a>):**
+**A few hours after <a title="https://cortell.net/blog/2013/07/i-am-requested-to-take-a-link-down-and-streisand-effect/" href="https://cortell.net/blog/2013/07/i-am-requested-to-take-a-link-down-and-streisand-effect/" target="_blank">the first email</a>, I received this second one with a threat (again, translated by me; <a title="https://cortell.net/blog/es/2013/07/i-am-being-sued-by-a-troll/" href="https://cortell.net/blog/es/2013/07/i-am-being-sued-by-a-troll/" target="_blank">here is the original</a>):**
 
 > Mr. Cortell:
 > 

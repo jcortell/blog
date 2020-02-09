@@ -25,7 +25,7 @@ The 8 hours in Hong Kong were supposed to allow us a quick dash to downtown, but
 As soon as you land in New Zealand, you see how the topic of green hills, cloudy skies, and friendly people is absolutely true.
 We took a taxi to the amazing and brand new [SO Sofitel hotel](https://sofitel.accorhotels.com/gb/hotel-9149-so-auckland/index.shtml), which has a very dramatic contemporary interior design.
 
-Although we were extremely tired, we decided to take a short stroll along Quay St. all the way into the Wynyard Quarter to see [Waterscape](https://www.aucklandfestival.co.nz/events/wastescape/), an immersive installation by British artist Gayle Chong Kwan at Silo 6, part of Auckland Arts Festival. Then we ate a delicious [IkaBowl](http://ikabowl.co.nz/index.html) at the Fish Market, and went back to the hotel to catch up on sleep and get ready for some excitement the next day.
+Although we were extremely tired, we decided to take a short stroll along Quay St. all the way into the Wynyard Quarter to see [Waterscape](https://www.aucklandfestival.co.nz/events/wastescape/), an immersive installation by British artist Gayle Chong Kwan at Silo 6, part of Auckland Arts Festival. Then we ate a delicious [IkaBowl](https://ikabowl.co.nz/index.html) at the Fish Market, and went back to the hotel to catch up on sleep and get ready for some excitement the next day.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"

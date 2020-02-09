@@ -4,7 +4,7 @@ title: 5th EU Health Innovation event at Microsoft’s Brussels EBC
 date: 2016-01-28T16:25:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7782
+guid: https://blog.cortell.net/?p=7782
 permalink: /blog/2016/01/28/5th-eu-health-innovation-event-at-microsofts-brussels-ebc/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - Personal
   - Technology
 ---
-This Tuesday and Wednesday I was invited to participate in <a href="http://enterprise.microsoft.com/en-us/event/empowering-health/" target="_blank">Microsoft’s 5th Health Innovation event</a>.
+This Tuesday and Wednesday I was invited to participate in <a href="https://enterprise.microsoft.com/en-us/event/empowering-health/" target="_blank">Microsoft’s 5th Health Innovation event</a>.
 
 <span style="line-height: 1.5;">Titled “EmpoweringHealth: the journey towards more personalized, productive, collaborative and predictive health services & systems” it took place at the Microsoft Executive Briefing Center in Brussels.</span>
 

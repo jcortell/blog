@@ -4,7 +4,7 @@ title: Orlando, San Diego, Fort Worth, and Bogota
 date: 2014-05-04T23:20:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7053
+guid: https://blog.cortell.net/?p=7053
 permalink: /blog/2014/05/04/orlando-san-diego-fort-worth-and-bogota/
 categories:
   - General

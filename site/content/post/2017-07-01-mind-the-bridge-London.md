@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-Last Tuesday, June 20, I was invited to participate in the launch of the Startup Europe Partnership report "[Dual Companies: How and Why European Scaleups Expand to the U.S.] (http://mindthebridge.com/european-dual-companies/)" by Mind the Bridge with the support of international law firm Wilson Sonsini Goodrich & Rosati, which took place at The Rainmaking Loft, London.  
+Last Tuesday, June 20, I was invited to participate in the launch of the Startup Europe Partnership report "[Dual Companies: How and Why European Scaleups Expand to the U.S.] (https://mindthebridge.com/european-dual-companies/)" by Mind the Bridge with the support of international law firm Wilson Sonsini Goodrich & Rosati, which took place at The Rainmaking Loft, London.  
 
 <!--more--> 
 

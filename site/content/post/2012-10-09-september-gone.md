@@ -4,7 +4,7 @@ title: September gone
 date: 2012-10-09T00:49:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4342
+guid: https://cortell.net/blog/?p=4342
 permalink: /blog/2012/10/09/september-gone/
 wpsd_autopost:
   - "1"
@@ -16,7 +16,7 @@ categories:
 ---
 I can`t seem to be able to keep up. Too much going on at all levels. So my "done this and that" posts are going to be reduced to the minimum expression.
 
-September 5th I went to <a title="http://cortell.net/blog/2012/09/round-table-at-nycba-about-campaign-reform/" href="http://cortell.net/blog/2012/09/round-table-at-nycba-about-campaign-reform/" target="_blank">this</a> event I already talked about.
+September 5th I went to <a title="https://cortell.net/blog/2012/09/round-table-at-nycba-about-campaign-reform/" href="https://cortell.net/blog/2012/09/round-table-at-nycba-about-campaign-reform/" target="_blank">this</a> event I already talked about.
 
 September 7th I was invited to attend the premiere of a documentary about Gerhard Richter at the New Museum. It was very revealing and sad to see how Richter`s art critic/historian proposed an interpretation of one of his paintings that Richter did not seem to agree on, but after a few minutes of conversation, he "accepted". The system`s wheel`s will turn… and crush you in you get under them.
 
@@ -51,7 +51,7 @@ The 22nd I visited the future: MakerBot`s first shop. Located in Mulberry Street
   [mudslide:picasa,0,111219615350942087056,5795291321081317985]
 </p>
 
-The 23rd I watched the <a title="http://cortell.net/blog/2012/09/searching-for-sugar-man/" href="http://cortell.net/blog/2012/09/searching-for-sugar-man/" target="_blank">movie</a> "Searching for Sugar Man".
+The 23rd I watched the <a title="https://cortell.net/blog/2012/09/searching-for-sugar-man/" href="https://cortell.net/blog/2012/09/searching-for-sugar-man/" target="_blank">movie</a> "Searching for Sugar Man".
 
 The 24th I moved to my new offices in SoHo, and met with a singer who had been in several federal jails accused of espionage. NY is amazing.
 

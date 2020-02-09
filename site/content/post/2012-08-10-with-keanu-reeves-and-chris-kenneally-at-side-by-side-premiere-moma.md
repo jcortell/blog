@@ -4,7 +4,7 @@ title: 'With Keanu Reeves and Chris Kenneally at &quot;Side by side&quot; premie
 date: 2012-08-10T18:10:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4273
+guid: https://cortell.net/blog/?p=4273
 permalink: /blog/2012/08/10/with-keanu-reeves-and-chris-kenneally-at-side-by-side-premiere-moma/
 wpsd_autopost:
   - "1"
@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p style="text-align: left">
-  Yesterday I was invited to the premiere of Keanu Reeves and Chris Kenneally`s documentary "<a title="http://sidebysidethemovie.com" href="http://sidebysidethemovie.com" target="_blank">Side by side</a>" at MoMA. Beyond the star-appeal of an amazing roster of artists and celebrities appearing on the film, and its obvious educational value (every film lover should go and see it, and see "the real person behind the myth" in many cases), I really liked the after-movie talk with Chris and Keanu. They not only love film, and did an excellent job showing a "balanced" view of the debate between <em>celluloid vs. digital</em>, but did venture into three other areas that I found fascinating:
+  Yesterday I was invited to the premiere of Keanu Reeves and Chris Kenneally`s documentary "<a title="https://sidebysidethemovie.com" href="https://sidebysidethemovie.com" target="_blank">Side by side</a>" at MoMA. Beyond the star-appeal of an amazing roster of artists and celebrities appearing on the film, and its obvious educational value (every film lover should go and see it, and see "the real person behind the myth" in many cases), I really liked the after-movie talk with Chris and Keanu. They not only love film, and did an excellent job showing a "balanced" view of the debate between <em>celluloid vs. digital</em>, but did venture into three other areas that I found fascinating:
 </p>
 
   * The first one was the archiving and preservation of film. While an interesting debate by itself, it is not as important as it seemed to them, since, as I see it, technology will catch up and surpass the needs and expectations in a matter of very few years. Although a lot could be said about culture, preservation, archiving, formats, etc. Which leads us to...

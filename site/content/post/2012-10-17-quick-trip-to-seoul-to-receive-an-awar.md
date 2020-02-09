@@ -4,7 +4,7 @@ title: Quick trip to Seoul to receive an award
 date: 2012-10-17T22:06:37+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4361
+guid: https://cortell.net/blog/?p=4361
 permalink: /blog/2012/10/17/quick-trip-to-seoul-to-receive-an-awar/
 wpsd_autopost:
   - "1"
@@ -13,7 +13,7 @@ categories:
   - "Life's pleasures"
   - Personal
 ---
-<img class="aligncenter" title="picking up International Business of the Year Award" src="http://farm9.staticflickr.com/8468/8093354666_99a2cab529_z.jpg" alt="" width="640" height="427" />
+<img class="aligncenter" title="picking up International Business of the Year Award" src="https://farm9.staticflickr.com/8468/8093354666_99a2cab529_z.jpg" alt="" width="640" height="427" />
 
 From the 13th until the 16th I have traveled to Seoul to pick up an award (International Business of the Year bronze Award).
 
@@ -32,7 +32,7 @@ But there was much more than boosted egos, networking and business PR in that tr
 </p>
 
 <p style="text-align: left">
-  I stayed at the <a title="http://www.ritzcarlton.com/en/Properties/Seoul/Default.htm" href="http://www.ritzcarlton.com/en/Properties/Seoul/Default.htm" target="_blank">Ritz Carlton Hotel</a>, where the awards ceremony was held. Since it became a Marriott franchise (curiously they have American Standard toilets, but with Japanese style buttons and features), there are some details that really don`t live up to the glamour of past times, but still a nice hotel conveniently located.
+  I stayed at the <a title="https://www.ritzcarlton.com/en/Properties/Seoul/Default.htm" href="https://www.ritzcarlton.com/en/Properties/Seoul/Default.htm" target="_blank">Ritz Carlton Hotel</a>, where the awards ceremony was held. Since it became a Marriott franchise (curiously they have American Standard toilets, but with Japanese style buttons and features), there are some details that really don`t live up to the glamour of past times, but still a nice hotel conveniently located.
 </p>
 
 <p style="text-align: left">
@@ -60,10 +60,10 @@ But there was much more than boosted egos, networking and business PR in that tr
 </p>
 
 <p style="text-align: left">
-  I had a very enlightening conversation in broken translated English with  a very old <a title="http://pressmi.com" href="http://pressmi.com" target="_blank">pressed flower</a> artist. The moment, life, sadness, energy, love, handcraft, gaze, touch, art... it was beautiful and almost surreal. Too personal to share here, sorry.
+  I had a very enlightening conversation in broken translated English with  a very old <a title="https://pressmi.com" href="https://pressmi.com" target="_blank">pressed flower</a> artist. The moment, life, sadness, energy, love, handcraft, gaze, touch, art... it was beautiful and almost surreal. Too personal to share here, sorry.
 </p>
 
-<img class="aligncenter" title="receveing the award" src="http://farm9.staticflickr.com/8191/8093349943_a16821419b_z.jpg" alt="" width="640" height="427" />
+<img class="aligncenter" title="receveing the award" src="https://farm9.staticflickr.com/8191/8093349943_a16821419b_z.jpg" alt="" width="640" height="427" />
 
 <p style="text-align: left">
   Then I went back to the hotel, changed into the "black tie costume", played my part around business men, dignataries, and executives from around the world, accepted my award, and went to bed. Luckily the flight back was on a new 777-200 via Tokyo and I slept from Tokyo to Alaska. I also had time to watch some movies (12 hour flight, lots of time: <em>To Rome With Love</em> (Woody Allen following his commercial formula), <em>Prometheus</em> (it could have been much better), <em>Moonrise Kindgdom</em> (yes, the story of my life but with a different ending), and <em>2001: A Space Odyssey</em> (one can not get tired of a movie that is undoubtedly amongst the best in the history of cinema, filled with philosophical references and interpretations).

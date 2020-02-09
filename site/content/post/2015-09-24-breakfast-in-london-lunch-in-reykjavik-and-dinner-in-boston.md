@@ -4,7 +4,7 @@ title: Breakfast in London, lunch in Reykjavík and dinner in Boston
 date: 2015-09-24T10:19:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7634
+guid: https://blog.cortell.net/?p=7634
 permalink: /blog/2015/09/24/breakfast-in-london-lunch-in-reykjavik-and-dinner-in-boston/
 categories:
   - General

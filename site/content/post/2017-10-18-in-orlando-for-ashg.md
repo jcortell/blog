@@ -14,15 +14,15 @@ metaAlignment: center
 coverMeta: out
 ---
 
-Last Wednesday I took a day trip to Orlando, FL, to attend the [American Society of Human Genetics 2017](http://www.ashg.org/2017meeting/)  meeting.
+Last Wednesday I took a day trip to Orlando, FL, to attend the [American Society of Human Genetics 2017](https://www.ashg.org/2017meeting/)  meeting.
 
 <!--more-->
 
-![ASHG 2017 Logo](http://www.ashg.org/2017meeting/images/template/ASHG-2017-logo-blk.png) 
+![ASHG 2017 Logo](https://www.ashg.org/2017meeting/images/template/ASHG-2017-logo-blk.png) 
 
 Since I'm spending a few months in Canada, flying to the continental USA is much easier and shorter than flying from Europe. But from where I live to Orlando there are still over 1200 miles (nearly 2000 km.) so in order to make it a day trip, I had to leave my house at 5am, drive across the Peace Bridge border into the USA, board a plane in Buffalo, land in Orlando, and take an Uber to the Orange County Convention Center.
 
-Once at the event, the first thing I did, before having any business meeting, was to read the [nearly 3000 scientific posters](http://www.ashg.org/2017meeting/listing/PosterSessions.shtml):
+Once at the event, the first thing I did, before having any business meeting, was to read the [nearly 3000 scientific posters](https://www.ashg.org/2017meeting/listing/PosterSessions.shtml):
 
 ![posters](https://farm5.staticflickr.com/4479/37798747471_a4f7e860b8_k.jpg) 
 

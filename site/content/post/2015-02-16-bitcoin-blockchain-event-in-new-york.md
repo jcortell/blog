@@ -4,7 +4,7 @@ title: 'Bitcoin and block chain event in New York'
 date: 2015-02-16T16:00:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7373
+guid: https://blog.cortell.net/?p=7373
 permalink: /blog/2015/02/16/bitcoin-blockchain-event-in-new-york/
 categories:
   - Copyfight
@@ -29,22 +29,22 @@ Over 100 bitcoin enthusiasts, investors, journalists, lawyers, and entrepreneurs
 <div>
   <ul>
     <li>
-      <a href="http://www.storj.io/" target="_blank">Storj</a>
+      <a href="https://www.storj.io/" target="_blank">Storj</a>
     </li>
     <li>
-      <a href="http://www.bladefinancial.com/" target="_blank">Blade</a>
+      <a href="https://www.bladefinancial.com/" target="_blank">Blade</a>
     </li>
     <li>
-      <a href="http://www.onename.com/" target="_blank">One Name</a>
+      <a href="https://www.onename.com/" target="_blank">One Name</a>
     </li>
     <li>
-      <a href="http://www.monegraph.com/" target="_blank">Monegraph</a>
+      <a href="https://www.monegraph.com/" target="_blank">Monegraph</a>
     </li>
     <li>
-      <a href="http://www.fairlay.com/" target="_blank">Fairlay</a>
+      <a href="https://www.fairlay.com/" target="_blank">Fairlay</a>
     </li>
     <li>
-      <a href="http://www.hedgeable.com/">Hedgeable</a>
+      <a href="https://www.hedgeable.com/">Hedgeable</a>
     </li>
   </ul>
 </div>
@@ -54,16 +54,16 @@ and a round table of Bitcoin innovation experts:
 <div>
   <ul>
     <li>
-      John Biggs, Moderator, <a href="http://www.techcrunch.com/" target="_blank">TechCrunch</a>
+      John Biggs, Moderator, <a href="https://www.techcrunch.com/" target="_blank">TechCrunch</a>
     </li>
     <li>
-      Michael Casey, <a href="http://theageofcryptocurrency.com/" target="_blank">WSJ Writer and <em>The Age of Cryptocurrency</em> author</a>
+      Michael Casey, <a href="https://theageofcryptocurrency.com/" target="_blank">WSJ Writer and <em>The Age of Cryptocurrency</em> author</a>
     </li>
     <li>
-      Joel Monegro, <a href="http://www.usv.com/" target="_blank">Union Square Ventures</a>
+      Joel Monegro, <a href="https://www.usv.com/" target="_blank">Union Square Ventures</a>
     </li>
     <li>
-      Michael Sonnenshein, <a href="http://www.bitcointrust.co/" target="_blank">Bitcoin Investment Trust</a>
+      Michael Sonnenshein, <a href="https://www.bitcointrust.co/" target="_blank">Bitcoin Investment Trust</a>
     </li>
   </ul>
 </div>

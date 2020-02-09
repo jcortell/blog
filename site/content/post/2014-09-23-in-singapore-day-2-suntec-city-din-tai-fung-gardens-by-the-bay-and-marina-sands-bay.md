@@ -4,7 +4,7 @@ title: 'In Singapore, day 2: Suntec City, Din Tai Fung, Gardens by the Bay, and 
 date: 2014-09-23T04:20:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7210
+guid: https://blog.cortell.net/?p=7210
 permalink: /blog/2014/09/23/in-singapore-day-2-suntec-city-din-tai-fung-gardens-by-the-bay-and-marina-sands-bay/
 categories:
   - General
@@ -29,7 +29,7 @@ Four Heritage Gardens feature Chinese, Indian, Malay and Colonial Gardens surrou
 
 Striking as it is when you first see it, it is even more spectacular if it’s dark when you leave, and look back.
 
-Before leaving for Singapore, I asked fellow NY expat <a title="http://www.linkedin.com/in/inakiberenguer" href="http://www.linkedin.com/in/inakiberenguer" target="_blank">Iñaki Berenguer</a>, who goes to Singapore often, for suggestions: “Lo que no te puedes perder es subir arriba del hotel que tiene el barco en la azotea (marina sands bay) y tomar un drink mientras ves las vistas” (“You can’t miss going on top of the hotel with the boat on top (marina sands bay) and have a drink while enjoying the views”) he told me.
+Before leaving for Singapore, I asked fellow NY expat <a title="https://www.linkedin.com/in/inakiberenguer" href="https://www.linkedin.com/in/inakiberenguer" target="_blank">Iñaki Berenguer</a>, who goes to Singapore often, for suggestions: “Lo que no te puedes perder es subir arriba del hotel que tiene el barco en la azotea (marina sands bay) y tomar un drink mientras ves las vistas” (“You can’t miss going on top of the hotel with the boat on top (marina sands bay) and have a drink while enjoying the views”) he told me.
 
 Obvious as that sounds, he’s absolutely right. The view is breathtaking, and the atmosphere is not as touristy as one would imagine. Or perhaps it’s the fact that there are so many expats in Singapore that rarely anyone seems like a tourist any more.
 

@@ -4,7 +4,7 @@ title: Look at the data, just look at it!
 date: 2013-03-27T14:04:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4655
+guid: https://cortell.net/blog/?p=4655
 permalink: /blog/2013/03/27/look-at-the-data-just-look-at-it/
 wpsd_autopost:
   - "1"
@@ -27,5 +27,5 @@ Carna botnet offers us this amazing 24 hour visualization of relative IPv4 utili
 Look at the data, just look at it! Don`t you see people`s sleeping patterns, internet usage patterns, eating schedule habit, cultural differences, urban influence, regional inequalities...?
 
 <p style="text-align: center">
-  <img class="aligncenter" alt="" src="http://internetcensus2012.bitbucket.org/images/geovideo.gif" width="660" height="371" />
+  <img class="aligncenter" alt="" src="https://internetcensus2012.bitbucket.org/images/geovideo.gif" width="660" height="371" />
 </p>

@@ -4,7 +4,7 @@ title: Nice weekend in New York with my in-laws
 date: 2014-11-02T16:03:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7252
+guid: https://blog.cortell.net/?p=7252
 permalink: /blog/2014/11/02/nice-weekend-in-new-york-with-my-in-laws/
 categories:
   - General

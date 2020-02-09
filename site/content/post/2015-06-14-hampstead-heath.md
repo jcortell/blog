@@ -4,7 +4,7 @@ title: Hampstead Heath
 date: 2015-06-14T17:02:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7525
+guid: https://blog.cortell.net/?p=7525
 permalink: /blog/2015/06/14/hampstead-heath/
 categories:
   - Environment

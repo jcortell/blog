@@ -4,7 +4,7 @@ title: In a private booth at the Madison Square Garden
 date: 2014-01-11T20:10:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=5062
+guid: https://cortell.net/blog/?p=5062
 permalink: /blog/2014/01/11/in-a-private-booth-at-the-madison-square-garden/
 categories:
   - General
@@ -22,4 +22,4 @@ The first time around I was invited, along with my wife, to an NBA New York Knic
 
 The second time I was invited by IBM to their private booth to watch the Knicks play the Chicago Bulls, a much better game. It is so far up, that sometimes you have to look at the giant screens to see the game. It was far from the amazing Xcel Energy Center private booths in St. Paul, Minnesota (which I enjoyed many years ago and it was already impressive with their use of technology), but there was a full buffet, our own restrooms, screens, and definitely it is the perfect place to do business.
 
-What was even cooler is that we were joined by one of my idols from when I was a pro basketball player: <a title="http://www.nba.com/knicks/news/profile_starks.html" href="http://www.nba.com/knicks/news/profile_starks.html" target="_blank">John Starks</a>. As nice and cool as I remembered him.
+What was even cooler is that we were joined by one of my idols from when I was a pro basketball player: <a title="https://www.nba.com/knicks/news/profile_starks.html" href="https://www.nba.com/knicks/news/profile_starks.html" target="_blank">John Starks</a>. As nice and cool as I remembered him.

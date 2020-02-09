@@ -4,7 +4,7 @@ title: 'Invited to Microsoft Research Cambridge workshop: Computing in Cancer'
 date: 2016-06-01T06:24:15+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7912
+guid: https://blog.cortell.net/?p=7912
 permalink: /blog/2016/06/01/invited-to-microsoft-research-cambridge-workshop-computing-in-cancer/
 categories:
   - Geek Fun
@@ -14,11 +14,11 @@ categories:
   - Science
   - Technology
 ---
-<img class="aligncenter" src="http://www.leoprojects.co.uk/images/images/case_study_cambridge3.jpg" width="300" height="227" />
+<img class="aligncenter" src="https://www.leoprojects.co.uk/images/images/case_study_cambridge3.jpg" width="300" height="227" />
 
 May 27 I was invited to participate in the “Computing in Cancer Workshop” organized by Microsoft Research in Cambridge.
 
-<img class="aligncenter" src="http://www.cambridgefilmworks.com/wp-content/uploads/2015/07/Microsoft-Research_Entrance.jpg" width="1600" height="622" />
+<img class="aligncenter" src="https://www.cambridgefilmworks.com/wp-content/uploads/2015/07/Microsoft-Research_Entrance.jpg" width="1600" height="622" />
 
 It was a great opportunity to network, meet with colleagues and other researchers, and especially to learn a lot.
 

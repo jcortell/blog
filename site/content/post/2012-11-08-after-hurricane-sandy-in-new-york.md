@@ -4,7 +4,7 @@ title: After hurricane Sandy in New York
 date: 2012-11-08T20:25:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4430
+guid: https://cortell.net/blog/?p=4430
 permalink: /blog/2012/11/08/after-hurricane-sandy-in-new-york/
 wpsd_autopost:
   - "1"
@@ -34,14 +34,14 @@ So, when Stephanie went to her office, I also went to work: to help others by he
 
 [Note: images on this post, except those of the gallery above, have not been taken, or downloaded, or hosted by me; for full attribution follow the source]
 
-<img class="aligncenter" title="Help distribution center - Globe Post" src="http://www.globalpost.com/sites/default/files/imagecache/gp3_fullpage/hurricane_sandy_damage_recovery_2012_22.jpg" alt="" width="586" height="391" />
+<img class="aligncenter" title="Help distribution center - Globe Post" src="https://www.globalpost.com/sites/default/files/imagecache/gp3_fullpage/hurricane_sandy_damage_recovery_2012_22.jpg" alt="" width="586" height="391" />
 
-<img class="aligncenter" title="free power" src="http://mashable.com/wp-content/uploads/2012/11/free-power-600.jpg" alt="" width="600" height="375" />
+<img class="aligncenter" title="free power" src="https://mashable.com/wp-content/uploads/2012/11/free-power-600.jpg" alt="" width="600" height="375" />
 
 Many people tried to help as they could. From great efforts, to little gestures. It all helped.
 
 <p style="text-align: center">
-  <img class="aligncenter" title="tandem power" src="http://www.globalpost.com/sites/default/files/imagecache/gp3_fullpage/hurricane_sandy_damage_recovery_2012_12.jpg" alt="" width="586" height="392" />
+  <img class="aligncenter" title="tandem power" src="https://www.globalpost.com/sites/default/files/imagecache/gp3_fullpage/hurricane_sandy_damage_recovery_2012_12.jpg" alt="" width="586" height="392" />
 </p>
 
 <p style="text-align: left">

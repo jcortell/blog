@@ -4,7 +4,7 @@ title: For the love of basketball
 date: 2013-10-03T17:13:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4909
+guid: https://cortell.net/blog/?p=4909
 permalink: /blog/2013/10/03/for-the-love-of-basketball/
 wpzoom_post_template:
   - ""
@@ -16,26 +16,26 @@ categories:
   - Proposals for Equality
   - Society and politics
 ---
-I have decided to join the <a title="http://www.nycgovparks.org/parks/chelsearecreationcenter" href="http://www.nycgovparks.org/parks/chelsearecreationcenter" target="_blank">Chelsea Recreation Center</a>.
+I have decided to join the <a title="https://www.nycgovparks.org/parks/chelsearecreationcenter" href="https://www.nycgovparks.org/parks/chelsearecreationcenter" target="_blank">Chelsea Recreation Center</a>.
 
 <p style="text-align: center">
-  <img class="aligncenter" alt="CRC" src="http://farm6.staticflickr.com/5058/5388801076_c433158707_z.jpg" width="384" height="255" />
+  <img class="aligncenter" alt="CRC" src="https://farm6.staticflickr.com/5058/5388801076_c433158707_z.jpg" width="384" height="255" />
 </p>
 
 It`s right around the corner from our apartment, and for $150/year it has everything I need:
 
 <p style="text-align: center">
-  <img class="aligncenter" alt="CRC Pool" src="http://cdn.archinect.net/images/1200x/r9/r9lzxqwcy2ic7hw3.jpg" width="480" height="319" />
+  <img class="aligncenter" alt="CRC Pool" src="https://cdn.archinect.net/images/1200x/r9/r9lzxqwcy2ic7hw3.jpg" width="480" height="319" />
 </p>
 
 <p style="text-align: center">
-  <img class="aligncenter" alt="CRC weights" src="http://www.wellandgoodnyc.com/wp-content/uploads/2010/01/chelsea-recreation-center.jpg" width="454" height="296" />
+  <img class="aligncenter" alt="CRC weights" src="https://www.wellandgoodnyc.com/wp-content/uploads/2010/01/chelsea-recreation-center.jpg" width="454" height="296" />
 </p>
 
 But mainly
 
 <p style="text-align: center">
-  <img class="aligncenter" alt="CRC BB court" src="http://cdn.archinect.net/images/1200x/mn/mnu4ka81ncau39mf.jpg" width="480" height="319" />
+  <img class="aligncenter" alt="CRC BB court" src="https://cdn.archinect.net/images/1200x/mn/mnu4ka81ncau39mf.jpg" width="480" height="319" />
 </p>
 
 Two days ago I went in for the first time.

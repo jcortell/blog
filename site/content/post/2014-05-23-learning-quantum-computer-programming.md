@@ -4,7 +4,7 @@ title: Learning quantum computer programming
 date: 2014-05-23T11:05:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7094
+guid: https://blog.cortell.net/?p=7094
 permalink: /blog/2014/05/23/learning-quantum-computer-programming/
 categories:
   - Geek Fun
@@ -18,7 +18,7 @@ categories:
 ---
 Yesterday I started learning and experimenting with quantum computing programming. It`s not easy to express the fun and excitement that experience brought me, but I`ll try:
 
-<img class="aligncenter" src="http://www.extremetech.com/wp-content/uploads/2014/05/quantum-playground-640x353.jpg" alt="quantum computing simulator" width="640" height="353" />
+<img class="aligncenter" src="https://www.extremetech.com/wp-content/uploads/2014/05/quantum-playground-640x353.jpg" alt="quantum computing simulator" width="640" height="353" />
 
 Programming a quantum computer is different than programming a binary (0 and 1) "digital" computer. To program a quantum system, you have to map a problem into a search for the “lowest point" in a very large pool of options, which corresponds to the best possible outcome. The processor considers all the possibilities simultaneously to determine **the lowest energy required to form those relationships**. A quantum computer is probabilistic rather than deterministic, so the computer returns the best answers in a short amount of time. This results not only in the optimal solution or a single answer, but also other alternatives to choose from.
 

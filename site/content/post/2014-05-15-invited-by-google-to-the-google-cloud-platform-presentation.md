@@ -4,7 +4,7 @@ title: Invited by Google to the Google Cloud Platform presentation
 date: 2014-05-15T00:38:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7075
+guid: https://blog.cortell.net/?p=7075
 permalink: /blog/2014/05/15/invited-by-google-to-the-google-cloud-platform-presentation/
 categories:
   - Free Software

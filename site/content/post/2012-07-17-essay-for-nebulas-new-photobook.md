@@ -4,7 +4,7 @@ title: 'Essay for Nebula`s new photobook'
 date: 2012-07-17T13:34:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4216
+guid: https://cortell.net/blog/?p=4216
 permalink: /blog/2012/07/17/essay-for-nebulas-new-photobook/
 wpsd_autopost:
   - "1"
@@ -21,7 +21,7 @@ categories:
 ---
 I have contributed an essay to the book (PDF soon available for free online, and for purchase in book format -a few sample images shown here-) of an exhibition I am curating. 3 years in the making, "_Gaze, Reflexion, Fusion_" is the highly poetical but politically charged work of one of the most interesting new photographers in the New York art scene: _NEBULA_.
 
-<img class="aligncenter" title="1430" src="http://farm8.staticflickr.com/7096/7246414172_028f5138b4.jpg" alt="" width="500" height="334" />
+<img class="aligncenter" title="1430" src="https://farm8.staticflickr.com/7096/7246414172_028f5138b4.jpg" alt="" width="500" height="334" />
 
 From Tokyo to San Francisco, Madrid to Seoul, the Spanish photographer _Nebula_ has traveled to 10 cities in 4 countries in order to find inspiration and the right images (somethimes a fleeting reflexion of it) to bring to life what she feels about art, identity, apropriationism, feminism, and psychoanalysis.
 
@@ -29,21 +29,21 @@ In the tradition of Francesca Goodman’s spatial sensitivity and Cindy Sherman�
 
 But unlike Cindy Sherman’s apparent indifference to theory – which as Laura Mulvey pointed out, does not preclude her art having great theoretical significance – Nebula’s work is deeply rooted in philosophical and theoretical basis.
 
-<img class="aligncenter" title="3883" src="http://farm8.staticflickr.com/7231/7246434896_1c546b17a3.jpg" alt="" width="500" height="353" />
+<img class="aligncenter" title="3883" src="https://farm8.staticflickr.com/7231/7246434896_1c546b17a3.jpg" alt="" width="500" height="353" />
 
 “**Gaze**” is born from the obsessive gaze theme in painting starting in the XVII century, going from representation to introducing the spectator in the image, the new paradigm introduced by Manet in _The Railroad_. But Nebula’s gaze goes further by exploring Sartre’s concept of gaze as the battleground for the self to define and redefine itself, a relationship, with its derived loss of autonomy, not something that can be performed. The gaze is part of a desire for completion of oneself through the other. Interestingly enough, here, as so often happens in the arts, we have Nebula, a woman, reflecting on the inescapability of the male gaze and even scopophilia, as Mulvey would have described it. But it takes it much further, as we shall see later, without the need for Bracha Ettinger’s polarized dialectic. 
 
-<img class="aligncenter" title="3447" src="http://farm8.staticflickr.com/7235/7246432220_a7e7168562.jpg" alt="" width="500" height="317" />
+<img class="aligncenter" title="3447" src="https://farm8.staticflickr.com/7235/7246432220_a7e7168562.jpg" alt="" width="500" height="317" />
 
 As in Robert Doisneau`s "_An oblique Look_", the gaze is shown, at first to be denounced. But that very denunciation serves  also as a first step. Even within the apparently simple gaze, Nebula makes us consider the spectator’s gaze, the intra and extra-diegetic gaze, and the camera gaze. Of course, all this is published with yet another one: the editorial gaze. It is Alfred Neumeier’s _Blick aus den Bilde_, or the gaze within the image.
 
-<img class="aligncenter" title="3733" src="http://farm8.staticflickr.com/7073/7246433186_d5d2b43ab0.jpg" alt="" width="361" height="500" />
+<img class="aligncenter" title="3733" src="https://farm8.staticflickr.com/7073/7246433186_d5d2b43ab0.jpg" alt="" width="361" height="500" />
 
 “**Reflexion**” takes us on a _tour de force_ though epistemology, assimilating and shaking centuries of philosophical debates and preconceptions, and shooting us straight into what at first seems like a paradox. Nebula’s images convey both internalist and externalist views, which may appear to lead to a constructivist view of knowledge. Not so. Considering Jacques Lacan’s “mirror stage” as a dialectic, the apparent monologue of the endless reflexion becomes a mere pastime, even a trap for the incautious onlooker who does not overcome this symbolic Freudian _fort-da._ 
 
 In this dialectic of the subject as “lack” we shall not find the inadequacy in comparison to the ego-ideal, on the contrary, “lack” may be read as an be read as an opportunity to return to a more playful way of achieving completeness, as Norman O. Brown proposes following Nietzsche’s postulate, embodying the Zen _koan_ of the empty cup of tea in the “childlikeness” _paiz paizon_. So it is with the inclusion of “**Fusion**” that we understand is all about a Zen search. As the gaze is reflected, fusion appears, a Wonderland occurs in which the subject holding the camera is seen in the object or scene, capturing the magical encounter that leads to the realization that the Ideal, the sublime and sublimated, all form part of one single Here and Now. 
 
-<img class="aligncenter" title="IMG_3574" src="http://farm8.staticflickr.com/7211/7246409058_51c579bd63.jpg" alt="" width="500" height="442" />
+<img class="aligncenter" title="IMG_3574" src="https://farm8.staticflickr.com/7211/7246409058_51c579bd63.jpg" alt="" width="500" height="442" />
 
 But although the gaze seems to lead us to the singular – which is “a perfection that is always in progress, but which admits no progression from one entelechy to another”, as Christopher Kul-Want puts it – in the reflexion, is reflecting on the reflexion that we reach the liberating and unifying communion of the fusion.
 

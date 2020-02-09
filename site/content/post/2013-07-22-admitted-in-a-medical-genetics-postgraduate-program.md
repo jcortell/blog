@@ -4,7 +4,7 @@ title: Admitted in a Medical Genetics postgraduate program
 date: 2013-07-22T17:19:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4834
+guid: https://cortell.net/blog/?p=4834
 permalink: /blog/2013/07/22/admitted-in-a-medical-genetics-postgraduate-program/
 categories:
   - General
@@ -48,4 +48,4 @@ III. Clinical Applications of Genetics
   * 3.12 Search for treatments for rare genetic diseases
   * 3.13 Tools for updating knowledge in Medical Genetics and Clinical Genetics
 
-The program is taught by <a title="http://www.uv.es/postgradogeneticamedica/profesorado.html" href="http://www.uv.es/postgradogeneticamedica/profesorado.html" target="_blank">29 top professors and researchers</a>, and directed by Prof. Dr. Manuel Pérez Alonso, Dept. of Genetics, Valencia University; and Dr. Javier García Planells, Scientific Director, Genomic Medicine Institute.
+The program is taught by <a title="https://www.uv.es/postgradogeneticamedica/profesorado.html" href="https://www.uv.es/postgradogeneticamedica/profesorado.html" target="_blank">29 top professors and researchers</a>, and directed by Prof. Dr. Manuel Pérez Alonso, Dept. of Genetics, Valencia University; and Dr. Javier García Planells, Scientific Director, Genomic Medicine Institute.

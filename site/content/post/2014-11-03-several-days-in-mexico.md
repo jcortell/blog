@@ -4,7 +4,7 @@ title: Several days in Mexico
 date: 2014-11-03T16:18:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7255
+guid: https://blog.cortell.net/?p=7255
 permalink: /blog/2014/11/03/several-days-in-mexico/
 categories:
   - General
@@ -18,7 +18,7 @@ My friends, in addition to distributors, "the Germinales" (three generations wit
 
 The first day Germinal "senior" picked me up from the airport and took me straight to eat at a restaurant called "El Sabor del Tiempo". Very genuine and traditional. Although we asked the "mesero" to recommend non-spicy(hot) dishes, he served us a very spicy but delicious roast. Though I suppose the food in Southeast Asia has hardened me, because I was able to finish it and Germinal did not;)
 
-At this meal he told me about the book "<a title="http://www.amazon.com/Los-se%C3%B1ores-narco-Spanish-Edition-ebook/dp/B007TID1RK" href="http://www.amazon.com/Los-se%C3%B1ores-narco-Spanish-Edition-ebook/dp/B007TID1RK" target="_blank">Los Señores del Narco</a>", which details, with figures and document evidence, the close relationship between Mexican drug traffickers and politicians, and other countries for decades. Germinal told me that he witnessed, when he built hospitals in the Sierra, 40 years ago, the drug flights aided by the military, whom even loaded the aircraft with drugs. And having seen that, when he read about it in the book he realized that it is an extremely detailed and accurate research. So I`ve already ordered it and will be my next read after finishing the Wittgenstein book I`m reading, not enjoying, now.
+At this meal he told me about the book "<a title="https://www.amazon.com/Los-se%C3%B1ores-narco-Spanish-Edition-ebook/dp/B007TID1RK" href="https://www.amazon.com/Los-se%C3%B1ores-narco-Spanish-Edition-ebook/dp/B007TID1RK" target="_blank">Los Señores del Narco</a>", which details, with figures and document evidence, the close relationship between Mexican drug traffickers and politicians, and other countries for decades. Germinal told me that he witnessed, when he built hospitals in the Sierra, 40 years ago, the drug flights aided by the military, whom even loaded the aircraft with drugs. And having seen that, when he read about it in the book he realized that it is an extremely detailed and accurate research. So I`ve already ordered it and will be my next read after finishing the Wittgenstein book I`m reading, not enjoying, now.
 
 Violence and crime are unfortunately common in Mexico and monopolize the social debate. And no wonder: in the few days I was there I heard so many cases of corruption and violence that mad eme sick. In fact people are tired of it, and there are constant demonstrations that block traffic in downtown Mexico City, but of course, necessary as they are, it will not change anything.
 

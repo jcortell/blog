@@ -20,7 +20,7 @@ Let's talk about some unique foods in NY.
 
 New York can be defined for its concentration, of everything, from power and money to buildings to people to shops to restaurants. You can go to a different restaurant every meal, and give the rotation in the hospitality industry, you would never run out of options. Ahead of NY Restaurant Week we decided to try a few interesting options.
 
-First, a quest for good pizza in NY. I believe NY's pizza y way overrated, but of course you can find good pizza. We tried [John's of Bleeker Street](http://www.johnsbrickovenpizza.com/) on Wednesday. While it's old and famous, and the coal-fired brick over gives pizzas a very nice touch, like Lady Gaga, I prefer "tastier" pizzas like [Famous Amadeus Pizza](https://www.famousamadeus.com/), conveniently located near my wife's office.
+First, a quest for good pizza in NY. I believe NY's pizza y way overrated, but of course you can find good pizza. We tried [John's of Bleeker Street](https://www.johnsbrickovenpizza.com/) on Wednesday. While it's old and famous, and the coal-fired brick over gives pizzas a very nice touch, like Lady Gaga, I prefer "tastier" pizzas like [Famous Amadeus Pizza](https://www.famousamadeus.com/), conveniently located near my wife's office.
 
 But you can't live off of pizza alone, so we also went to [Big Gay Ice Cream](https://biggayicecream.com/) on Grove Street, and to [Max Brenner](https://maxbrenner.com/) on Union Square, where I had the most filling "pizza" ever: peanut butter, banana, chocolate, marshmallows. Because.  
 

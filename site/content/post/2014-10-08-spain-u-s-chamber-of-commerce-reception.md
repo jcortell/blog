@@ -4,7 +4,7 @@ title: 'Spain – U.S. Chamber of Commerce Reception'
 date: 2014-10-08T21:21:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7239
+guid: https://blog.cortell.net/?p=7239
 permalink: /blog/2014/10/08/spain-u-s-chamber-of-commerce-reception/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Hong Kong Day 2
 date: 2017-04-01T15:34:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8265
+guid: https://blog.cortell.net/?p=8265
 permalink: /blog/2017/04/01/hong-kong-day-2/
 categories:
   - General
@@ -30,7 +30,7 @@ As the evening was becoming night, we took the Star Ferry back to Kowloon Tsim S
 
 To go to the airport we took one of the complimentary shuttle buses that took us from The Peninsula Hotel to the Kowloon Station where we boarded the Airport Express, arriving at the airport in no time.
 
-As our last dinner in Asia we went to [Tasty Congee & Noodle Wantun Shop](http://www.tasty.co.hk), where we had a feast:
+As our last dinner in Asia we went to [Tasty Congee & Noodle Wantun Shop](https://www.tasty.co.hk), where we had a feast:
 
   * Fresh fish balls congee
   * Crispy Chinese fried dough

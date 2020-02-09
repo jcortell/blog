@@ -4,7 +4,7 @@ title: Baltic Cruise Day 3
 date: 2016-05-24T16:05:02+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7876
+guid: https://blog.cortell.net/?p=7876
 permalink: /blog/2016/05/24/baltic-cruise-day-3/
 categories:
   - General

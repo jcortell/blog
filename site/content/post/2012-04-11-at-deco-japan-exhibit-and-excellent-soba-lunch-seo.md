@@ -4,7 +4,7 @@ title: At Deco Japan exhibit and excellent soba lunch (SEO)
 date: 2012-04-11T16:42:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4051
+guid: https://cortell.net/blog/?p=4051
 permalink: /blog/2012/04/11/at-deco-japan-exhibit-and-excellent-soba-lunch-seo/
 wpsd_autopost:
   - "1"
@@ -15,7 +15,7 @@ categories:
   - NY
   - Personal
 ---
-Yesterday, since I had to go to the Japan Society to take care of some business, I took the opportunity to visit the _<a title="http://www.japansociety.org/event/deco-japan-shaping-art-and-culture-19201945" href="http://www.japansociety.org/event/deco-japan-shaping-art-and-culture-19201945" target="_blank">Deco Japan: Shaping Art and Culture, 1920–1945</a>_ exhibition (I was invited to the opening, but I could not make it that day).
+Yesterday, since I had to go to the Japan Society to take care of some business, I took the opportunity to visit the _<a title="https://www.japansociety.org/event/deco-japan-shaping-art-and-culture-19201945" href="https://www.japansociety.org/event/deco-japan-shaping-art-and-culture-19201945" target="_blank">Deco Japan: Shaping Art and Culture, 1920–1945</a>_ exhibition (I was invited to the opening, but I could not make it that day).
 
 [mudslide:picasa,0,111219615350942087056,5730180317126910177]
 
@@ -25,6 +25,6 @@ Although the cold (even hard) design of Art Deco does not blend too well with tr
 
 As a cute added bonus, the origami sakura tree where anyone is invited to add their own flower. Beautiful.
 
-And, to top it off, lunch (excellent home made soba) at <a title="http://www.yelp.com/biz/seo-japanese-restaurant-new-york" href="http://www.yelp.com/biz/seo-japanese-restaurant-new-york" target="_blank">SEO Japanese Restaurant</a>. ^_^
+And, to top it off, lunch (excellent home made soba) at <a title="https://www.yelp.com/biz/seo-japanese-restaurant-new-york" href="https://www.yelp.com/biz/seo-japanese-restaurant-new-york" target="_blank">SEO Japanese Restaurant</a>. ^_^
 
 A wonderful day, perfect prelude for this Saturday`s j-CATION (_sakura-sayonara_).

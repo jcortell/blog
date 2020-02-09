@@ -4,7 +4,7 @@ title: A couple of days in London
 date: 2014-11-26T02:29:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7287
+guid: https://blog.cortell.net/?p=7287
 permalink: /blog/2014/11/26/a-couple-of-days-in-london/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Invited to participate in PA Consulting event
 date: 2016-11-26T08:24:45+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8123
+guid: https://blog.cortell.net/?p=8123
 permalink: /blog/2016/11/26/invited-to-participate-in-pa-consulting-event/
 categories:
   - General

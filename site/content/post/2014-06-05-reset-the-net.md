@@ -4,7 +4,7 @@ title: Reset the net
 date: 2014-06-05T14:00:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7103
+guid: https://blog.cortell.net/?p=7103
 permalink: /blog/2014/06/05/reset-the-net/
 categories:
   - CyberRights

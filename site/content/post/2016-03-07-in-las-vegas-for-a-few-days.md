@@ -4,14 +4,14 @@ title: In Las Vegas for a few days
 date: 2016-03-07T12:47:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7824
+guid: https://blog.cortell.net/?p=7824
 permalink: /blog/2016/03/07/in-las-vegas-for-a-few-days/
 categories:
   - General
   - "Life's pleasures"
   - Personal
 ---
-March 1-4 I traveled to Las Vegas to exhibit at the largest healthcare IT trade show in the world: <a href="http://www.himssconference.org/" target="_blank">HIMSS</a>.
+March 1-4 I traveled to Las Vegas to exhibit at the largest healthcare IT trade show in the world: <a href="https://www.himssconference.org/" target="_blank">HIMSS</a>.
 
 Hitachi, one of our partners, asked my company to be part of their booth for the second year in a row, and I was very glad to share the booth with them and another open source company they recently acquired: Pentaho.
 

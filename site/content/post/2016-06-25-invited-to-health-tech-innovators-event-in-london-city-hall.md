@@ -4,7 +4,7 @@ title: Invited to Health Tech Innovators event in London City Hall
 date: 2016-06-25T09:57:42+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7940
+guid: https://blog.cortell.net/?p=7940
 permalink: /blog/2016/06/25/invited-to-health-tech-innovators-event-in-london-city-hall/
 categories:
   - General

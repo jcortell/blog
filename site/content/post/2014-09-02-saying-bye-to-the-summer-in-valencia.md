@@ -4,7 +4,7 @@ title: Saying bye to the summer in Valencia
 date: 2014-09-02T18:31:25+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7159
+guid: https://blog.cortell.net/?p=7159
 permalink: /blog/2014/09/02/saying-bye-to-the-summer-in-valencia/
 categories:
   - General

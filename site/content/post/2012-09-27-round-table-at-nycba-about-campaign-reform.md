@@ -4,7 +4,7 @@ title: Round table at NYCBA about Campaign Reform
 date: 2012-09-27T13:46:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4306
+guid: https://cortell.net/blog/?p=4306
 permalink: /blog/2012/09/27/round-table-at-nycba-about-campaign-reform/
 wpsd_autopost:
   - "1"
@@ -20,7 +20,7 @@ categories:
   - Society and politics
   - Why not? Utopia?
 ---
-September 5th (I know, I have really fallen behind my posts; bear with me, there is just too much going on to keep up) I attended a very interesting and enlightening round table at the <a title="http://www.nycbar.org/" href="http://www.nycbar.org/" target="_blank">New York City Bar Association</a> titled "How Will Recent Developments in the Law Influence the 2012 Elections"?
+September 5th (I know, I have really fallen behind my posts; bear with me, there is just too much going on to keep up) I attended a very interesting and enlightening round table at the <a title="https://www.nycbar.org/" href="https://www.nycbar.org/" target="_blank">New York City Bar Association</a> titled "How Will Recent Developments in the Law Influence the 2012 Elections"?
 
 <p style="text-align: center">
   [mudslide:picasa,0,111219615350942087056,5785429418903603569]
@@ -30,7 +30,7 @@ Moderated by Nan Aron (lecturer, author, and President of Alliance for Justice),
 
   * Angelo Falcón: President and Founder of the National Institute for Latino Policy
   * Keesha Gaskins: Senior Counsel in the Brennan Center`s Democracy Program
-  * <a title="http://en.wikipedia.org/wiki/Lawrence_Lessig" href="http://en.wikipedia.org/wiki/Lawrence_Lessig" target="_blank">Lawrence Lessig</a>: Professor of Law at Harvard University (and much more)
+  * <a title="https://en.wikipedia.org/wiki/Lawrence_Lessig" href="https://en.wikipedia.org/wiki/Lawrence_Lessig" target="_blank">Lawrence Lessig</a>: Professor of Law at Harvard University (and much more)
   * John Samples: Director of the Cato Institute Center for Representative Government
 
 The discussion was quite interesting. Leaving aside, which does not mean they are unimportant, US centric details of Campaign Law, the main points I took from the event were:

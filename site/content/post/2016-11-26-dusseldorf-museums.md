@@ -4,7 +4,7 @@ title: Düsseldorf Museums
 date: 2016-11-26T09:14:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8125
+guid: https://blog.cortell.net/?p=8125
 permalink: /blog/2016/11/26/dusseldorf-museums/
 categories:
   - Art
@@ -16,7 +16,7 @@ Last week I spent 3 days in Düsseldorf, attending the Medica trade show. But I 
 
 Since Düsseldorf is a city that I know well, I decided to concentrate in its museums and art galleries. I could not have picked a more perfect time!
 
-At the [Kunsthalle](http://www.kunsthalle-duesseldorf.de/index.php?id=399) I attended the excellent exhibition titled “Wool and water”, wi­th: Li­li Du­jou­rie, Isa Genz­ken, As­trid Klein, Mi­scha Ku­ball, Aron Meh­zi­on, Rein­hard Mu­cha, Stur­te­vant, Ro­se­ma­rie Tro­ckel, and Ger­hard Rich­ter; cu­ra­ted by Gre­gor Jan­sen. An absolutely “can’t miss” exhibition. Alluring and exciting. I could not remember the last time I was so excited about an exhibition. I felt like clapping, like calling the curator and the artists and showing my respect and admiration.
+At the [Kunsthalle](https://www.kunsthalle-duesseldorf.de/index.php?id=399) I attended the excellent exhibition titled “Wool and water”, wi­th: Li­li Du­jou­rie, Isa Genz­ken, As­trid Klein, Mi­scha Ku­ball, Aron Meh­zi­on, Rein­hard Mu­cha, Stur­te­vant, Ro­se­ma­rie Tro­ckel, and Ger­hard Rich­ter; cu­ra­ted by Gre­gor Jan­sen. An absolutely “can’t miss” exhibition. Alluring and exciting. I could not remember the last time I was so excited about an exhibition. I felt like clapping, like calling the curator and the artists and showing my respect and admiration.
 
 I also visited both the K20 and K21 at the [Kunstsammlung Nordrhein-Westfalen (KNW)](https://www.kunstsammlung.de).
 

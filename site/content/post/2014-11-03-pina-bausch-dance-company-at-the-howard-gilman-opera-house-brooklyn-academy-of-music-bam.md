@@ -4,7 +4,7 @@ title: Pina Bausch dance company at the Howard Gilman Opera House Brooklyn Acade
 date: 2014-11-03T20:42:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7260
+guid: https://blog.cortell.net/?p=7260
 permalink: /blog/2014/11/03/pina-bausch-dance-company-at-the-howard-gilman-opera-house-brooklyn-academy-of-music-bam/
 categories:
   - Art

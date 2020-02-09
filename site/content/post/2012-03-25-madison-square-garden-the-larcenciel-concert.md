@@ -4,7 +4,7 @@ title: 'Madison Square Garden: the LArc~en~Ciel concert'
 date: 2012-03-25T23:16:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3963
+guid: https://cortell.net/blog/?p=3963
 permalink: /blog/2012/03/25/madison-square-garden-the-larcenciel-concert/
 wpsd_autopost:
   - "1"
@@ -15,11 +15,11 @@ categories:
   - NY
   - Personal
 ---
-The Japan Society invited me to <a title="https://en.wikipedia.org/wiki/L'Arc-en-Ciel" href="https://en.wikipedia.org/wiki/L'Arc-en-Ciel" target="_blank">L`Arc~en~Ciel</a> concert at the <a title="http://www.thegarden.com/events/2012/l-arc-en-ciel.html" href="http://www.thegarden.com/events/2012/l-arc-en-ciel.html" target="_blank">Madison Square Garden</a> last night, so there I went.
+The Japan Society invited me to <a title="https://en.wikipedia.org/wiki/L'Arc-en-Ciel" href="https://en.wikipedia.org/wiki/L'Arc-en-Ciel" target="_blank">L`Arc~en~Ciel</a> concert at the <a title="https://www.thegarden.com/events/2012/l-arc-en-ciel.html" href="https://www.thegarden.com/events/2012/l-arc-en-ciel.html" target="_blank">Madison Square Garden</a> last night, so there I went.
 
-<img class="aligncenter" title="L'Arc~en~Ciel" src="http://www.thegarden.com/content/dam/msg/eventImg/LArc-En-Ciel-0325-12-328.jpg/_jcr_content/renditions/LArc-En-Ciel-0325-12-328.328.254.jpg" alt="" width="328" height="254" />
+<img class="aligncenter" title="L'Arc~en~Ciel" src="https://www.thegarden.com/content/dam/msg/eventImg/LArc-En-Ciel-0325-12-328.jpg/_jcr_content/renditions/LArc-En-Ciel-0325-12-328.328.254.jpg" alt="" width="328" height="254" />
 
-<a title="http://www.larc-en-ciel.com/wt2012/index.html" href="http://www.larc-en-ciel.com/wt2012/index.html" target="_blank">L`Arc~en~Ciel</a> is a Japanese rock band formed in 1991 in Osaka. The group has sold over 13 million albums, and 16 million singles. Currently on a world tour (obviously last night in NY), their upcoming London and Jakarta concerts are already sold out, and their <a title="http://www.mtv.com/news/articles/1681730/larc-en-ciel-madison-square-garden.jhtml" href="http://www.mtv.com/news/articles/1681730/larc-en-ciel-madison-square-garden.jhtml" target="_blank">NY concert was bigger than expected</a>.
+<a title="https://www.larc-en-ciel.com/wt2012/index.html" href="https://www.larc-en-ciel.com/wt2012/index.html" target="_blank">L`Arc~en~Ciel</a> is a Japanese rock band formed in 1991 in Osaka. The group has sold over 13 million albums, and 16 million singles. Currently on a world tour (obviously last night in NY), their upcoming London and Jakarta concerts are already sold out, and their <a title="https://www.mtv.com/news/articles/1681730/larc-en-ciel-madison-square-garden.jhtml" href="https://www.mtv.com/news/articles/1681730/larc-en-ciel-madison-square-garden.jhtml" target="_blank">NY concert was bigger than expected</a>.
 
 Given their JPop-rock sound, no wonder the Madison Square Garden was almost fully packed with Japanese, although there were more than teenagers, like the "respectable moms" in their 50s, 3 rows ahead of me, who could not stop swinging and laughing and singing, or the guy next to me, there with his wife, who waited patiently for the concert to start while reading manga in his iPad.
 

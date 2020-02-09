@@ -4,7 +4,7 @@ title: A few days in Valencia during Fallas
 date: 2016-04-17T15:05:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7845
+guid: https://blog.cortell.net/?p=7845
 permalink: /blog/2016/04/17/a-few-days-in-valencia-during-fallas/
 categories:
   - General

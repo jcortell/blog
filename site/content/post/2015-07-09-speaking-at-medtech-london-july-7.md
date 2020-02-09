@@ -4,7 +4,7 @@ title: Speaking at MedTech London July 7
 date: 2015-07-09T18:00:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7570
+guid: https://blog.cortell.net/?p=7570
 permalink: /blog/2015/07/09/speaking-at-medtech-london-july-7/
 categories:
   - General
@@ -16,7 +16,7 @@ categories:
 ---
 <img class=" aligncenter" src="https://farm1.staticflickr.com/472/19553267075_deacdc4bdc_n.jpg" alt="IMG_3917" width="320" height="240" />
 
-Tuesday July 7th I was also invited, this time by Prof Tony Young (National Clinical Director for Innovation NHS England), to speak at the <a href="http://www.meetup.com/Med-Tech-Campus/events/223254023/" target="_blank">MedTech event</a> held at <a href="http://www.uclpartners.com/" target="_blank">University College London Partners</a>.
+Tuesday July 7th I was also invited, this time by Prof Tony Young (National Clinical Director for Innovation NHS England), to speak at the <a href="https://www.meetup.com/Med-Tech-Campus/events/223254023/" target="_blank">MedTech event</a> held at <a href="https://www.uclpartners.com/" target="_blank">University College London Partners</a>.
 
 The other three speakers also talked about different aspects of MedTech:
 

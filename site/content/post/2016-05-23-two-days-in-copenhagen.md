@@ -4,7 +4,7 @@ title: Two days in Copenhagen
 date: 2016-05-23T19:30:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7867
+guid: https://blog.cortell.net/?p=7867
 permalink: /blog/2016/05/23/two-days-in-copenhagen/
 categories:
   - Art

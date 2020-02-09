@@ -18,7 +18,7 @@ October 15 I went to Shanghai for more lectures, and to meet the biggest investm
 
 <!--more-->
 
-We arrived in a night flight, but luckily our hotel (the [Cordis hongqiao](http://www.cordishotels.com/en/shanghai-hongqiao/)) was located next to the airport and train station. Even so, we went to bed way past midnight, and at 6:30am there was a Taichi practice session. Since I've practiced Taichi before, I decided to stay in bed a little longer, to gather strength for the intense day ahead.
+We arrived in a night flight, but luckily our hotel (the [Cordis hongqiao](https://www.cordishotels.com/en/shanghai-hongqiao/)) was located next to the airport and train station. Even so, we went to bed way past midnight, and at 6:30am there was a Taichi practice session. Since I've practiced Taichi before, I decided to stay in bed a little longer, to gather strength for the intense day ahead.
 
 After a very nice breakfast, we took a bus to downtown Shanghai, where we visited the new main offices of [Fosun](https://www.fosun.com/language/en/), and pitched to some of their investment leadership. Fosun is a Global Top 500 conglomerate with over $100 billion under management, which invests in Health, Happiness and Wealth. Some of their more famous investments include movie productions (Wonder Woman, Gemini Man, etc), Club Med, or the Wolverhampton Wanderers (Wolves) UK Football ("soccer" for US readers) Club.
 

@@ -24,7 +24,7 @@ I stayed at the [Renaissance Shanghai Yu Garden Hotel](https://www.marriott.com/
 
 Yuyuan Garden (豫園, or Garden of Happiness) was first built in 1559 during the Ming Dynasty, and it is an extensive Chinese garden located beside the City God Temple in the northeast of the Old City of Shanghai at Huangpu Qu. It encompasses the Yuyuan Tourist Mart, the Huxinting Teahouse and the Yu Garden Bazaar. Take a look at the pictures. It's amazing.
 
-After that, and on my way to the event, I stopped at the [Rockbund Art Museum (RAM)](http://www.rockbundartmuseum.org/en/). I visited a weak [Hugo Boss Asia Art 2019 exhibition](http://www.rockbundartmuseum.org/en/exhibition/overview/166crsn). But art is always worth it, so no complains.
+After that, and on my way to the event, I stopped at the [Rockbund Art Museum (RAM)](https://www.rockbundartmuseum.org/en/). I visited a weak [Hugo Boss Asia Art 2019 exhibition](https://www.rockbundartmuseum.org/en/exhibition/overview/166crsn). But art is always worth it, so no complains.
 
 The event I was invited to, the WoWo-Fosun Protechting Innovation event, was heald at the Hyatt on the Bund Shanghai. After the event, I headed to the Tea Room, to have a business tea with a Finnish partner.
 

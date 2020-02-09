@@ -4,7 +4,7 @@ title: Manic London days in April
 date: 2015-04-23T21:48:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7416
+guid: https://blog.cortell.net/?p=7416
 permalink: /blog/2015/04/23/manic-london-days-in-april/
 categories:
   - General
@@ -30,6 +30,6 @@ Luckily Frankie, our awesome real estate agent, was kind enough to keep research
 
 All this would have not been possible if it wasn`t because Ted, from London & Partners, helped us make it happen. Thank you, Ted!
 
-At least we did enjoy the hotel very much. We stayed at the fabulous <a href="http://www.doylecollection.com/hotels/the-kensington-hotel" target="_blank">Kensington Hotel</a>.
+At least we did enjoy the hotel very much. We stayed at the fabulous <a href="https://www.doylecollection.com/hotels/the-kensington-hotel" target="_blank">Kensington Hotel</a>.
 
 We were so tired and short on time, that we had to decline an invitation to the Alexander McQueen’s _Savage Beauty_ exhibition at the Victoria and Albert Museum, and the cocktail reception. We didn`t even had time to go to the opening of _Blade Runner The Final Cut_!

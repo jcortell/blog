@@ -4,7 +4,7 @@ title: Invited by the Duque of York to have dinner at Windsor Castle November 3
 date: 2016-11-10T20:26:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8103
+guid: https://blog.cortell.net/?p=8103
 permalink: /blog/2016/11/10/invited-by-the-duque-of-york-to-have-dinner-at-windsor-castle-november-3/
 categories:
   - General

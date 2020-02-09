@@ -4,7 +4,7 @@ title: Cool work meetings this summer in London
 date: 2015-09-07T15:33:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7595
+guid: https://blog.cortell.net/?p=7595
 permalink: /blog/2015/09/07/cool-work-meetings-this-summer-in-london/
 categories:
   - General

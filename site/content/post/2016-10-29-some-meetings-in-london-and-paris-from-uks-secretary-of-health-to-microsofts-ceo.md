@@ -4,7 +4,7 @@ title: 'Some meetings in London and Paris: from UK`s Secretary of Health to Micr
 date: 2016-10-29T16:49:19+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8085
+guid: https://blog.cortell.net/?p=8085
 permalink: /blog/2016/10/29/some-meetings-in-london-and-paris-from-uks-secretary-of-health-to-microsofts-ceo/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Award and Exponential Medicine Conference San Diego day 2
 date: 2016-10-29T14:36:31+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8075
+guid: https://blog.cortell.net/?p=8075
 permalink: /blog/2016/10/29/award-and-exponential-medicine-conference-san-diego-day-2/
 categories:
   - Geek Fun

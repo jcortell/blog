@@ -4,7 +4,7 @@ title: 'In Tokyo, day 3: Tsukiji, Ueno, Ameyayokocho, and Shinjukku'
 date: 2014-09-12T00:31:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7185
+guid: https://blog.cortell.net/?p=7185
 permalink: /blog/2014/09/12/in-tokyo-day-3/
 categories:
   - Art
@@ -12,7 +12,7 @@ categories:
   - "Life's pleasures"
   - Personal
 ---
-NOTE: For some reason WordPress does not show all the pictures from that day (September 6), but you can access more photos from that day here: <a title="http://www.flickr.com/photos/jcortell/sets/72157647279455961/" href="http://www.flickr.com/photos/jcortell/sets/72157647279455961/" target="_blank">http://www.flickr.com/photos/jcortell/sets/72157647279455961/</a>
+NOTE: For some reason WordPress does not show all the pictures from that day (September 6), but you can access more photos from that day here: <a title="https://www.flickr.com/photos/jcortell/sets/72157647279455961/" href="https://www.flickr.com/photos/jcortell/sets/72157647279455961/" target="_blank">https://www.flickr.com/photos/jcortell/sets/72157647279455961/</a>
 
 I really meant to make it to Tsukiji fish market early. Not that I am that interested in the fish auction, but I want to see all the fish before it is cut and packaged or sold. That means getting there before 8am. So I set the alarm at 5am. More than enough to check emails, videoconference with my wife, shower, get dressed and get there, right? Wrong. Hours of non-stop emails had me glued to the futon until I just closed the lid of my laptop and said “enough”. At least I made it there before 9am.
 
@@ -46,7 +46,7 @@ To try to get back to the present, and to lighten up a very deep day, I walked d
 
 From a street vendor I got some cheese-filled puffy-pastry and tofu to go, and then from a store up the street a small chestnut-cream filled cake.
 
-I love <a title="http://japonismo.com/blog/japon-el-paraiso-de-las-comidas-raras" href="http://japonismo.com/blog/japon-el-paraiso-de-las-comidas-raras" target="_blank">Japanese food</a>!
+I love <a title="https://japonismo.com/blog/japon-el-paraiso-de-las-comidas-raras" href="https://japonismo.com/blog/japon-el-paraiso-de-las-comidas-raras" target="_blank">Japanese food</a>!
 
 Before calling it a day I made a final stop in Shinjukku, not my favorite neighborhood by any means, whose streets were packed full of people going in all directions. I was there to check out the Shinjukku Creators Festa (not that impressive if you ask me), and walk the isles of the Tokyo Hands department store.
 

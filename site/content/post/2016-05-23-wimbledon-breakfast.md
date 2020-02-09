@@ -4,7 +4,7 @@ title: Wimbledon breakfast
 date: 2016-05-23T19:26:58+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7863
+guid: https://blog.cortell.net/?p=7863
 permalink: /blog/2016/05/23/wimbledon-breakfast/
 categories:
   - General

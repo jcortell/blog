@@ -4,7 +4,7 @@ title: When your son falls into a frozen lake
 date: 2016-12-23T10:53:47+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8157
+guid: https://blog.cortell.net/?p=8157
 permalink: /blog/2016/12/23/when-your-son-falls-into-a-frozen-lake/
 categories:
   - General

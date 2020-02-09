@@ -4,7 +4,7 @@ title: A day in Vienna, a weekend in Valencia, a day in Barcelona, and two days 
 date: 2014-11-25T08:51:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7277
+guid: https://blog.cortell.net/?p=7277
 permalink: /blog/2014/11/25/a-day-in-vienna-a-weekend-in-valencia-a-day-in-barcelona-and-two-days-in-stuttgart/
 categories:
   - General

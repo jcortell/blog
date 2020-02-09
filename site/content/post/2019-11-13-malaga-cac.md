@@ -14,14 +14,14 @@ metaAlignment: center
 coverMeta: out
 ---
 
-November 13th, after a work meeting, I visited the [Malaga CAC](http://cacmalaga.eu/).
+November 13th, after a work meeting, I visited the [Malaga CAC](https://cacmalaga.eu/).
 
 <!--more-->
 
 I always enjoy a stroll through Malaga, and there's never enough time to visit and do all I wish I could. So this time I focused on my two favorites:
 
-* [La Teteria](http://www.la-teteria.com/) tea parlor, where I had mithi lassi, coconut-choco-cookie cake and a white tea.
-* Contemporary Art Center, where, besides the always excellent permanent collection, I particularly enjoyed [Dracula x Dracula](http://cacmalaga.eu/2019/10/31/dracula-x-dracula-2/), curated by the Laboratorio de las Artes as a project by Juan Miguel Quiñones
+* [La Teteria](https://www.la-teteria.com/) tea parlor, where I had mithi lassi, coconut-choco-cookie cake and a white tea.
+* Contemporary Art Center, where, besides the always excellent permanent collection, I particularly enjoyed [Dracula x Dracula](https://cacmalaga.eu/2019/10/31/dracula-x-dracula-2/), curated by the Laboratorio de las Artes as a project by Juan Miguel Quiñones
 
 Photos: https://photos.app.goo.gl/kbcDtwmUhNCFvo9v8
 

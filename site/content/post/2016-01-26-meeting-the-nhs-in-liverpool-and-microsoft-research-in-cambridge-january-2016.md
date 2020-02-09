@@ -4,7 +4,7 @@ title: Meeting the NHS in Liverpool and Microsoft Research in Cambridge January 
 date: 2016-01-26T13:24:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7777
+guid: https://blog.cortell.net/?p=7777
 permalink: /blog/2016/01/26/meeting-the-nhs-in-liverpool-and-microsoft-research-in-cambridge-january-2016/
 categories:
   - General

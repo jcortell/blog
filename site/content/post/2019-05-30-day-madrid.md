@@ -18,7 +18,7 @@ Last Thursday I went to Madrid with my son in the high speed train, for a couple
 
 <!--more-->
 
-Besides the meetings (one at the US Embassy, the other one with my team in our Madrid office) I enjoyed the little pleasures of everyday life, like meeting friends, seeing unexpected street art (gotta love the woman's butt towards the flag), and the most delicious artichokes at [Cannibal Raw Bar](http://www.cannibalrawbar.es/).
+Besides the meetings (one at the US Embassy, the other one with my team in our Madrid office) I enjoyed the little pleasures of everyday life, like meeting friends, seeing unexpected street art (gotta love the woman's butt towards the flag), and the most delicious artichokes at [Cannibal Raw Bar](https://www.cannibalrawbar.es/).
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"

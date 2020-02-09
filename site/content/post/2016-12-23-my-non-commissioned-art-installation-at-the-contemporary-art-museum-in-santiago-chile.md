@@ -4,7 +4,7 @@ title: My non-commissioned art installation at the Contemporary Art Museum in Sa
 date: 2016-12-23T10:39:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8155
+guid: https://blog.cortell.net/?p=8155
 permalink: /blog/2016/12/23/my-non-commissioned-art-installation-at-the-contemporary-art-museum-in-santiago-chile/
 categories:
   - Art

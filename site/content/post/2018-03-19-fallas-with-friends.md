@@ -18,7 +18,7 @@ As most Valencians will tell you, you have to flee [Fallas](https://en.wikipedia
 
 <!--more-->
 
-This year we were lucky to have a couple of friends visiting: Megan Roberts, a composer and media artist, and Raymond Ghirardo, a sculptor and media artist, [both](http://www.roberts-ghirardo.net) retired art professors from Ithaca College. Of course, we had them meet our good friends Trini and Claudio ([another artist](https://zirotticrea.blogspot.com)), and we had a blast.
+This year we were lucky to have a couple of friends visiting: Megan Roberts, a composer and media artist, and Raymond Ghirardo, a sculptor and media artist, [both](https://www.roberts-ghirardo.net) retired art professors from Ithaca College. Of course, we had them meet our good friends Trini and Claudio ([another artist](https://zirotticrea.blogspot.com)), and we had a blast.
 
 To top it off, another friend, Thomas, visited from Australia.
 

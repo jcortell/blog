@@ -4,7 +4,7 @@ title: Yokohama day 1
 date: 2015-10-17T23:04:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7663
+guid: https://blog.cortell.net/?p=7663
 permalink: /blog/2015/10/17/yokohama-day-1/
 categories:
   - General

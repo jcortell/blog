@@ -4,7 +4,7 @@ title: 'Canceling a trip to India due to bureaucracy... I`m going to Tokyo'
 date: 2014-09-02T19:47:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7172
+guid: https://blog.cortell.net/?p=7172
 permalink: /blog/2014/09/02/canceling-a-trip-to-india-due-to-bureaucracy-im-going-to-tokyo/
 categories:
   - General

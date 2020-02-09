@@ -4,7 +4,7 @@ title: Columbia University
 date: 2013-06-07T15:50:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4735
+guid: https://cortell.net/blog/?p=4735
 permalink: /blog/2013/06/07/columbia-university/
 categories:
   - "Life's pleasures"
@@ -16,7 +16,7 @@ After a work meeting (and seeing a colorful piano, being fine tuned, in a public
 
 <blockquote class="twitter-tweet">
   <p>
-    Meeting at Columbia University Biomedical Research Center (@ Mary Woodward Lasker Center) <a title="http://4sq.com/182ZNCw" href="http://t.co/QSycVqK43h">4sq.com/182ZNCw</a>
+    Meeting at Columbia University Biomedical Research Center (@ Mary Woodward Lasker Center) <a title="https://4sq.com/182ZNCw" href="https://t.co/QSycVqK43h">4sq.com/182ZNCw</a>
   </p>
   
   <p>
@@ -34,7 +34,7 @@ It ceased to be a library in the late 30s, and now happens to be the Administrat
 
 <blockquote class="twitter-tweet">
   <p>
-    I`m at Butler Library – Columbia University (New York, NY) <a title="http://4sq.com/10Z9fPf" href="http://t.co/DR61HaHbd0">4sq.com/10Z9fPf</a>
+    I`m at Butler Library – Columbia University (New York, NY) <a title="https://4sq.com/10Z9fPf" href="https://t.co/DR61HaHbd0">4sq.com/10Z9fPf</a>
   </p>
   
   <p>

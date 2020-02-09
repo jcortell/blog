@@ -4,7 +4,7 @@ title: Out and about in London
 date: 2015-06-14T16:36:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7516
+guid: https://blog.cortell.net/?p=7516
 permalink: /blog/2015/06/14/out-and-about-in-london/
 categories:
   - General

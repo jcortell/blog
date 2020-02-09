@@ -4,7 +4,7 @@ title: 'In Tokyo, day 4: Roppongi art triangle and TV Asahi'
 date: 2014-09-12T13:40:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7194
+guid: https://blog.cortell.net/?p=7194
 permalink: /blog/2014/09/12/in-tokyo-day-4-roppongi-art-triangle-and-tv-asahi/
 categories:
   - Art
@@ -44,7 +44,7 @@ In the atrium between the shopping center and TV Asahi they were holding the Bel
 
 Back in the hotel, picking up my luggage to go to the airport, I realized that with all that art, I had not had breakfast, the most important meal for me. So I went around the corner to get a Donburi and Sashimi for ¥500. Delicious and awesome value.
 
-Full of energy, but sad for leaving with the impression that there was much much more (http://artspacetokyo.com/artmaps/) to be enjoyed and discovered, I left towards the airport in the direct KS line train with one thought in mind. Next time, I won’t be alone. Japan is to awesome to enjoy it by myself, and it has to be incredible to share it with a loved one. There are too many things I am still to see and do in Tokyo: Koenji and Shimokitazawa, ZenyaRen “food theme park”, Ghibli Museum, Hara Museum, Watari Museum, SCAI the Bathhouse, Mount Takao, Tokyo Tower, Gotokuji…; and many that I wanted to repeat and I did not get to this time: Nakano Broadway, Omotesando, Meijingu-mae st., a Daiso, Cando, Donki, o Seria, KiddyLand…
+Full of energy, but sad for leaving with the impression that there was much much more (https://artspacetokyo.com/artmaps/) to be enjoyed and discovered, I left towards the airport in the direct KS line train with one thought in mind. Next time, I won’t be alone. Japan is to awesome to enjoy it by myself, and it has to be incredible to share it with a loved one. There are too many things I am still to see and do in Tokyo: Koenji and Shimokitazawa, ZenyaRen “food theme park”, Ghibli Museum, Hara Museum, Watari Museum, SCAI the Bathhouse, Mount Takao, Tokyo Tower, Gotokuji…; and many that I wanted to repeat and I did not get to this time: Nakano Broadway, Omotesando, Meijingu-mae st., a Daiso, Cando, Donki, o Seria, KiddyLand…
 
 Even the restaurant scene is awesome, with Tokyo having 14 triple-Michelin-starred restaurants – the most in the world.
 

@@ -4,7 +4,7 @@ title: Meetings and walks around London
 date: 2015-06-27T14:12:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7552
+guid: https://blog.cortell.net/?p=7552
 permalink: /blog/2015/06/27/meetings-and-walks-around-london/
 categories:
   - General

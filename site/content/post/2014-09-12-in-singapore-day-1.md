@@ -4,7 +4,7 @@ title: 'In Singapore, day 1: Clarke Quay, Asian Civilizations Museum, Singapore 
 date: 2014-09-12T13:44:29+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7196
+guid: https://blog.cortell.net/?p=7196
 permalink: /blog/2014/09/12/in-singapore-day-1/
 categories:
   - Art
@@ -12,13 +12,13 @@ categories:
   - "Life's pleasures"
   - Personal
 ---
-NOTE: For some reason WordPress does not show all the pictures from that day (September 7), but you can access MORE PHOTOS here: <a title="http://www.flickr.com/photos/jcortell/sets/72157647043529148/" href="http://www.flickr.com/photos/jcortell/sets/72157647043529148/" target="_blank">http://www.flickr.com/photos/jcortell/sets/72157647043529148/</a>
+NOTE: For some reason WordPress does not show all the pictures from that day (September 7), but you can access MORE PHOTOS here: <a title="https://www.flickr.com/photos/jcortell/sets/72157647043529148/" href="https://www.flickr.com/photos/jcortell/sets/72157647043529148/" target="_blank">https://www.flickr.com/photos/jcortell/sets/72157647043529148/</a>
 
 I try not to have preconceived notions about a destination. But one can’t help to associate Singapore with high rises, luxury, order and cleanliness brought about by strict laws. As I was about to find out, there is plenty of all that, and reasons for it, but Singapore is also much more than that.
 
 Singapore is one of the two busiest seaports in the world, along with Hong Kong. About three times the size of Washington, D.C., it is one of the world`s most densely populated countries, just after Monaco.
 
-I arrived at midnight, and after a very quick and easy immigration procedure, all I wanted was to get to the <a title="http://www.millenniumhotels.com.sg/studiomhotelsingapore" href="http://www.millenniumhotels.com.sg/studiomhotelsingapore" target="_blank">hotel</a> and go to sleep, which is what I did.
+I arrived at midnight, and after a very quick and easy immigration procedure, all I wanted was to get to the <a title="https://www.millenniumhotels.com.sg/studiomhotelsingapore" href="https://www.millenniumhotels.com.sg/studiomhotelsingapore" target="_blank">hotel</a> and go to sleep, which is what I did.
 
 The next day I decided to take a walk along the river, from Clarke Quay where my hotel was, to the Civic District. Of course, right after the Parliament House and the Arts House there was the Asian Civilizations Museum. Yay!
 

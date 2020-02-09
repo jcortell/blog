@@ -4,7 +4,7 @@ title: 'Slavoj Žižek lecture &quot;Conditions of Possibility&quot; with M. Hä
 date: 2012-10-21T13:04:08+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4380
+guid: https://cortell.net/blog/?p=4380
 permalink: /blog/2012/10/21/slavoj-zizek-lecture-conditions-of-possibility-with-m-hagglund-a-johnston/
 wpsd_autopost:
   - "1"
@@ -18,7 +18,7 @@ categories:
 ---
 Note: Start video on 33:33 (absolutely nothing happening before that, but just people waiting for the panelist to go on stage).</p> 
 
-On Friday I was invited to attend <a title="http://www.gc.cuny.edu/News-Events-Public-Programs/Calendar/Detail?id=12135" href="http://www.gc.cuny.edu/News-Events-Public-Programs/Calendar/Detail?id=12135" target="_blank">Slavoj Žižek`s lecture "Conditions of Possibility" with M. Hägglund & A. Johnston at City University of New York`s Graduate Center</a>.
+On Friday I was invited to attend <a title="https://www.gc.cuny.edu/News-Events-Public-Programs/Calendar/Detail?id=12135" href="https://www.gc.cuny.edu/News-Events-Public-Programs/Calendar/Detail?id=12135" target="_blank">Slavoj Žižek`s lecture "Conditions of Possibility" with M. Hägglund & A. Johnston at City University of New York`s Graduate Center</a>.
 
 Martin Hägglund (associate professor of comparative literature and humanities at Yale University) and Adrian Johnston (professor in the department of philosophy at the University of New Mexico at Albuquerque and a faculty member at the Emory Psychoanalytic Institute in Atlanta) both read legthy and endogamic discourses about Heidegger, classic philosophical concepts, and stubbornly narrow minded "canons". You can not make philosophy (then again, they were reading and regurgitating, not creating or philosophizing) and begin by taking for granted Kant, Heidegger, Hegel, Lacan... We are in the XXI century! Of course those were great philosophers, and their contributions are extremely significant, but that does not mean they are unquestionable. As a matter of fact, that`s what philosophy is about!
 

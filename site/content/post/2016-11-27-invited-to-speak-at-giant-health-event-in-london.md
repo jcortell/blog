@@ -4,7 +4,7 @@ title: Invited to speak at GIANT Health event in London
 date: 2016-11-27T15:22:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8128
+guid: https://blog.cortell.net/?p=8128
 permalink: /blog/2016/11/27/invited-to-speak-at-giant-health-event-in-london/
 categories:
   - General
@@ -13,7 +13,7 @@ categories:
   - Personal
   - Technology
 ---
-Right after I returned from Germany, and before departing for Paraguay, I was invited to speak at the <a href="http://gianthealthevent.com" target="_blank">GIANT Health event</a> (the “global innovation and new technology health event), health in The Coronet, London.
+Right after I returned from Germany, and before departing for Paraguay, I was invited to speak at the <a href="https://gianthealthevent.com" target="_blank">GIANT Health event</a> (the “global innovation and new technology health event), health in The Coronet, London.
 
 
 

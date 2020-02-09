@@ -4,7 +4,7 @@ title: Baltic Cruise Day 6
 date: 2016-05-26T11:02:24+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7882
+guid: https://blog.cortell.net/?p=7882
 permalink: /blog/2016/05/26/baltic-cruise-day-6/
 categories:
   - General

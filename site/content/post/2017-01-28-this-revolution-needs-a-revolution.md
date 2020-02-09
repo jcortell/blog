@@ -4,7 +4,7 @@ title: This Revolution needs a Revolution
 date: 2017-01-28T17:16:52+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8179
+guid: https://blog.cortell.net/?p=8179
 permalink: /blog/2017/01/28/this-revolution-needs-a-revolution/
 categories:
   - Art
@@ -54,7 +54,7 @@ But also for the paternalistic tone of the whole exhibition, surgically isolatin
 
 <img class="aligncenter size-medium" src="https://c1.staticflickr.com/1/377/32176121130_67167375e0_z.jpg" alt="Origins of Personal Computers" width="360" height="640" />
 
-I was very happy and proud to tell my son that his grandmother was in Paris throwing cobblestones to the police in the student revolts of 1969; that his grandfather took me, when I was a little kid, to see a forbidden [theater play](http://www.nytimes.com/1987/07/13/theater/stage-mori-el-merma-with-images-from-miro.html) during Spain`s democratic transition, fearing the secret police repression; that I participated as a kid in discussions with adults about anarchism and communism, when both were outlawed in Spain; and that I have participated in some of the revolutions and protests that came in the decades after that.
+I was very happy and proud to tell my son that his grandmother was in Paris throwing cobblestones to the police in the student revolts of 1969; that his grandfather took me, when I was a little kid, to see a forbidden [theater play](https://www.nytimes.com/1987/07/13/theater/stage-mori-el-merma-with-images-from-miro.html) during Spain`s democratic transition, fearing the secret police repression; that I participated as a kid in discussions with adults about anarchism and communism, when both were outlawed in Spain; and that I have participated in some of the revolutions and protests that came in the decades after that.
 
 I`m not angry because they took "my" revolutions and repackaged them for easy digestion by accommodating masses. That was foreseeable, and an obvious result of the reigning empire of consumerist capitalism.
 

@@ -4,7 +4,7 @@ title: Creating the non-comissioned art piece “Diangle” for the Tate Modern 
 date: 2016-06-25T11:10:44+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7944
+guid: https://blog.cortell.net/?p=7944
 permalink: /blog/2016/06/25/creating-the-non-comissioned-art-piece-diangle-for-the-tate-gallery/
 categories:
   - Art

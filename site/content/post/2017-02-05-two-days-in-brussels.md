@@ -4,7 +4,7 @@ title: Two days in Brussels
 date: 2017-02-05T10:02:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8189
+guid: https://blog.cortell.net/?p=8189
 permalink: /blog/2017/02/05/two-days-in-brussels/
 categories:
   - General

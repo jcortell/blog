@@ -4,7 +4,7 @@ title: 'Google Next Event: NY vs London'
 date: 2015-06-27T14:48:13+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7555
+guid: https://blog.cortell.net/?p=7555
 permalink: /blog/2015/06/27/google-next-event-ny-vs-london/
 categories:
   - Geek Fun
@@ -17,7 +17,7 @@ categories:
 ---
 On June 23 I was invited to attend the <a href="https://cloudplatformonline.com/NEXT_Google_Cloud_Platform_Experience_London.html" target="_blank">Google Next Event</a>, as a customer of Google and a potential partner.
 
-It was quite a shock comparing the overall tone and spirit to <a href="http://blog.cortell.net/blog/2014/05/15/invited-by-google-to-the-google-cloud-platform-presentation/" target="_blank">the same event in New York, last year</a>.
+It was quite a shock comparing the overall tone and spirit to <a href="https://blog.cortell.net/blog/2014/05/15/invited-by-google-to-the-google-cloud-platform-presentation/" target="_blank">the same event in New York, last year</a>.
 
 In New York everything was oriented toward networking, and you had the feeling that anyone could be anyone, and it didn`t matter if they represented a large company or a "start-up wannabe".
 

@@ -4,7 +4,7 @@ title: Delicious kaiseki Japanese dinner at Kyo Ya
 date: 2014-05-09T23:06:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7060
+guid: https://blog.cortell.net/?p=7060
 permalink: /blog/2014/05/09/delicious-kaiseki-japanese-dinner-at-kyo-ya/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - NY
   - Personal
 ---
-My wife took me to the amazing and discreet Japanese restaurant <a title="New York Times review of Kyo Ya" href="http://www.nytimes.com/restaurants/1194723845594/kyo-ya/details.html" target="_blank">Kyo Ya</a> for my birthday last month. What an amazing treat!
+My wife took me to the amazing and discreet Japanese restaurant <a title="New York Times review of Kyo Ya" href="https://www.nytimes.com/restaurants/1194723845594/kyo-ya/details.html" target="_blank">Kyo Ya</a> for my birthday last month. What an amazing treat!
 
 The menu were 11 courses that were all incredibly delicious:
 

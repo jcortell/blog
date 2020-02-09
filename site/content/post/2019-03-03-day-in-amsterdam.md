@@ -20,7 +20,7 @@ March 3rd I was supposed to be home in Spain, and yet, here I was, in Amsterdam 
 
 Due to the hostilities between India and Pakistan over Kashmir and the Indian pilot the Pakistanis shot down, which led to their airspace to be closed down, my flight from Bangkok to Amsterdam had to be detoured around it, adding 3 extra hours to the flight time, making me lose my connexion to Valencia.
 
-KLM was nice about the unexpected layover in Amsterdam, and put me in a nice [hotel](http://villagetv.corendonhotels.com/corendon-village-hotel-amsterdam/#/), including dinner, breakfast and wifi. At least the "strong winds yellow alert" did not affect my next flight.
+KLM was nice about the unexpected layover in Amsterdam, and put me in a nice [hotel](https://villagetv.corendonhotels.com/corendon-village-hotel-amsterdam/#/), including dinner, breakfast and wifi. At least the "strong winds yellow alert" did not affect my next flight.
 
 I'm not tired of traveling (that can't happen), but after about 25 years constantly on the road, I'm getting tired of missing Valentine's day, birthdays, anniversaries, school plays... I'm ready for more traveling, but with my family.
 

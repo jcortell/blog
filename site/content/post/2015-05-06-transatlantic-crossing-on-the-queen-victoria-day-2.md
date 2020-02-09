@@ -4,7 +4,7 @@ title: Transatlantic crossing on the Queen Victoria, Day 2
 date: 2015-05-06T10:54:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7437
+guid: https://blog.cortell.net/?p=7437
 permalink: /blog/2015/05/06/transatlantic-crossing-on-the-queen-victoria-day-2/
 categories:
   - General

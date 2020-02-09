@@ -4,7 +4,7 @@ title: 'Family Mediterranean Cruise Day 4: Palermo'
 date: 2014-08-31T16:14:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7145
+guid: https://blog.cortell.net/?p=7145
 permalink: /blog/2014/08/31/family-mediterranean-cruise-day-4-palermo/
 categories:
   - General

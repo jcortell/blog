@@ -4,7 +4,7 @@ title: Sky Garden in London
 date: 2015-10-17T22:14:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7654
+guid: https://blog.cortell.net/?p=7654
 permalink: /blog/2015/10/17/sky-garden-in-london/
 categories:
   - General
@@ -12,7 +12,7 @@ categories:
   - London
   - Personal
 ---
-Monday October 5 I took my family to the <a href="http://skygarden.london/" target="_blank">Sky Garden</a>, at 20 Fenchurch St., London. It’s the UK’s highest public garden, and it’s free to visit although an online reservation is required.
+Monday October 5 I took my family to the <a href="https://skygarden.london/" target="_blank">Sky Garden</a>, at 20 Fenchurch St., London. It’s the UK’s highest public garden, and it’s free to visit although an online reservation is required.
 
 Honestly, I wonder how come it took me so long to check it out. It’s awesome!
 

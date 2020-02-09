@@ -4,7 +4,7 @@ title: Ft. Erie, Canada, April 2015
 date: 2015-04-24T22:30:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7429
+guid: https://blog.cortell.net/?p=7429
 permalink: /blog/2015/04/24/ft-erie-canada-april-2015/
 categories:
   - General

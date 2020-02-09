@@ -4,7 +4,7 @@ title: Very interesting insights from the UBS Forum 2017
 date: 2017-02-07T16:08:53+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8193
+guid: https://blog.cortell.net/?p=8193
 permalink: /blog/2017/02/07/very-interesting-insights-from-the-ubs-forum-2017/
 categories:
   - General
@@ -46,11 +46,11 @@ Here are some of the most interesting takeaway points and quotes I wrote down:
 
   * > “Nationalism, prejudice and discrimination leads to inefficient markets and the waste of perfectly good human capital which leads to less growth and economic damage” (SIC, but wake up: that’s how they see you)
 
-  * > [The Loser’s Game](http://www.cfapubs.org/doi/abs/10.2469/faj.v51.n1.1865) is an old research paper, but completely worth reading it
+  * > [The Loser’s Game](https://www.cfapubs.org/doi/abs/10.2469/faj.v51.n1.1865) is an old research paper, but completely worth reading it
 
   * > [Prospect Theory](https://en.wikipedia.org/wiki/Prospect_theory): Potential gains encourage risk aversion, potential losses encourage DOUBLE risk taking
 
-  * > An amazing [Status Quo bias example](http://www.wheelofpersuasion.com/technique/status-quo-bias/) is the reason behind Europe`s "two levels" of organ donations
+  * > An amazing [Status Quo bias example](https://www.wheelofpersuasion.com/technique/status-quo-bias/) is the reason behind Europe`s "two levels" of organ donations
 
   * > An amazing example of the Decoy Effect or Anchoring Effect is The Economist subscriptions options ([number 6 in this list](https://www.fastcompany.com/3019903/work-smart/8-subconscious-mistakes-our-brains-make-every-day-and-how-to-avoid-them))
 

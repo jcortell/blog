@@ -18,7 +18,7 @@ March 25th, after a day of sailing, we docked in Tauranga and spent the day in R
 
 <!--more-->
 
-My wife has invited me to [cruise around New Zealand in the Crystal Symphony](http://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16). After embarking in Auckland we spent the first day at sea, in which my wife hosted a cocktail party at the Palm Court, I caught up with work emails and some reading (the ship receives current magazines like Wired, The Economist, etc), we attended a musical performance by Neil Lockwood (former singer of The Allan Parsons Project), and we dined at award-winning Japanese restaurant Nobu at Sea (now called Umi Uma), before we arrived at our first port of call: Tauranga.
+My wife has invited me to [cruise around New Zealand in the Crystal Symphony](https://www.crystalcruises.com/voyage/details/Auckland-to-Sydney-ocs190323-16). After embarking in Auckland we spent the first day at sea, in which my wife hosted a cocktail party at the Palm Court, I caught up with work emails and some reading (the ship receives current magazines like Wired, The Economist, etc), we attended a musical performance by Neil Lockwood (former singer of The Allan Parsons Project), and we dined at award-winning Japanese restaurant Nobu at Sea (now called Umi Uma), before we arrived at our first port of call: Tauranga.
 
 Tauranga is a nice little town, with the largest seaport in New Zealand. As you exit the port, you see Mount Maunganui, an extinct volcanic cone at the tip of the peninsula, which has very nice trekking trails and beaches on both sides. As a matter of fact, just the day before one of the Surfing World Championship competitions were held in those beaches.
 

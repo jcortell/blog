@@ -4,7 +4,7 @@ title: Festival of Genomics Boston
 date: 2016-06-30T15:43:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7954
+guid: https://blog.cortell.net/?p=7954
 permalink: /blog/2016/06/30/festival-of-genomics-boston/
 categories:
   - Free Software
@@ -19,7 +19,7 @@ categories:
 ---
  
 
-June 28 and 29 I attended, along with my friend John Memarian, President & CCO of my company [Kanteron Systems](http://blog.kanteron.com/), the [Festival of Genomics Boston](http://www.festivalofgenomicsboston.com/), as a [Microsoft Genomics Group](http://microsoft.com/genomics) partner.
+June 28 and 29 I attended, along with my friend John Memarian, President & CCO of my company [Kanteron Systems](https://blog.kanteron.com/), the [Festival of Genomics Boston](https://www.festivalofgenomicsboston.com/), as a [Microsoft Genomics Group](https://microsoft.com/genomics) partner.
 
 Although the show was small, it was a great opportunity to network with industry and academic experts (from Harvard Professors to Illumina executives) and learn.
 

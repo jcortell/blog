@@ -4,7 +4,7 @@ title: In Salvador de Bahia (Brazil)
 date: 2011-12-12T02:28:07+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3678
+guid: https://cortell.net/blog/?p=3678
 permalink: /blog/2011/12/12/in-salvador-de-bahia-brazil/
 wpsd_autopost:
   - "1"
@@ -15,13 +15,13 @@ categories:
 ---
 I used to think that a travel would much more interesting the more anecdotes and curious things happened on it. But as years go by, one learns the pleasure of a relaxed journey, of a memorable trip for the sake of it. This quick business trip to Salvador do Bahia (Brazil) has been one of those… almost.
 
-I stayed at one "has-been" old-glory [hotel](http://www.pestana.com/pt/pestana-bahia-hotel/pages/home.aspx "Hotel Pestana Bahia") (formerly belonging to Le Meridien), with a movie-set location: at the very tip of the peninsula, sea on both sides, and an absolutely stunning view from my 22nd floor room.
+I stayed at one "has-been" old-glory [hotel](https://www.pestana.com/pt/pestana-bahia-hotel/pages/home.aspx "Hotel Pestana Bahia") (formerly belonging to Le Meridien), with a movie-set location: at the very tip of the peninsula, sea on both sides, and an absolutely stunning view from my 22nd floor room.
 
-<img class="aligncenter" title="view" src="http://farm8.staticflickr.com/7146/6495688723_ee3dd241d5.jpg" alt="" width="500" height="375" />
+<img class="aligncenter" title="view" src="https://farm8.staticflickr.com/7146/6495688723_ee3dd241d5.jpg" alt="" width="500" height="375" />
 
-These two days have gone by, from morning until evening, accompanied by customer-friends that showed me why Brazilians are famous for being open, relaxed and gentle people. They have been exceptionally nice, and made sure they took me everywhere, having lunch and dinner with me in some great restaurants (<a title="Soho" href="http://www.sohorestaurante.com.br/index_ssa.html" target="_blank">Soho</a>, <a title="Amado" href="http://www.amadobahia.com.br/index2.html" target="_blank">Amado</a>, <a title="Mistura" href="http://www.restaurantemistura.com.br/" target="_blank">Mistura</a>…) with delicious seafood. I even dined in the cool house of one of them with his family!
+These two days have gone by, from morning until evening, accompanied by customer-friends that showed me why Brazilians are famous for being open, relaxed and gentle people. They have been exceptionally nice, and made sure they took me everywhere, having lunch and dinner with me in some great restaurants (<a title="Soho" href="https://www.sohorestaurante.com.br/index_ssa.html" target="_blank">Soho</a>, <a title="Amado" href="https://www.amadobahia.com.br/index2.html" target="_blank">Amado</a>, <a title="Mistura" href="https://www.restaurantemistura.com.br/" target="_blank">Mistura</a>…) with delicious seafood. I even dined in the cool house of one of them with his family!
 
-<img class="aligncenter" title="Soho Restaurant" src="http://farm8.staticflickr.com/7146/6495688791_971cdae917.jpg" alt="" width="500" height="411" />
+<img class="aligncenter" title="Soho Restaurant" src="https://farm8.staticflickr.com/7146/6495688791_971cdae917.jpg" alt="" width="500" height="411" />
 
 On the other hand, as it usually happens, I have "experienced" the city from a car. My only physical interaction with the city have been two. On one hand the work visit to Suburbio Hospital, a brand new hospital built on one of the most dangerous neighborhoods in Brazil, where many emergency calls are for "stray" bullet wounds ("How can it be that we treat people with up to 5 bullet wounds, and they say they are "stray" bullets, received as passers by of a drive-by shooting of which they know nothing? What a bad fortune people have here, and what a bad accuracy shooters have here!" one of the doctors told me). On the other hand, on an early morning walk on the beach in front of the hotel, a relaxed chat with some very poor aponea diving fishermen, in a dangerously rocky area, with beating ocean waves, told me that for them that was neither work, nor effort, nor obligation, nor burden… the sea, the beach, was a way of life. Everyday, their relationship with the sea, with the sand, something so natural that they do not understand life without it. Makes you think, and reminds me a lot about the oriental philosophy way of understanding life, but with an extra touch of fun and joy.
 

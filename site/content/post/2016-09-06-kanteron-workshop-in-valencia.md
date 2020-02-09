@@ -4,7 +4,7 @@ title: Kanteron Workshop in Valencia
 date: 2016-09-06T14:01:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8002
+guid: https://blog.cortell.net/?p=8002
 permalink: /blog/2016/09/06/kanteron-workshop-in-valencia/
 categories:
   - Geek Fun

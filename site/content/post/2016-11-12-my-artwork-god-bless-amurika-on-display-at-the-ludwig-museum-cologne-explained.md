@@ -4,7 +4,7 @@ title: 'My artwork “God bless Amurika”, on display at the Ludwig Museum (Col
 date: 2016-11-12T09:26:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8111
+guid: https://blog.cortell.net/?p=8111
 permalink: /blog/2016/11/12/my-artwork-god-bless-amurika-on-display-at-the-ludwig-museum-cologne-explained/
 categories:
   - Art

@@ -4,7 +4,7 @@ title: London New Tech meeting
 date: 2015-06-14T16:53:09+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7521
+guid: https://blog.cortell.net/?p=7521
 permalink: /blog/2015/06/14/london-new-tech-meeting/
 categories:
   - General

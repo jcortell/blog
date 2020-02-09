@@ -20,7 +20,7 @@ Monday December 16th, before flying back to Vancouver from Shanghai, I visited M
 
 Since I had the morning free, before heading to the airport, I prepared a list of museums and art galleries I wanted to visit, but... it was Monday! Most people hate Mondays because they have to go back to work. I hate Mondays because almost all museums and art galleries are closed on Mondays.
 
-So, my only option was to visit MoCa Shanghai, where I enjoyed the mesmerizing exhibition "[Do you copy](http://www.mocashanghai.org/201908-do-you-copy/?lang=en)", and then a stroll around People's Park, a peaceful oasis in the middle of Shanghai. So many birds singing everywhere!
+So, my only option was to visit MoCa Shanghai, where I enjoyed the mesmerizing exhibition "[Do you copy](https://www.mocashanghai.org/201908-do-you-copy/?lang=en)", and then a stroll around People's Park, a peaceful oasis in the middle of Shanghai. So many birds singing everywhere!
 
 Photos: https://photos.app.goo.gl/eQgotBhgV5b15YcW7
 

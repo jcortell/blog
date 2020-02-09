@@ -4,7 +4,7 @@ title: 'The price of standing up for your rights: Opt-Out at Atlanta`s airport s
 date: 2012-04-03T14:40:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3994
+guid: https://cortell.net/blog/?p=3994
 permalink: /blog/2012/04/03/the-price-of-standing-up-for-your-rights-opt-out-at-atlantas-airport-scanner/
 wpsd_autopost:
   - "1"
@@ -19,14 +19,14 @@ categories:
   - Society and politics
   - Why not? Utopia?
 ---
-Atlanta`s Hartsfield airport has been having one of those <a title="http://blogs.discovermagazine.com/80beats/2010/01/06/5-reasons-body-scanners-might-not-solve-our-terrorism-problem/" href="http://blogs.discovermagazine.com/80beats/2010/01/06/5-reasons-body-scanners-might-not-solve-our-terrorism-problem/" target="_blank">useless</a> scanners that show passengers naked for a while now. But the last time I was there, they were being tested, and most passengers did not go through them. 
+Atlanta`s Hartsfield airport has been having one of those <a title="https://blogs.discovermagazine.com/80beats/2010/01/06/5-reasons-body-scanners-might-not-solve-our-terrorism-problem/" href="https://blogs.discovermagazine.com/80beats/2010/01/06/5-reasons-body-scanners-might-not-solve-our-terrorism-problem/" target="_blank">useless</a> scanners that show passengers naked for a while now. But the last time I was there, they were being tested, and most passengers did not go through them. 
 
-<img class="aligncenter" title="joke" src="http://i190.photobucket.com/albums/z205/JekyllnHyde_photos/October%2031st%202010/73105_600.jpg" alt="" width="600" height="431" />
+<img class="aligncenter" title="joke" src="https://i190.photobucket.com/albums/z205/JekyllnHyde_photos/October%2031st%202010/73105_600.jpg" alt="" width="600" height="431" />
 
 Today, though, as I approached the security line, I saw that next to every metal detector, there was one of those scanners. "Wow, this is getting worse", I thought, while seeing how almost everybody was going through the scanners. 
 
 <p style="text-align: center">
-  <img class="aligncenter" title="Scanner" src="http://4.bp.blogspot.com/_PBqED3L6pXM/TUGGfSdX0nI/AAAAAAAACoE/OS2g1oPpvKI/s1600/P1040283.JPG" alt="" width="458" height="511" />
+  <img class="aligncenter" title="Scanner" src="https://4.bp.blogspot.com/_PBqED3L6pXM/TUGGfSdX0nI/AAAAAAAACoE/OS2g1oPpvKI/s1600/P1040283.JPG" alt="" width="458" height="511" />
 </p>
 
 When my turn came, I stepped in front of the metal detector, and the female TSA agent in front of the scanner told me: 
@@ -41,13 +41,13 @@ When my turn came, I stepped in front of the metal detector, and the female TSA 
 
 Sensing a growing discomfort in my interlocutor, and not feeling like the situation called for a confrontation, I decided to explain further:
 
-– I have <a title="https://www.npr.org/templates/story/story.php?storyId=126833083" href="https://www.npr.org/templates/story/story.php?storyId=126833083" target="_blank">medical</a>, political, and personal <a title="http://www.aapsonline.org/newsoftheday/001416" href="http://www.aapsonline.org/newsoftheday/001416" target="_blank">objections</a> to the <a title="http://pogue.blogs.nytimes.com/2010/07/09/the-problems-with-naked-body-airport-scans-exposed/" href="http://pogue.blogs.nytimes.com/2010/07/09/the-problems-with-naked-body-airport-scans-exposed/" target="_blank">use</a> of <a title="https://scrapthescanners.wordpress.com/" href="https://scrapthescanners.wordpress.com/" target="_blank">those scanners</a>, particularly on me.
+– I have <a title="https://www.npr.org/templates/story/story.php?storyId=126833083" href="https://www.npr.org/templates/story/story.php?storyId=126833083" target="_blank">medical</a>, political, and personal <a title="https://www.aapsonline.org/newsoftheday/001416" href="https://www.aapsonline.org/newsoftheday/001416" target="_blank">objections</a> to the <a title="https://pogue.blogs.nytimes.com/2010/07/09/the-problems-with-naked-body-airport-scans-exposed/" href="https://pogue.blogs.nytimes.com/2010/07/09/the-problems-with-naked-body-airport-scans-exposed/" target="_blank">use</a> of <a title="https://scrapthescanners.wordpress.com/" href="https://scrapthescanners.wordpress.com/" target="_blank">those scanners</a>, particularly on me.
 
-– This sign shows there is no need for <a title="http://intransit.blogs.nytimes.com/2011/07/12/airport-body-scanners-and-health/#" href="http://intransit.blogs.nytimes.com/2011/07/12/airport-body-scanners-and-health/#" target="_blank">concern</a>, sir – she stubbornly tells me, turning a sign that was not readily visible by passengers towards me.
+– This sign shows there is no need for <a title="https://intransit.blogs.nytimes.com/2011/07/12/airport-body-scanners-and-health/#" href="https://intransit.blogs.nytimes.com/2011/07/12/airport-body-scanners-and-health/#" target="_blank">concern</a>, sir – she stubbornly tells me, turning a sign that was not readily visible by passengers towards me.
 
-<img class="aligncenter" title="sign" src="http://www.propublica.org/images/ngen/gypsy_big_image/rt_millimeter_wave_machine_630x420_111216.jpg" alt="" width="630" height="420" />
+<img class="aligncenter" title="sign" src="https://www.propublica.org/images/ngen/gypsy_big_image/rt_millimeter_wave_machine_630x420_111216.jpg" alt="" width="630" height="420" />
 
-The <a title="http://www.wired.com/threatlevel/2011/03/tsa-radiation-test-bungling/" href="http://www.wired.com/threatlevel/2011/03/tsa-radiation-test-bungling/" target="_blank">misleading</a> sign basically said (too bad she would not let me take a picture) something along the lines that the scanner was safe, and it software allowed TSA agents to guarantee our safety. No mention of political, privacy, misuse, or medical concerns.
+The <a title="https://www.wired.com/threatlevel/2011/03/tsa-radiation-test-bungling/" href="https://www.wired.com/threatlevel/2011/03/tsa-radiation-test-bungling/" target="_blank">misleading</a> sign basically said (too bad she would not let me take a picture) something along the lines that the scanner was safe, and it software allowed TSA agents to guarantee our safety. No mention of political, privacy, misuse, or medical concerns.
 
 – Still, I refuse to go through the scanner, and since the metal detector is right here, and working, I prefer to go through the metal detector like those people.
 
@@ -57,11 +57,11 @@ The <a title="http://www.wired.com/threatlevel/2011/03/tsa-radiation-test-bungli
 
 – Sir, those are the regulations: if you opt-out you need to go through the metal detector and you need to be patted down.
 
-<img class="aligncenter" title="glove" src="http://www.liquidmatrix.org/blog/wp-content/uploads/2010/11/tsaglove.jpg" alt="" width="450" height="360" />
+<img class="aligncenter" title="glove" src="https://www.liquidmatrix.org/blog/wp-content/uploads/2010/11/tsaglove.jpg" alt="" width="450" height="360" />
 
-I decided there was no use in arguing with her regarding the correct use and meaning of the word "need". I also decided that the <a title="http://www.tuberose.com/FullBodyScannersIncreaseCancerRisk.html" href="http://www.tuberose.com/FullBodyScannersIncreaseCancerRisk.html" target="_blank">accuracy of her claims</a> could be checked later, because going through the trouble of doing it on the spot could make me loose my flight, so I agreed, and went through the metal detector.
+I decided there was no use in arguing with her regarding the correct use and meaning of the word "need". I also decided that the <a title="https://www.tuberose.com/FullBodyScannersIncreaseCancerRisk.html" href="https://www.tuberose.com/FullBodyScannersIncreaseCancerRisk.html" target="_blank">accuracy of her claims</a> could be checked later, because going through the trouble of doing it on the spot could make me loose my flight, so I agreed, and went through the metal detector.
 
-<img class="aligncenter" title="option" src="http://www.tuberose.com/Graphics/MolestationOrRadiation.jpg" alt="" width="568" height="433" />
+<img class="aligncenter" title="option" src="https://www.tuberose.com/Graphics/MolestationOrRadiation.jpg" alt="" width="568" height="433" />
 
 The TSA male agent standing by the metal detector told me as soon as I went through (without a "beep" or issue):
 

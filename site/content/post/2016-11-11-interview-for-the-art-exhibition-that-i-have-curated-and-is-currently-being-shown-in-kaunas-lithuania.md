@@ -4,7 +4,7 @@ title: Interview for the art exhibition that I have curated and is currently bei
 date: 2016-11-11T09:07:58+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8105
+guid: https://blog.cortell.net/?p=8105
 permalink: /blog/2016/11/11/interview-for-the-art-exhibition-that-i-have-curated-and-is-currently-being-shown-in-kaunas-lithuania/
 categories:
   - Art
@@ -22,7 +22,7 @@ By Airida Rekštytė – November 4, 2016
 
 _According to your profound theoretical education (sic) it will not be difficult to present us in short your intentions for organizing this event._
 
-_When did the idea of making [this exhibition](http://netfreedomart.surge.sh/) occur and what inspired it?_
+_When did the idea of making [this exhibition](https://netfreedomart.surge.sh/) occur and what inspired it?_
 
 I have spent years as activist defending free software and online privacy, and opposing censorship.
   

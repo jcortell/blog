@@ -4,7 +4,7 @@ title: In the next three months, I will REALLY be traveling
 date: 2014-05-10T16:15:55+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7069
+guid: https://blog.cortell.net/?p=7069
 permalink: /blog/2014/05/10/the-next-three-months-i-will-really-be-traveling/
 categories:
   - General

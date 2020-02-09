@@ -4,7 +4,7 @@ title: Imperial War Museum London
 date: 2015-10-06T13:20:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7642
+guid: https://blog.cortell.net/?p=7642
 permalink: /blog/2015/10/06/imperial-war-museum-london/
 categories:
   - "Life's pleasures"

@@ -4,7 +4,7 @@ title: I was forced to hack into Schiphol Airport wifi
 date: 2014-09-30T12:25:15+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7225
+guid: https://blog.cortell.net/?p=7225
 permalink: /blog/2014/09/30/i-was-forced-to-hack-into-schiphol-airport-wifi/
 categories:
   - Copyfight

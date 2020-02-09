@@ -4,7 +4,7 @@ title: One day in Paris
 date: 2015-11-19T10:28:12+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7726
+guid: https://blog.cortell.net/?p=7726
 permalink: /blog/2015/11/19/one-day-in-paris/
 categories:
   - General

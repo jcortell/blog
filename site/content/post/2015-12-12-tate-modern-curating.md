@@ -4,7 +4,7 @@ title: Tate Modern curating methodology
 date: 2015-12-12T13:01:30+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7749
+guid: https://blog.cortell.net/?p=7749
 permalink: /blog/2015/12/12/tate-modern-curating/
 categories:
   - Art
@@ -13,7 +13,7 @@ categories:
   - Personal
   - Philosophy
 ---
-December 2 I went to the <a href="http://www.tate.org.uk/visit/tate-modern" target="_blank">Tate Modern</a> with the whole family, since my mother-in-law was visiting from overseas.
+December 2 I went to the <a href="https://www.tate.org.uk/visit/tate-modern" target="_blank">Tate Modern</a> with the whole family, since my mother-in-law was visiting from overseas.
 
 I really like how it is set up according to concepts, rather than chronologically, by artists, or by styles. It feels more like an art gallery (which it is) than a museum. It puts things into the subjective focus of the curator. I wonder how much the artists themselves would agree with the collection parameters, but it definitely is a welcome departure from the more traditional museum logic.
 

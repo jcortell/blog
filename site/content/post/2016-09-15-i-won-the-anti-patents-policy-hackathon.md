@@ -4,7 +4,7 @@ title: I won the Anti-Patents Policy Hackathon
 date: 2016-09-15T02:45:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8030
+guid: https://blog.cortell.net/?p=8030
 permalink: /blog/2016/09/15/i-won-the-anti-patents-policy-hackathon/
 categories:
   - Copyfight
@@ -18,7 +18,7 @@ categories:
   - Technology
   - Why not? Utopia?
 ---
-[<img class="aligncenter " src="http://mindthebridge.com/wp-content/uploads/2016/08/hackathon-policy-sec2sv.png" alt="" width="573" height="281" />](http://mindthebridge.com/keep-calm-hack)
+[<img class="aligncenter " src="https://mindthebridge.com/wp-content/uploads/2016/08/hackathon-policy-sec2sv.png" alt="" width="573" height="281" />](https://mindthebridge.com/keep-calm-hack)
   
 On September 13, Mind the Bridge hosted a policy hackathon sponsored by Dell at the MTB Innovation Center in San Francisco. The Dell PolicyHack™ brought together entrepreneurs and U.S./EU policy experts to solve policy challenges. The goal is to productively brainstorm and to provide top-line thinking that can inspire and serve as basis to develop and implement full policies.
 

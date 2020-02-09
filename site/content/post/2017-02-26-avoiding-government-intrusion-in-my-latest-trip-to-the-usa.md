@@ -4,7 +4,7 @@ title: Avoiding government intrusion in my latest trip to the USA
 date: 2017-02-26T14:41:34+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8205
+guid: https://blog.cortell.net/?p=8205
 permalink: /blog/2017/02/26/avoiding-government-intrusion-in-my-latest-trip-to-the-usa/
 categories:
   - General
@@ -21,7 +21,7 @@ When I applied for the renewal of my ESTA, I noticed a new field in the applicat
 This has been a [challenge for years](https://www.eff.org/deeplinks/2016/12/law-enforcement-uses-border-search-exception-fourth-amendment-loophole) (border search, dispute over forced password disclosure…), but the atmosphere has gotten completely toxic in the past few weeks. Besides the infamous “travel ban”, a few days before my departure, the following news pointed to an increase in this government abuse:
 
   * Quincy Larson: [I’ll never bring my phone on an international flight again. Neither should you](https://medium.freecodecamp.com/ill-never-bring-my-phone-on-an-international-flight-again-neither-should-you-e9289cde0e5f#.l14ye8o77).
-  * The Verge: [A US-born NASA scientist was detained at the border until he unlocked his phone](http://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban)
+  * The Verge: [A US-born NASA scientist was detained at the border until he unlocked his phone](https://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban)
 
 So taking some advice I read online ([How to legally cross a US (or other) border without surrendering your data and passwords](https://boingboing.net/2017/02/12/how-to-cross-a-us-or-other-b.html)) I decided to play it safe:
 

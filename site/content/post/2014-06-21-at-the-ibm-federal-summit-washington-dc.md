@@ -4,7 +4,7 @@ title: At the IBM Federal Summit, Washington DC
 date: 2014-06-21T13:46:54+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7108
+guid: https://blog.cortell.net/?p=7108
 permalink: /blog/2014/06/21/at-the-ibm-federal-summit-washington-dc/
 categories:
   - Geek Fun
@@ -31,6 +31,6 @@ It was a real enlightening experience. Not that I did not know before that power
 
 Another lesson I learned in this trip is the importance of not having checked-in luggage:
 
-I was recently named member of the IBM European Cloud Advisory Board, and the first meeting was to be held the next day in Nice (France), in the morning. In order to make it I had to change flights at the very last minute. <a title="http://www.cruisecurator.com/blog/" href="http://www.cruisecurator.com/blog/" target="_blank">My wonderful travel agent</a> was super fast and expedient, changing my tickets as the check-in was being announced closed in front of me. I looked for the supervisor, explained that I had an eTicket confirmation and no baggage to check-in and, presto, I was allowed to board, making it on time to my meeting after a nasty flight.
+I was recently named member of the IBM European Cloud Advisory Board, and the first meeting was to be held the next day in Nice (France), in the morning. In order to make it I had to change flights at the very last minute. <a title="https://www.cruisecurator.com/blog/" href="https://www.cruisecurator.com/blog/" target="_blank">My wonderful travel agent</a> was super fast and expedient, changing my tickets as the check-in was being announced closed in front of me. I looked for the supervisor, explained that I had an eTicket confirmation and no baggage to check-in and, presto, I was allowed to board, making it on time to my meeting after a nasty flight.
 
 Note to myself: do not fly 7 hours with torn ankle ligaments unless you fly flat-bed first class with an ice pack on it.

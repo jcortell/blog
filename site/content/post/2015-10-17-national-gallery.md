@@ -4,7 +4,7 @@ title: National Gallery
 date: 2015-10-17T22:27:28+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7656
+guid: https://blog.cortell.net/?p=7656
 permalink: /blog/2015/10/17/national-gallery/
 categories:
   - Art

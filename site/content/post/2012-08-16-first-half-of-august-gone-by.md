@@ -4,7 +4,7 @@ title: First half of August gone by
 date: 2012-08-16T17:46:16+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4277
+guid: https://cortell.net/blog/?p=4277
 permalink: /blog/2012/08/16/first-half-of-august-gone-by/
 wpsd_autopost:
   - "1"
@@ -51,7 +51,7 @@ August 4th I spent completely (and delightfully) at the MET.
 </p>
 
 <p style="text-align: left">
-  August 9th I went to the MoMA <a title="http://cortell.net/blog/2012/08/with-keanu-reeves-and-chris-kenneally-at-side-by-side-premiere-moma/" href="http://cortell.net/blog/2012/08/with-keanu-reeves-and-chris-kenneally-at-side-by-side-premiere-moma/" target="_blank">premiere</a> of Keanu Reeves` new documentary about the film industry.
+  August 9th I went to the MoMA <a title="https://cortell.net/blog/2012/08/with-keanu-reeves-and-chris-kenneally-at-side-by-side-premiere-moma/" href="https://cortell.net/blog/2012/08/with-keanu-reeves-and-chris-kenneally-at-side-by-side-premiere-moma/" target="_blank">premiere</a> of Keanu Reeves` new documentary about the film industry.
 </p>
 
 <p style="text-align: left">
@@ -59,7 +59,7 @@ August 4th I spent completely (and delightfully) at the MET.
 </p>
 
 <p style="text-align: left">
-  August 12th I had an awesome day at two parks. First I went kayaking on the Hudson River (Riverside Park downtown boathouse). Then to Central Park where I reflected on the Imagine mosaic, enjoyed moving music under the Bethesda Terrace, and had a blast seeing the <a title="https://www.google.com/search?q=afrobats+new+york" href="https://www.google.com/search?q=afrobats+new+york" target="_blank">AfroBats</a> and the <a title="http://cpdsa.org/" href="http://cpdsa.org/" target="_blank">Central Park Roller Skaters</a>.
+  August 12th I had an awesome day at two parks. First I went kayaking on the Hudson River (Riverside Park downtown boathouse). Then to Central Park where I reflected on the Imagine mosaic, enjoyed moving music under the Bethesda Terrace, and had a blast seeing the <a title="https://www.google.com/search?q=afrobats+new+york" href="https://www.google.com/search?q=afrobats+new+york" target="_blank">AfroBats</a> and the <a title="https://cpdsa.org/" href="https://cpdsa.org/" target="_blank">Central Park Roller Skaters</a>.
 </p>
 
 <p style="text-align: center">

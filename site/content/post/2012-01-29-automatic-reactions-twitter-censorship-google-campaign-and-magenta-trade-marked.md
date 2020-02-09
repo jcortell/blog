@@ -4,7 +4,7 @@ title: 'Automatic reactions: Twitter censorship, Google campaign, and magenta tr
 date: 2012-01-29T15:36:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3783
+guid: https://cortell.net/blog/?p=3783
 permalink: /blog/2012/01/29/automatic-reactions-twitter-censorship-google-campaign-and-magenta-trade-marked/
 wpsd_autopost:
   - "1"
@@ -18,7 +18,7 @@ categories:
   - Rants
   - Society and politics
 ---
-The net was all up in arms this week. After the marvelous uprising against SOPA and PIPA, the new battle ground was Twitter`s announcement of country specific censorship. Never mind that they are open about it (unlike Facebook), never mind that they are talking about their offices and employees in those countries where censorship is the law... if you hear "censorship" and "net" get up and scream! Wired has a nice <a title="http://www.wired.com/threatlevel/2012/01/twitter-agent-of-the-censor/" href="http://www.wired.com/threatlevel/2012/01/twitter-agent-of-the-censor/" target="_blank">piece</a> about it.
+The net was all up in arms this week. After the marvelous uprising against SOPA and PIPA, the new battle ground was Twitter`s announcement of country specific censorship. Never mind that they are open about it (unlike Facebook), never mind that they are talking about their offices and employees in those countries where censorship is the law... if you hear "censorship" and "net" get up and scream! Wired has a nice <a title="https://www.wired.com/threatlevel/2012/01/twitter-agent-of-the-censor/" href="https://www.wired.com/threatlevel/2012/01/twitter-agent-of-the-censor/" target="_blank">piece</a> about it.
 
 This is what I call "automatic reaction". Instead of learning the facts and engaging in a productive and constructive discussion, specific concepts (keywords, memes, hashtags, whatever) automatically invoke passionate reaction (for or against). Examples abound:
 
@@ -28,6 +28,6 @@ On a poster in the subway I read the following: "...T-Mobile and the magenta col
 
 <img class="aligncenter" title="Google Ad" src="https://lh6.googleusercontent.com/-hBuGgm3_kSY/Tx8dBkURIUI/AAAAAAAAARg/95skwubDMEg/w500-h207-k/20120124_160222.jpg" alt="" width="499" height="208" />
 
-Or how about Google`s "<a title="http://www.google.com/goodtoknow/" href="http://www.google.com/goodtoknow/" target="_blank">goodtoknow</a>" ad campaign (ad show here seen again in the subway, where most life seems to happen in NY, in the winter at least) to which Epic very adequately replies with "<a title="http://epic.org/2012/01/epic-launches-good-to-really-k.html" href="http://epic.org/2012/01/epic-launches-good-to-really-k.html" target="_blank">GoodToReallyKnow</a>"?. Sure <a title="http://www.madridmemata.es/2011/12/la-verdadera-publicidad-que-debiera-mostrar-metro-de-madrid/" href="http://www.madridmemata.es/2011/12/la-verdadera-publicidad-que-debiera-mostrar-metro-de-madrid/" target="_blank">misleading advertising</a>, and half-truths are a danger, but let`s start a conversation, not a flame war.
+Or how about Google`s "<a title="https://www.google.com/goodtoknow/" href="https://www.google.com/goodtoknow/" target="_blank">goodtoknow</a>" ad campaign (ad show here seen again in the subway, where most life seems to happen in NY, in the winter at least) to which Epic very adequately replies with "<a title="https://epic.org/2012/01/epic-launches-good-to-really-k.html" href="https://epic.org/2012/01/epic-launches-good-to-really-k.html" target="_blank">GoodToReallyKnow</a>"?. Sure <a title="https://www.madridmemata.es/2011/12/la-verdadera-publicidad-que-debiera-mostrar-metro-de-madrid/" href="https://www.madridmemata.es/2011/12/la-verdadera-publicidad-que-debiera-mostrar-metro-de-madrid/" target="_blank">misleading advertising</a>, and half-truths are a danger, but let`s start a conversation, not a flame war.
 
-Campaigns, actions, and reactions, seem to foster polarity. Stop the cycle, avoid the trap. Get to the facts, learn, educate others, and engage in a conversation, or discussion (<a title="http://boingboing.net/2012/01/28/infographic-hollywoods-long.html" href="http://boingboing.net/2012/01/28/infographic-hollywoods-long.html" target="_blank">like Cory</a> with the entertainment execs), not a battle or accusations cross-fire.
+Campaigns, actions, and reactions, seem to foster polarity. Stop the cycle, avoid the trap. Get to the facts, learn, educate others, and engage in a conversation, or discussion (<a title="https://boingboing.net/2012/01/28/infographic-hollywoods-long.html" href="https://boingboing.net/2012/01/28/infographic-hollywoods-long.html" target="_blank">like Cory</a> with the entertainment execs), not a battle or accusations cross-fire.

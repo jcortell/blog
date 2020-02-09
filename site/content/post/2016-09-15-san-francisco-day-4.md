@@ -4,7 +4,7 @@ title: San Francisco, day 4
 date: 2016-09-15T02:09:57+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8027
+guid: https://blog.cortell.net/?p=8027
 permalink: /blog/2016/09/15/san-francisco-day-4/
 categories:
   - Geek Fun

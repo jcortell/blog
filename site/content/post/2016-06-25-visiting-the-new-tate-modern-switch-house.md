@@ -4,7 +4,7 @@ title: Visiting the new Tate Modern Switch House
 date: 2016-06-25T10:18:00+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7942
+guid: https://blog.cortell.net/?p=7942
 permalink: /blog/2016/06/25/visiting-the-new-tate-modern-switch-house/
 categories:
   - Art
@@ -13,7 +13,7 @@ categories:
   - Personal
 ---
 <p class="p1">
-  <img class="aligncenter" src="http://www.southlondon-today.co.uk/images/news/2016/tate-new-building.jpg" alt="Switch House" width="221" height="221" />
+  <img class="aligncenter" src="https://www.southlondon-today.co.uk/images/news/2016/tate-new-building.jpg" alt="Switch House" width="221" height="221" />
 </p>
 
 <p class="p1">

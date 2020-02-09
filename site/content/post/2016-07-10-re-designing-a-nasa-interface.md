@@ -4,7 +4,7 @@ title: Re-designing a NASA interface
 date: 2016-07-10T14:30:56+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7981
+guid: https://blog.cortell.net/?p=7981
 permalink: /blog/2016/07/10/re-designing-a-nasa-interface/
 categories:
   - Free Software

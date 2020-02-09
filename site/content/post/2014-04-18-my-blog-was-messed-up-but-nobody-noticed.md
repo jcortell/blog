@@ -4,7 +4,7 @@ title: My blog was messed up, but nobody noticed
 date: 2014-04-18T20:31:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=5125
+guid: https://cortell.net/blog/?p=5125
 permalink: /blog/2014/04/18/my-blog-was-messed-up-but-nobody-noticed/
 categories:
   - General

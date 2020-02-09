@@ -24,7 +24,7 @@ Before our tour, we stopped at [Kiwifruit Country](https://www.kiwifruitcountry.
 
 We started our wine-tasting tour in the very picturesque [Saint Clair Family Estate](https://www.saintclair.co.nz/), then went to [Nautilus Estate](https://www.nautilusestate.com/), and finally to [Framingham Winery](https://framingham.co.nz/).
 
-As I don't drink alcohol, we also stopped at [Makana Boutique Chocolate Factory](https://www.makana.co.nz/), before having green mussels lunch at [Captain's Daughter](http://www.captainsdaughter.co.nz/) in Havelock. A final stop in Ngakuta Bay to enjoy the beautiful views before heading back to our ship was the perfect end to a wonderful day.
+As I don't drink alcohol, we also stopped at [Makana Boutique Chocolate Factory](https://www.makana.co.nz/), before having green mussels lunch at [Captain's Daughter](https://www.captainsdaughter.co.nz/) in Havelock. A final stop in Ngakuta Bay to enjoy the beautiful views before heading back to our ship was the perfect end to a wonderful day.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"

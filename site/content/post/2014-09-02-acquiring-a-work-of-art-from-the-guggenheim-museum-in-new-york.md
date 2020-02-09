@@ -4,7 +4,7 @@ title: Acquiring a work of art from the Guggenheim Museum in New York
 date: 2014-09-02T20:02:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7174
+guid: https://blog.cortell.net/?p=7174
 permalink: /blog/2014/09/02/acquiring-a-work-of-art-from-the-guggenheim-museum-in-new-york/
 categories:
   - Art

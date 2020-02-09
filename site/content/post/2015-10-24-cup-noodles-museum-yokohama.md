@@ -4,7 +4,7 @@ title: Cup Noodles Museum Yokohama
 date: 2015-10-24T11:33:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7687
+guid: https://blog.cortell.net/?p=7687
 permalink: /blog/2015/10/24/cup-noodles-museum-yokohama/
 categories:
   - Art
@@ -14,7 +14,7 @@ categories:
 ---
 
   
-On my way back from the amazing [Sankeien Garden](http://blog.cortell.net/blog/2015/10/20/sankeien-garden-yokohama/), after attending (but honestly not paying much attention to) a Japanese-only BioInformatics lecture (seriously, I enjoy those things), I went for something fun and quirky: the Cup Noodles Museum.
+On my way back from the amazing [Sankeien Garden](https://blog.cortell.net/blog/2015/10/20/sankeien-garden-yokohama/), after attending (but honestly not paying much attention to) a Japanese-only BioInformatics lecture (seriously, I enjoy those things), I went for something fun and quirky: the Cup Noodles Museum.
 
 Founded by revered Momofuku Sando-san, Instant Noodles (Cup Noodles) has a very interesting story behind its world wide wild success. I learned that Sando-san spent two years in jail for tax evasion. That he invented the instant noodles in his 60’s.
 

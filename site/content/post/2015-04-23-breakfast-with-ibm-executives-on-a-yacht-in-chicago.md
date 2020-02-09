@@ -4,7 +4,7 @@ title: Breakfast with IBM executives on a yacht in Chicago
 date: 2015-04-23T22:27:20+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7426
+guid: https://blog.cortell.net/?p=7426
 permalink: /blog/2015/04/23/breakfast-with-ibm-executives-on-a-yacht-in-chicago/
 categories:
   - General

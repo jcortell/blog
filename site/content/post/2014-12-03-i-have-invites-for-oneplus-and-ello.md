@@ -4,7 +4,7 @@ title: I have invites for OnePlus and Ello
 date: 2014-12-03T13:58:48+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7306
+guid: https://blog.cortell.net/?p=7306
 permalink: /blog/2014/12/03/i-have-invites-for-oneplus-and-ello/
 categories:
   - Geek Fun

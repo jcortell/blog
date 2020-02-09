@@ -24,8 +24,8 @@ We love Vancouver. It's a beautiful city, with great people and Asian food... bu
 Luckily, Monday, the day we were out and about, it did not rain.
 
 Delicious food we ate:
-- [Nero Belgian Waffle Bar](http://www.nerowafflebar.com/)
-- [New Town Bakery & Restaurant](http://newtownbakery.ca/)
+- [Nero Belgian Waffle Bar](https://www.nerowafflebar.com/)
+- [New Town Bakery & Restaurant](https://newtownbakery.ca/)
 - [Sushi Itoga](https://www.itoga.com/)
 - Even back at Toronto airport, [Red Rocket 192 Grill](https://www.torontopearson.com/Components/Templates/Retailer.aspx?retailerid=3233#)
 

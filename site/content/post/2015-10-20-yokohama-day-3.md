@@ -4,7 +4,7 @@ title: Yokohama day 3
 date: 2015-10-20T10:36:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7669
+guid: https://blog.cortell.net/?p=7669
 permalink: /blog/2015/10/20/yokohama-day-3/
 categories:
   - General

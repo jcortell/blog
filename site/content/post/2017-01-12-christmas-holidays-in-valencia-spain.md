@@ -4,7 +4,7 @@ title: Christmas holidays in Valencia (Spain)
 date: 2017-01-12T09:57:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8164
+guid: https://blog.cortell.net/?p=8164
 permalink: /blog/2017/01/12/christmas-holidays-in-valencia-spain/
 categories:
   - General

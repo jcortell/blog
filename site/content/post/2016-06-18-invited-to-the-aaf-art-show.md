@@ -4,7 +4,7 @@ title: Invited to the AAF Art Show
 date: 2016-06-18T14:14:05+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7935
+guid: https://blog.cortell.net/?p=7935
 permalink: /blog/2016/06/18/invited-to-the-aaf-art-show/
 categories:
   - Art

@@ -18,13 +18,13 @@ March 25 to 29 we "had to" accompany some friends visiting Ibiza (Spanish Balear
 
 <!--more-->
 
-Our friends Megan Roberts, a composer and media artist, and Raymond Ghirardo, a sculptor and media artist, [both](http://www.roberts-ghirardo.net) retired art professors from Ithaca College, parted Valencia after [visiting Fallas](https://blog.cortell.net/2018/03/fallas-with-friends/) with us. They spent a few days in Alicante, and then asked us to join them for almost a week in Ibiza. Twist my arm!!
+Our friends Megan Roberts, a composer and media artist, and Raymond Ghirardo, a sculptor and media artist, [both](https://www.roberts-ghirardo.net) retired art professors from Ithaca College, parted Valencia after [visiting Fallas](https://blog.cortell.net/2018/03/fallas-with-friends/) with us. They spent a few days in Alicante, and then asked us to join them for almost a week in Ibiza. Twist my arm!!
 
 Of course, Ibiza is my favourite place in the world, along with Japan. So I enjoyed tremendously.
 
 After meeting them in Alicante, we drove to El Portet, in Moraira, to have an *almuerzo*, and then took the Ferry from Denia to Ibiza.
 
-We stayed at the fabulous [Sir Joan Hotel](http://www.sirhotels.com/joan), next to Pacha. Since we took my car with the ferry, we travelled all over the island. After the obligatory visit to Dalt Vila, we ate at great places, from tapas bars to beach huts to Michelin Guide restaurants, like:
+We stayed at the fabulous [Sir Joan Hotel](https://www.sirhotels.com/joan), next to Pacha. Since we took my car with the ferry, we travelled all over the island. After the obligatory visit to Dalt Vila, we ate at great places, from tapas bars to beach huts to Michelin Guide restaurants, like:
 
 - El Zaguan
 - Mar A Vila (amazing *pinchos*)

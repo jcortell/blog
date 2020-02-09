@@ -4,7 +4,7 @@ title: Million masks march
 date: 2015-11-09T14:03:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7713
+guid: https://blog.cortell.net/?p=7713
 permalink: /blog/2015/11/09/million-masks-march/
 categories:
   - General

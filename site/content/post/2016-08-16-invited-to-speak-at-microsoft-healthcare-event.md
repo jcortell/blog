@@ -4,7 +4,7 @@ title: Invited to speak at Microsoft Healthcare event
 date: 2016-08-16T15:33:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7990
+guid: https://blog.cortell.net/?p=7990
 permalink: /blog/2016/08/16/invited-to-speak-at-microsoft-healthcare-event/
 categories:
   - Geek Fun

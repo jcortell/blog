@@ -4,7 +4,7 @@ title: Graffiti show at 21 Precinct, New York
 date: 2014-09-02T19:38:58+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7152
+guid: https://blog.cortell.net/?p=7152
 permalink: /blog/2014/09/02/graffiti-show-at-21-precinct-new-york/
 categories:
   - Art
@@ -13,7 +13,7 @@ categories:
   - NY
   - Personal
 ---
-On August 24th we were invited to the <a href="http://www.huffingtonpost.com/jaime-rojo-steven-harrington/21st-precinct-street-art_b_5677064.html" title="http://www.huffingtonpost.com/jaime-rojo-steven-harrington/21st-precinct-street-art_b_5677064.html" target="_blank">graffiti show at 21 Precinct</a>. 
+On August 24th we were invited to the <a href="https://www.huffingtonpost.com/jaime-rojo-steven-harrington/21st-precinct-street-art_b_5677064.html" title="https://www.huffingtonpost.com/jaime-rojo-steven-harrington/21st-precinct-street-art_b_5677064.html" target="_blank">graffiti show at 21 Precinct</a>. 
 
 The show ironically took place in the old 21st police Precinct (327 East 22nd Street) which, from 1863 and for 50 years was notorious for corruption and brutality in a [formerly]seedy part of town.
 

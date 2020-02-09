@@ -4,7 +4,7 @@ title: 20/21 British Art Fair
 date: 2015-09-13T13:52:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7608
+guid: https://blog.cortell.net/?p=7608
 permalink: /blog/2015/09/13/2021-british-art-fair/
 categories:
   - Art
@@ -13,7 +13,7 @@ categories:
   - London
   - Personal
 ---
-On Friday I attended the <a href="http://britishartfair.co.uk/" target="_blank">20/21 British Art Fair</a> at the Royal College of Art, in London.
+On Friday I attended the <a href="https://britishartfair.co.uk/" target="_blank">20/21 British Art Fair</a> at the Royal College of Art, in London.
 
 Usually I love art fairs, and find many exciting works of art. I particularly love the creative energy you can feel at contemporary art fairs.
 

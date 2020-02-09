@@ -4,7 +4,7 @@ title: Hurricane Sandy in Baltimore
 date: 2012-10-30T23:02:17+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4400
+guid: https://cortell.net/blog/?p=4400
 permalink: /blog/2012/10/30/hurricane-sandy-in-baltimore/
 wpsd_autopost:
   - "1"
@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p style="text-align: left">
-  <a title="http://earthobservatory.nasa.gov/NaturalHazards/view.php?id=79561" href="http://earthobservatory.nasa.gov/NaturalHazards/view.php?id=79561" target="_blank">Hurricane Sandy</a> has been all over the news. Here is the account of how I experienced it.
+  <a title="https://earthobservatory.nasa.gov/NaturalHazards/view.php?id=79561" href="https://earthobservatory.nasa.gov/NaturalHazards/view.php?id=79561" target="_blank">Hurricane Sandy</a> has been all over the news. Here is the account of how I experienced it.
 </p>
 
 <p style="text-align: left">
@@ -32,7 +32,7 @@ categories:
 </p>
 
 <p style="text-align: left">
-  The next day, Monday 29th, getting to the Convention Center from <a title="http://www.radisson.com/baltimore-hotel-md-21201/mdbalhar/home" href="http://www.radisson.com/baltimore-hotel-md-21201/mdbalhar/home" target="_blank">my hotel</a>, only 2 blocks away, was not too pleasant. As a matter of fact, the wind made it difficult to keep the umbrella straight, and it was raining hard. But by the time the conference session was over and I had to return to the hotel, it had become a nightmare.
+  The next day, Monday 29th, getting to the Convention Center from <a title="https://www.radisson.com/baltimore-hotel-md-21201/mdbalhar/home" href="https://www.radisson.com/baltimore-hotel-md-21201/mdbalhar/home" target="_blank">my hotel</a>, only 2 blocks away, was not too pleasant. As a matter of fact, the wind made it difficult to keep the umbrella straight, and it was raining hard. But by the time the conference session was over and I had to return to the hotel, it had become a nightmare.
 </p>
 
 > <p style="text-align: left">
@@ -44,7 +44,7 @@ categories:
 </p>
 
 <p style="text-align: left">
-  The next day a wonderful lady from <a title="http://www.tzell.com/tzell/index.htm" href="http://www.tzell.com/tzell/index.htm" target="_blank">Tzell travel group</a> (one of the very few that actually made it physically to their NY offices: that`s what I call dedication to customer satisfaction, I salute that determination) tried her best to help me find a way out of Baltimore. She even got me a confirmed reservation in the next scheduled flight, although there was a big waiting line from a ton of people wanting to head back to NY, but the flight was later cancelled. Airlines` information and systems were confusing, showing available seats in cancelled flights, and things like that. Amtrak was not helping either, postponing any information until the night. But in the end, it was completely impossible.
+  The next day a wonderful lady from <a title="https://www.tzell.com/tzell/index.htm" href="https://www.tzell.com/tzell/index.htm" target="_blank">Tzell travel group</a> (one of the very few that actually made it physically to their NY offices: that`s what I call dedication to customer satisfaction, I salute that determination) tried her best to help me find a way out of Baltimore. She even got me a confirmed reservation in the next scheduled flight, although there was a big waiting line from a ton of people wanting to head back to NY, but the flight was later cancelled. Airlines` information and systems were confusing, showing available seats in cancelled flights, and things like that. Amtrak was not helping either, postponing any information until the night. But in the end, it was completely impossible.
 </p>
 
 <p style="text-align: left">
@@ -52,7 +52,7 @@ categories:
 </p>
 
 <p style="text-align: left">
-  The next day, Tuesday 30th, I received a message from my building automated system alerting me that there was no power (which meant no hot water, no elevators to any of the 50 floors, and of course no electricity) anywhere south of 39th street. That meant both my apartment and office. Very appropriately listening to Eurythmics – <em>Here Comes The Rain Again</em> 😉 <a href="http://www.metacafe.com/w/sy-5749511"> metacafe.com/w/sy-5749511</a>
+  The next day, Tuesday 30th, I received a message from my building automated system alerting me that there was no power (which meant no hot water, no elevators to any of the 50 floors, and of course no electricity) anywhere south of 39th street. That meant both my apartment and office. Very appropriately listening to Eurythmics – <em>Here Comes The Rain Again</em> 😉 <a href="https://www.metacafe.com/w/sy-5749511"> metacafe.com/w/sy-5749511</a>
 </p>
 
 <p style="text-align: left">

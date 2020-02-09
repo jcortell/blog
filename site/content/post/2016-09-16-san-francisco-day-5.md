@@ -4,7 +4,7 @@ title: San Francisco, day 5
 date: 2016-09-16T02:17:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8033
+guid: https://blog.cortell.net/?p=8033
 permalink: /blog/2016/09/16/san-francisco-day-5/
 categories:
   - General

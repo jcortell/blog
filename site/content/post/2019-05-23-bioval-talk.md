@@ -20,7 +20,7 @@ Last Thursday I participated as member of a round table in the Medical Data and 
 
 The event, V edition of the ICT in Healthcare conference, was coordinated by the European Center for Innovating Companies (CEEI), the regional Bio Cluster (BIOVAL) and the Institute of Technology and Informatics (ITI), along with the regional government (GVA).
 
-[Summary](http://www.emprenemjunts.es/index.php?op=8&n=18904).
+[Summary](https://www.emprenemjunts.es/index.php?op=8&n=18904).
 
 Coverage:
 

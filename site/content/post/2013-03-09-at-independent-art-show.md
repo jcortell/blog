@@ -4,7 +4,7 @@ title: At Independent art show
 date: 2013-03-09T23:12:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4618
+guid: https://cortell.net/blog/?p=4618
 permalink: /blog/2013/03/09/at-independent-art-show/
 wpsd_autopost:
   - "1"
@@ -17,7 +17,7 @@ categories:
 ---
 [mudslide:picasa,0,111219615350942087056,5853532342637394897]
 
-Today we have gone to the <a title="http://independentnewyork.com" href="http://independentnewyork.com" target="_blank">Independent</a> art show at <a title="http://www.center548.com" href="http://www.center548.com" target="_blank">Center 548</a>. Two floors (starts in the second floor, and the roof top only has a bar). The second floor has some, very few, interesting works. The third floor? Don`t even bother. From childish to improvised, without even being _outsider_ or _brut_.
+Today we have gone to the <a title="https://independentnewyork.com" href="https://independentnewyork.com" target="_blank">Independent</a> art show at <a title="https://www.center548.com" href="https://www.center548.com" target="_blank">Center 548</a>. Two floors (starts in the second floor, and the roof top only has a bar). The second floor has some, very few, interesting works. The third floor? Don`t even bother. From childish to improvised, without even being _outsider_ or _brut_.
 
 When I go to art shows like this I exit with a strange happy grin. The reason? I realize I still have a personal taste, and I know what I don`t like, no matter how crowded the space is, or if it is in Chelsea.
 

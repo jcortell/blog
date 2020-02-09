@@ -4,7 +4,7 @@ title: 'Alaska Cruise Day 7: Hubbard Glacier'
 date: 2013-06-20T18:24:22+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4767
+guid: https://cortell.net/blog/?p=4767
 permalink: /blog/2013/06/20/alaska-cruise-day-7-hubbard-glacier/
 categories:
   - Environment
@@ -24,6 +24,6 @@ It was freezing, but as we sailed closer and closer to the edge of the glacier, 
 
 We were extremely close to the glacier, but the captain decided not to get any closer to avoid “shooters”, which are pieces of ice that fall into the water, and “shoot back up”, which could easily pierce through the ship’s hull. Nobody wants to star in Titanic II.
 
-After lunch, Stephanie (<a title="http://stephanieserinotravelblog.blogspot.com" href="http://stephanieserinotravelblog.blogspot.com" target="_blank">blog</a>, <a title="http://www.stephaniestravels.com" href="http://www.stephaniestravels.com" target="_blank">web site</a>, <a title="https://twitter.com/Cruise_Curator" href="https://twitter.com/Cruise_Curator" target="_blank">twitter</a>) organized a galley tour, much to the delight of the few passengers that had the opportunity to join us. During the tour, executive chef Guido Scarpellini and his assistant Jerry Garcia throughly explained the clockwork process by which they, and the other 65 chefs onboard, manage to prepare a very wide range of dishes, including accommodating many “special requests”, while achieving a consistency and perfection that is hard to be found even in small restaurants.
+After lunch, Stephanie (<a title="https://stephanieserinotravelblog.blogspot.com" href="https://stephanieserinotravelblog.blogspot.com" target="_blank">blog</a>, <a title="https://www.stephaniestravels.com" href="https://www.stephaniestravels.com" target="_blank">web site</a>, <a title="https://twitter.com/Cruise_Curator" href="https://twitter.com/Cruise_Curator" target="_blank">twitter</a>) organized a galley tour, much to the delight of the few passengers that had the opportunity to join us. During the tour, executive chef Guido Scarpellini and his assistant Jerry Garcia throughly explained the clockwork process by which they, and the other 65 chefs onboard, manage to prepare a very wide range of dishes, including accommodating many “special requests”, while achieving a consistency and perfection that is hard to be found even in small restaurants.
 
 A bottle of Jacquart champagne and a J.L. Godard movie was awaiting for us in our state room, to say farewell to Alaska and a marvelous cruise.

@@ -4,7 +4,7 @@ title: What a movement!
 date: 2011-11-13T10:48:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=3644
+guid: https://cortell.net/blog/?p=3644
 permalink: /blog/2011/11/13/what-a-movement/
 wpsd_autopost:
   - "1"
@@ -19,7 +19,7 @@ categories:
   - Society and politics
   - Why not? Utopia?
 ---
-First things first: thanks to whomever thought I would be interested in joining <a title="https://lists.riseup.net/www/info/mca" href="https://lists.riseup.net/www/info/mca" target="_blank">MCA</a> through <a title="http://riseup.net" href="http://riseup.net" target="_blank">RiseUp</a>, BUT...
+First things first: thanks to whomever thought I would be interested in joining <a title="https://lists.riseup.net/www/info/mca" href="https://lists.riseup.net/www/info/mca" target="_blank">MCA</a> through <a title="https://riseup.net" href="https://riseup.net" target="_blank">RiseUp</a>, BUT...
 
   * Don`t subscribe me to a list without my consent
   * Don`t do so without at least letting me know who you are

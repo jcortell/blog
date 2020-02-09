@@ -4,7 +4,7 @@ title: My first IBM European Cloud Advisory Board meeting
 date: 2014-06-21T14:29:43+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7110
+guid: https://blog.cortell.net/?p=7110
 permalink: /blog/2014/06/21/my-first-ibm-european-cloud-advisory-board-meeting/
 categories:
   - General
@@ -16,7 +16,7 @@ Last Thursday I arrived in Nice just in time to catch a very nice and expensive 
 
 It was an interesting meeting, attended by 15 business executives, investors and analysts. Not only they were all very smart, but I was brain dead after the long red-eye flight. Even considering that, I did make my little contribution.
 
-After the meeting and some technical workshops, we all went back to our hotel in Nice. Everybody else was staying at the Holiday Inn, but since I did not confirm until the last minute, I “had to” stay at the lovely <a href="http://www.le-grimaldi.com/en/" title="http://www.le-grimaldi.com/en/" target="_blank">Le Grimaldi</a> hotel. A real treat!
+After the meeting and some technical workshops, we all went back to our hotel in Nice. Everybody else was staying at the Holiday Inn, but since I did not confirm until the last minute, I “had to” stay at the lovely <a href="https://www.le-grimaldi.com/en/" title="https://www.le-grimaldi.com/en/" target="_blank">Le Grimaldi</a> hotel. A real treat!
 
 After a quick shower, email check, and changing clothes, we all went to have dinner at Restaurant Clarion, on the 12th floor of the Aston Hotel, with great views over avenue Félix Faure. The night before they had dinner at La Terrasse, rooftop restaurant at the Méridien hotel, right on the Promenade des Anglais, as I was flying over the Atlantic.
 

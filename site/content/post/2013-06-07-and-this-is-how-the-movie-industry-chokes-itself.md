@@ -4,7 +4,7 @@ title: And this is how the movie industry chokes itself
 date: 2013-06-07T16:32:50+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4738
+guid: https://cortell.net/blog/?p=4738
 permalink: /blog/2013/06/07/and-this-is-how-the-movie-industry-chokes-itself/
 categories:
   - Art
@@ -33,8 +33,8 @@ It`s a formula. An industry. Predictable (or so they like to think and try) retu
 
 Have you noticed how some "friends" make movie after movie together? Do you think it is because they have "chemistry"?
 
-<a title="http://online.wsj.com/article/SB10001424127887324787004578497341587629644.html" href="http://online.wsj.com/article/SB10001424127887324787004578497341587629644.html" target="_blank">Then these people meet and splurge</a> and demand that they be "defended" because they "create jobs". Just like any criminal organization, or political party, or  any other group involved in monetary exchange.
+<a title="https://online.wsj.com/article/SB10001424127887324787004578497341587629644.html" href="https://online.wsj.com/article/SB10001424127887324787004578497341587629644.html" target="_blank">Then these people meet and splurge</a> and demand that they be "defended" because they "create jobs". Just like any criminal organization, or political party, or  any other group involved in monetary exchange.
 
-> We have to suffer copyright and DRM restrictions on our rights and access to culture so they can create mostly trash and force illegal distribution budling deals. **We have to suffer fallacious ads in the subway saying "Film production generates $400 million in tax revenues for NY, with equals to the salary of thousands of firefighters" while they hide the fact that <a title="http://artmoneynyc.tumblr.com/post/16032952633/should-new-york-say-cut-to-expensive-film-industry" href="http://artmoneynyc.tumblr.com/post/16032952633/should-new-york-say-cut-to-expensive-film-industry" target="_blank">the film industry received $420 million tax "incentives" in New York</a>.**
+> We have to suffer copyright and DRM restrictions on our rights and access to culture so they can create mostly trash and force illegal distribution budling deals. **We have to suffer fallacious ads in the subway saying "Film production generates $400 million in tax revenues for NY, with equals to the salary of thousands of firefighters" while they hide the fact that <a title="https://artmoneynyc.tumblr.com/post/16032952633/should-new-york-say-cut-to-expensive-film-industry" href="https://artmoneynyc.tumblr.com/post/16032952633/should-new-york-say-cut-to-expensive-film-industry" target="_blank">the film industry received $420 million tax "incentives" in New York</a>.**
 
 And that is how the industry chokes (itself). Concentrating on money, revenue and return, and demanding "protection", instead of offering innovation, access and quality.

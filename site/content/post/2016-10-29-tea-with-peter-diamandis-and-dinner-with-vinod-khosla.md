@@ -4,7 +4,7 @@ title: Tea with Peter Diamandis and dinner with Vinod Khosla
 date: 2016-10-29T15:11:27+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8081
+guid: https://blog.cortell.net/?p=8081
 permalink: /blog/2016/10/29/tea-with-peter-diamandis-and-dinner-with-vinod-khosla/
 categories:
   - Geek Fun

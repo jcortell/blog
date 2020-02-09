@@ -4,7 +4,7 @@ title: Severe weather warning
 date: 2013-07-05T14:13:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4800
+guid: https://cortell.net/blog/?p=4800
 permalink: /blog/2013/07/05/severe-weather-warning/
 categories:
   - Environment
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p style="text-align: left">
-  When, in the same week, you receive the "<a title="http://www.nyc.gov/html/oem/html/get_prepared/ready.shtml" href="http://www.nyc.gov/html/oem/html/get_prepared/ready.shtml" target="_blank">Ready New York – Hurricanes and New York City</a>" brochure from NYC Office of Emergency Management via postal mail, and an SMS from "Emergency Alerts – National Weather Service" with the text "Imminent severe alert Flash Flood Warning this area til 1:00PM EDT. Avoid flood areas. Check local media", you realize "you are not in Valencia any more, boy".
+  When, in the same week, you receive the "<a title="https://www.nyc.gov/html/oem/html/get_prepared/ready.shtml" href="https://www.nyc.gov/html/oem/html/get_prepared/ready.shtml" target="_blank">Ready New York – Hurricanes and New York City</a>" brochure from NYC Office of Emergency Management via postal mail, and an SMS from "Emergency Alerts – National Weather Service" with the text "Imminent severe alert Flash Flood Warning this area til 1:00PM EDT. Avoid flood areas. Check local media", you realize "you are not in Valencia any more, boy".
 </p>
 
 <p style="text-align: left">

@@ -4,7 +4,7 @@ title: 'Meetings in New York: ICEX, IBM Research, and lawyers at Wilmerhale'
 date: 2014-11-20T11:57:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7271
+guid: https://blog.cortell.net/?p=7271
 permalink: /blog/2014/11/20/meetings-in-new-york-icex-ibm-research-and-lawyers-at-wilmerhale/
 categories:
   - General

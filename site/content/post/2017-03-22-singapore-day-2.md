@@ -4,7 +4,7 @@ title: Singapore day 2
 date: 2017-03-22T17:22:49+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8222
+guid: https://blog.cortell.net/?p=8222
 permalink: /blog/2017/03/22/singapore-day-2/
 categories:
   - General

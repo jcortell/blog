@@ -19,7 +19,7 @@ On Sunday we were in Toronto.
 
 On Sunday, we took my parents to the Toronto airport. Since their flight was scheduled for late at at night, we decided to spend the day in the city.
 
-It was cold, so we took a tour with the car visiting the main neighborhoods, and stopped to eat at [Amsterdam Brew House](http://www.amsterdambeer.com/brewhouse/). 
+It was cold, so we took a tour with the car visiting the main neighborhoods, and stopped to eat at [Amsterdam Brew House](https://www.amsterdambeer.com/brewhouse/). 
 
 What struck me most is the dense fog that suddenly appeared, and covered even the largest buildings, and how the owners of the boats have to cover them completely with plastic to spend the winter. Poor guys!
 

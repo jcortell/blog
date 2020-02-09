@@ -4,7 +4,7 @@ title: A conversation with Spanish Philosopher Fernando Sabater at Instituto Cer
 date: 2012-05-16T13:44:38+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4126
+guid: https://cortell.net/blog/?p=4126
 permalink: /blog/2012/05/16/a-conversation-with-spanish-philosopher-fernando-sabater-at-instituto-cervantes-ny/
 wpsd_autopost:
   - "1"
@@ -20,9 +20,9 @@ categories:
   [mudslide:picasa,0,111219615350942087056,5742886902413892049]
 </p>
 
-Wednesday May 2nd, I had the pleasure to meet <a title="http://www.savater.org/" href="http://www.savater.org/" target="_blank">Fernando Sabater</a> at <a title="http://nyork.cervantes.es" href="http://nyork.cervantes.es" target="_blank">Instituto Cervantes, NY</a>.
+Wednesday May 2nd, I had the pleasure to meet <a title="https://www.savater.org/" href="https://www.savater.org/" target="_blank">Fernando Sabater</a> at <a title="https://nyork.cervantes.es" href="https://nyork.cervantes.es" target="_blank">Instituto Cervantes, NY</a>.
 
-The conversation was lighthearted and included many anecdotes and trvia, but also a good dose of Philosophy and Psychology wisdom and aphorisms (like those by <a title="http://www.andresneuman.com/contenido_libros.php?id=23" href="http://www.andresneuman.com/contenido_libros.php?id=23" target="_blank">Andrés Newman</a>). Here are some delicious quotes by him:
+The conversation was lighthearted and included many anecdotes and trvia, but also a good dose of Philosophy and Psychology wisdom and aphorisms (like those by <a title="https://www.andresneuman.com/contenido_libros.php?id=23" href="https://www.andresneuman.com/contenido_libros.php?id=23" target="_blank">Andrés Newman</a>). Here are some delicious quotes by him:
 
 >   * Don`t attack, don`t comply
 >   * Childhood is always bad: wether because it was bad and left you a trauma, or because it was good and it frustrates you to leave it behind

@@ -4,7 +4,7 @@ title: 5 days in Chile
 date: 2016-12-17T16:36:03+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8150
+guid: https://blog.cortell.net/?p=8150
 permalink: /blog/2016/12/17/5-days-in-chile/
 categories:
   - General
@@ -17,7 +17,7 @@ A bad coordination with my partners IBM and the customer forced me to change my 
 
 As soon as I arrived on Sunday, my distributor and friend Germán took me to have lunch at Donde Augusto, inside the Central Market, where I had Locos and Chirimoya juice (Custard Apple). We talked for a while, and he took me to my hotel, where I worked for a while and went to sleep early. I would have loved to swim but the hotel’s pool was quite small.
 
-At 22:40 [there was an earthquake magnitude 5](http://www.sismologia.cl/) in the [Richter scale](https://en.wikipedia.org/wiki/Richter_magnitude_scale), which basically ranks between the explosion at Chernobyl nuclear power plant and the Little Boy atomic bomb dropped on Hiroshima. But it was not my first earthquake (I have experienced quite a few, in California, Japan, Chile…). It felt like the rocking a small cruise ship makes you feel, something I quite enjoy. An awesome feeling to go to sleep to. Besides, there is no reason to worry: Chile has the most strict anti-seismic building regulation in the world.
+At 22:40 [there was an earthquake magnitude 5](https://www.sismologia.cl/) in the [Richter scale](https://en.wikipedia.org/wiki/Richter_magnitude_scale), which basically ranks between the explosion at Chernobyl nuclear power plant and the Little Boy atomic bomb dropped on Hiroshima. But it was not my first earthquake (I have experienced quite a few, in California, Japan, Chile…). It felt like the rocking a small cruise ship makes you feel, something I quite enjoy. An awesome feeling to go to sleep to. Besides, there is no reason to worry: Chile has the most strict anti-seismic building regulation in the world.
 
 The next day we spent it completely with IBM, preparing the presentation to be done on Wednesday. At least we were on the 10th floor with great views of the Andes. For lunch we went to Juan y Medio, where I had pastel de choclo. Since by the time we were done all the museums were closed, I took a walk through the park.
 

@@ -4,14 +4,14 @@ title: 'Saigon – Ho Chi Minh City Day 2 on Vintage Vespa'
 date: 2017-04-01T10:29:46+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8251
+guid: https://blog.cortell.net/?p=8251
 permalink: /blog/2017/04/01/saigon-ho-chi-minh-city-day-2-on-vintage-vespa/
 categories:
   - General
   - "Life's pleasures"
   - Personal
 ---
-The following day, Wednesday, March 15, still in Saigon, we decided to “do Saigon like a Vietnamese”, and took a <a href="http://vespaadventures.com" target="_blank">Saigon tour by Vespa</a>:
+The following day, Wednesday, March 15, still in Saigon, we decided to “do Saigon like a Vietnamese”, and took a <a href="https://vespaadventures.com" target="_blank">Saigon tour by Vespa</a>:
 
 The first stop was the Bird Lover Club at Tao Dan Park, where a group of bird owners bring the elaborate bamboo cages to the park in the morning, and hang them in hooks for the birds to sing. There’s even a small Insect Market nearby, so the birds can get “fresh treats”.
   

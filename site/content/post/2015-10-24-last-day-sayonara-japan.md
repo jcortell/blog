@@ -4,7 +4,7 @@ title: Last day… sayonara Japan
 date: 2015-10-24T11:47:23+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7690
+guid: https://blog.cortell.net/?p=7690
 permalink: /blog/2015/10/24/last-day-sayonara-japan/
 categories:
   - General

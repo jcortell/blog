@@ -4,7 +4,7 @@ title: Halloween in Wimbledon
 date: 2016-11-08T07:05:59+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8099
+guid: https://blog.cortell.net/?p=8099
 permalink: /blog/2016/11/08/halloween-in-wimbledon/
 categories:
   - General

@@ -4,7 +4,7 @@ title: 'In Singapore, day 3: Makansutra Gluttons Bay'
 date: 2014-09-23T05:16:04+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7216
+guid: https://blog.cortell.net/?p=7216
 permalink: /blog/2014/09/23/singapore-day-3-makansutra-gluttons-bay/
 categories:
   - General
@@ -17,7 +17,7 @@ I spent most of the day working, meeting with potential customers. But I had res
 
 My wife, who by the way was back from her weekend in the Caribbean (I’m not the only one who works hard and “has to endure” tough trips), had sent me this article about Singapore’s street food hawker centers. Although long, it is completely worth reading:
   
-<a title="http://www.newyorker.com/magazine/2007/09/03/three-chopsticks" href="http://www.newyorker.com/magazine/2007/09/03/three-chopsticks" target="_blank">http://www.newyorker.com/magazine/2007/09/03/three-chopsticks</a>
+<a title="https://www.newyorker.com/magazine/2007/09/03/three-chopsticks" href="https://www.newyorker.com/magazine/2007/09/03/three-chopsticks" target="_blank">https://www.newyorker.com/magazine/2007/09/03/three-chopsticks</a>
 
 So I decided I had to try those. And I went straight to the most famous one: Makansutra Gluttons Bay. Awesome!
   

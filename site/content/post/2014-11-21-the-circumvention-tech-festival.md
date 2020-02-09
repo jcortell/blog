@@ -4,7 +4,7 @@ title: The Circumvention Tech Festival
 date: 2014-11-21T15:01:36+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7273
+guid: https://blog.cortell.net/?p=7273
 permalink: /blog/2014/11/21/the-circumvention-tech-festival/
 categories:
   - Copyfight
@@ -37,11 +37,11 @@ categories:
 </p>
 
 <p class="p1">
-  Website in English: <a title="www.circumventionfestival.org" href="http://www.circumventionfestival.org" target="_blank">www.circumventionfestival.org</a>
+  Website in English: <a title="www.circumventionfestival.org" href="https://www.circumventionfestival.org" target="_blank">www.circumventionfestival.org</a>
 </p>
 
 <p class="p1">
-  Website in Spanish: <a title="www.circumventionfestival.es" href="http://www.circumventionfestival.es" target="_blank">www.circumventionfestival.es</a>
+  Website in Spanish: <a title="www.circumventionfestival.es" href="https://www.circumventionfestival.es" target="_blank">www.circumventionfestival.es</a>
 </p>
 
 <p class="p1">

@@ -4,7 +4,7 @@ title: 'Family Mediterranean Cruise Day 2: Genoa'
 date: 2014-08-20T13:11:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7138
+guid: https://blog.cortell.net/?p=7138
 permalink: /blog/2014/08/20/family-mediterranean-cruise-day-2-genoa/
 categories:
   - General

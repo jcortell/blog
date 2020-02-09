@@ -4,7 +4,7 @@ title: DHVF, participating in a collective art performance, and meetings in Oxfo
 date: 2016-11-07T19:52:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8094
+guid: https://blog.cortell.net/?p=8094
 permalink: /blog/2016/11/07/dhvf-participating-in-a-collective-art-performance-and-meetings-in-oxford-science-park/
 categories:
   - Art

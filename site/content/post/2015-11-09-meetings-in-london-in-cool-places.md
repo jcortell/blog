@@ -4,7 +4,7 @@ title: Meetings in London in cool places
 date: 2015-11-09T13:18:01+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7707
+guid: https://blog.cortell.net/?p=7707
 permalink: /blog/2015/11/09/meetings-in-london-in-cool-places/
 categories:
   - General

@@ -4,7 +4,7 @@ title: Innomedyx, one of the companies I co-founded, establishes the Clinical In
 date: 2014-07-08T09:17:18+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7127
+guid: https://blog.cortell.net/?p=7127
 permalink: /blog/2014/07/08/innomedyx-establishes-the-clinical-innovation-center-at-the-polytechnic-university-of-valencia/
 categories:
   - General
@@ -14,9 +14,9 @@ categories:
   - Society and politics
   - Technology
 ---
-<a title="http://www.innomedyx.es/" href="http://www.innomedyx.es/" target="_blank">Innomedyx</a> (<a title="https://twitter.com/INNOMEDYX" href="https://twitter.com/INNOMEDYX" target="_blank">Twitter</a>, <a title="https://www.linkedin.com/company/innomedyx" href="https://www.linkedin.com/company/innomedyx" target="_blank">LinkedIn</a>, <a title="https://es-es.facebook.com/Innomedyx" href="https://es-es.facebook.com/Innomedyx" target="_blank">FaceBook</a>), a company I`m a co-founder of, has established the Clinical Innovation Center at the <a title="https://www.upv.es" href="https://www.upv.es" target="_blank">Polytechnic University of Valencia</a> (Spain), <a title="https://www.upv.es/noticias-upv/noticia-6389-bioartes-en.html" href="https://www.upv.es/noticias-upv/noticia-6389-bioartes-en.html" target="_blank">the best BioTechnology University in Spain according to Spanish newspaper El Mundo</a>.<figure style="width: 400px" class="wp-caption aligncenter">
+<a title="https://www.innomedyx.es/" href="https://www.innomedyx.es/" target="_blank">Innomedyx</a> (<a title="https://twitter.com/INNOMEDYX" href="https://twitter.com/INNOMEDYX" target="_blank">Twitter</a>, <a title="https://www.linkedin.com/company/innomedyx" href="https://www.linkedin.com/company/innomedyx" target="_blank">LinkedIn</a>, <a title="https://es-es.facebook.com/Innomedyx" href="https://es-es.facebook.com/Innomedyx" target="_blank">FaceBook</a>), a company I`m a co-founder of, has established the Clinical Innovation Center at the <a title="https://www.upv.es" href="https://www.upv.es" target="_blank">Polytechnic University of Valencia</a> (Spain), <a title="https://www.upv.es/noticias-upv/noticia-6389-bioartes-en.html" href="https://www.upv.es/noticias-upv/noticia-6389-bioartes-en.html" target="_blank">the best BioTechnology University in Spain according to Spanish newspaper El Mundo</a>.<figure style="width: 400px" class="wp-caption aligncenter">
 
-<img src="http://www.upv.es/upl/U0661285.jpg" alt="Rosa signing" width="400" height="252" /><figcaption class="wp-caption-text">photo © UPV</figcaption></figure> 
+<img src="https://www.upv.es/upl/U0661285.jpg" alt="Rosa signing" width="400" height="252" /><figcaption class="wp-caption-text">photo © UPV</figcaption></figure> 
 
 The Dean of the Polytechnic University of Valencia (UPV), Francisco Mora, and the general director of Innomedyx Knowledge in Action, <a title="https://twitter.com/valenzuela_rosa" href="https://twitter.com/valenzuela_rosa" target="_blank">Rosa Valenzuela</a>, signed a partnership agreement that formalizes the chair of Clinical Innovation company on July 1st.
 
@@ -30,7 +30,7 @@ The Clinical Innovation Center will be part of the Molecular Recognition and T
 
 <blockquote class="twitter-tweet" lang="en">
   <p>
-    La UPV e Innomedyx crean la Cátedra Innovación Clínica <a href="http://t.co/8U3bqTMS7L">http://t.co/8U3bqTMS7L</a>
+    La UPV e Innomedyx crean la Cátedra Innovación Clínica <a href="https://t.co/8U3bqTMS7L">https://t.co/8U3bqTMS7L</a>
   </p>
   
   <p>
@@ -40,4 +40,4 @@ The Clinical Innovation Center will be part of the Molecular Recognition and T
 
 
 
-More details: <a title="http://www.lavanguardia.com/local/valencia/20140701/54411472803/la-upv-y-la-innomedyx-knowledge-crean-la-catedra-innovacion-clinica.html" href="http://www.lavanguardia.com/local/valencia/20140701/54411472803/la-upv-y-la-innomedyx-knowledge-crean-la-catedra-innovacion-clinica.html" target="_blank">La Vanguardia</a>, <a title="http://www.abc.es/agencias/noticia.asp?noticia=1612644" href="http://www.abc.es/agencias/noticia.asp?noticia=1612644" target="_blank">ABC</a>, <a title="http://www.elperiodic.com/valencia/noticias/312214_empresa-innomedyx-knowledge-crean-catedra-innovacion-clinica.html" href="http://www.elperiodic.com/valencia/noticias/312214_empresa-innomedyx-knowledge-crean-catedra-innovacion-clinica.html" target="_blank">El Periodic</a>, <a title="http://www.informavalencia.com/salud/item/5960-la-upv-y-la-empresa-innomedyx-knowledge-crean-la-catedra-de-innovacion-clinica" href="http://www.informavalencia.com/salud/item/5960-la-upv-y-la-empresa-innomedyx-knowledge-crean-la-catedra-de-innovacion-clinica" target="_blank">InformaValencia</a>, <a title="http://www.upv.es/entidades/SIE/noticia_887093v.html" href="http://www.upv.es/entidades/SIE/noticia_887093v.html" target="_blank">UPVNews</a>
+More details: <a title="https://www.lavanguardia.com/local/valencia/20140701/54411472803/la-upv-y-la-innomedyx-knowledge-crean-la-catedra-innovacion-clinica.html" href="https://www.lavanguardia.com/local/valencia/20140701/54411472803/la-upv-y-la-innomedyx-knowledge-crean-la-catedra-innovacion-clinica.html" target="_blank">La Vanguardia</a>, <a title="https://www.abc.es/agencias/noticia.asp?noticia=1612644" href="https://www.abc.es/agencias/noticia.asp?noticia=1612644" target="_blank">ABC</a>, <a title="https://www.elperiodic.com/valencia/noticias/312214_empresa-innomedyx-knowledge-crean-catedra-innovacion-clinica.html" href="https://www.elperiodic.com/valencia/noticias/312214_empresa-innomedyx-knowledge-crean-catedra-innovacion-clinica.html" target="_blank">El Periodic</a>, <a title="https://www.informavalencia.com/salud/item/5960-la-upv-y-la-empresa-innomedyx-knowledge-crean-la-catedra-de-innovacion-clinica" href="https://www.informavalencia.com/salud/item/5960-la-upv-y-la-empresa-innomedyx-knowledge-crean-la-catedra-de-innovacion-clinica" target="_blank">InformaValencia</a>, <a title="https://www.upv.es/entidades/SIE/noticia_887093v.html" href="https://www.upv.es/entidades/SIE/noticia_887093v.html" target="_blank">UPVNews</a>

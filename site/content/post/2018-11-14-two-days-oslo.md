@@ -22,9 +22,9 @@ The organization graciously put me in a [nice hotel](https://www.radissonblu.com
 
 I also enjoyed Oslo, grey, cold and rainy as it was. In a quick stroll down Karl Johans Gate you get to see the Cathedral, Parliament, City Hall and Royal Palace. It was particularly striking to see a USA air carrier docked right in front of the Akershus Fortress and the Resistance Museum. Ironic. 
 
-I didn't have time, but I made a quick "escape" to see some contemporary art at [Astrup Fearnley Museet](http://www.afmuseet.no/en/hjem). It was a mistake. As impressive as the Renzo Piano designed building is, the works inside denote a lack of proper curation. It's a private collection that throws together "big names" like Damien Hirst or Jeff Koons, without any purpose of criteria.
+I didn't have time, but I made a quick "escape" to see some contemporary art at [Astrup Fearnley Museet](https://www.afmuseet.no/en/hjem). It was a mistake. As impressive as the Renzo Piano designed building is, the works inside denote a lack of proper curation. It's a private collection that throws together "big names" like Damien Hirst or Jeff Koons, without any purpose of criteria.
 
-Perhaps [Ekeberg Parken](https://ekebergparken.com/en) or the [National Gallery](http://www.nasjonalmuseet.no/en/) would have been a better choice. Maybe next time.
+Perhaps [Ekeberg Parken](https://ekebergparken.com/en) or the [National Gallery](https://www.nasjonalmuseet.no/en/) would have been a better choice. Maybe next time.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"

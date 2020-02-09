@@ -4,7 +4,7 @@ title: My company has been named “Top Scaleup in the UK”
 date: 2016-11-08T07:17:41+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8101
+guid: https://blog.cortell.net/?p=8101
 permalink: /blog/2016/11/08/my-company-has-been-named-top-scaleup-in-the-uk/
 categories:
   - Geek Fun

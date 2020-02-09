@@ -4,7 +4,7 @@ title: Setting up my first art exhibit
 date: 2016-04-17T14:48:21+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7840
+guid: https://blog.cortell.net/?p=7840
 permalink: /blog/2016/04/17/setting-up-my-first-art-exhibit/
 categories:
   - Art

@@ -19,7 +19,7 @@ Fortunately, European Union regulations mandate that airlines feed and provide s
 
 I was also rebooked on the next flight… 12 hours later. That meant missing my first scheduled customer appointment, which I asked my Peruvian distributor to re-schedule for me.
 
-Upon arrival in Lima, I went straight to my hotel, the [Country Club Lima](http://www.hotelcountry.com/), where I held my first business meeting. During dinner. It’s never a good idea to go straight to a business meeting after a 13-hour flight, but in this case, there was no choice.
+Upon arrival in Lima, I went straight to my hotel, the [Country Club Lima](https://www.hotelcountry.com/), where I held my first business meeting. During dinner. It’s never a good idea to go straight to a business meeting after a 13-hour flight, but in this case, there was no choice.
 
 I went to bed quite convinced that I would sleep the many hours my body was asking for. Long dark curtains, perfectly comfy and huge bed, all kinds of pillows to choose from… I was in sleep heaven. But, 6 hours later, well ahead of my wake-up call, I woke up and decided to get to work. The hotel’s great wifi made it a pleasure working from the hotel (which is quite rarely the case).
 

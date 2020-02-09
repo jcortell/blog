@@ -4,7 +4,7 @@ title: Pitching at Google Campus London
 date: 2015-05-30T21:08:11+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7481
+guid: https://blog.cortell.net/?p=7481
 permalink: /blog/2015/05/30/pitching-at-google-campus-london/
 categories:
   - General

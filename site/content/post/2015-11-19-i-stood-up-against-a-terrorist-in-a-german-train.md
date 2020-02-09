@@ -4,7 +4,7 @@ title: I stood up against a terrorist in a German train
 date: 2015-11-19T12:11:35+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7736
+guid: https://blog.cortell.net/?p=7736
 permalink: /blog/2015/11/19/i-stood-up-against-a-terrorist-in-a-german-train/
 categories:
   - General

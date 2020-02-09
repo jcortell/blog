@@ -4,7 +4,7 @@ title: Singapore wacky laws
 date: 2014-09-23T05:01:33+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7214
+guid: https://blog.cortell.net/?p=7214
 permalink: /blog/2014/09/23/singapore-wacky-laws/
 categories:
   - General
@@ -58,7 +58,7 @@ categories:
   Connecting on unsecured Wi-Fi hotspots = hacking
 </li>
 <li class="p1">
-  Oral and anal sex was illegal <a title="http://www.theguardian.com/world/2007/oct/24/gayrights.uk" href="http://www.theguardian.com/world/2007/oct/24/gayrights.uk" target="_blank">until 2007</a> unless it lead to vaginal sexual intercourse!
+  Oral and anal sex was illegal <a title="https://www.theguardian.com/world/2007/oct/24/gayrights.uk" href="https://www.theguardian.com/world/2007/oct/24/gayrights.uk" target="_blank">until 2007</a> unless it lead to vaginal sexual intercourse!
 </li>
 <li class="p1">
   Homosexual relations (even in private) = <a title="https://en.wikipedia.org/wiki/Section_377A_of_the_Penal_Code_(Singapore)" href="https://en.wikipedia.org/wiki/Section_377A_of_the_Penal_Code_(Singapore)" target="_blank">2 years in jail</a>

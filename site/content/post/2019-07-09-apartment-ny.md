@@ -20,7 +20,7 @@ As my teenage son starts his university studies at New York University, we decid
 
 We moved in July 4th, barely missing the Pride parade, but catching the 4th of July fireworks from bed.
 
-After enjoying a vegan burger at the nearby [Bare Burger](https://www.bareburger.com/), porridge at [New Wonjo](http://newwonjo.com/) in Koreatown, and shopping at an Asian supermarket it didn't take long for us to remember why we love AND hate this city:
+After enjoying a vegan burger at the nearby [Bare Burger](https://www.bareburger.com/), porridge at [New Wonjo](https://newwonjo.com/) in Koreatown, and shopping at an Asian supermarket it didn't take long for us to remember why we love AND hate this city:
 
 https://twitter.com/jorgecortell/status/1147986918602432513
 

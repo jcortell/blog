@@ -4,7 +4,7 @@ title: Baltic Cruise Day 2
 date: 2016-05-24T12:49:43+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7874
+guid: https://blog.cortell.net/?p=7874
 permalink: /blog/2016/05/24/baltic-cruise-day-2/
 categories:
   - General

@@ -4,7 +4,7 @@ title: 3 days in Cologne November 2016 for BioEurope
 date: 2016-11-11T17:28:15+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=8109
+guid: https://blog.cortell.net/?p=8109
 permalink: /blog/2016/11/11/3-days-in-cologne-november-2016-for-bioeurope/
 categories:
   - General

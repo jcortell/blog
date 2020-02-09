@@ -4,7 +4,7 @@ title: 'V&A and Science Museums'
 date: 2015-11-14T15:48:14+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7721
+guid: https://blog.cortell.net/?p=7721
 permalink: /blog/2015/11/14/va-and-science-museums/
 categories:
   - Art

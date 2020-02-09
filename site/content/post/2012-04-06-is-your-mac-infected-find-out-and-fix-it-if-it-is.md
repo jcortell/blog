@@ -4,7 +4,7 @@ title: Is your Mac infected? Find out (and fix it if it is)!
 date: 2012-04-06T17:05:06+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4013
+guid: https://cortell.net/blog/?p=4013
 permalink: /blog/2012/04/06/is-your-mac-infected-find-out-and-fix-it-if-it-is/
 wpsd_autopost:
   - "1"
@@ -15,7 +15,7 @@ categories:
   - News
   - Technology
 ---
-<a title="http://arstechnica.com/apple/news/2012/04/flashback-trojan-reportedly-controls-half-a-million-macs-and-counting.ars" href="http://arstechnica.com/apple/news/2012/04/flashback-trojan-reportedly-controls-half-a-million-macs-and-counting.ars" target="_blank">Over 600,000 Macs are infected with the FlashBack Trojan</a>. Is yours one of those? Let`s find out.
+<a title="https://arstechnica.com/apple/news/2012/04/flashback-trojan-reportedly-controls-half-a-million-macs-and-counting.ars" href="https://arstechnica.com/apple/news/2012/04/flashback-trojan-reportedly-controls-half-a-million-macs-and-counting.ars" target="_blank">Over 600,000 Macs are infected with the FlashBack Trojan</a>. Is yours one of those? Let`s find out.
 
 Open the Terminal (c`mon, be a hacker, not a slacker) and type:
 
@@ -37,4 +37,4 @@ if it says:
 
 that means your Mac is not infected (otherwise, go <a title="https://www.f-secure.com/v-descs/trojan-downloader_osx_flashback_i.shtml" href="https://www.f-secure.com/v-descs/trojan-downloader_osx_flashback_i.shtml" target="_blank">here</a>). 
 
-Source FSecure via Ars <a title="http://arstechnica.com/apple/news/2012/04/flashback-trojan-reportedly-controls-half-a-million-macs-and-counting.ars" href="http://arstechnica.com/apple/news/2012/04/flashback-trojan-reportedly-controls-half-a-million-macs-and-counting.ars" target="_blank">Technica</a>.
+Source FSecure via Ars <a title="https://arstechnica.com/apple/news/2012/04/flashback-trojan-reportedly-controls-half-a-million-macs-and-counting.ars" href="https://arstechnica.com/apple/news/2012/04/flashback-trojan-reportedly-controls-half-a-million-macs-and-counting.ars" target="_blank">Technica</a>.

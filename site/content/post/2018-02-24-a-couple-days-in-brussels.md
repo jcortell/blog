@@ -18,7 +18,7 @@ In order to attend a meeting of the Expert Group on Venture Philanthropy and Soc
 
 <!--more-->
 
-Day 1 was fairly boring: go to the EU Commission, attend meeting, make legislative and regulatory proposals, have dinner (delicious Musels Frites at ([Aux Armes de Bruxelles](http://www.auxarmesdebruxelles.com/en/)), and go to the hotel. By the way, I have to remember not to stay in that [hotel](https://www.nh-hotels.com/hotel/nh-brussels-carrefour-de-l-europe) again. While the location is excellent, the wifi is unbearable slow and unreliable.
+Day 1 was fairly boring: go to the EU Commission, attend meeting, make legislative and regulatory proposals, have dinner (delicious Musels Frites at ([Aux Armes de Bruxelles](https://www.auxarmesdebruxelles.com/en/)), and go to the hotel. By the way, I have to remember not to stay in that [hotel](https://www.nh-hotels.com/hotel/nh-brussels-carrefour-de-l-europe) again. While the location is excellent, the wifi is unbearable slow and unreliable.
 
 Day 2, on the other hand, was a lot more fun. As my "free day", I decided to go to see several exhibitions.
 
@@ -40,4 +40,4 @@ In Bozar there's so much going on that I will not try to list all the things I s
 
 With that overdose of awesome art, design, and ideas, I went to the store, and ended up buying three books. I know I promised myself to only buy digital versions and use my ebook reader, but...
 
-On the way back to the hotel, and before dinner at [Chez Léon](http://www.chezleon.be/en/), I stopped at Neuhaus[Neuhaus](https://www.neuhauschocolates.com/en/) , and bought my chocolate tribute to be allowed back home :D
+On the way back to the hotel, and before dinner at [Chez Léon](https://www.chezleon.be/en/), I stopped at Neuhaus[Neuhaus](https://www.neuhauschocolates.com/en/) , and bought my chocolate tribute to be allowed back home :D

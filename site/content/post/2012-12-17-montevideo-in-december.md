@@ -4,7 +4,7 @@ title: Montevideo in December
 date: 2012-12-17T20:01:28+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4484
+guid: https://cortell.net/blog/?p=4484
 permalink: /blog/2012/12/17/montevideo-in-december/
 wpsd_autopost:
   - "1"
@@ -21,7 +21,7 @@ categories:
 ---
 [mudslide:picasa,0,111219615350942087056,5821499441712215169]
 
-December 2nd I flew to Montevideo. I stayed at the <a title="http://www.radisson.com/montevideo-hotel-uy-11100/urumont" href="http://www.radisson.com/montevideo-hotel-uy-11100/urumont" target="_blank">Radisson Hotel</a>, Plaza de la Independencia. Very conveniently located with some impressive views from the top floor. Good thing it had a pool, because it is not easy to keep my exercise regime when traveling so much.
+December 2nd I flew to Montevideo. I stayed at the <a title="https://www.radisson.com/montevideo-hotel-uy-11100/urumont" href="https://www.radisson.com/montevideo-hotel-uy-11100/urumont" target="_blank">Radisson Hotel</a>, Plaza de la Independencia. Very conveniently located with some impressive views from the top floor. Good thing it had a pool, because it is not easy to keep my exercise regime when traveling so much.
 
 Besides very productive meetings with IBM (very nice, professional, and friendly executives, by the way) and presentation to several hospital groups (one of the meetings at the Presidential Building, another one at the country`s largest hospital, and a presentation at the Solis Theater), I enjoyed the promenade by the river which seems like a sea, the old town, and a weird Ice Bar.
 

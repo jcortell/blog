@@ -4,7 +4,7 @@ title: A week in Valencia (Spain)
 date: 2013-04-22T22:33:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://cortell.net/blog/?p=4672
+guid: https://cortell.net/blog/?p=4672
 permalink: /blog/2013/04/22/a-week-in-valencia-spain/
 wpsd_autopost:
   - "1"
@@ -17,7 +17,7 @@ categories:
 
 After London and Oxford, to finish a great birthday weekend, we went to Valencia (Spain).
 
-We visited family and friends (the whole purpose of the trip) including the studio of <a title="http://zirotticrea.blogspot.com" href="http://zirotticrea.blogspot.com" target="_blank">Claudio Zirotti</a>, went to the office to work more than we wanted to, chose wedding venue, and as always, had a lot of rice dishes.
+We visited family and friends (the whole purpose of the trip) including the studio of <a title="https://zirotticrea.blogspot.com" href="https://zirotticrea.blogspot.com" target="_blank">Claudio Zirotti</a>, went to the office to work more than we wanted to, chose wedding venue, and as always, had a lot of rice dishes.
 
 The anecdote of the trip was on the way out. Once in Madrid, before boarding the Madrid-New York Iberia flight, the "extra security" at the gate asked me if I had a flight ticket back to Spain.
 

@@ -4,7 +4,7 @@ title: Invited to a gala reception aboard the four-masted tall ship Juan Sebasti
 date: 2014-05-15T21:34:26+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7090
+guid: https://blog.cortell.net/?p=7090
 permalink: /blog/2014/05/15/invited-to-a-gala-reception-aboard-the-four-masted-tall-ship-juan-sebastian-de-elcano/
 categories:
   - General

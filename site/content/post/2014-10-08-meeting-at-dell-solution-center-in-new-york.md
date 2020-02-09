@@ -4,7 +4,7 @@ title: Meeting at Dell Solution Center in New York
 date: 2014-10-08T21:38:51+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7243
+guid: https://blog.cortell.net/?p=7243
 permalink: /blog/2014/10/08/meeting-at-dell-solution-center-in-new-york/
 categories:
   - General

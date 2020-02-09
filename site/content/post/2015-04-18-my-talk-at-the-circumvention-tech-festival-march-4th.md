@@ -4,7 +4,7 @@ title: My talk at the Circumvention Tech Festival, March 4th
 date: 2015-04-18T23:02:39+00:00
 author: Jorge Cortell
 layout: post
-guid: http://blog.cortell.net/?p=7389
+guid: https://blog.cortell.net/?p=7389
 permalink: /blog/2015/04/18/my-talk-at-the-circumvention-tech-festival-march-4th/
 categories:
   - Copyfight
