@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-02-21T01:50:28+00:00
+date: 2020-02-22T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -20,6 +20,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 * **03-24/04/20, Papeete (Tahiti), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (French Polynesia), Hanga Roa (Easter Island - Chile), Lima (Peru)**, Personal trip (invited to [cruise on the Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
 * **24-28/04/20, Lima (Peru)**, Business trip
 * **26-28/05/20, Helsinki (Finland)**, Business trip (Keynote Speaker at HIMSS Europe)
+* **16-24/06/20, Orlando (USA)**, Personal trip
 
 
 
