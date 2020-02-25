@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-02-22T01:50:28+00:00
+date: 2020-02-25T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,7 +11,6 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2020**
 
-* **23-29/02/20, Bangkok (Thailand)**, Business trip (Speaker at the Thailand Pathology Congress)
 * **05-06/03/20, Zurich (Switzerland)**, Business trip (UBS [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-switzerland-2020))
 * **07-09/03/20, New York (USA)**, Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady) Inaugural Sailing)
 * **10-13/03/20, Orlando (USA)**, Business trip (HIMSS)
@@ -34,6 +33,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2020**
 
+* **23-29/02/20, Bangkok (Thailand)**, Business trip (Speaker at the Thailand Pathology Congress)
 * **24/01/ - 11/02/20, Fort Erie (Canada)**, Personal trip
 * **29-31/01/20, Bogota (Colombia)**, Business trip
 * **28/01/20, Dallas Ft. Worth (USA)**, Business trip
