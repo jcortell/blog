@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-02-28T01:50:28+00:00
+date: 2020-03-01T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 **2020**
 
 * **05-06/03/20, Zurich (Switzerland)**, Business trip (UBS [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-switzerland-2020))
-* **07-09/03/20, New York (USA)**, Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady) Inaugural Sailing)
+* ~~07-09/03/20, New York (USA), Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady) Inaugural Sailing, UPDATE: Cancelled due to CoVi-19)~~
 * **10-13/03/20, Orlando (USA)**, Business trip (HIMSS)
 * ~~14-19/03/20, Tokyo (Japan), Business trip (Medtec Japan, UPDATE: Cancelled due to CoVi-19)~~
 * **02-03/04/20, Paris (France)**, Personal trip
