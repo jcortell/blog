@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-03-02T01:50:28+00:00
+date: 2020-03-05T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,11 +11,10 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2020**
 
-* **05-06/03/20, Zurich (Switzerland)**, Business trip (UBS [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-switzerland-2020))
 * ~~07-09/03/20, New York (USA), Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady) Sea Trial Sailing, UPDATE: Canceled due to CoViD-19)~~
 * ~~10-13/03/20, Orlando (USA)**, Business trip (HIMSS, UPDATE: Canceled due to CoViD-19)~~
 * ~~14-19/03/20, Tokyo (Japan), Business trip (Medtec Japan, UPDATE: Canceled due to CoViD-19)~~
-* **16-20/03/20, Miami (USA), Bimini (Bahamas), Miami (USA)**, Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady) Inaugural Sailing)
+* **16-20/03/20, Miami (USA)**, Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady) Sea Trial Sailing)
 * **02-03/04/20, Paris (France)**, Personal trip
 * **03-24/04/20, Papeete (Tahiti), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (French Polynesia), Hanga Roa (Easter Island - Chile), Lima (Peru)**, Personal trip (invited to [cruise on the Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))
 * **24-28/04/20, Lima (Peru)**, Business trip
@@ -34,6 +33,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2020**
 
+* **05-06/03/20, Zurich (Switzerland)**, Business trip (UBS [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-switzerland-2020))
 * **23-29/02/20, Bangkok (Thailand)**, Business trip (Speaker at the Thailand Pathology Congress)
 * **24/01/ - 11/02/20, Fort Erie (Canada)**, Personal trip
 * **29-31/01/20, Bogota (Colombia)**, Business trip

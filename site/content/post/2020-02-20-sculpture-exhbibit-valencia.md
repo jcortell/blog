@@ -4,7 +4,7 @@ date: "2020-02-20T01:00:24+02:00"
 draft: false
 title: "Visiting exhibition with the President of the Academy"
 tags: ["personal", "art"]
-images: "https://lh3.googleusercontent.com/fJ9tniXQQGpGYidvzwAdfYs6aftWm-y2MYY_nmTINDmr6drjMa5HrpcJfwEJHUgcg6_g9nOYwrQpkByMDD8kt2l86d2KaYbxqWWmUy20WIFlAc3hHflmLsZSy2VOIO4-mmYNi6yBgPO5G3x6eh9emlARzdZrN2Wc0WewpLNE5vc-KXmcnBR6Blhn5vruKYUc9KkAu7ym7DdYPifFt1HQUUcW2ERhf32-o9iQPF8NdVa57qf8eEiQaVBf7UDzUAYSWwEGmmUCQkJFIXlUS2oMUFhS3rTt0a0wiPo51LqUeyDYhtjg3qBOY0MPR2vuNexADmvznhhtEi0VPZVGAJ8j_sqn-WvgRcHIpx4F11J2-8grnzYPeBDOJIFRBWFdVKmhNYh2DJJtneemObKszUSLTyyLrCCcLags9I7l_AQ5xMGIqhLzgfJNVtFP_Q4QuioaayKbT6pjCTlSEVuxEOkbGjf60cc6jqLOzQ29wNwY1p5TBNsP4plPxZDRR-CobXiwkPv-sn2F0uNAhdbNKX68YuRLIZ2nOZQSwuPrU6RhjXQEyxLcm8URKGYU9KsTjazsGxaIU7ewGjDy1XcfJeZm4ssAhaG4A876-OeonLatkenBJvEwC_0_7lPHQXQxnvfaV3ojAiRG6rZC5wgWKWLth7lYaNSln-WKmaC3_Aw1qmGRDRR7NVUytb8=w1920-h880"
+images: "https://lh3.googleusercontent.com/Sgl920dmQlumyNfCZFb469fUWzshYPbu4QOshRjetuSyNxlIRLIBPHBKXZTnq-VPt7bI1jNcf-9lAM_GYNr1iN9o46WD3j0m10oDpncRWmRd5RD-rdMqKRBUWFzJhaOQo5BRDxJ2ACU=w1920-h1080"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
