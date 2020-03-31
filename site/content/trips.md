@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-03-13T01:50:28+00:00
+date: 2020-03-31T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,9 +11,8 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 **2020**
 
-* **26-28/05/20, Helsinki (Finland)**, Business trip (Keynote Speaker at HIMSS Europe)
 * **16-24/06/20, Orlando (USA)**, Personal trip
-
+* **07-09/09/20, Helsinki (Finland)**, Business trip (Keynote Speaker at HIMSS Europe)
 
 
 **PREVIOUS:**
