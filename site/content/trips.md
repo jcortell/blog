@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-03-31T01:50:28+00:00
+date: 2020-04-02T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -13,6 +13,7 @@ Here are my **upcoming** trips (your can see my previous trips and lectures belo
 
 * **16-24/06/20, Orlando (USA)**, Personal trip
 * **07-09/09/20, Helsinki (Finland)**, Business trip (Keynote Speaker at HIMSS Europe)
+* **22-27/11/20, Miami (USA), Puerto Plata (Dominican Republic), The Beach Club, Miami (USA)**, Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
 
 
 **PREVIOUS:**
