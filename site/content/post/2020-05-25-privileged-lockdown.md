@@ -30,7 +30,7 @@ But since my house is next to a mountainous natural park (Sierra Calderona), wit
 
 I wish everybody could enjoy this amazing natural diversity. And I hope we're all taking this opportunity to rethink what kind of world and society we want to live in, because it's up to us, but we're running out of time to fix both environmental and social issues.
 
-![Photos](https://photos.app.goo.gl/xd2Htwg2YSA4NY1a9)
+[Photos here](https://photos.app.goo.gl/xd2Htwg2YSA4NY1a9)
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
