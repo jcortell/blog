@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-05-20T01:50:28+00:00
+date: 2020-06-01T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,10 +11,14 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2020**
 
-* **22/05/20**, Valencia (Spain), Speaker in the (online) XII Congress of Biomedical Engineering
 * **16/06/20**, Elche, Alicante (Spain), Speaker in the (online) ICT and AI applied to Healthcare congress
 * **07-09/09/20**, ~~Helsinki (Finland), Business trip~~ Keynote Speaker at HIMSS Europe (changed to online event)
 * **24/11-17/12/20, Miami (USA), Costa Maya (Mexico), The Beach Club, Miami (USA)**, Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
+
+
+**2021**
+
+* **10-20/06/21, Athens, Mykonos, Santorini, Heraklion-Crete, Bodrum, Antalya, Rhodes (Greece), Ephesus-Kusadasi, Pergamum-Dikili, Istanbul (Turkey)**, Personal trip (invited to cruise on [Regent's Seven Seas Mariner](https://www.rssc.com/ships/seven_seas_mariner))
 
 
 **PREVIOUS:**
@@ -28,6 +32,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 **2020**
 
 * ~~16-24/06/20, Orlando (USA)**, Personal trip~~
+* * **22/05/20**, Valencia (Spain), Speaker in the (online) XII Congress of Biomedical Engineering
 * ~~24-28/04/20, Lima (Peru)**, Business trip~~
 * ~~03-24/04/20, Papeete (Tahiti), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (French Polynesia), Hanga Roa (Easter Island - Chile), Lima (Peru)**, Personal trip (invited to [cruise on the Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))~~
 * ~~02-03/04/20, Paris (France), Personal trip~~
