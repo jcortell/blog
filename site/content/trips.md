@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-06-01T01:50:28+00:00
+date: 2020-07-08T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,9 +11,11 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2020**
 
-* **16/06/20**, Elche, Alicante (Spain), Speaker in the (online) ICT and AI applied to Healthcare congress
+* 01-07/09/20, Singapore (Singapore) and Bangkok (Thailand), Business trip
 * **07-09/09/20**, ~~Helsinki (Finland), Business trip~~ Keynote Speaker at HIMSS Europe (changed to online event)
-* **24/11-17/12/20, Miami (USA), Costa Maya (Mexico), The Beach Club, Miami (USA)**, Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
+* **07-10/12/20, Cannes (France)**, Personal trip (invited to attend the Luxury Travel event [ILTM](https://www.iltm.com/cannes/))
+* **11-16/12/20, Miami (USA), Costa Maya (Mexico), The Beach Club, Miami (USA)**, Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
+* **17-24/12/20, Fort Erie (Canada) and Buffalo (USA)**, Personal trip
 
 
 **2021**
@@ -31,6 +33,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2020**
 
+* **16/06/20**, Elche, Alicante (Spain), Speaker in the (online) ICT and AI applied to Healthcare congress
 * ~~16-24/06/20, Orlando (USA)**, Personal trip~~
 * * **22/05/20**, Valencia (Spain), Speaker in the (online) XII Congress of Biomedical Engineering
 * ~~24-28/04/20, Lima (Peru)**, Business trip~~
