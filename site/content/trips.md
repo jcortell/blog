@@ -34,14 +34,14 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 **2020**
 
 * **16/06/20**, Elche, Alicante (Spain), Speaker in the (online) ICT and AI applied to Healthcare congress
-* ~~16-24/06/20, Orlando (USA)**, Personal trip~~
-* * **22/05/20**, Valencia (Spain), Speaker in the (online) XII Congress of Biomedical Engineering
-* ~~24-28/04/20, Lima (Peru)**, Business trip~~
+* ~~16-24/06/20, Orlando (USA), Personal trip~~
+* **22/05/20, Valencia (Spain)**, Speaker in the (online) XII Congress of Biomedical Engineering
+* ~~24-28/04/20, Lima (Peru), Business trip~~
 * ~~03-24/04/20, Papeete (Tahiti), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (French Polynesia), Hanga Roa (Easter Island - Chile), Lima (Peru)**, Personal trip (invited to [cruise on the Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))~~
 * ~~02-03/04/20, Paris (France), Personal trip~~
-* ~~16-20/03/20, Miami (USA)**, Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady) Sea Trial Sailing, UPDATE: Canceled due to CoViD-19)~~
+* ~~16-20/03/20, Miami (USA), Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady) Sea Trial Sailing, UPDATE: Canceled due to CoViD-19)~~
 * ~~14-19/03/20, Tokyo (Japan), Business trip (Medtec Japan, UPDATE: Canceled due to CoViD-19)~~
-* ~~10-13/03/20, Orlando (USA)**, Business trip (HIMSS, UPDATE: Canceled due to CoViD-19)~~
+* ~~10-13/03/20, Orlando (USA), Business trip (HIMSS, UPDATE: Canceled due to CoViD-19)~~
 * ~~07-09/03/20, New York (USA), Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady) Sea Trial Sailing, UPDATE: Canceled due to CoViD-19)~~
 * **05-06/03/20, Zurich (Switzerland)**, Business trip (UBS [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-switzerland-2020))
 * **23-29/02/20, Bangkok (Thailand)**, Business trip (Speaker at the Thailand Pathology Congress)
