@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nature on Jorge Cortell blog</title>
+    <link>https://blog.cortell.net/tags/nature/</link>
+    <description>Recent content in nature on Jorge Cortell blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2018 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.cortell.net/tags/nature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Walking on Lake Erie</title>
+      <link>https://blog.cortell.net/2018/01/walking-on-lake-erie/</link>
+      <pubDate>Sun, 14 Jan 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2018/01/walking-on-lake-erie/</guid>
+      <description>&lt;p&gt;Today we went walking on Lake Erie.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Snowboarding</title>
+      <link>https://blog.cortell.net/2018/01/snowboarding/</link>
+      <pubDate>Sun, 07 Jan 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2018/01/snowboarding/</guid>
+      <description>&lt;p&gt;January 7th we decided to brave the &lt;em&gt;Cyclone Bomb&lt;/em&gt; and go snowboarding at &lt;a href=&#34;https://gleneden.on.ca/&#34;&gt;Glen Eden&lt;/a&gt;, near Toronto.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Frozen Lake Erie</title>
+      <link>https://blog.cortell.net/2017/12/frozen-lake-erie/</link>
+      <pubDate>Wed, 27 Dec 2017 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2017/12/frozen-lake-erie/</guid>
+      <description>&lt;p&gt;Lake Erie frozen in our backyard.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

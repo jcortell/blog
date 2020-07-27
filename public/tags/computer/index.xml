@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer on Jorge Cortell blog</title>
+    <link>https://blog.cortell.net/tags/computer/</link>
+    <description>Recent content in computer on Jorge Cortell blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2020 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.cortell.net/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hours of computer code analysis to fix one typo</title>
+      <link>https://blog.cortell.net/2020/01/hours-of-computer-code-analysis-to-fix-one-typo/</link>
+      <pubDate>Thu, 02 Jan 2020 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2020/01/hours-of-computer-code-analysis-to-fix-one-typo/</guid>
+      <description>&lt;p&gt;I noticed time ago that when sharing my blog posts in social media, the post image was not featured. Finally I decided to look into it&amp;hellip; little did I know what a rabbit hole I was getting into!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

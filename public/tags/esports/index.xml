@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>esports on Jorge Cortell blog</title>
+    <link>https://blog.cortell.net/tags/esports/</link>
+    <description>Recent content in esports on Jorge Cortell blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jul 2018 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.cortell.net/tags/esports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DreamHack VLC</title>
+      <link>https://blog.cortell.net/2018/07/dreamhack-vlc/</link>
+      <pubDate>Sat, 14 Jul 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2018/07/dreamhack-vlc/</guid>
+      <description>&lt;p&gt;Saturday, July 14 we went to DreamHack Valencia, the eSports event. Family fun!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

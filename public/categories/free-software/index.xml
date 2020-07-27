@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Software on Jorge Cortell blog</title>
+    <link>https://blog.cortell.net/categories/free-software/</link>
+    <description>Recent content in Free Software on Jorge Cortell blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2017 08:45:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.cortell.net/categories/free-software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cool online presentations with free software</title>
+      <link>https://blog.cortell.net/2017/05/cool-online-presentations-with-free-software/</link>
+      <pubDate>Fri, 26 May 2017 08:45:38 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2017/05/cool-online-presentations-with-free-software/</guid>
+      <description>It has been a while since I wrote a tutorial to Share The Wealth, so it’s about time I shared some practical (if basic) knowledge beyond reposting a link.
+For years I have had a pet project in the backburner: I wanted to create presentations without the need of dedicated software, commercial (like PowerPoint or Keynote), or free (like LibreOffice or OpenOffice). That way I could avoid bringing my computer to a lecture, and not worry about what computer system would be available in the auditorium.</description>
+    </item>
+    
+    <item>
+      <title>Re-designing a NASA interface</title>
+      <link>https://blog.cortell.net/2016/07/re-designing-a-nasa-interface/</link>
+      <pubDate>Sun, 10 Jul 2016 14:30:56 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2016/07/re-designing-a-nasa-interface/</guid>
+      <description>I am interested in many things. One of the main ones is technology. And within technology, software development to view telemetry data in different ways, within the same application.
+Answering NASA’s call to help contribute to the exploration of the solar system, I got access to their next-generation mission control framework being developed at the NASA Ames Research Center in Silicon Valley being used for mission planning and operations in the lead up to the Resource Prospector mission, and at NASA`s Jet Propulsion Laboratory to view data from the Curiosity Rover.</description>
+    </item>
+    
+    <item>
+      <title>Invited to the Amazon Web Services Summit</title>
+      <link>https://blog.cortell.net/2016/07/invited-to-the-amazon-web-services-summit/</link>
+      <pubDate>Sat, 09 Jul 2016 07:53:27 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2016/07/invited-to-the-amazon-web-services-summit/</guid>
+      <description>On Wednesday and Thursday, I was invited to attend the Amazon Web Services Summit in London’s Excel center.
+Besides an exhibition area with many vendors (some of them already suppliers to my company) like NewRelic, DataDog, GitHub, Chef, Alscient, Teradici, DataPipe, Ruxit, CloudCheckr, Amazon Activate, Elastic, Redis, etc, all with their great swag (mostly t-shirts and stickers, but lots of giveaways, from drones to iWatches), the highlight was the conference sessions.</description>
+    </item>
+    
+    <item>
+      <title>Festival of Genomics Boston</title>
+      <link>https://blog.cortell.net/2016/06/festival-of-genomics-boston/</link>
+      <pubDate>Thu, 30 Jun 2016 15:43:05 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2016/06/festival-of-genomics-boston/</guid>
+      <description>June 28 and 29 I attended, along with my friend John Memarian, President &amp;amp; CCO of my company Kanteron Systems, the Festival of Genomics Boston, as a Microsoft Genomics Group partner.
+Although the show was small, it was a great opportunity to network with industry and academic experts (from Harvard Professors to Illumina executives) and learn.
+From scientific posters to the latest sequencing technologies, from robotic arms to genomics experiments in space, it was great #geekfun.</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Father’s Day gift: building a Picade with my son</title>
+      <link>https://blog.cortell.net/2016/06/ultimate-fathers-day-gift-building-a-picade-with-my-son/</link>
+      <pubDate>Sun, 19 Jun 2016 13:31:48 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2016/06/ultimate-fathers-day-gift-building-a-picade-with-my-son/</guid>
+      <description>For Father’s Day (we live in London, so we celebrate it today, unlike in Spain which is March 19) my wife gave me the “Ultimate Father`s Day” gift, from TechCamp UK. [Thank you, love!]
+It consisted of a workshop with other father-son / father-daughter “teams”, held at the Iron Yard (The Leathermarket – London), where we built a desktop arcade machine in 5 hours (including lunch break), following the directions from Tom and Tom, using the Picadeset, setting up and using the Raspberry Pi, custom OS, emulators, ROMs, loudspeakers, power supply, LCD screen, etc:</description>
+    </item>
+    
+    <item>
+      <title>Invited with my son to Intel Buzz videogame developer workshop</title>
+      <link>https://blog.cortell.net/2016/06/invited-with-my-son-to-intel-buzz-videogame-developer-workshop/</link>
+      <pubDate>Sat, 04 Jun 2016 17:25:21 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2016/06/invited-with-my-son-to-intel-buzz-videogame-developer-workshop/</guid>
+      <description>Today I was invited, along with my son, who at 14 has been a videogame developer for years, to attend the Intel Buzz videogame developer workshop. It was not only a lot of fun, but WONDERFUL to attend with him!
+Although a small event, it ended up being extremely interesting, with an area to try indie games and new technologies, and a long list of talks and panels, including one-on-ones.</description>
+    </item>
+    
+    <item>
+      <title>My talk at the Circumvention Tech Festival, March 4th</title>
+      <link>https://blog.cortell.net/2015/04/my-talk-at-the-circumvention-tech-festival-march-4th/</link>
+      <pubDate>Sat, 18 Apr 2015 23:02:39 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2015/04/my-talk-at-the-circumvention-tech-festival-march-4th/</guid>
+      <description>This past winter I met Sandy and James from Open ITP in New York, and Pepe from Valencia. They were organizing the Circumvention Tech Festivalto be held in Las Naves, Valencia (Spain) March 1-6.
+They invited me to give a talk, which was eventually scheduled for March 4th at 3pm. I titled the talk “When privacy does not mean the same to you and me”. It was meant to generate debate, to expose other people’s points of view, rather than to be a unidirectional speech.</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin and block chain event in New York</title>
+      <link>https://blog.cortell.net/2015/02/bitcoin-and-block-chain-event-in-new-york/</link>
+      <pubDate>Mon, 16 Feb 2015 16:00:12 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2015/02/bitcoin-and-block-chain-event-in-new-york/</guid>
+      <description>On Monday, February 9, I attended a Bitcoin – Blockchain eventwith my wife at law firm Latham &amp;amp; Watkins in New York, organized by Hedgeable.
+
+Over 100 bitcoin enthusiasts, investors, journalists, lawyers, and entrepreneurs networking over food and beverages, with demos from:
+and a round table of Bitcoin innovation experts:
+Since I have already started researching the application of the block chain technology for healthcare, it was quite a useful event.</description>
+    </item>
+    
+    <item>
+      <title>The Circumvention Tech Festival</title>
+      <link>https://blog.cortell.net/2014/11/the-circumvention-tech-festival/</link>
+      <pubDate>Fri, 21 Nov 2014 15:01:36 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2014/11/the-circumvention-tech-festival/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable review: Withings Pulse Ox, WS-30 WiFi scale, and Blood Pressure Monitor</title>
+      <link>https://blog.cortell.net/2014/11/wearable-review-withings-pulse-ox-ws-30-wifi-scale-and-blood-pressure-monitor/</link>
+      <pubDate>Mon, 03 Nov 2014 20:14:57 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2014/11/wearable-review-withings-pulse-ox-ws-30-wifi-scale-and-blood-pressure-monitor/</guid>
+      <description>Due to the launch of the biosensors module for my company`s medical imaging and data solution a few days ago, the Withings company sent me a biosensor (wearable) Withings Pulse Ox, manometer BPM and WiFi WS-30 scale for testing and integration tests ahead of some national projects we are about to sign in London and Santiago de Chile.
+All three came in luxury packaging, and were relatively easy to connect and set up, at least for a &amp;ldquo;tinkerer&amp;rdquo; (there are people who gets annoyed if I use &amp;ldquo;hacker&amp;rdquo; as a synonym, although it is) like me.</description>
+    </item>
+    
+    <item>
+      <title>My new OnePlus One phone is amazing</title>
+      <link>https://blog.cortell.net/2014/10/my-new-oneplus-one-phone-is-amazing/</link>
+      <pubDate>Wed, 08 Oct 2014 22:05:02 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2014/10/my-new-oneplus-one-phone-is-amazing/</guid>
+      <description>I have just bought a OnePlusOne phone, and have been using it for a couple of days. Let me tell you: it`s AMAZING.
+If you have never heard of the company, dont worry, youre not alone. But you should definitely check it out, because their phones are incredibly high quality, high specs, and low price (mine was $349). No catch:
+ Qualcomm© Snapdragon™ 801 processor with 2.5GHz Quad-core CPUs Adreno 330 GPU, 578MHz 64 GB eMMC 5.</description>
+    </item>
+    
+    <item>
+      <title>Invited by Google to the Google Cloud Platform presentation</title>
+      <link>https://blog.cortell.net/2014/05/invited-by-google-to-the-google-cloud-platform-presentation/</link>
+      <pubDate>Thu, 15 May 2014 00:38:46 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2014/05/invited-by-google-to-the-google-cloud-platform-presentation/</guid>
+      <description>March 25 Google NY invited me to their Google Cloud Platformpresentation in their Chelsea offices, 8 blocks away from my apartment.
+Besides the interesting new features (here are the videos), and the delicious and healthy lunch buffet, I networked quite a lot, and had a few laughs about the highest concentration of Google Glasses per person I have seen so far. One thing is clear: genomics, which is one of the main things my two companies deal with, and the cloud, are closely related, and they will be even more in the near future.</description>
+    </item>
+    
+    <item>
+      <title>Chromecast &#43; Hola = Multimedia freedom</title>
+      <link>https://blog.cortell.net/2014/02/chromecast-hola-multimedia-freedom/</link>
+      <pubDate>Sat, 15 Feb 2014 18:22:51 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2014/02/chromecast-hola-multimedia-freedom/</guid>
+      <description>How many times have you tried to access online media that was not available in your country? How many times have you gotten frustrated with proxy services?
+How many times have you wished there was an easy way to wirelessly display online content on your TV without paying for expensive privative boxes?
+Enter Hola.org+ ChromecastHola is a free browser extension used by 14 million people to access geographically restricted online media.</description>
+    </item>
+    
+    <item>
+      <title>The key to the use of cloud in healthcare</title>
+      <link>https://blog.cortell.net/2013/09/the-key-to-the-use-of-cloud-in-healthcare/</link>
+      <pubDate>Sun, 08 Sep 2013 12:58:10 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2013/09/the-key-to-the-use-of-cloud-in-healthcare/</guid>
+      <description>In a single word: security.
+By now there is no doubt about the advantages of the cloud: easy collaboration, scalability, ubiquity, sync, cost savings (21% on average, according to AFCOM 2011, 40% according to our own customers), rapid deployment, etc.
+There is also no doubt about the need for a move to the cloud in healthcare: according to Enterprise Strategy Group, by 2015 an average of 665TB of data will be generated per hospital per year.</description>
+    </item>
+    
+    <item>
+      <title>Anatomy of an FDA inspection</title>
+      <link>https://blog.cortell.net/2013/06/anatomy-of-an-fda-inspection/</link>
+      <pubDate>Sun, 30 Jun 2013 15:19:10 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2013/06/anatomy-of-an-fda-inspection/</guid>
+      <description>On April 25th I attended my first FDA (U.S. Food and Drug Administration) Medical Device Establishment Inspection. Agent (Investigator) Kimberley A. Ricketts called me a couple days before to let me know that as a registered medical device manufacturing company, Kanteron Systems (the company I founded in 2005) had been selected for an Establishment Inspection. It was the &amp;ldquo;Notice of Inspection pursuant to Section 704(a)(1) of the Federal Food, Drug, and Cosmetics Act [21 U.</description>
+    </item>
+    
+    <item>
+      <title>Article in El Mundo &amp;quot;Innovators&amp;quot; special</title>
+      <link>https://blog.cortell.net/2013/01/article-in-el-mundo-quotinnovatorsquot-special/</link>
+      <pubDate>Wed, 23 Jan 2013 14:34:47 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2013/01/article-in-el-mundo-quotinnovatorsquot-special/</guid>
+      <description>Here (PDF)is a 3 page article Spanish newspaper El Mundo published on Monday in their &amp;ldquo;Innovators&amp;rdquo; special, featuring my company, Kanteron Systems.</description>
+    </item>
+    
+    <item>
+      <title>Testing WP update and plug-in incompatibility</title>
+      <link>https://blog.cortell.net/2012/09/testing-wp-update-and-plug-in-incompatibility/</link>
+      <pubDate>Sun, 23 Sep 2012 12:13:32 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/09/testing-wp-update-and-plug-in-incompatibility/</guid>
+      <description>I have been puzzled by an incompatibility between WP`s latest version and one of the plug-ins I have installed (the one that allows multiple languages).
+As soon as I fix it, I will resume my postings.
+[This is a test, written in HTML because the &amp;ldquo;WYSIWYG editor&amp;rdquo; has disappeared]</description>
+    </item>
+    
+    <item>
+      <title>Tech is a tool, people are stupid</title>
+      <link>https://blog.cortell.net/2012/05/tech-is-a-tool-people-are-stupid/</link>
+      <pubDate>Sun, 27 May 2012 13:44:28 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/05/tech-is-a-tool-people-are-stupid/</guid>
+      <description>Technology is getting easier to use everyday. Take GNU/Linux distributions as an example: anyone can make their own. Does that mean everyone should make their own? Why not? But then, again, we end up with things like Ubuntu Satanic(and their Ubuntu SE 666.10 “Necrophiliac Neuromancer”), Hannah Montana Linux(how far would you go to attract kids to free software?), or Red Star OS(free software for North Korea and non-free browsing? WTF?).</description>
+    </item>
+    
+    <item>
+      <title>In 3D with Firefox`s new TILT inspector</title>
+      <link>https://blog.cortell.net/2012/04/in-3d-with-firefoxs-new-tilt-inspector/</link>
+      <pubDate>Mon, 09 Apr 2012 12:19:04 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/04/in-3d-with-firefoxs-new-tilt-inspector/</guid>
+      <description>Lego web design, anyone? 😉</description>
+    </item>
+    
+    <item>
+      <title>Stop WordPress from removing your &amp;quot;p&amp;quot; and &amp;quot;br&amp;quot; tags</title>
+      <link>https://blog.cortell.net/2012/03/stop-wordpress-from-removing-your-quotpquot-and-quotbrquot-tags/</link>
+      <pubDate>Thu, 08 Mar 2012 19:13:41 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/03/stop-wordpress-from-removing-your-quotpquot-and-quotbrquot-tags/</guid>
+      <description>After wasting hours trying to double space or insert extra line breaks when writing a new post or page in WordPress only to see that WordPress automatically filters the content to remove those extra spaces once you click the “Publish” button, I have found the solution (not as obvious and not readily available in support forums) by using the TinyMCE Advanced plugin, which adds additional functionality to the default WordPress editor, including the ability to stop WordPress from automatically stripping out “p” (paragraph) and “br” (line break) tags.</description>
+    </item>
+    
+    <item>
+      <title>Better privacy through your browser</title>
+      <link>https://blog.cortell.net/2012/03/better-privacy-through-your-browser/</link>
+      <pubDate>Thu, 01 Mar 2012 17:28:40 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/03/better-privacy-through-your-browser/</guid>
+      <description>Do you want to improve your online privacy? Go ahead, install HTTPSand Collusion.</description>
+    </item>
+    
+    <item>
+      <title>ArtHack Exhibit closing party in Brooklyn</title>
+      <link>https://blog.cortell.net/2012/01/arthack-exhibit-closing-party-in-brooklyn/</link>
+      <pubDate>Mon, 30 Jan 2012 22:27:50 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/01/arthack-exhibit-closing-party-in-brooklyn/</guid>
+      <description>Last Saturday I went to the ArtHack Exhibitclosing party at 319 ScholesSt, Brooklyn (New York).
+Located in an industrial complex in Brooklyn, at night, loooong two blocks from the subway, graffiti all over, small door&amp;hellip; that gave way to heaven: young (I was the oldest hacker in that space, but I did not feel that way) energetic happy people tinkering with technology and proudly showing their &amp;ldquo;toys&amp;rdquo; (hacks, mashups, creations, or whatever).</description>
+    </item>
+    
+    <item>
+      <title>RePress: fight online censorship with a WP Plug-In</title>
+      <link>https://blog.cortell.net/2012/01/repress-fight-online-censorship-with-a-wp-plug-in/</link>
+      <pubDate>Mon, 30 Jan 2012 17:51:48 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/01/repress-fight-online-censorship-with-a-wp-plug-in/</guid>
+      <description>I just installed RePress: This plug-in enables you to magically uncensor any website on the internet from your own WordPress installation. Why and How.</description>
+    </item>
+    
+  </channel>
+</rss>

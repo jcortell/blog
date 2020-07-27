@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.74.3 with theme Tranquilpeak 0.4.8-BETA">
+<meta name="author" content="Jorge Cortell">
+<meta name="keywords" content="">
+<meta name="description" content="Suspended disbelief">
+
+
+<meta property="og:description" content="Suspended disbelief">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Hacking">
+<meta name="twitter:title" content="Hacking">
+<meta property="og:url" content="https://blog.cortell.net/categories/hacking/">
+<meta property="twitter:url" content="https://blog.cortell.net/categories/hacking/">
+<meta property="og:site_name" content="Jorge Cortell blog">
+<meta property="og:description" content="Suspended disbelief">
+<meta name="twitter:description" content="Suspended disbelief">
+<meta property="og:locale" content="en-us">
+
+
+<meta name="twitter:card" content="summary">
+
+  <meta name="twitter:site" content="@jorgecortell">
+
+
+  <meta name="twitter:creator" content="@jorgecortell">
+
+
+
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=640">
+
+
+    <title>Hacking</title>
+
+    <link rel="icon" href="https://blog.cortell.net/favicon.png">
+    
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://blog.cortell.net/categories/hacking/index.xml">
+    
+
+    
+
+    <link rel="canonical" href="https://blog.cortell.net/categories/hacking/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="https://blog.cortell.net/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
+    
+    
+
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-51273041-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="2">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://blog.cortell.net/">Jorge Cortell blog</a>
+  </div>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="2">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://jorge.cortell.net">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Jorge Cortell</h4>
+        
+          <h5 class="sidebar-profile-bio">My blog in English</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://blog.cortell.net/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://blog.cortell.net/trips/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-plane"></i>
+      
+      <span class="sidebar-button-desc">Trips</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://blog.cortell.net/categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://blog.cortell.net/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://blog.cortell.net/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jorge.cortell.net" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://blog.cortell.net/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.linkedin.com/in/jcortell/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-linkedin"></i>
+      
+      <span class="sidebar-button-desc">LinkedIn</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/jorgecortell" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://mas.to/@uno" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-retweet"></i>
+      
+      <span class="sidebar-button-desc">Mastodon</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/jcortell" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jcortell.tumblr.com/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tumblr"></i>
+      
+      <span class="sidebar-button-desc">Tumblr</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bloges.cortell.net" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-flag-o"></i>
+      
+      <span class="sidebar-button-desc">Español</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+        
+
+      
+      <div id="main" data-behavior="2"
+        class="
+               hasCoverMetaIn
+               ">
+        
+          <section class="postShorten-group main-content-wrap">
+            
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom" itemscope itemType="http://schema.org/BlogPosting">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title" itemprop="headline">
+        <a class="link-unstyled" href="https://blog.cortell.net/2016/06/ultimate-fathers-day-gift-building-a-picade-with-my-son/">
+          Ultimate Father’s Day gift: building a Picade with my son
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2016-06-19T13:31:48Z">
+        
+  
+  
+  
+  
+    19 June 2016
+  
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/free-software">Free Software</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/geek-fun">Geek Fun</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/general">General</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/hacking">Hacking</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/lifes-pleasures">Life&#39;s pleasures</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/london">London</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/personal">Personal</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/technology">Technology</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/technolust">Technolust</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/videogames">Videogames</a>
+    
+  
+
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt" itemprop="articleBody">
+      
+        For Father’s Day (we live in London, so we celebrate it today, unlike in Spain which is March 19) my wife gave me the “Ultimate Father`s Day” gift, from TechCamp UK. [Thank you, love!]
+It consisted of a workshop with other father-son / father-daughter “teams”, held at the Iron Yard (The Leathermarket – London), where we built a desktop arcade machine in 5 hours (including lunch break), following the directions from Tom and Tom, using the Picadeset, setting up and using the Raspberry Pi, custom OS, emulators, ROMs, loudspeakers, power supply, LCD screen, etc:
+      
+      <p>
+        <a href="https://blog.cortell.net/2016/06/ultimate-fathers-day-gift-building-a-picade-with-my-son/" class="postShorten-excerpt_link link">Continue reading</a>
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom" itemscope itemType="http://schema.org/BlogPosting">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title" itemprop="headline">
+        <a class="link-unstyled" href="https://blog.cortell.net/2016/06/invited-to-infosecurity-europe/">
+          Invited to InfoSecurity Europe
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2016-06-08T15:30:12Z">
+        
+  
+  
+  
+  
+    8 June 2016
+  
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/geek-fun">Geek Fun</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/general">General</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/hacking">Hacking</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/humor-and-curiosities">Humor and curiosities</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/lifes-pleasures">Life&#39;s pleasures</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/london">London</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/personal">Personal</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/technology">Technology</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/technolust">Technolust</a>
+    
+  
+
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt" itemprop="articleBody">
+      
+        Today I was invited to attend InfoSecurity Europe, Europe`s largest Information Security industry event.
+As always, it was interesting to have a chance to catch up with this rapidly moving field, and a great opportunity to chat with old friends.
+Apart from gimmicks (VR everywhere, car racing and helicopter simulators, giant robots, etc), swag (all kinds of Star Wars and other Sci-Fi related giveaways, from toys to t-shirts) and junk food (from candy to icecream to chips, the booths did not have healthy alternatives, although the food vendors did), the most interesting part of these events is always the talks, specifically the hands-on demos.
+      
+      <p>
+        <a href="https://blog.cortell.net/2016/06/invited-to-infosecurity-europe/" class="postShorten-excerpt_link link">Continue reading</a>
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom" itemscope itemType="http://schema.org/BlogPosting">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title" itemprop="headline">
+        <a class="link-unstyled" href="https://blog.cortell.net/2016/06/invited-with-my-son-to-intel-buzz-videogame-developer-workshop/">
+          Invited with my son to Intel Buzz videogame developer workshop
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2016-06-04T17:25:21Z">
+        
+  
+  
+  
+  
+    4 June 2016
+  
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/art">Art</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/free-software">Free Software</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/geek-fun">Geek Fun</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/general">General</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/hacking">Hacking</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/lifes-pleasures">Life&#39;s pleasures</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/london">London</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/personal">Personal</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/technology">Technology</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/technolust">Technolust</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/videogames">Videogames</a>
+    
+  
+
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt" itemprop="articleBody">
+      
+        Today I was invited, along with my son, who at 14 has been a videogame developer for years, to attend the Intel Buzz videogame developer workshop. It was not only a lot of fun, but WONDERFUL to attend with him!
+Although a small event, it ended up being extremely interesting, with an area to try indie games and new technologies, and a long list of talks and panels, including one-on-ones.
+      
+      <p>
+        <a href="https://blog.cortell.net/2016/06/invited-with-my-son-to-intel-buzz-videogame-developer-workshop/" class="postShorten-excerpt_link link">Continue reading</a>
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom" itemscope itemType="http://schema.org/BlogPosting">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title" itemprop="headline">
+        <a class="link-unstyled" href="https://blog.cortell.net/2015/11/a-couple-days-in-z%C3%BCrich/">
+          A couple days in Zürich
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2015-11-19T10:44:26Z">
+        
+  
+  
+  
+  
+    19 November 2015
+  
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/geek-fun">Geek Fun</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/general">General</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/hacking">Hacking</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/lifes-pleasures">Life&#39;s pleasures</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/personal">Personal</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/technology">Technology</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/technolust">Technolust</a>
+    
+  
+
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt" itemprop="articleBody">
+      
+        I spent Wednesday evening and most of Thursday in Zürich.
+On Wednesday I had dinner with some business partners; “business as usual”.
+But on Thursday, after my business presentation to potential customers, I had the very rare and exclusive opportunity to visit one of the main data centers in Switzerland. Here are some impressive facts about them:
+ they host 1/3 of Swiss banks data internet traffic = 40% of Switzerland’s internet traffic energy bill = 2 million Swiss Franks per annum 2 different energy suppliers from 2 different access points, with preferential oil supply in case of a failure (full reserves for 5 days for the generators) almost 50 telecoms suppliers, from many different countries, providing direct access for their customers worldwide RFIDs paired with 3D fingerprint scanners which measure the fingerprint but also the morphology, pulse and temperature separate isolated room to open packages, to minimize the risk of fire single person magnetic doors temperature, movement, and sound sensors double-gated entrance even to the parking lot!
+      
+      <p>
+        <a href="https://blog.cortell.net/2015/11/a-couple-days-in-z%C3%BCrich/" class="postShorten-excerpt_link link">Continue reading</a>
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom" itemscope itemType="http://schema.org/BlogPosting">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title" itemprop="headline">
+        <a class="link-unstyled" href="https://blog.cortell.net/2015/04/my-talk-at-the-circumvention-tech-festival-march-4th/">
+          My talk at the Circumvention Tech Festival, March 4th
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2015-04-18T23:02:39Z">
+        
+  
+  
+  
+  
+    18 April 2015
+  
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/copyfight">Copyfight</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/cyberrights">CyberRights</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/free-software">Free Software</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/geek-fun">Geek Fun</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/general">General</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/hacking">Hacking</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/lifes-pleasures">Life&#39;s pleasures</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/ny">NY</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/personal">Personal</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/privacy">Privacy</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/proposals-for-equality">Proposals for Equality</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/society-and-politics">Society and politics</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/technology">Technology</a>
+    
+  
+
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt" itemprop="articleBody">
+      
+        This past winter I met Sandy and James from Open ITP in New York, and Pepe from Valencia. They were organizing the Circumvention Tech Festivalto be held in Las Naves, Valencia (Spain) March 1-6.
+They invited me to give a talk, which was eventually scheduled for March 4th at 3pm. I titled the talk “When privacy does not mean the same to you and me”. It was meant to generate debate, to expose other people’s points of view, rather than to be a unidirectional speech.
+      
+      <p>
+        <a href="https://blog.cortell.net/2015/04/my-talk-at-the-circumvention-tech-festival-march-4th/" class="postShorten-excerpt_link link">Continue reading</a>
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom" itemscope itemType="http://schema.org/BlogPosting">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title" itemprop="headline">
+        <a class="link-unstyled" href="https://blog.cortell.net/2015/02/bitcoin-and-block-chain-event-in-new-york/">
+          Bitcoin and block chain event in New York
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2015-02-16T16:00:12Z">
+        
+  
+  
+  
+  
+    16 February 2015
+  
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/copyfight">Copyfight</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/free-software">Free Software</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/geek-fun">Geek Fun</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/general">General</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/hacking">Hacking</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/lifes-pleasures">Life&#39;s pleasures</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/ny">NY</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/personal">Personal</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/privacy">Privacy</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/technology">Technology</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/technolust">Technolust</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/uncategorized">Uncategorized</a>
+    
+  
+
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt" itemprop="articleBody">
+      
+        On Monday, February 9, I attended a Bitcoin – Blockchain eventwith my wife at law firm Latham &amp; Watkins in New York, organized by Hedgeable.
+
+Over 100 bitcoin enthusiasts, investors, journalists, lawyers, and entrepreneurs networking over food and beverages, with demos from:
+and a round table of Bitcoin innovation experts:
+Since I have already started researching the application of the block chain technology for healthcare, it was quite a useful event.
+      
+      <p>
+        <a href="https://blog.cortell.net/2015/02/bitcoin-and-block-chain-event-in-new-york/" class="postShorten-excerpt_link link">Continue reading</a>
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom" itemscope itemType="http://schema.org/BlogPosting">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title" itemprop="headline">
+        <a class="link-unstyled" href="https://blog.cortell.net/2014/11/the-circumvention-tech-festival/">
+          The Circumvention Tech Festival
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2014-11-21T15:01:36Z">
+        
+  
+  
+  
+  
+    21 November 2014
+  
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/copyfight">Copyfight</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/cyberrights">CyberRights</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/free-software">Free Software</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/geek-fun">Geek Fun</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/general">General</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/hacking">Hacking</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/lifes-pleasures">Life&#39;s pleasures</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/ny">NY</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/personal">Personal</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/privacy">Privacy</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/society-and-politics">Society and politics</a>, 
+    
+      <a class="category-link" href="https://blog.cortell.net/categories/technology">Technology</a>
+    
+  
+
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt" itemprop="articleBody">
+      
+        
+      
+      <p>
+        <a href="https://blog.cortell.net/2014/11/the-circumvention-tech-festival/" class="postShorten-excerpt_link link">Continue reading</a>
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+            
+  <div class="pagination-bar">
+    <ul class="pagination">
+      
+        
+          <li class="pagination-prev">
+            <a class="btn btn--default btn--small" href="https://blog.cortell.net/categories/hacking/">
+              <i class="fa fa-angle-left text-base icon-mr"></i>
+              <span>NEWER POSTS</span>
+            </a>
+          </li>
+        
+        
+          <li class="pagination-next">
+            <a class="btn btn--default btn--small" href="https://blog.cortell.net/categories/hacking/page/3/">
+              <span>OLDER POSTS</span>
+              <i class="fa fa-angle-right text-base icon-ml"></i>
+            </a>
+          </li>
+        
+      
+      <li class="pagination-number">page 2 of 5</li>
+    </ul>
+  </div>
+
+
+          </section>
+        
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2020 CC0 Copyleft - Comparte. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/9269e405983cdf2599d1b1ddc9d4a2ba?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Jorge Cortell</h4>
+    
+      <div id="about-card-bio">My blog in English</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Art Curator - Founder &amp; CEO, Kanteron Systems
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        Valencia (Spain)
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://res.cloudinary.com/jcortell/image/upload/v1578019207/Personal/cover.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="https://blog.cortell.net/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+
+    
+  </body>
+</html>
+

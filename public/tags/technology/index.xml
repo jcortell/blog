@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on Jorge Cortell blog</title>
+    <link>https://blog.cortell.net/tags/technology/</link>
+    <description>Recent content in technology on Jorge Cortell blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2020 01:00:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.cortell.net/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Processing thousands of files using Terminal commands</title>
+      <link>https://blog.cortell.net/2020/02/processing-thousands-of-files-using-terminal-commands/</link>
+      <pubDate>Sun, 02 Feb 2020 01:00:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2020/02/processing-thousands-of-files-using-terminal-commands/</guid>
+      <description>&lt;p&gt;How to fix a problem that spawns over more than two thousand files without spending days with a word processor? CLI to the rescue.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ranked Top 10% coder in the world... as if</title>
+      <link>https://blog.cortell.net/2019/12/ranked-top-10-coder-in-the-world...-as-if/</link>
+      <pubDate>Fri, 06 Dec 2019 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2019/12/ranked-top-10-coder-in-the-world...-as-if/</guid>
+      <description>&lt;p&gt;According to &lt;a href=&#34;https://profile.codersrank.io/user/jcortell&#34;&gt;CodersRank&lt;/a&gt; I&amp;rsquo;m in the top 10% of coders worldwide (they have ranked over 29,000 computer programmers, or coders&amp;rdquo;), with a &amp;ldquo;Senior Rank&amp;rdquo; and a score of 516&amp;hellip; even though I only code in my spare time!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Back to Emacs</title>
+      <link>https://blog.cortell.net/2018/07/back-to-emacs/</link>
+      <pubDate>Wed, 25 Jul 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2018/07/back-to-emacs/</guid>
+      <description>&lt;p&gt;Just like it happened with the operating system, when I migrated from OSX back to GNU-Linux Debian, I have decided to go back to Emacs for most things. from blog posts to programming.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Installing Debian 9 in Dell XPS13</title>
+      <link>https://blog.cortell.net/2018/05/installing-debian-9-in-dell-xps13/</link>
+      <pubDate>Tue, 08 May 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2018/05/installing-debian-9-in-dell-xps13/</guid>
+      <description>&lt;p&gt;I ḥave a new Dell XPS laptop, so I decided to install Debian 9. Here are some lessons learned:&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

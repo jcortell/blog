@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacking on Jorge Cortell blog</title>
+    <link>https://blog.cortell.net/categories/hacking/</link>
+    <description>Recent content in Hacking on Jorge Cortell blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2017 08:45:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.cortell.net/categories/hacking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cool online presentations with free software</title>
+      <link>https://blog.cortell.net/2017/05/cool-online-presentations-with-free-software/</link>
+      <pubDate>Fri, 26 May 2017 08:45:38 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2017/05/cool-online-presentations-with-free-software/</guid>
+      <description>It has been a while since I wrote a tutorial to Share The Wealth, so it’s about time I shared some practical (if basic) knowledge beyond reposting a link.
+For years I have had a pet project in the backburner: I wanted to create presentations without the need of dedicated software, commercial (like PowerPoint or Keynote), or free (like LibreOffice or OpenOffice). That way I could avoid bringing my computer to a lecture, and not worry about what computer system would be available in the auditorium.</description>
+    </item>
+    
+    <item>
+      <title>This Revolution needs a Revolution</title>
+      <link>https://blog.cortell.net/2017/01/this-revolution-needs-a-revolution/</link>
+      <pubDate>Sat, 28 Jan 2017 17:16:52 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2017/01/this-revolution-needs-a-revolution/</guid>
+      <description>Yesterday I went with my wife and son to visit the Victoria &amp;amp; Albert`s Museum exhibition You Say You Want a Revolution? Records and Rebels 1966-1970. The aim of the exhibition was quite clear:
+ How have the finished and unfinished revolutions of the late 1960s changed the way we live today and think about the future?
+ I was very much looking forward to visiting the exhibition. It is SO timely, and SO needed, I thought.</description>
+    </item>
+    
+    <item>
+      <title>My EU policy recommendation published: &#34;Hacking Policy. Exploring Innovative Ways to Advance Policy Reform&#34;</title>
+      <link>https://blog.cortell.net/2017/01/my-eu-policy-recommendation-published-hacking-policy.-exploring-innovative-ways-to-advance-policy-reform/</link>
+      <pubDate>Thu, 12 Jan 2017 10:19:10 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2017/01/my-eu-policy-recommendation-published-hacking-policy.-exploring-innovative-ways-to-advance-policy-reform/</guid>
+      <description>Under the title &amp;ldquo;Hacking Policy. Exploring Innovative Ways to Advance Policy Reform&amp;rdquo; StartupEurope has published a report listing the Policy Recommendations that came out of the Policy Hackathon in San Francisco, where my team won the competition.
+Download it here.</description>
+    </item>
+    
+    <item>
+      <title>Spare time fun: protein structure analysis of mutations causing inheritable diseases</title>
+      <link>https://blog.cortell.net/2016/12/spare-time-fun-protein-structure-analysis-of-mutations-causing-inheritable-diseases/</link>
+      <pubDate>Thu, 01 Dec 2016 08:44:09 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2016/12/spare-time-fun-protein-structure-analysis-of-mutations-causing-inheritable-diseases/</guid>
+      <description>Most people I know would not consider protein structure analysis of mutations causing inheritable diseases &amp;ldquo;spare time fun&amp;rdquo;. Then again, most people I know don`t think I am like most people they know.
+This week I`m a &amp;ldquo;single-dad&amp;rdquo;, since my wife is traveling. So my spare time right now is almost non existent. Nevertheless, the thought of mutating a Proline into a Glycine at position 22 intrigued me, so I spent a few minutes simulating it.</description>
+    </item>
+    
+    <item>
+      <title>I won the Anti-Patents Policy Hackathon</title>
+      <link>https://blog.cortell.net/2016/09/i-won-the-anti-patents-policy-hackathon/</link>
+      <pubDate>Thu, 15 Sep 2016 02:45:05 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2016/09/i-won-the-anti-patents-policy-hackathon/</guid>
+      <description>On September 13, Mind the Bridge hosted a policy hackathon sponsored by Dell at the MTB Innovation Center in San Francisco. The Dell PolicyHack™ brought together entrepreneurs and U.S./EU policy experts to solve policy challenges. The goal is to productively brainstorm and to provide top-line thinking that can inspire and serve as basis to develop and implement full policies.
+My team was formed by:
+ Sara R. Klucking (Section Chief, Innovation &amp;amp; Programs, Office of Science and Technology Cooperation, US Department of State) Bogdan Ceobanu (Policy Officer, Startups &amp;amp; Innovation, European Commission) David Hodgson (CEO, Hummingbird Labs) me  The five teams had 75 minutes to come up with a policy solution to issue areas that impact entrepreneurs.</description>
+    </item>
+    
+    <item>
+      <title>Re-designing a NASA interface</title>
+      <link>https://blog.cortell.net/2016/07/re-designing-a-nasa-interface/</link>
+      <pubDate>Sun, 10 Jul 2016 14:30:56 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2016/07/re-designing-a-nasa-interface/</guid>
+      <description>I am interested in many things. One of the main ones is technology. And within technology, software development to view telemetry data in different ways, within the same application.
+Answering NASA’s call to help contribute to the exploration of the solar system, I got access to their next-generation mission control framework being developed at the NASA Ames Research Center in Silicon Valley being used for mission planning and operations in the lead up to the Resource Prospector mission, and at NASA`s Jet Propulsion Laboratory to view data from the Curiosity Rover.</description>
+    </item>
+    
+    <item>
+      <title>Festival of Genomics Boston</title>
+      <link>https://blog.cortell.net/2016/06/festival-of-genomics-boston/</link>
+      <pubDate>Thu, 30 Jun 2016 15:43:05 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2016/06/festival-of-genomics-boston/</guid>
+      <description>June 28 and 29 I attended, along with my friend John Memarian, President &amp;amp; CCO of my company Kanteron Systems, the Festival of Genomics Boston, as a Microsoft Genomics Group partner.
+Although the show was small, it was a great opportunity to network with industry and academic experts (from Harvard Professors to Illumina executives) and learn.
+From scientific posters to the latest sequencing technologies, from robotic arms to genomics experiments in space, it was great #geekfun.</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Father’s Day gift: building a Picade with my son</title>
+      <link>https://blog.cortell.net/2016/06/ultimate-fathers-day-gift-building-a-picade-with-my-son/</link>
+      <pubDate>Sun, 19 Jun 2016 13:31:48 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2016/06/ultimate-fathers-day-gift-building-a-picade-with-my-son/</guid>
+      <description>For Father’s Day (we live in London, so we celebrate it today, unlike in Spain which is March 19) my wife gave me the “Ultimate Father`s Day” gift, from TechCamp UK. [Thank you, love!]
+It consisted of a workshop with other father-son / father-daughter “teams”, held at the Iron Yard (The Leathermarket – London), where we built a desktop arcade machine in 5 hours (including lunch break), following the directions from Tom and Tom, using the Picadeset, setting up and using the Raspberry Pi, custom OS, emulators, ROMs, loudspeakers, power supply, LCD screen, etc:</description>
+    </item>
+    
+    <item>
+      <title>Invited to InfoSecurity Europe</title>
+      <link>https://blog.cortell.net/2016/06/invited-to-infosecurity-europe/</link>
+      <pubDate>Wed, 08 Jun 2016 15:30:12 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2016/06/invited-to-infosecurity-europe/</guid>
+      <description>Today I was invited to attend InfoSecurity Europe, Europe`s largest Information Security industry event.
+As always, it was interesting to have a chance to catch up with this rapidly moving field, and a great opportunity to chat with old friends.
+Apart from gimmicks (VR everywhere, car racing and helicopter simulators, giant robots, etc), swag (all kinds of Star Wars and other Sci-Fi related giveaways, from toys to t-shirts) and junk food (from candy to icecream to chips, the booths did not have healthy alternatives, although the food vendors did), the most interesting part of these events is always the talks, specifically the hands-on demos.</description>
+    </item>
+    
+    <item>
+      <title>Invited with my son to Intel Buzz videogame developer workshop</title>
+      <link>https://blog.cortell.net/2016/06/invited-with-my-son-to-intel-buzz-videogame-developer-workshop/</link>
+      <pubDate>Sat, 04 Jun 2016 17:25:21 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2016/06/invited-with-my-son-to-intel-buzz-videogame-developer-workshop/</guid>
+      <description>Today I was invited, along with my son, who at 14 has been a videogame developer for years, to attend the Intel Buzz videogame developer workshop. It was not only a lot of fun, but WONDERFUL to attend with him!
+Although a small event, it ended up being extremely interesting, with an area to try indie games and new technologies, and a long list of talks and panels, including one-on-ones.</description>
+    </item>
+    
+    <item>
+      <title>A couple days in Zürich</title>
+      <link>https://blog.cortell.net/2015/11/a-couple-days-in-z%C3%BCrich/</link>
+      <pubDate>Thu, 19 Nov 2015 10:44:26 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2015/11/a-couple-days-in-z%C3%BCrich/</guid>
+      <description>I spent Wednesday evening and most of Thursday in Zürich.
+On Wednesday I had dinner with some business partners; “business as usual”.
+But on Thursday, after my business presentation to potential customers, I had the very rare and exclusive opportunity to visit one of the main data centers in Switzerland. Here are some impressive facts about them:
+ they host 1/3 of Swiss banks data internet traffic = 40% of Switzerland’s internet traffic energy bill = 2 million Swiss Franks per annum 2 different energy suppliers from 2 different access points, with preferential oil supply in case of a failure (full reserves for 5 days for the generators) almost 50 telecoms suppliers, from many different countries, providing direct access for their customers worldwide RFIDs paired with 3D fingerprint scanners which measure the fingerprint but also the morphology, pulse and temperature separate isolated room to open packages, to minimize the risk of fire single person magnetic doors temperature, movement, and sound sensors double-gated entrance even to the parking lot!</description>
+    </item>
+    
+    <item>
+      <title>My talk at the Circumvention Tech Festival, March 4th</title>
+      <link>https://blog.cortell.net/2015/04/my-talk-at-the-circumvention-tech-festival-march-4th/</link>
+      <pubDate>Sat, 18 Apr 2015 23:02:39 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2015/04/my-talk-at-the-circumvention-tech-festival-march-4th/</guid>
+      <description>This past winter I met Sandy and James from Open ITP in New York, and Pepe from Valencia. They were organizing the Circumvention Tech Festivalto be held in Las Naves, Valencia (Spain) March 1-6.
+They invited me to give a talk, which was eventually scheduled for March 4th at 3pm. I titled the talk “When privacy does not mean the same to you and me”. It was meant to generate debate, to expose other people’s points of view, rather than to be a unidirectional speech.</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin and block chain event in New York</title>
+      <link>https://blog.cortell.net/2015/02/bitcoin-and-block-chain-event-in-new-york/</link>
+      <pubDate>Mon, 16 Feb 2015 16:00:12 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2015/02/bitcoin-and-block-chain-event-in-new-york/</guid>
+      <description>On Monday, February 9, I attended a Bitcoin – Blockchain eventwith my wife at law firm Latham &amp;amp; Watkins in New York, organized by Hedgeable.
+
+Over 100 bitcoin enthusiasts, investors, journalists, lawyers, and entrepreneurs networking over food and beverages, with demos from:
+and a round table of Bitcoin innovation experts:
+Since I have already started researching the application of the block chain technology for healthcare, it was quite a useful event.</description>
+    </item>
+    
+    <item>
+      <title>The Circumvention Tech Festival</title>
+      <link>https://blog.cortell.net/2014/11/the-circumvention-tech-festival/</link>
+      <pubDate>Fri, 21 Nov 2014 15:01:36 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2014/11/the-circumvention-tech-festival/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My new OnePlus One phone is amazing</title>
+      <link>https://blog.cortell.net/2014/10/my-new-oneplus-one-phone-is-amazing/</link>
+      <pubDate>Wed, 08 Oct 2014 22:05:02 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2014/10/my-new-oneplus-one-phone-is-amazing/</guid>
+      <description>I have just bought a OnePlusOne phone, and have been using it for a couple of days. Let me tell you: it`s AMAZING.
+If you have never heard of the company, dont worry, youre not alone. But you should definitely check it out, because their phones are incredibly high quality, high specs, and low price (mine was $349). No catch:
+ Qualcomm© Snapdragon™ 801 processor with 2.5GHz Quad-core CPUs Adreno 330 GPU, 578MHz 64 GB eMMC 5.</description>
+    </item>
+    
+    <item>
+      <title>I was forced to hack into Schiphol Airport wifi</title>
+      <link>https://blog.cortell.net/2014/09/i-was-forced-to-hack-into-schiphol-airport-wifi/</link>
+      <pubDate>Tue, 30 Sep 2014 12:25:15 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2014/09/i-was-forced-to-hack-into-schiphol-airport-wifi/</guid>
+      <description>A couple weeks ago I was at Schiphol Airport in Amsterdam. Of course, when I arrive in an airport with enough time ahead of my boarding, I look for a plug and wifi. Luckily Schiphol is an excellent airport, offering both. The only problem is that every time I clicked on the &amp;ldquo;Enjoy unlimited free wifi – Connect&amp;rdquo; button, I got an &amp;ldquo;Unknown error 0&amp;rdquo; message back.
+ Don`t tell me &amp;ldquo;Enjoy unlimited free wifi&amp;rdquo; and then try to prevent me from accessing it.</description>
+    </item>
+    
+    <item>
+      <title>Reset the net</title>
+      <link>https://blog.cortell.net/2014/06/reset-the-net/</link>
+      <pubDate>Thu, 05 Jun 2014 14:00:18 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2014/06/reset-the-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning quantum computer programming</title>
+      <link>https://blog.cortell.net/2014/05/learning-quantum-computer-programming/</link>
+      <pubDate>Fri, 23 May 2014 11:05:59 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2014/05/learning-quantum-computer-programming/</guid>
+      <description>Yesterday I started learning and experimenting with quantum computing programming. Its not easy to express the fun and excitement that experience brought me, but Ill try:
+Programming a quantum computer is different than programming a binary (0 and 1) &amp;ldquo;digital&amp;rdquo; computer. To program a quantum system, you have to map a problem into a search for the “lowest point&amp;rdquo; in a very large pool of options, which corresponds to the best possible outcome.</description>
+    </item>
+    
+    <item>
+      <title>Chromecast &#43; Hola = Multimedia freedom</title>
+      <link>https://blog.cortell.net/2014/02/chromecast-hola-multimedia-freedom/</link>
+      <pubDate>Sat, 15 Feb 2014 18:22:51 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2014/02/chromecast-hola-multimedia-freedom/</guid>
+      <description>How many times have you tried to access online media that was not available in your country? How many times have you gotten frustrated with proxy services?
+How many times have you wished there was an easy way to wirelessly display online content on your TV without paying for expensive privative boxes?
+Enter Hola.org+ ChromecastHola is a free browser extension used by 14 million people to access geographically restricted online media.</description>
+    </item>
+    
+    <item>
+      <title>Testing a simple hack</title>
+      <link>https://blog.cortell.net/2014/01/testing-a-simple-hack/</link>
+      <pubDate>Sat, 04 Jan 2014 14:51:25 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2014/01/testing-a-simple-hack/</guid>
+      <description>I use qtranslate as a multi-language plugin for my blog. It`s an excellent solution, but the problem is that everytime Word Press is updated, it takes days, and sometimes weeeks, for the plugin author to update it.
+So, tired of waiting, I have found a quick and simple hack to make it work with the latests WP 3.8 update: edit qtranslate.php to
+ define(‘QT_SUPPORTED_WP_VERSION, ‘3.8);
+ You`re welcome 😉</description>
+    </item>
+    
+    <item>
+      <title>Playing with the robot (Roomba)</title>
+      <link>https://blog.cortell.net/2013/08/playing-with-the-robot-roomba/</link>
+      <pubDate>Mon, 12 Aug 2013 15:40:31 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2013/08/playing-with-the-robot-roomba/</guid>
+      <description>We got great gifts for our wedding, but hands down, the best (ever!) is A ROBOT.
+My mother-in-law got us a robot. Got that? How cool is that!?
+And it is not to make her daughter’s life easier, because I am the one who vacuums at home. She did it because it is cool. Heck yeah it is!
+So the Roombais nothing new. It has been around for a decade already.</description>
+    </item>
+    
+    <item>
+      <title>Anatomy of an FDA inspection</title>
+      <link>https://blog.cortell.net/2013/06/anatomy-of-an-fda-inspection/</link>
+      <pubDate>Sun, 30 Jun 2013 15:19:10 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2013/06/anatomy-of-an-fda-inspection/</guid>
+      <description>On April 25th I attended my first FDA (U.S. Food and Drug Administration) Medical Device Establishment Inspection. Agent (Investigator) Kimberley A. Ricketts called me a couple days before to let me know that as a registered medical device manufacturing company, Kanteron Systems (the company I founded in 2005) had been selected for an Establishment Inspection. It was the &amp;ldquo;Notice of Inspection pursuant to Section 704(a)(1) of the Federal Food, Drug, and Cosmetics Act [21 U.</description>
+    </item>
+    
+    <item>
+      <title>MIT day 3</title>
+      <link>https://blog.cortell.net/2013/02/mit-day-3/</link>
+      <pubDate>Mon, 11 Feb 2013 16:23:53 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2013/02/mit-day-3/</guid>
+      <description>Day 3 started with my winning the Twitter competition with this tweet:
+Then we had classes by Matt Marx,William Aulet, Elaine Chen, and John McEleney.
+Even during lunch (at room E52, 6th floor of the Martin Trust Center for MIT Entrepreneurship – Tang Building) we are lectured. In this case by Scott Stern. Non stop from 7am until 8pm (or later, depending on how hard working your team is).</description>
+    </item>
+    
+    <item>
+      <title>Testing WP update and plug-in incompatibility</title>
+      <link>https://blog.cortell.net/2012/09/testing-wp-update-and-plug-in-incompatibility/</link>
+      <pubDate>Sun, 23 Sep 2012 12:13:32 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/09/testing-wp-update-and-plug-in-incompatibility/</guid>
+      <description>I have been puzzled by an incompatibility between WP`s latest version and one of the plug-ins I have installed (the one that allows multiple languages).
+As soon as I fix it, I will resume my postings.
+[This is a test, written in HTML because the &amp;ldquo;WYSIWYG editor&amp;rdquo; has disappeared]</description>
+    </item>
+    
+    <item>
+      <title>Fun at Hackers On Planet Earth 9 – New York</title>
+      <link>https://blog.cortell.net/2012/07/fun-at-hackers-on-planet-earth-9-new-york/</link>
+      <pubDate>Sun, 29 Jul 2012 17:03:18 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/07/fun-at-hackers-on-planet-earth-9-new-york/</guid>
+      <description>July 13th-15th Alvaro and I attended Hope9(Hackers On Planet Earth number 9) conference in New York`s Hotel Pennsylvania.
+It was a lot of fun, as usual. Besides the many and informative talks(we gave one on &amp;ldquo;Digital Security in Health Care Institutions&amp;rdquo;, the first day), there was music, booths (FSF, EFFwith a girl that wanted to come to Spain to help the #indignados, Free Manning, No Starch PressBooks and more), arduino and lock-picking classes, a pro-ponies and against-zombies USA Presidential Candidate wearing a boot on his head, MakerBot3D printers, the IMMI, Hackers For Charity, AlphaOneHackerSpace (will be visiting it next Thursday with Audrey), StartUpHire, SparkleLabs(awesome presents for kids and n00bies!</description>
+    </item>
+    
+    <item>
+      <title>Is your Mac infected? Find out (and fix it if it is)!</title>
+      <link>https://blog.cortell.net/2012/04/is-your-mac-infected-find-out-and-fix-it-if-it-is/</link>
+      <pubDate>Fri, 06 Apr 2012 17:05:06 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/04/is-your-mac-infected-find-out-and-fix-it-if-it-is/</guid>
+      <description>Over 600,000 Macs are infected with the FlashBack Trojan. Is yours one of those? Let`s find out.
+Open the Terminal (c`mon, be a hacker, not a slacker) and type:
+if it says:
+ The domain/default pair of (/Applications/Safari.app/Contents/Info, LSEnvironment) does not exist
+ that means your Mac is ok so far (otherwise, go here). Then type:
+if it says:
+ The domain/default pair of (/Users/[your user name here]/.MacOSX/environment, DYLD_INSERT_LIBRARIES) does not exist</description>
+    </item>
+    
+    <item>
+      <title>Stop WordPress from removing your &amp;quot;p&amp;quot; and &amp;quot;br&amp;quot; tags</title>
+      <link>https://blog.cortell.net/2012/03/stop-wordpress-from-removing-your-quotpquot-and-quotbrquot-tags/</link>
+      <pubDate>Thu, 08 Mar 2012 19:13:41 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/03/stop-wordpress-from-removing-your-quotpquot-and-quotbrquot-tags/</guid>
+      <description>After wasting hours trying to double space or insert extra line breaks when writing a new post or page in WordPress only to see that WordPress automatically filters the content to remove those extra spaces once you click the “Publish” button, I have found the solution (not as obvious and not readily available in support forums) by using the TinyMCE Advanced plugin, which adds additional functionality to the default WordPress editor, including the ability to stop WordPress from automatically stripping out “p” (paragraph) and “br” (line break) tags.</description>
+    </item>
+    
+    <item>
+      <title>ArtHack Exhibit closing party in Brooklyn</title>
+      <link>https://blog.cortell.net/2012/01/arthack-exhibit-closing-party-in-brooklyn/</link>
+      <pubDate>Mon, 30 Jan 2012 22:27:50 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/01/arthack-exhibit-closing-party-in-brooklyn/</guid>
+      <description>Last Saturday I went to the ArtHack Exhibitclosing party at 319 ScholesSt, Brooklyn (New York).
+Located in an industrial complex in Brooklyn, at night, loooong two blocks from the subway, graffiti all over, small door&amp;hellip; that gave way to heaven: young (I was the oldest hacker in that space, but I did not feel that way) energetic happy people tinkering with technology and proudly showing their &amp;ldquo;toys&amp;rdquo; (hacks, mashups, creations, or whatever).</description>
+    </item>
+    
+    <item>
+      <title>RePress: fight online censorship with a WP Plug-In</title>
+      <link>https://blog.cortell.net/2012/01/repress-fight-online-censorship-with-a-wp-plug-in/</link>
+      <pubDate>Mon, 30 Jan 2012 17:51:48 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/01/repress-fight-online-censorship-with-a-wp-plug-in/</guid>
+      <description>I just installed RePress: This plug-in enables you to magically uncensor any website on the internet from your own WordPress installation. Why and How.</description>
+    </item>
+    
+    <item>
+      <title>Protest against SOPA on your site: easy code</title>
+      <link>https://blog.cortell.net/2012/01/protest-against-sopa-on-your-site-easy-code/</link>
+      <pubDate>Tue, 17 Jan 2012 09:00:24 +0000</pubDate>
+      
+      <guid>https://blog.cortell.net/2012/01/protest-against-sopa-on-your-site-easy-code/</guid>
+      <description>Thanks to Sara, there is a very easy way to add code to your site to protest against SOPA:
+Drop the following code in between your two tags on your site, your users will be redirected to the blackout page that describes what you are doing and why.
+`Then, when the protest is over, simply remove the added code. The protest is starting at 12am on 1/18, and lasts 24 hours.</description>
+    </item>
+    
+  </channel>
+</rss>

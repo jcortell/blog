@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FLOSS on Jorge Cortell blog</title>
+    <link>https://blog.cortell.net/tags/floss/</link>
+    <description>Recent content in FLOSS on Jorge Cortell blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Aug 2017 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.cortell.net/tags/floss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computer install ordeal teaches lessons on error avoidance</title>
+      <link>https://blog.cortell.net/2017/08/computer-install-ordeal-teaches-lessons-on-error-avoidance/</link>
+      <pubDate>Wed, 02 Aug 2017 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2017/08/computer-install-ordeal-teaches-lessons-on-error-avoidance/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s install a new GNU/Linux operating system in two old computers to give them a new life. After all, what could go wrong?&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fun on Jorge Cortell blog</title>
+    <link>https://blog.cortell.net/tags/fun/</link>
+    <description>Recent content in fun on Jorge Cortell blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Dec 2018 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.cortell.net/tags/fun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hamilton</title>
+      <link>https://blog.cortell.net/2018/12/hamilton/</link>
+      <pubDate>Sun, 02 Dec 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2018/12/hamilton/</guid>
+      <description>&lt;p&gt;After years of trying to get tickets in New York, we finally went to see &lt;a href=&#34;https://hamiltonmusical.com/new-york/&#34;&gt;Hamilton&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

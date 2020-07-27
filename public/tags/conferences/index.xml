@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conferences on Jorge Cortell blog</title>
+    <link>https://blog.cortell.net/tags/conferences/</link>
+    <description>Recent content in conferences on Jorge Cortell blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jan 2020 01:00:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.cortell.net/tags/conferences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My talk at MIT</title>
+      <link>https://blog.cortell.net/2020/01/my-talk-at-mit/</link>
+      <pubDate>Fri, 24 Jan 2020 01:00:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2020/01/my-talk-at-mit/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m honored to have been invited by Professor &lt;a href=&#34;https://entrepreneurship.mit.edu/profile/bill-aulet/&#34;&gt;Bill Aulet&lt;/a&gt; to give a guest lecture to the &lt;a href=&#34;https://innovation.mit.edu/opportunity/entrepreneurship-development-program/&#34;&gt;EDP (Entrepreneurship Development Program)&lt;/a&gt; students at MIT (Massachusetts Institute of Technology) &lt;a href=&#34;https://executive.mit.edu/&#34;&gt;Sloan Executive Education&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Two days in Oslo</title>
+      <link>https://blog.cortell.net/2018/11/two-days-in-oslo/</link>
+      <pubDate>Wed, 14 Nov 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2018/11/two-days-in-oslo/</guid>
+      <description>&lt;p&gt;November 12 and 13 I went to Oslo, invited as &lt;a href=&#34;https://ehin.no/en/highlights/&#34;&gt;speaker at EHiN&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>X Biomedical Engineering Meeting</title>
+      <link>https://blog.cortell.net/2018/05/x-biomedical-engineering-meeting/</link>
+      <pubDate>Wed, 23 May 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2018/05/x-biomedical-engineering-meeting/</guid>
+      <description>&lt;p&gt;Yesterday I gave a lecture during the X Biomedical Engineering Meeting, at the Polytechnic University of Valencia (Spain).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

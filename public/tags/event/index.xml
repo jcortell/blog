@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>event on Jorge Cortell blog</title>
+    <link>https://blog.cortell.net/tags/event/</link>
+    <description>Recent content in event on Jorge Cortell blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Sep 2017 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.cortell.net/tags/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Invited to a book launch</title>
+      <link>https://blog.cortell.net/2017/09/invited-to-a-book-launch/</link>
+      <pubDate>Wed, 27 Sep 2017 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2017/09/invited-to-a-book-launch/</guid>
+      <description>&lt;p&gt;On September 27 we were invited to an &lt;a href=&#34;https://www.amazon.com/Universe-Hologram-Scientists-Provocative-Questions/dp/0262036010&#34;&gt;MIT Press book&lt;/a&gt;  launch by our friend &lt;a href=&#34;https://mitpress.mit.edu/authors/adolfo-plasencia&#34;&gt;Adolfo Plasencia&lt;/a&gt; .&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

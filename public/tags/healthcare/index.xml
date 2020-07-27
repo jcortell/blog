@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>healthcare on Jorge Cortell blog</title>
+    <link>https://blog.cortell.net/tags/healthcare/</link>
+    <description>Recent content in healthcare on Jorge Cortell blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Oct 2018 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.cortell.net/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Things I learned at Harvard Medical School Executive Education</title>
+      <link>https://blog.cortell.net/2018/10/things-i-learned-at-harvard-medical-school-executive-education/</link>
+      <pubDate>Mon, 29 Oct 2018 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.cortell.net/2018/10/things-i-learned-at-harvard-medical-school-executive-education/</guid>
+      <description>&lt;p&gt;October 25 and 26 I attended a Harvard Medical School Executive Education &lt;a href=&#34;https://uhnw.ubs.com/iln-boston-2018/home/&#34;&gt;program&lt;/a&gt; titled &amp;ldquo;Trends in Health Technology&amp;rdquo; invited by UBS bank. Here are some of my notes from the lectures.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jorgecortell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.cortell.net
+  * I am jorgecortell (https://keybase.io/jorgecortell) on keybase.
+  * I have a public key with fingerprint 3FCB 8564 B3D3 39F8 056F  CE14 C4F8 5028 02F7 410B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101abbc109efbc6c088e16367581a1c8114049069869528cfd189b1d908bca4710e0a",
+      "fingerprint": "3fcb8564b3d339f8056fce14c4f8502802f7410b",
+      "host": "keybase.io",
+      "key_id": "c4f8502802f7410b",
+      "kid": "0101abbc109efbc6c088e16367581a1c8114049069869528cfd189b1d908bca4710e0a",
+      "uid": "f6070a0393c130ee7df484ec47c56e19",
+      "username": "jorgecortell"
+    },
+    "service": {
+      "hostname": "blog.cortell.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1501514711,
+  "expire_in": 157680000,
+  "prev": "20b4e3c7438bd5607c20c7cb83e8ac9a2b7b9529fbcf1b69f59e3eada6eada1f",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJbSBVBGD5eyrx0QUN6iNAluqHHmb3OWiiihCRJRVGpddqZnT2tnXZP
+e1ZNRA1BKiMfDOmhOx3FqDhQkGZQaTe6YFDR7aEswheDPFFhQdis2FuPzcMMM//3
+ffN/38zduUm+tIRxpYpAEognPB46W+fb3lrxqonDtt7IFTZxe+j0QkM6jbiBPabO
+FXIAAqhhTCBQqYGJTABCFMqCrEgIapAgCEUgqkBWkaxKPCKGDpGKoa4ChIkmKhBQ
+oHF5nGFaQeqEHdNymaxgEIwkWcSCLgiqgYAkG4RCkYgGkgCPAG8oIgSYEXfbEY/B
+msNahPpNm52xTWC6vX/g/3PfddNyhgwUoAFBFQgUAKWKbohIpERUiCRTqHrACHUs
+bS9l6FrbCVJiOy4NhbjmPI5V6k1CvXA9NzMoHLKD/hmU36Iu0wg7tmsTO8Squ103
+HCn02G5j2IM3UByYEQpg09JZnoxRT52IaVtcIWRI4pqeMpQAlCCzAPM4uj9sOjRg
+eghJkRFgw7uH1jNJHmCRCkQRBYR1iVkkPCAKexmBIo2oGo8VzMJRWYAGxLJqSCoV
+qKZrsjdBg/Os7bNsT5v1qQWZZsQMWppb51Cuefh2TbIvIc03e1ai99F8aakL/n6/
+1OKUKVw+eb3h2dqS/uHqlZfLKpbHyycGU0vPVww+v/hyWdJXPrvujNKTPvImN7d8
+Y8uDqayDxeNzlwztdIWegVXfkxcuunnrd/O3ePbg8K+lH748LSu48/bJ6fzX4tdr
+Y1c3vd9WWnTjhHysvzWW2Zfx7dK2aICfyjwCe7uisZ/vrJbD6OONASsr+mj+0Irs
+47e2XKxuj2fFfmzIHdyY/HnxhZf50bh/zman4GEvip/E4yndfV2T/RNrcjJKOgq6
+Tq1+sZUMJx0agz1FOW2d7d3Re9y6sc7NVwtq7vt/t9WcGq0amDcxeuJT35VdlR3d
+sVzuXG+CQBI7jo4cCNWmVy5dX5qzo4T/AzSvQ9o=
+=pVBE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jorgecortell
+
+==================================================================
