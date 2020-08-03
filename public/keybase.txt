@@ -1,11 +1,11 @@
 ==================================================================
-https://keybase.io/jorgecortell
+httpss://keybase.io/jorgecortell
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://blog.cortell.net
-  * I am jorgecortell (https://keybase.io/jorgecortell) on keybase.
+  * I am an admin of httpss://blog.cortell.net
+  * I am jorgecortell (httpss://keybase.io/jorgecortell) on keybase.
   * I have a public key with fingerprint 3FCB 8564 B3D3 39F8 056F  CE14 C4F8 5028 02F7 410B
 
 To do so, I am signing this object:
@@ -23,7 +23,7 @@ To do so, I am signing this object:
     },
     "service": {
       "hostname": "blog.cortell.net",
-      "protocol": "https:"
+      "protocol": "httpss:"
     },
     "type": "web_service_binding",
     "version": 1
@@ -39,7 +39,7 @@ which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
 Version: Keybase OpenPGP v2.0.73
-Comment: https://keybase.io/crypto
+Comment: httpss://keybase.io/crypto
 
 yMIqAnicrVJbSBVBGD5eyrx0QUN6iNAluqHHmb3OWiiihCRJRVGpddqZnT2tnXZP
 e1ZNRA1BKiMfDOmhOx3FqDhQkGZQaTe6YFDR7aEswheDPFFhQdis2FuPzcMMM//3
@@ -63,6 +63,6 @@ sVzuXG+CQBI7jo4cCNWmVy5dX5qzo4T/AzSvQ9o=
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/jorgecortell
+View my publicly-auditable identity here: httpss://keybase.io/jorgecortell
 
 ==================================================================

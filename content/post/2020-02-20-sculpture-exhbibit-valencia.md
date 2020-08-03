@@ -18,11 +18,11 @@ When The Saint Charles Royal Academy of Fine Arts of Valencia organized a Jose G
 
 <!--more-->
 
-The Saint Charles Royal Academy of Fine Arts of Valencia, founded by King Charles III on February 14, 1768, has the second largest [collection](http://www.realacademiasancarlos.com/patrimonio/) of classical art (over 15,000 pieces) in Spain after the magnificent El Prado in Madrid. [Amazing works](http://www.realacademiasancarlos.com/patrimonio-real-academia/) by artists such as Juan de Juanes, El Greco, Ribera, van Dyck, Goya, Velázquez, Piranesi, Muñoz Degraín, Pinazo, Sorolla, Segrelles, Genovés, Michavila, Yturralde, or Carmen Calvo.
+The Saint Charles Royal Academy of Fine Arts of Valencia, founded by King Charles III on February 14, 1768, has the second largest [collection](https://www.realacademiasancarlos.com/patrimonio/) of classical art (over 15,000 pieces) in Spain after the magnificent El Prado in Madrid. [Amazing works](https://www.realacademiasancarlos.com/patrimonio-real-academia/) by artists such as Juan de Juanes, El Greco, Ribera, van Dyck, Goya, Velázquez, Piranesi, Muñoz Degraín, Pinazo, Sorolla, Segrelles, Genovés, Michavila, Yturralde, or Carmen Calvo.
 
-The current president (the Wikipedia entry is outdated) is the [Excmo. Sr. D. Manuel Muñoz Ibáñez, an excellent surgeon, writer, and art expert](http://www.realacademiasancarlos.com/excmo-sr-d-manuel-munoz-ibanez/). Don Manuel also happens to be a long time friend of my family, and I'm proud to be an advisor to both him and the Academy.
+The current president (the Wikipedia entry is outdated) is the [Excmo. Sr. D. Manuel Muñoz Ibáñez, an excellent surgeon, writer, and art expert](https://www.realacademiasancarlos.com/excmo-sr-d-manuel-munoz-ibanez/). Don Manuel also happens to be a long time friend of my family, and I'm proud to be an advisor to both him and the Academy.
 
-So when he organized the [Jose Gines exhibition at the San Pio V Museum](http://www.museobellasartesvalencia.gva.es/va/actualitat/-/asset_publisher/OCD94WMhKnYX/content/jose-gines-1768-1823-la-matanza-de-los-inocentes), it was a pleasure to be invited to a private tour with his always expert commentary.
+So when he organized the [Jose Gines exhibition at the San Pio V Museum](https://www.museobellasartesvalencia.gva.es/va/actualitat/-/asset_publisher/OCD94WMhKnYX/content/jose-gines-1768-1823-la-matanza-de-los-inocentes), it was a pleasure to be invited to a private tour with his always expert commentary.
 
 Thank you, Manuel!
 

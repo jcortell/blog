@@ -51,12 +51,12 @@
 
 
 
-  <meta property="og:image" content="https://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png">
-  <meta property="twitter:image" content="https://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png">
+  <meta property="og:image" content="httpss://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png">
+  <meta property="twitter:image" content="httpss://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png">
 
 
-  <meta property="og:image" content="https://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png">
-  <meta property="twitter:image" content="https://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png">
+  <meta property="og:image" content="httpss://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png">
+  <meta property="twitter:image" content="httpss://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png">
 
 
 
@@ -275,7 +275,7 @@ if (!doNotTrack) {
   <div class="post-header-cover
               text-center
               "
-       style="background-image:url('https://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png')"
+       style="background-image:url('#ZgotmplZ')"
        data-behavior="5">
     
   </div>
@@ -316,7 +316,7 @@ if (!doNotTrack) {
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
               <p>I noticed time ago that when sharing my blog posts in social media, the post image was not featured. Finally I decided to look into it&hellip; little did I know what a rabbit hole I was getting into!</p>
-<p>To make a long story short, and to keep it not too technical, my blog is written using several different technologies, the main one being <a href="https://gohugo.io/">Hugo</a>.</p>
+<p>To make a long story short, and to keep it not too technical, my blog is written using several different technologies, the main one being <a href="httpss://gohugo.io/">Hugo</a>.</p>
 <p>Hugo is a Static Blog and Site Generator written in Go language. Go is a language founded at Google and it&rsquo;s a static typed language. Hugo is the fastest and doesn&rsquo;t have any dependencies like Octopress or Hexo. I&rsquo;m very happy with it and the whole set up I&rsquo;ve had for years (Git version control in GitHub, Netlify deployment, Cloudinary CDN, etc).</p>
 <p>When I started researching why when sharing my blog posts in social media, the post image was not featured, ALL search results I found pointed in the direction of the inner working of Hugo. The more I read, the more I had to dig deep into its inner workings, dealing with Internal Partial Templates and having to review and re-code and patch many elements of its internal structure. Go ahead, I dare you to research the issue online. It&rsquo;s crazy. Most posts and tutorials about it have you deal with layout base, partial, meta, open graph, card, and config.</p>
 <p>They suggested adding and modifying code like this for Open Graph:</p>
@@ -355,16 +355,16 @@ if (!doNotTrack) {
 <span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;description&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Page Description for Search Engine Results&#34;</span> <span style="color:#f92672">/&gt;</span>
 <span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:title&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Page Title for Facebook&#34;</span> <span style="color:#f92672">/&gt;</span>
 <span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:description&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Page Description for Facebook&#34;</span> <span style="color:#f92672">/&gt;</span>
-<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.sitename.com/image-for-facebook.png&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;og:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;httpss://www.sitename.com/image-for-facebook.png&#34;</span> <span style="color:#f92672">/&gt;</span>
 <span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:card&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;summary&#34;</span> <span style="color:#f92672">/&gt;</span>
 <span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:description&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Page Description for Twitter.&#34;</span> <span style="color:#f92672">/&gt;</span>
 <span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:title&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Page Title for Twitter&#34;</span> <span style="color:#f92672">/&gt;</span>
-<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.sitename.com/image-for-twitter.png&#34;</span> <span style="color:#f92672">/&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">meta</span> <span style="color:#a6e22e">property</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter:image&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;httpss://www.sitename.com/image-for-twitter.png&#34;</span> <span style="color:#f92672">/&gt;</span>
 </code></pre></div><p>As I was coding and re-coding and patching&hellip; it all struck me as bizarre and overkill. There had to be a better way. Most people using Hugo for blogs do not have the technical knowledge to do all this, yet do not have the same problem with their images when sharing a post, so it had to be something else.</p>
 <p>Sure enough, as I paid more attention to other people&rsquo;s structures and codes, and compared it with mine, I did notice something.</p>
 <p><em>Front matter</em> allows you to keep metadata attached to an instance of a content type—i.e., embedded inside a content file—and is one of the many features that gives Hugo its strength. Hugo allows you to add front matter in yaml, toml, or json to your content files.</p>
 <p>I noticed that in my front matter, in line 7, after <em>title</em> and <em>tags</em> and before <em>comments</em>, I had <em>image</em>, while everybody else had <em>images</em>. One letter. One typo from when I set up the whole structure. Could that be it?</p>
-<p>Sure enough, I went ahead, and tested it in <a href="https://developers.facebook.com/tools/debug/og/object/">FaceBook OpenGraph Debugger</a>, and <a href="https://cards-dev.twitter.com/validator">Twitter Card Validator</a>.</p>
+<p>Sure enough, I went ahead, and tested it in <a href="httpss://developers.facebook.com/tools/debug/og/object/">FaceBook OpenGraph Debugger</a>, and <a href="httpss://cards-dev.twitter.com/validator">Twitter Card Validator</a>.</p>
 <p>Hours &ldquo;invested&rdquo; (never &ldquo;wasted&rdquo;). One typo. I hate code. I love code.</p>
               
             </div>

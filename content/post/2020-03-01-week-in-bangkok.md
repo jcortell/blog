@@ -26,7 +26,7 @@ The flight over there was OK, but my left arm was burned (and my clothes stained
 
 In any case, I made it to the [hotel](https://all.accor.com/hotel/1712/index.en.shtml), from where I enjoyed spectacular views of Bangkok, as my room was on the 27th floor. For my first dinner I went to one of my favourite places, the Michelin Starred Tim Ho Wan.
 
-The next two days, with my distributor and a colleague, we attended the Thai Pathology Association Congress, where I had a nice buffet lunch and warm pandan-filled bun, and also gave a lecture and had people take their selfies with my poster in the background. In the evening we had a nice dinner at [Kub Kao’ Kub Pla](http://www.kubkao-kubpla.com/index.php/home) (in the very cute CentralFestival EastVille).
+The next two days, with my distributor and a colleague, we attended the Thai Pathology Association Congress, where I had a nice buffet lunch and warm pandan-filled bun, and also gave a lecture and had people take their selfies with my poster in the background. In the evening we had a nice dinner at [Kub Kao’ Kub Pla](https://www.kubkao-kubpla.com/index.php/home) (in the very cute CentralFestival EastVille).
 
 I also did some shopping, as many markets are open at night, so I went to Chatuchak Weekend Market (note to self: don't go on Fridays, it's much better on Saturdays and Sundays), The Platinum Fashion Mall, and MBK. The truth is that food is as exciting and delicious as the shopping in those places.
 
