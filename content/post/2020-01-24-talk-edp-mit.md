@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-I'm honored to have been invited by Professor [Bill Aulet](https://entrepreneurship.mit.edu/profile/bill-aulet/) to give a guest lecture to the [EDP (Entrepreneurship Development Program)](https://innovation.mit.edu/opportunity/entrepreneurship-development-program/) students at MIT (Massachusetts Institute of Technology) [Sloan Executive Education](https://executive.mit.edu/).
+[UPDATE: Video available] I'm honored to have been invited by Professor [Bill Aulet](https://entrepreneurship.mit.edu/profile/bill-aulet/) to give a guest lecture to the [EDP (Entrepreneurship Development Program)](https://innovation.mit.edu/opportunity/entrepreneurship-development-program/) students at MIT (Massachusetts Institute of Technology) [Sloan Executive Education](https://executive.mit.edu/).
 
 <!--more-->
 
@@ -22,7 +22,15 @@ The talk, officially called *Celebration Lunch & Guest Speaker Jorge Cortell, Ka
 
 https://twitter.com/BillAulet/status/1216460290818236417
 
-This post will be updated with pictures and a video recording of it. Here's some feedback I received after the talk:
+The video is divided in two parts, available on YouTube. Part 1:
+
+https://www.youtube.com/watch?v=IWVvt3UR9hM
+
+ And Part 2:
+
+ https://www.youtube.com/watch?v=h0vrM2ErNxY
+
+Here's some feedback I received after the talk:
 
 > Just heard you speak in MIT.
 Something magical happens when the truth is spoken.

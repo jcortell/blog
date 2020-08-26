@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-07-08T01:50:28+00:00
+date: 2020-08-25T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,9 +11,10 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2020**
 
-* 01-07/09/20, Singapore (Singapore) and Bangkok (Thailand), Business trip
-* **07-09/09/20**, ~~Helsinki (Finland), Business trip~~ Keynote Speaker at HIMSS Europe (changed to online event)
-* **07-10/12/20, Cannes (France)**, Personal trip (invited to attend the Luxury Travel event [ILTM](https://www.iltm.com/cannes/))
+* **01-05/09/20, Majorca (Spain)**, Personal trip (invited to cruise on a [Silent Yacht 55](https://www.silent-yachts.com/silent55/#) with its CEO)
+* **11/09/20**, ~~Helsinki (Finland), Business trip~~ Keynote Speaker at HIMSS Europe (changed to online event)
+* 01-07/10/20, Singapore (Singapore) and Bangkok (Thailand), Business trip
+* **07-10/12/20, Cannes (France)**, Business trip (invited to attend the Luxury Travel event [ILTM](https://www.iltm.com/cannes/))
 * **11-16/12/20, Miami (USA), Costa Maya (Mexico), The Beach Club, Miami (USA)**, Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
 * **17-24/12/20, Fort Erie (Canada) and Buffalo (USA)**, Personal trip
 
