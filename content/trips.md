@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-08-25T01:50:28+00:00
+date: 2020-09-15T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,17 +11,15 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2020**
 
-* **01-05/09/20, Majorca (Spain)**, Personal trip (invited to cruise on a [Silent Yacht 55](https://www.silent-yachts.com/silent55/#) with its CEO)
-* **11/09/20**, ~~Helsinki (Finland), Business trip~~ Keynote Speaker at HIMSS Europe (changed to online event)
-* 01-07/10/20, Singapore (Singapore) and Bangkok (Thailand), Business trip
 * **07-10/12/20, Cannes (France)**, Business trip (invited to attend the Luxury Travel event [ILTM](https://www.iltm.com/cannes/))
+* 01-07/11/20, Singapore (Singapore) and Bangkok (Thailand), Business trip
 * **11-16/12/20, Miami (USA), Costa Maya (Mexico), The Beach Club, Miami (USA)**, Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
 * **17-24/12/20, Fort Erie (Canada) and Buffalo (USA)**, Personal trip
 
 
 **2021**
 
-* **10-20/06/21, Athens, Mykonos, Santorini, Heraklion-Crete, Bodrum, Antalya, Rhodes (Greece), Ephesus-Kusadasi, Pergamum-Dikili, Istanbul (Turkey)**, Personal trip (invited to cruise on [Regent's Seven Seas Mariner](https://www.rssc.com/ships/seven_seas_mariner))
+* ~~10-20/06/21, Athens, Mykonos, Santorini, Heraklion-Crete, Bodrum, Antalya, Rhodes (Greece), Ephesus-Kusadasi, Pergamum-Dikili, Istanbul (Turkey), Personal trip (invited to cruise on [Regent's Seven Seas Mariner](https://www.rssc.com/ships/seven_seas_mariner))~~
 
 
 **PREVIOUS:**
@@ -34,9 +32,11 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2020**
 
-* **16/06/20**, Elche, Alicante (Spain), Speaker in the (online) ICT and AI applied to Healthcare congress
+* **11/09/20**, ~~Helsinki (Finland), Business trip~~ [Keynote Speaker at HIMSS](https://www.himss.org/session-be-radical-changemaker) (changed to online event)
+* **02-06/09/20, Majorca (Spain)**, Personal trip (invited to cruise on a [Silent Yacht 55](https://www.silent-yachts.com/silent55/#) with its CEO)
+* **16/06/20**, ~Elche, Alicante (Spain)~, [Speaker in the (online) ICT and AI applied to Healthcare congress](https://blog.kanteron.com/2020/06/kanteron-systems-to-deliver-webinar-on-ai-in-healthcare-organized-by-umh/)
 * ~~16-24/06/20, Orlando (USA), Personal trip~~
-* **22/05/20, Valencia (Spain)**, Speaker in the (online) XII Congress of Biomedical Engineering
+* **22/05/20**, ~Valencia (Spain)~, Speaker in the (online) [XII Workshop of Biomedical Engineering](https://blog.kanteron.com/2020/05/kanteron-systems-participates-in-the-xii-biomedical-engineering-workshop/)
 * ~~24-28/04/20, Lima (Peru), Business trip~~
 * ~~03-24/04/20, Papeete (Tahiti), Moorea, Raiatea, Bora Bora, Rangiroa, Fakarava (French Polynesia), Hanga Roa (Easter Island - Chile), Lima (Peru)**, Personal trip (invited to [cruise on the Regent Seven Seas Navigator](https://www.rssc.com/cruises/NAV200407/summary))~~
 * ~~02-03/04/20, Paris (France), Personal trip~~
@@ -45,20 +45,20 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 * ~~10-13/03/20, Orlando (USA), Business trip (HIMSS, UPDATE: Canceled due to CoViD-19)~~
 * ~~07-09/03/20, New York (USA), Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady) Sea Trial Sailing, UPDATE: Canceled due to CoViD-19)~~
 * **05-06/03/20, Zurich (Switzerland)**, Business trip (UBS [Industry Leaders Network event](https://uhnw.ubs.com/wmex-iln-switzerland-2020))
-* **23-29/02/20, Bangkok (Thailand)**, Business trip (Speaker at the Thailand Pathology Congress)
-* **24/01/ - 11/02/20, Fort Erie (Canada)**, Personal trip
-* **29-31/01/20, Bogota (Colombia)**, Business trip
-* **28/01/20, Dallas Ft. Worth (USA)**, Business trip
-* **22-24/01/20, Boston (USA)**, Business trip (Invited to lecture at MIT)
-* **14-17/01/20, Brussels (Belgium)**, Business trip
+* **23-29/02/20, Bangkok (Thailand)**, Business trip ([Speaker at the Thailand Pathology Congress](https://blog.kanteron.com/2020/02/kanteron-presentation-at-the-congress-of-the-thai-royal-college-of-pathologists/))
+* **24/01/ - 11/02/20, Fort Erie (Canada)**, [Personal trip](https://blog.cortell.net/2020/02/two-weeks-in-ontario-canada/)
+* **29-31/01/20, Bogota (Colombia)**, [Business trip](https://blog.cortell.net/2020/02/four-days-in-bogota/)
+* **28/01/20, Dallas Ft. Worth (USA)**, [Business trip](https://blog.cortell.net/2020/01/a-day-in-dallas/)
+* **22-24/01/20, Boston (USA)**, Business trip ([Invited to lecture at MIT](https://blog.cortell.net/2020/01/my-talk-at-mit/))
+* **14-17/01/20, Brussels (Belgium)**, [Business trip](https://blog.cortell.net/2020/01/two-days-in-brussels/)
 
 **2019**
 
-* **14-16/12/19, Shanghai (China)**, Business trip (Wowo & Fosun Protechting Innovation Camp Final Round)
-* **04/12/19, London (UK)**, Business trip (KPMG Investment Dinner)
-* **03/12/19, Helsinki (Finland)**, Business trip (HIMSS Future50)
+* **14-16/12/19, Shanghai (China)**, Business trip ([Wowo & Fosun Protechting Innovation Camp Final Round](https://blog.cortell.net/2019/12/invited-to-present-at-the-wowo-fosun-protechting-innovation-event-in-shanghai/))
+* **04/12/19, London (UK)**, Business trip ([KPMG Investment Dinner](https://blog.cortell.net/2019/12/in-london-for-investor-meetings-at-ubs-and-kpmg/))
+* **03/12/19, Helsinki (Finland)**, Business trip ([HIMSS Future50](https://blog.cortell.net/2019/12/in-helsinki-to-receive-the-innovation-leader-award-himss-future50/))
 * **30/11/19 - 31/01/20, Vancouver (Canada)**, Personal trip
-* **25-29/11/19, Hangzhou (China)**, Business trip (Cybernaut)
+* **25-29/11/19, Hangzhou (China)**, Business trip ([Cybernaut](https://blog.cortell.net/2019/11/invited-to-exhibit-at-the-wenzhou-private-enterprise-talents-week/))
 * **21-24/11/19, Iaşi (Romania)**, Business trip (Speaker at [Romanian Oncology Conference 2019](https://inscrieri.oncologieiasi.ro))
 * **13/11/19, Malaga (Spain)**, Business trip
 * **04-06/11/19, Dubai (UAE)**, Business trip (Speaker at UBS Health Tech Perspectives)
