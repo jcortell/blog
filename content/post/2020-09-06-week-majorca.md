@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-I don't think I've been this long without posting, or traveling, in recent years. Here I come with a vengeance: a week in Majorca!
+I don't think I've been this long without posting, or traveling, in recent years. Here I come with a vengeance: almost a week in Majorca!
 
 <!--more-->
 
@@ -22,7 +22,7 @@ My wife and I are going to start a new Tourism Industry venture, which required 
 
 It was absolutely gorgeous, wonderful... with the added bonus of very few tourists, in high season, so we got to swim at the best beaches, dine at great restaurants, and all without crowds or waiting lines.
 
-On Wednesday, September 2nd, my wife, my daughter and I flew Valencia-Palma, rented a VW Golf, and drove to our hotel, the amazing (and amazingly located) [Hospes Maricel](https://www.hospes.com/en/maricel-spa/). We checked in, dropped our stuff in the room, changed, and went straight to the Sa Caleta del Portal Vells beach. For dinner we went to [La Parada del Mar](https://laparadadelmar.com/), a restaurant with an interesting concept: chose your fish from the market stall at the entrance, and they prepare it for you.
+On Wednesday, September 2nd, my wife, my daughter and I flew Valencia-Palma, rented a VW Golf, and drove to our hotel, the spectacular (and amazingly located) [Hospes Maricel](https://www.hospes.com/en/maricel-spa/). We checked in, dropped our stuff in the room, changed, and went straight to the Sa Caleta del Portal Vells beach. For dinner we went to [La Parada del Mar](https://laparadadelmar.com/), a restaurant with an interesting concept: chose your fish from the market stall at the entrance, and they prepare it for you.
 
 The next day we went to Marina Port, where we inspected a yacht and also saw the Louise Michel (the boat that Banksy bought to rescue refugees - thank you!). From there we went to Santa Ponça to meet the CEO of a company that produces luxury solar-powered catamarans. He invited us to cruise with him and his crew, and prepared a delicious lunch. It was absolutely exhilarating to cruise without vibration, smell, noise, or pollution. I totally fell in love with the experience, and now I am determined to live in one of those, cruising around the world.
 
@@ -34,7 +34,7 @@ On Saturday we went to the very secluded and beautiful Cala Torta, where you hav
 
 For dinner we drove to Calviá, to Fernando Arellano's (two Michelin Stars) [Restaurante Baiben](https://baibenrestaurants.com/), in the Marina of Puerto Portals. A fancy dinner to remember.
 
-On Sunday, before checkout, we did a little paddle boarding in the hotel's cala, then drove to Puerto Sóller, where we had an amazing seafood paella (a legit good one) at [Las Olas](https://baibenrestaurants.com/). From there we drove to the airport and a very short flight later took us back to Valencia.
+On Sunday, before checkout, we did a little paddle boarding in the hotel's cala, then drove to Puerto Sóller, where we had an amazing seafood paella (a legit good one) at [Las Olas](https://www.facebook.com/Restaurante-Las-Olas-125175767610098/). From there we drove to the airport and a very short flight later took us back to Valencia.
 
 Give me work trips like this any time! It makes me want to change careers...
 
