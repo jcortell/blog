@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-09-18T01:50:28+00:00
+date: 2020-09-25T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,12 +11,9 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2020**
 
-* 01-07/11/20, Singapore (Singapore) and Bangkok (Thailand), Business trip
-* 17-24/12/20, Fort Erie (Canada) and Buffalo (USA), Personal trip
-
-
 **2021**
 
+* **08-10/04/21**, Vienna (Austria), Business trip (Speaker at UBS event B:connected "From lifespan to healthspan – from longer to healthier lives")
 * ~~10-20/06/21, Athens, Mykonos, Santorini, Heraklion-Crete, Bodrum, Antalya, Rhodes (Greece), Ephesus-Kusadasi, Pergamum-Dikili, Istanbul (Turkey), Personal trip (invited to cruise on [Regent's Seven Seas Mariner](https://www.rssc.com/ships/seven_seas_mariner))~~
 
 
