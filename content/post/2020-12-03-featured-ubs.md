@@ -37,14 +37,11 @@ That’s not to say the pandemic has left Kanteron completely untouched; on the 
 “For people in healthcare, this pandemic has been a wake-up call,” explains Jorge. “They have realized that sometimes you have to move fast, and, while safety and security are always important, not acting can be more dangerous than moving too fast. So, I believe, a lot of people are looking at healthcare technology with different eyes.”
 
 **Key Milestones**
-1993
-Professional basketball career at Valencia Basket Club ends prematurely due to serious injury
-1994
-Founds Global Comunicación y Marketing, his first business
-2005
-Founds Kanteron Systems
-2016/18
-Member of the European Commission’s Expert Group on Venture Philanthropy and Social Investments
+
+- 1993: Professional basketball career at Valencia Basket Club ends prematurely due to serious injury
+- 1994: Founds Global Comunicación y Marketing, his first business
+- 2005: Founds Kanteron Systems
+- 2016/18: Member of the European Commission’s Expert Group on Venture Philanthropy and Social Investments
 
 **From basketball pro to entrepreneur**
 
@@ -71,9 +68,9 @@ Judging by what has worked for him, he thinks that entrepreneurs should share fo
 
 **Steering through the crisis**
 
-• The pandemic has benefited Kanteron, as healthcare providers have turned to healthcare IT.
-• However, the company has had to adapt to some disruption in procurement and payment processes.
-• Kanteron has accelerated its own innovation, automating the incorporation of new findings onto its platform
+* The pandemic has benefited Kanteron, as healthcare providers have turned to healthcare IT.
+* However, the company has had to adapt to some disruption in procurement and payment processes.
+* Kanteron has accelerated its own innovation, automating the incorporation of new findings onto its platform
 
 **Fall down, get up**
 
