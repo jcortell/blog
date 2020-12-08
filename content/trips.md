@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2020-10-28T01:50:28+00:00
+date: 2020-12-08T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,14 +11,14 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2020**
 
-* ~~**07-10/12/20, Cannes (France)**~~, Business trip (invited to attend the Luxury Travel event [ILTM](https://www.iltm.com/cannes/))
 * ~~**11-16/12/20, Miami (USA), Costa Maya (Mexico), The Beach Club, Miami (USA)**~~, Personal trip (invited to cruise on the [Virgin Voyages Scarlet Lady](https://www.virginvoyages.com/ship#scarlet-lady))
 
 
 **2021**
 
 * ~~**08-10/04/21, Vienna (Austria)**~~, Business trip (Speaker at UBS event B:connected "From lifespan to healthspan – from longer to healthier lives")
-* **10-20/06/21, Athens, Mykonos, Santorini, Heraklion-Crete, Bodrum, Antalya, Rhodes (Greece), Ephesus-Kusadasi, Pergamum-Dikili, Istanbul (Turkey)**, Personal trip (invited to cruise on [Regent's Seven Seas Mariner](https://www.rssc.com/ships/seven_seas_mariner))
+* **10-20/06/21, Athens, Mykonos, Santorini, Heraklion-Crete, Bodrum, Antalya, Rhodes (Greece), Ephesus-Kusadasi, Pergamum-Dikili, Istanbul (Turkey)**, Personal trip (invited to cruise on [Regent's Seven Seas Mariner](https://www.rssc.com/cruises/MAR210610/summary))
+* **28/10-4/11/21, Istanbul (Turkey), Lesbos, Ephesus, Rhodes, Crete, Santorini, Mykonos, Athens (Greece)**, Personal trip (invited to cruise on [Regent's Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 
 **PREVIOUS:**
@@ -31,6 +31,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2020**
 
+* ~~**07-10/12/20, Cannes (France)**~~, Business trip (invited to attend the Luxury Travel event [ILTM](https://www.iltm.com/cannes/))
 * **11/09/20**, ~~Helsinki (Finland), Business trip~~ [Keynote Speaker at HIMSS](https://www.himss.org/session-be-radical-changemaker) (changed to online event)
 * **02-06/09/20, Majorca (Spain)**, Personal trip (invited to cruise on a [Silent Yacht 55](https://www.silent-yachts.com/silent55/#) with its CEO)
 * **16/06/20**, ~Elche, Alicante (Spain)~, [Speaker in the (online) ICT and AI applied to Healthcare congress](https://blog.kanteron.com/2020/06/kanteron-systems-to-deliver-webinar-on-ai-in-healthcare-organized-by-umh/)
