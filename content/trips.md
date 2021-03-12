@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2021-02-12T01:50:28+00:00
+date: 2021-03-12T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -27,7 +27,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2021**
 
-* **22/01/21**, ~~Mexico City (Mexico), Personal trip~~ Interview by TVUAM (changed to online interview)
+* **22/01/21**, ~~Mexico City (Mexico), Personal trip~~ Interview by TVUAM (changed to online interview: [video here](https://www.youtube.com/watch?v=PyoGmHRRUPQ))
 * **21/01/21**, ~~Zurich (Switzerland), Business trip~~ [Special guest at UBS webinar](https://blog.cortell.net/2021/01/invited-to-speak-at-ubs-switzerland-live-webinar-on-2021-investments/) (changed to online webinar)
 
 **2020**
