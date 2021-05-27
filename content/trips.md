@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2021-03-12T01:50:28+00:00
+date: 2021-05-27T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,8 +12,6 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2021**
 
-* ~~**08-10/04/21, Vienna (Austria)**~~, Business trip (Speaker at UBS event B:connected "From lifespan to healthspan – from longer to healthier lives")
-* **10-20/06/21, Athens, Mykonos, Santorini, Heraklion-Crete, Bodrum, Antalya, Rhodes (Greece), Ephesus-Kusadasi, Pergamum-Dikili, Istanbul (Turkey)**, Personal trip (invited to cruise on [Regent's Seven Seas Mariner](https://www.rssc.com/cruises/MAR210610/summary))
 * **28/10-4/11/21, Istanbul (Turkey), Lesbos, Ephesus, Rhodes, Crete, Santorini, Mykonos, Athens (Greece)**, Personal trip (invited to cruise on [Regent's Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 
@@ -27,6 +25,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2021**
 
+* ~~**10-20/06/21, Athens, Mykonos, Santorini, Heraklion-Crete, Bodrum, Antalya, Rhodes (Greece), Ephesus-Kusadasi, Pergamum-Dikili, Istanbul (Turkey)**, Personal trip (invited to cruise on [Regent's Seven Seas Mariner](https://www.rssc.com/cruises/MAR210610/summary)) canceled due to covid19 ~~
+* ~~**08-10/04/21, Vienna (Austria)**, Business trip (Speaker at UBS event B:connected "From lifespan to healthspan – from longer to healthier lives") canceled due to covid19~~
 * **22/01/21**, ~~Mexico City (Mexico), Personal trip~~ Interview by TVUAM (changed to online interview: [video here](https://www.youtube.com/watch?v=PyoGmHRRUPQ))
 * **21/01/21**, ~~Zurich (Switzerland), Business trip~~ [Special guest at UBS webinar](https://blog.cortell.net/2021/01/invited-to-speak-at-ubs-switzerland-live-webinar-on-2021-investments/) (changed to online webinar)
 
