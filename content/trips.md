@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2021-06-10T01:50:28+00:00
+date: 2021-06-19T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,9 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2021**
 
-* 28/07-08/08/21, **Paris (France), Venice (Italy), Mallorca (Spain)**, Personal trip
+* **05-10/07/21, Mallorca (Spain)**, Personal trip
+* 19-28/07/21, **Paris (France), Venice (Italy)**, Personal trip
+* 01-31/08/21, **Malmö (Sweden)**, Personal trip
 * **28/10-4/11/21, Istanbul (Turkey), Lesbos, Ephesus, Rhodes, Crete, Santorini, Mykonos, Athens (Greece)**, Personal trip (invited to cruise on [Regent's Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 
