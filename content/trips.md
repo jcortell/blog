@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2021-06-23T01:50:28+00:00
+date: 2021-07-12T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,10 +12,8 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2021**
 
-* **05-10/07/21, Mallorca (Spain)**, Personal trip
-* 19-28/07/21, Paris (France), Venice (Italy), Personal trip
-* **30/07-07/08/21, Athens, Piraeus, Agios Nikolaos, Crete (Greece), Limassol (Cyprus), Rhodes, Mykonos, Nafplion, Piraeus, Athens (Greece)**, Personal trip (invited to cruise on [Seabourn's Ovation](https://www.seabourn.com/en_US/find-a-cruise/E1M07Y/8153.html))
-* 09-31/08/21, Malmö (Sweden), Personal trip
+* **29/07-07/08/21, Athens, Piraeus, Agios Nikolaos, Crete (Greece), Limassol (Cyprus), Rhodes, Mykonos, Nafplion, Piraeus, Athens (Greece)**, Personal trip (invited to cruise on [Seabourn's Ovation](https://www.seabourn.com/en_US/find-a-cruise/E1M07Y/8153.html))
+* 04-30/09/21, Malmö (Sweden), Personal trip
 * **28/10-4/11/21, Istanbul (Turkey), Lesbos, Ephesus, Rhodes, Crete, Santorini, Mykonos, Athens (Greece)**, Personal trip (invited to cruise on [Regent's Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 
@@ -29,6 +27,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2021**
 
+* **05-10/07/21, Mallorca (Spain)**, Personal trip
 * ~~**10-20/06/21, Athens, Mykonos, Santorini, Heraklion-Crete, Bodrum, Antalya, Rhodes (Greece), Ephesus-Kusadasi, Pergamum-Dikili, Istanbul (Turkey)**, Personal trip (invited to cruise on [Regent's Seven Seas Mariner](https://www.rssc.com/cruises/MAR210610/summary)) canceled due to covid19~~
 * ~~**08-10/04/21, Vienna (Austria)**, Business trip (Speaker at UBS event B:connected "From lifespan to healthspan – from longer to healthier lives") canceled due to covid19~~
 * **22/01/21**, ~~Mexico City (Mexico), Personal trip~~ Interview by TVUAM (changed to online interview: [video here](https://www.youtube.com/watch?v=PyoGmHRRUPQ))
