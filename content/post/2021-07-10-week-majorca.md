@@ -24,7 +24,7 @@ On Monday, July 5th we flew Valencia-Palma, after filling out the Covid forms an
 
 Upon arrival we rented a plug-in electric car, a brand new Renault Zoe. What a delightful little car! Combustion engines are dead to me, and electric is the only way to go. Driving around the island with the windows down and not hearing the engine's noise or smelling the exhaust's fumes was wonderful.
 
-After checking in at the luxurious, discreet, and tricky to access even with GPS [Es Pricep hotel](https://www.esprincep.com), we went to have lunch at the [cafe Gran Hotel, in the Caixaforum](https://caixaforum.org/ca/palma/visitans). Excellent cuisine at very reasonable prices. Thanks for the recommendation, dad!
+After checking in at the luxurious, discreet, and tricky to access even with GPS [Es Princep hotel](https://www.esprincep.com), we went to have lunch at the [cafe Gran Hotel, in the Caixaforum](https://caixaforum.org/ca/palma/visitans). Excellent cuisine at very reasonable prices. Thanks for the recommendation, dad!
 
 As we didn't have much time, we decided to spend the evening at the beach across the street (Can Pere Antoni), and then have dinner at the hotel's rooftop restaurant, [AlmaQ](https://www.esprincep.com/en/eat-and-drink/almaq), with live music. The views of the cathedral and the beach were great, but they felt even better from bed.
 
