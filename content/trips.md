@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2021-08-12T01:50:28+00:00
+date: 2021-08-23T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,8 +12,7 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2021**
 
-* **17-21/08/21, Paris (France)**, Personal trip
-* **27/08-30/09/21, Copenhagen (Denmark)**, Malmö (Sweden), Personal trip
+* **27/08-10/10/21, Copenhagen (Denmark), Malmö (Sweden)**, Personal trip
 * **28/10-4/11/21, Istanbul (Turkey), Lesbos, Ephesus, Rhodes, Crete, Santorini, Mykonos, Athens (Greece)**, Personal trip (invited to cruise on [Regent's Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 
@@ -27,6 +26,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2021**
 
+* **17-21/08/21, Paris (France)**, Personal trip
 * **29/07-07/08/21, Athens, Piraeus, Agios Nikolaos, Crete (Greece), Limassol (Cyprus), Rhodes, Mykonos, Nafplion, Piraeus, Athens (Greece)**, Personal trip (invited to cruise on [Seabourn's Ovation](https://www.seabourn.com/en_US/find-a-cruise/E1M07Y/8153.html))
 * **05-10/07/21, Mallorca (Spain)**, Personal trip
 * ~~**10-20/06/21, Athens, Mykonos, Santorini, Heraklion-Crete, Bodrum, Antalya, Rhodes (Greece), Ephesus-Kusadasi, Pergamum-Dikili, Istanbul (Turkey)**, Personal trip (invited to cruise on [Regent's Seven Seas Mariner](https://www.rssc.com/cruises/MAR210610/summary)) canceled due to covid19~~
