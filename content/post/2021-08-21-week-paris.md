@@ -4,12 +4,12 @@ date: "2021-08-21T01:00:24+02:00"
 draft: false
 title: "Visiting my parents in Paris"
 tags: ["personal", "trips"]
-images: "https://lh3.googleusercontent.com/XQ1kqCjzgYRh5A6TIK33xZW8x-t6ywgtTI26jwzeAxhewa1Do1tTihscdtwhDDfsZ71yxd_R_REGJYPxjm8qtdXs2XopF6SgHBtv0d84VoclP-73-YCVrCk5Ggk2rU7H_0qdUHl7fNI=w1920-h1080"
+images: "https://lh3.googleusercontent.com/YQ7688hlvV7TrITog7nmqt_R9u-5Wh-HduM2QmrHxkHTM5RfuYUmw318-UomnpypBW2xpxCnA-Bvf3aZAKPViu5S-4n_GdRwE5hY3J8CwF5wm6J90MFk1OzDb7q-CKSrDPZHBZ622Jw=w1920-h1080"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: https://lh3.googleusercontent.com/XQ1kqCjzgYRh5A6TIK33xZW8x-t6ywgtTI26jwzeAxhewa1Do1tTihscdtwhDDfsZ71yxd_R_REGJYPxjm8qtdXs2XopF6SgHBtv0d84VoclP-73-YCVrCk5Ggk2rU7H_0qdUHl7fNI=w1920-h1080
-coverImage: https://lh3.googleusercontent.com/XQ1kqCjzgYRh5A6TIK33xZW8x-t6ywgtTI26jwzeAxhewa1Do1tTihscdtwhDDfsZ71yxd_R_REGJYPxjm8qtdXs2XopF6SgHBtv0d84VoclP-73-YCVrCk5Ggk2rU7H_0qdUHl7fNI=w1920-h1080
+thumbnailImage: https://lh3.googleusercontent.com/YQ7688hlvV7TrITog7nmqt_R9u-5Wh-HduM2QmrHxkHTM5RfuYUmw318-UomnpypBW2xpxCnA-Bvf3aZAKPViu5S-4n_GdRwE5hY3J8CwF5wm6J90MFk1OzDb7q-CKSrDPZHBZ622Jw=w1920-h1080
+coverImage: https://lh3.googleusercontent.com/NSkPVgcFoDovDGw7GpMEwlk9etrvCECZ6rsLGzPsmwkk7ofB4Y_3LAT9tHKvuTcNBXknPmEWccBrLdIwZ2d9TSnJgXE47FnBf0ab6tFH7z5z4SSnZdin-dwytfSwNGKepb1gS7Yha9Y=w1920-h1080
 metaAlignment: center
 coverMeta: out
 ---
