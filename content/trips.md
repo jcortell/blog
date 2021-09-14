@@ -337,7 +337,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 * **16/12/09 París**, Business trip
 * **27/11 -02/12/09 Chicago (EEUU)**, Business trip
-* **20/11/09 Sevilla**, <a title="https://corchea69.com/Introduccion%20a%20la%20verdad/Introduccion%20a%20la%20verdad_programa2.htm" href="https://corchea69.com/Introduccion%20a%20la%20verdad/Introduccion%20a%20la%20verdad_programa2.htm" target="_blank" rel="noopener noreferrer">conferencia</a> &#8220;La cara B de la realidad&#8221; organizada por Corchea 69 bajo las I Jornadas Universitarias sobre Pensamiento Crítico, ciclo &#8220;<a title="https://corchea69.com/Introduccion%20a%20la%20verdad/Introduccion%20a%20la%20verdad_intro.htm" href="https://corchea69.com/Introduccion%20a%20la%20verdad/Introduccion%20a%20la%20verdad_intro.htm" target="_blank" rel="noopener noreferrer">Introducción a la verdad</a>&#8220;, en el Auditorio del Edificio de la Expo, Isla de la Cartuja, de 9:30 a 11:30h (por problemas en el vuelo, al final la conferencia ha sido de 13:30 a 15:00h)
+* **20/11/09 Sevilla**, Conferencia ["La cara B de la realidad" organizada por Corchea 69 bajo las I Jornadas Universitarias sobre Pensamiento Crítico, ciclo "Introducción a la verdad"](https://corchea69.com/Introduccion%20a%20la%20verdad/Introduccion%20a%20la%20verdad_programa2.htm), en el Auditorio del Edificio de la Expo, Isla de la Cartuja, de 9:30 a 11:30h (por problemas en el vuelo, al final la conferencia ha sido de 13:30 a 15:00h)
 * **19/11/09 Dusseldorf (Alemania)** Business trip
 * **12-17/11/09 Mexico DF (Mexico)** Business trip
 * **09/11/09 Málaga**, Business trip
@@ -453,7 +453,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 * **01/12/06 Madrid** Business trip
 * **29-30/11/06** **Nueva York (EEUU)**, Business trip
 * **24-28/11/06** **Chicago (EEUU)**, Business trip
-* **22/11/06** **Sevilla**, Conferencia &#8220;Lo que no quieren que sepas de Internet y tu ordenador&#8221;, organizado por Corchea 69 dentro del ciclo &#8220;Violencia desenfocada&#8221; (Universidad de Sevilla). <a title="https://corchea69.com/TV_Violencia%20Desenfocada%20II.htm" href="https://corchea69.com/TV_Violencia%20Desenfocada%20II.htm" target="_blank" rel="noopener noreferrer">Vídeo</a> (sección 3a)
+* **22/11/06** **Sevilla**, Conferencia "Lo que no quieren que sepas de Internet y tu ordenador", organizado por Corchea 69 dentro del ciclo ""Violencia desenfocada; (Universidad de Sevilla). <a title="https://corchea69.com/TV_Violencia%20Desenfocada%20II.htm" href="https://corchea69.com/TV_Violencia%20Desenfocada%20II.htm" target="_blank" rel="noopener noreferrer">Vídeo</a> (sección 3a)
 * **21/11/06** **Guadalajara**, Conferencia CEOE Guadalajara &#8220;Más allá de las reservas online&#8221; en el Salón de actos Caja Guadalajara, y conferencia pequeño comercio &#8220;El comercio desde todos los ángulos&#8221; Salón de actos del Foro, C/ Ciudad Real 1 (Azuqueca de Henares)
 * **14/11/06** **Elche**, conferencia &#8220;Código abierto en aplicaciones de importancia vital, el ejemplo de la imagen médica digital&#8221;, Universidad de Elche, 11:00h.
 * **08/11/06** **Madrid**, Business trip
