@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2021-09-18T01:50:28+00:00
+date: 2021-09-22T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -13,8 +13,6 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 **2021**
 
 * **27/08-10/10/21, Copenhagen (Denmark), Malmö, Goteborg, Stockholm (Sweden)**, Personal trip
-* **21-22/09/21, London (UK)**, Business trip to have dinner with Intel's Chairman
-* ~~**22/09/21**, New York, NY (USA), Business trip (Invited to participate in the Summit for Decentralized Infrastructure, and Unfinished Live. Canceled due to covid19 travel restrictions~~
 * **25/10-4/11/21, Istanbul (Turkey), Lesbos, Ephesus, Rhodes, Crete, Santorini, Mykonos, Athens (Greece)**, Personal trip (invited to cruise on [Regent's Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
 
@@ -28,6 +26,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2021**
 
+* ~~**22/09/21**, New York, NY (USA), Business trip (Invited to participate in the Summit for Decentralized Infrastructure, and Unfinished Live. Canceled due to covid19 travel restrictions~~
+* **21-22/09/21, London (UK)**, Business trip to have dinner with Intel's Chairman
 * **17-21/08/21, Paris (France)**, Personal trip
 * **29/07-07/08/21, Athens, Piraeus, Agios Nikolaos, Crete (Greece), Limassol (Cyprus), Rhodes, Mykonos, Nafplion, Piraeus, Athens (Greece)**, Personal trip (invited to cruise on [Seabourn's Ovation](https://www.seabourn.com/en_US/find-a-cruise/E1M07Y/8153.html))
 * **05-10/07/21, Mallorca (Spain)**, Personal trip
