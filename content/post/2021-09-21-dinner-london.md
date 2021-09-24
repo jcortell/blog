@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-On Tuesday I flew to London for the day to have dinner at Mosimann's with with Dr. Omar Ishrak, Intel's Chairman and former CEO of Medtronic and GE Healthcare, and Sir Malcolm Grant, NHS England Chairman.
+On Tuesday I flew to London for the day to have dinner at Mosimann's with with Dr. Omar Ishrak, Intel's Chairman and former CEO of Medtronic and GE Healthcare, and Lord David Prior, NHS England Chairman.
 
 <!--more-->
 
@@ -22,7 +22,7 @@ Tuesday was a busy day. Not only I [walked a lot and visited several museums](ht
 
 The main meeting happened during a delicious but not particularly sophisticated dinner at [Mosimann's](https://www.mosimann.com/), the club founded by Anton Mosimann OBE, two Michelin star chef when he led the Dorchester Hotel restaurant, that has served royalties from over a dozen countries, and has cooked for the British royal family for many years.
 
-Dr. Omar Ishrak is Intel’s Chairman of the board. Previously he was chairman and CEO of Medtronic and president and CEO of GE Healthcare Systems.
+Dr. Omar Ishrak is Intel’s Chairman of the board. Previously, he was chairman and CEO of Medtronic and president and CEO of GE Healthcare Systems.
 
 David Gifford Leathes Prior, Baron Prior of Brampton, is chairman of NHS England, chairman of University College Hospital, and a life peer in the House of Lords. Previously he was Parliamentary Under-Secretary of State for Health in David Cameron's Conservative ministry, and a former Norfolk MP and hospital chairman. He has also been the Chief Executive of the Conservative Party.
 
