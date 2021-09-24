@@ -36,7 +36,7 @@ Rebecca Wilson, the gallery's ex head of development, was quoted in [a piece by 
 
 > The gallery's guiding principle is to show what is being made now, the most interesting artists of today. It's about drawing people's attentions to someone who might be tomorrow's Damien Hirst.
 
-So you can probably understand my excitement when two of my recent digital works (*[RAR RA AR ART](https://www.saatchiart.com/art/New-Media-RAR-RA-AR-ART-Limited-Edition-of-69/781245/8709981/view)* self-portrait and *looking-interested* portrait) where exhibited in the room opposite to the stairs in the second floor, within the Reflective Collective exhibition.
+So you can probably understand my excitement when two of my recent digital works (*[RAR RA AR ART](https://www.saatchiart.com/art/New-Media-RAR-RA-AR-ART-Limited-Edition-of-69/781245/8709981/view)* self-portrait and *[looking-interested](https://www.saatchiart.com/art/New-Media-looking-interested-Limited-Edition-of-99/781245/8710188/view)* portrait) where exhibited in the room opposite to the stairs in the second floor, within the Reflective Collective exhibition.
 
 ![RAR RA AR ART](https://images.saatchiart.com/saatchi/781245/art/8709981/7773522-BEHKCIHS-8.jpg)
 ![Looking-interested](https://images.saatchiart.com/saatchi/781245/art/8710188/7773729-JQOPXAJG-8.jpg)
