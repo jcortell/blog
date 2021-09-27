@@ -24,8 +24,7 @@ Other than that, it was all flawless: taking the train in Malmö to Copenhagen a
 
 [Some photos of the walk here](https://photos.app.goo.gl/6CtqDrWF4RjZTemK6)
 
-Since my hotel was located in Kensington, first I had to walk to [Japan House](https://www.japanhouselondon.uk/). Their library, shop, and cafe always make me happy. But they also have interesting exhibitions going on. This time I enjoyed [Tokyo 1964:
-Designing Tomorrow](https://www.japanhouselondon.uk/whats-on/2021/tokyo-1964-designing-tomorrow/) (東京 1964 明日へのデザイン) and [Tokolo Asao](https://www.japanhouselondon.uk/discover/stories/tokolo/) [[CONNECT](https://www.japanhouselondon.uk/whats-on/2021/tokolo-asao-connect-individual-and-group/)] (野老朝雄).
+Since my hotel was located in Kensington, first of course, I had to walk to [Japan House](https://www.japanhouselondon.uk/). Their library, shop, and cafe always make me happy. But they also have interesting exhibitions going on. This time I enjoyed [Tokyo 1964:Designing Tomorrow](https://www.japanhouselondon.uk/whats-on/2021/tokyo-1964-designing-tomorrow/) (東京 1964 明日へのデザイン) and [Tokolo Asao](https://www.japanhouselondon.uk/discover/stories/tokolo/) [[CONNECT](https://www.japanhouselondon.uk/whats-on/2021/tokolo-asao-connect-individual-and-group/)] (野老朝雄).
 
 After that, I continued my stroll to the lovely [Hyde park](https://www.royalparks.org.uk/parks/hyde-park) to visit the [James Barnor photography exhibition](https://www.serpentinegalleries.org/whats-on/james-barnor/) at the Serpentine North Gallery, the [20th Serpentine Pavilion](https://www.serpentinegalleries.org/whats-on/serpentine-pavilion-2021-designed-by-counterspace/) designed by Johannesburg-based practice Counterspace, and [Sophia Al-Maria's Taraxos sculpture](https://www.serpentinegalleries.org/whats-on/sophia-al-maria-taraxos/).
 
