@@ -1,6 +1,6 @@
 ---
 author: ""
-date: "2021-09-10T03:00:24+02:00"
+date: "2021-09-21T03:00:24+02:00"
 draft: false
 title: "Dinner with the Chairman of Intel and the Chairman of the NHS in London"
 tags: ["business", "trips"]
