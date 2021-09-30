@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-One of the advantages of living in Malmö is how easy is to travel by train to Copenhagen. So today I crossed the bridge to visit two museums there.
+One of the advantages of living in Malmö is how easy is to travel by train to Copenhagen. So today I crossed the bridge to visit two museums there, since they're celebrating Art Week.
 
 <!--more-->
 
