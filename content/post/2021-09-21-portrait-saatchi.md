@@ -20,11 +20,11 @@ It's one thing to have your works [selected for sale at the Saatchi Gallery onli
 
 I used to be a "my *art* is only for myself, I don't know if anyone else is interested, and I don't care". I even uploaded a ton of "future art projects" to Tumblr. Then, somehow, since being named Technology Adviser to the Saint Charles Royal Academy of Art (Spain) in 2015, I got more involved in "institutional art" than before. Wether curating from Spain to Lithuania, participating in performances, or exhibiting, I have done a few things with and in a few museums:
 
-- June, 2016: Tate Modern, London (UK)
-- October, 2016: Las Naves, Valencia (Spain)
-- November 2016: Museum Ludwig, Cologne (Germany)
-- December, 2016: National Museum of Fine Arts, Santiago (Chile)
-- May, 2019: Moco Museum, Amsterdam (Netherlands)
+- June, 2016: Installation exhibited at the Tate Modern, London (UK)
+- October, 2016: Participation in The Corrupt Show, Las Naves, Valencia (Spain)
+- November 2016: Audiovisual projected at the Museum Ludwig, Cologne (Germany)
+- December, 2016: Sculpture exhibited at the Contemporary Art Museum (MAC), Santiago (Chile)
+- May, 2019: Performance at the Moco Museum, Amsterdam (Netherlands)
 
 But this is the first time that my work is featured in a Gallery, instead of a museum. And not just any Gallery.
 
