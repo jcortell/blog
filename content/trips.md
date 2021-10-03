@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2021-09-27T01:50:28+00:00
+date: 2021-10-03T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,7 +12,6 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2021**
 
-* **27/08-02/10/21, Copenhagen (Denmark), Malmö, Goteborg, Stockholm (Sweden)**, Personal trip
 * **07/10/21, Madrid (Spain)**, Business trip, invited to attend [South Summit](https://www.southsummit.co/)
 * **25/10-4/11/21, Istanbul (Turkey), Lesbos, Ephesus, Rhodes, Crete, Santorini, Mykonos, Athens (Greece)**, Personal trip (invited to cruise on [Regent's Seven Seas Splendor](https://www.rssc.com/cruises/SPL211028/summary))
 
@@ -27,6 +26,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2021**
 
+* **27/08-02/10/21, Copenhagen (Denmark), Malmö, Goteborg, Stockholm (Sweden)**, Personal trip
 * ~~**22/09/21**, New York, NY (USA), Business trip (Invited to participate in the Summit for Decentralized Infrastructure, and Unfinished Live. Canceled due to covid19 travel restrictions~~
 * **21-22/09/21, London (UK)**, Business trip to have dinner with Intel's Chairman
 * **17-21/08/21, Paris (France)**, Personal trip
