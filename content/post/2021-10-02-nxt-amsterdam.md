@@ -20,6 +20,8 @@ The only good thing about long layovers is that sometimes it allows you to quick
 
 The museum is small, fairly easy to get to (taking the ferry from Amsterdam Central Station), and expensive. The curation is not particularly impressive, but it's not bad at all. Nevertheless, it was absolutely worthwhile the visit.
 
-New Media allows the display of dimensions that Traditional Media can't. Even if you consider photography and movies "Traditional Media", New Media brings SPACE and INTERACTIVITY to artistic expression, through lasers, projections, steam, and code. The resulting experience is usually orders of magnitude more engaging and immersive than Traditional Media. One can only wonder what the old masters would have been able to create had they had all those resources available to them. Then again, they might have just fallen into the social media and smart phone screen trap, never to be creative again. Who knows.
+New Media allows the display of dimensions that Traditional Media can't. Even if you consider photography and movies "Traditional Media", New Media brings SPACE and INTERACTIVITY to artistic expression, through lasers, projections, steam, and code. But that requires spaces specifically designed for it, or serious investments that most art galleries or museums do not undertake.
+
+The resulting experience is usually orders of magnitude more engaging and immersive than Traditional Media. One can only wonder what the old masters would have been able to create had they had all those resources available to them. Then again, they might have just fallen into the social media and smart phone screen trap, never to be creative again. Who knows.
 
 [Here are some pictures](https://photos.app.goo.gl/bGNoZVi7GjXS4MvH9).
