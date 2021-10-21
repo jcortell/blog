@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-GoogleChromeLabs has released an interesting component to compare two DOM elements: [two-up](https://github.com/GoogleChromeLabs/two-up). Let's try it.
+GoogleChromeLabs has released an interesting component to compare two DOM elements: [two-up](https://github.com/GoogleChromeLabs/two-up). Let's try it within the static generator Hugo.
 
 <!--more-->
 
@@ -27,11 +27,13 @@ First, let's make sure [Hugo](https://gohugo.io) (the static generator I use in 
 
 Now all you need to do is to write your HTML code inside the Hugo markdown using this shortcode:
 
-  &#123;{< rawhtml >}&#123;
-    Pon aquí tu <strong>HTML</strong>
-  &#123;{< /rawhtml >}&#123;  
+```
+  &#123;{< rawhtml >}}
+    Insert your <strong>HTML</strong> here
+  &#123;{< /rawhtml >}}  
+```  
 
-And to try Two-up, what's the HTML code you have to use (calling the JS externally)? Easy!
+If you don't use Hugo, you don't need to do any of the above. In any case, finally, to try Two-up, what's the HTML code you have to use (calling the JS externally)? Easy!
 
 ```
 <script src="https://unpkg.com/two-up-element@1"></script>
