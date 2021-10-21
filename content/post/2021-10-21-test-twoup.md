@@ -27,11 +27,13 @@ First, let's make sure [Hugo](https://gohugo.io) (the static generator I use in 
 
 Now all you need to do is to write your HTML code inside the Hugo markdown using this shortcode:
 
-```
 {{< rawhtml >}}
+<code>
+  {{< rawhtml >}}
     Pon aquí tu HTML
+  {{< /rawhtml >}}  
+</code>    
 {{< /rawhtml >}}
-```
 
 And to try Two-up, what's the HTML code you have to use (calling the JS externally)? Easy!
 
