@@ -20,7 +20,7 @@ My wife always says she 'has the best job in the world' and I always say I 'have
 
 We flew Valencia-Istanbul Monday 25th, on a B737-800 Max, fortunately without any technical issues. Upon arrival we took a taxi via Uber (for itinerary control and credit card payment, mainly) to go straight to our hotel: the very conveniently located, with a clear Western-Asia opulence, [Ajwa Sultanahmet](https://www.ajwa.com.tr/).
 
-The next day we had breakfast at a small local bar, where they squeezed fresh pomegranate juice for us, and served us delicious baclava. Then we spent all morning meandering through the alleys of the Grand Bazaar, and the afternoon visiting the Egyptian Spice Market. For dinner we took a colleague's recommendation and went to [Matbah restaurant](https://www.matbahrestaurant.com/tr/), right next to the Blue Mosque for some Ottoman dishes. The lamb with aubergine puree was really delicious.
+The next day we had breakfast at a small local bar, where they squeezed fresh pomegranate juice for us, and served us delicious baklava. Then we spent all morning meandering through the alleys of the Grand Bazaar, and the afternoon visiting the Egyptian Spice Market. For dinner we took a colleague's recommendation and went to [Matbah restaurant](https://www.matbahrestaurant.com/tr/), right next to the Blue Mosque for some Ottoman dishes. The lamb with aubergine puree was really delicious.
 
 On Wednesday we were invited to a full day tour of key landmarks, as this was my wife's first time in Istanbul (I had been dozens of times before, but the last time was a decade and a half ago).
 
@@ -28,7 +28,7 @@ First we walked to the Hippodrome, where our guide gave us a "history lesson" th
 
 Then we walked across the square to enter Hagia Sophia. It's long history of religious co-habitation should serve as testament to the fact that tolerant respect for other people's world view is actually a good way to cooperate and build long lasting institutions.
 
-Afterward we headed to, probably, my favorite place in the city: Topkapi Palace, where history comes alive through its buildings and museum artifacts. We had lunch at [Konyali 1897](http://konyalilokantasi.com/) inside the palace, with great views of the straight. We visited one area I had not seen before (the old and very solemn ascetic Christian church), and skipped one I had (the religious relic collection) due to the very long line of people at the entrance.
+Afterward we headed to, probably, my favorite place in the city: Topkapi Palace, where history comes alive through its buildings and artifacts. We had lunch at [Konyali 1897](http://konyalilokantasi.com/) inside the palace, with great views of the straight. We visited one area I had not seen before (the old and very solemn ascetic Christian church), and skipped one I had (the religious relic collection) due to the very long line of people at the entrance.
 
 Right next to the Topkapi Palace is the Archaeological museums complex, encompassing several small but fascinating museums, from Antiquity to Ceramics. Obviously it's always better to go to museums with a guide, as they will maximize your time and answer most questions about time and place.
 
