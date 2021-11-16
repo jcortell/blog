@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2021-11-12T01:50:28+00:00
+date: 2021-11-15T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,9 +12,9 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2021**
 
-* 19 -28/11/21, Barcelona, Palamos, Palma de Mallorca, Valencia, Cartagena, Malaga, Cadiz (Spain), Lisbon (Portugal), Personal trip (invited to cruise on [Silver Sea's Silver Spirit](https://www.silversea.com/destinations/mediterranean-cruise/barcelona-to-lisbon-sl211119009.html))
-* 01-03/12/21, Amsterdam (The Netherlands), Business trip
-* 05-10/12/21, Dubai (United Arab Emirates), Personal trip
+* **19-28/11/21, Barcelona, Palamos, Palma de Mallorca, Valencia, Cartagena, Malaga, Cadiz (Spain), Lisbon (Portugal)**, Personal trip (invited to cruise on [Silver Sea's Silver Spirit](https://www.silversea.com/destinations/mediterranean-cruise/barcelona-to-lisbon-sl211119009.html))
+* **01-02/12/21, Amsterdam (The Netherlands)**, Business trip
+* **05-09/12/21, Dubai (United Arab Emirates)**, Personal trip (invited to stay in the Bvlgari Dubai)
 
 
 **PREVIOUS:**
