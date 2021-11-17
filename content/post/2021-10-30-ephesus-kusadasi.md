@@ -28,7 +28,9 @@ The final stop in the nearly 7 hour tour was a rug making demonstration at [Turk
 
 Before returning to the ship, I had to run a double errand (and spend the few Turkish Lira I had in my pocket since it wasn't worth it to exchange them back): to buy traditional perfume glass-bottles for my in-law, and freshly made *lokum* (aka Turkish delight).
 
-Once on the ship, we hosted a party for my wife's customers (we were there to work, remember), and had a mouth-watering dinner at the onboard French specialty restaurant Chartreuse.
+Once on the ship I received my laundry, also included in this all-inclusive cruise, perfectly clean, ironed, folded, and packaged (mostly using recycled paper)... even my socks and underwear!
+
+Finally we hosted a party for my wife's customers (we were there to work, remember), and had a mouth-watering dinner at the onboard French specialty restaurant Chartreuse.
 
 What an amazing day!
 
