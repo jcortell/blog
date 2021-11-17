@@ -22,6 +22,6 @@ Santorini is an Aegean island group with rugged terrain. Our excursion took us f
 
 Then we drove to Profitis Ilias monastery for mountaintop views of the islands, stopped for a quick mezze lunch at Pyrgos Kallistis, and drove to the capital Firas, with its winding streets, many stores, restaurants with ocean view, and two main ways of going up and down the mountain: cable-car or donkey.
 
-Back at the ship we had dinner again at Chartreuse. So delicious!
+Back at the ship we had dinner at Compass Rose, with its multiple combinations of courses, sauces, side dishes... fun!
 
 Some [photos here](https://photos.app.goo.gl/c955VdXVmcLHhYJv9).
