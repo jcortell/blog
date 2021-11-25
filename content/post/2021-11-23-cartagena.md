@@ -26,6 +26,6 @@ Other than the (free) [Archeological Museum](https://museoarqueologico.cartagena
 
 Two special mentions to keep in mind are the small but interesting (and free) [MURAM, Region of Murcia's Modern Art Museum](https://www.museosregiondemurcia.es/museo-regional-de-arte-moderno-de-cartagena), and the [Air Raid Shelter Museum](https://puertodeculturas.cartagena.es/ficha_refugios.asp) (formerly known as the Civil War museum, although the new name better reflects what you see inside), from where you can take the scenic elevator up to the Castle. Both museums are a great learning opportunity, worth a visit.
 
-Back on the ship we worked a little bit, and then inspected several suites in different categories, before going to have dinner at the Indochine restaurant.
+Back on the ship we worked a little bit, and then inspected several suites in different categories, before going to have dinner at the pan-Asian (mostly Thai) Indochine restaurant.
 
 Some [photos here](https://photos.app.goo.gl/3ewVixdR4TG4xrUt7).
