@@ -2,7 +2,7 @@
 author: ""
 date: "2021-11-24T04:00:24+02:00"
 draft: false
-title: "Visiting The Alhambra in Granada"
+title: "Visiting the Alhambra in Granada"
 tags: ["personal", "trips"]
 images: "https://lh3.googleusercontent.com/wnDS21rEKJK171fSQAn6ToYB9vmjtbji7qudy_KMraIwq80L9J9ie-uv7VLwfFpokO-w07c2EjqGr1FmxJtWLQcKrvGPDpojlzQtwMbYpt5lzOI9kWgt7eJGWTjb5t3jex7fx0Ag9Dg=w1920-h1080"
 comments: false     # set false to hide Disqus comments
