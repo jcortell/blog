@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2021-12-09T01:50:28+00:00
+date: 2021-12-12T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -10,13 +10,10 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 **Bold** = confirmed; otherwise = tentative:
 
 
-**2021**
-
-* **10-12/12/21, Frankfurt (Germany)**, Personal trip (invited to stay at the [Rocco Forte Villa Kennedy Hotel](https://www.roccofortehotels.com/hotels-and-resorts/villa-kennedy/))
-
 **2022**
 
 * 17-18/01/22, Amsterdam (The Netherlands), Business trip
+* 26/02-02/03/21, Dubai (United Arab Emirates), Personal trip (invited to stay in the Bvlgari Dubai)
 * 07-09/03/22, St. Anton (Austria), Business trip
 
 
@@ -30,6 +27,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2021**
 
+* **10-12/12/21, Frankfurt (Germany)**, Personal trip (invited to stay at the [Rocco Forte Villa Kennedy Hotel](https://www.roccofortehotels.com/hotels-and-resorts/villa-kennedy/))
 * ~~**05-09/12/21, Dubai (United Arab Emirates)**, Personal trip (invited to stay in the Bvlgari Dubai)~~ postponed due to Omicron Covid19 variant
 * **01-02/12/21, Amsterdam (The Netherlands)**, Business trip
 * **19-28/11/21, Barcelona, Palamos, Palma de Mallorca, Valencia, Cartagena, Malaga, Cadiz (Spain), Lisbon (Portugal)**, Personal trip (invited to cruise on [Silver Sea's Silver Spirit](https://www.silversea.com/destinations/mediterranean-cruise/barcelona-to-lisbon-sl211119009.html))
