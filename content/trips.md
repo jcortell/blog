@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2021-12-12T01:50:28+00:00
+date: 2021-12-27T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,9 +12,10 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
+* **13/01/22, Madrid (Spain)**, Business trip
 * 17-18/01/22, Amsterdam (The Netherlands), Business trip
-* 26/02-02/03/21, Dubai (United Arab Emirates), Personal trip (invited to stay in the Bvlgari Dubai)
-* 07-09/03/22, St. Anton (Austria), Business trip
+* 26/02-02/03/22, Dubai (United Arab Emirates), Personal trip (invited to stay at the Bvlgari Dubai)
+* 10-13/03/22, St. Anton (Austria), Business trip
 
 
 **PREVIOUS:**
