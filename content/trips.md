@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2021-12-27T01:50:28+00:00
+date: 2022-01-01T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -16,6 +16,7 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 * 17-18/01/22, Amsterdam (The Netherlands), Business trip
 * 26/02-02/03/22, Dubai (United Arab Emirates), Personal trip (invited to stay at the Bvlgari Dubai)
 * 10-13/03/22, St. Anton (Austria), Business trip
+* **14-23/04/22, Venice (Italy), Kotor (Montenegro), Mykonos, Santorini (Greece), Bari, Venice (Italy)**, Personal trip (invited to cruise on [MSC Sinfonia](https://www.msccruceros.es/webapp/wcs/stores/servlet/CruiseDetailsCmd?storeId=715827885&catalogId=10001&langId=-5&partNumber=SX20220416VCEVCE&pageFrom=CruiseResults&listinoCode=B-SXC00469SP2011DE&packageType=_&bestPrice=519&composition=2,0,0,0))
 
 
 **PREVIOUS:**
