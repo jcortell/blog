@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-01-26T01:50:28+00:00
+date: 2022-01-27T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -13,8 +13,8 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 **2022**
 
 * 07-08/02/22, Amsterdam (The Netherlands), Business trip
-* **16-17/02/22, Malaga (Spain)**, Business trip to attend [Transfiere](https://transfiere.fycma.com)
-* 26/02-02/03/22, Dubai (United Arab Emirates), Personal trip (invited to stay at the [Bvlgari Dubai](https://www.bulgarihotels.com/en_US/dubai))
+* **15-17/02/22, Malaga (Spain)**, Business trip to attend [Transfiere](https://transfiere.fycma.com)
+* **26/02-02/03/22, Dubai (United Arab Emirates), Amsterdam (Netherlands)**, Personal and business trip (invited to stay at the [Bvlgari Dubai](https://www.bulgarihotels.com/en_US/dubai))
 * **09-13/03/22, Zell am See (Austria)**, Business trip, invited to ski at Schmittenhöhe (Pinzgau) and archery at Bogendorf, staying at [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
 * **27/03-03/04/22, Venice, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venice (Italy)**, Personal trip (invited to cruise the Po river on [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
 * **04-07/04/22, Venice (Italy)**, Personal trip
