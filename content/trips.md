@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-01-27T01:50:28+00:00
+date: 2022-02-08T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,13 +12,13 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
-* 07-08/02/22, Amsterdam (The Netherlands), Business trip
 * **15-17/02/22, Malaga (Spain)**, Business trip to attend [Transfiere](https://transfiere.fycma.com)
-* **26/02-02/03/22, Dubai (United Arab Emirates), Amsterdam (Netherlands)**, Personal and business trip (invited to stay at the [Bvlgari Dubai](https://www.bulgarihotels.com/en_US/dubai))
+* **26/02-01/03/22, Dubai (United Arab Emirates)**, Personal trip (invited to stay at the [Bvlgari Dubai](https://www.bulgarihotels.com/en_US/dubai))
+* **02-03/03/22, Amsterdam (The Netherlands)**, Business trip
 * **09-13/03/22, Zell am See (Austria)**, Business trip, invited to ski at Schmittenhöhe (Pinzgau) and archery at Bogendorf, staying at [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
 * **27/03-03/04/22, Venice, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venice (Italy)**, Personal trip (invited to cruise the Po river on [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
-* **04-07/04/22, Venice (Italy)**, Personal trip
-* **14-23/04/22, Venice (Italy), Kotor (Montenegro), Mykonos, Santorini (Greece), Bari, Venice (Italy)**, Personal trip (invited to cruise on [MSC Sinfonia](https://www.msccruceros.es/webapp/wcs/stores/servlet/CruiseDetailsCmd?storeId=715827885&catalogId=10001&langId=-5&partNumber=SX20220416VCEVCE&pageFrom=CruiseResults&listinoCode=B-SXC00469SP2011DE&packageType=_&bestPrice=519&composition=2,0,0,0))
+* **04-07/04/22, Venice and Tuscany (Italy)**, Personal trip
+* **15-25/04/22, Trieste, Ancona (Italy), Kotor (Montenegro), Bari (Italy), Corfu (Greece), Dubrovnik (Croatia), Trieste, Bologna (Italy)**, Personal trip (invited to cruise on [MSC Fantasia](https://www.msccruisesusa.com/cruise/ships/msc-fantasia/itineraries?departureDateFrom=16%2F04%2F2022&departureDateTo=30%2F04%2F2022&passengers=2%7C0%7C0%7C0))
 * **11-12/05/22, Munich (Germany)**, Business trip to attend [BioVaria](https://www.biovaria.org/)
 * **28-29/09/22, Malmö (Sweden)**, Business trip to attend [Nordic LifeScience Days](https://www.nlsdays.com/)
 * 12-14/10/22, Yokohama (Japan), Business trip to attend [BioJapan](https://jcd-expo.jp/en/)
