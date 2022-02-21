@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-02-08T01:50:28+00:00
+date: 2022-02-21T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,13 +12,13 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
-* **15-17/02/22, Malaga (Spain)**, Business trip to attend [Transfiere](https://transfiere.fycma.com)
 * **26/02-01/03/22, Dubai (United Arab Emirates)**, Personal trip (invited to stay at the [Bvlgari Dubai](https://www.bulgarihotels.com/en_US/dubai))
 * **02-03/03/22, Amsterdam (The Netherlands)**, Business trip
-* **09-13/03/22, Zell am See (Austria)**, Business trip, invited to ski at Schmittenhöhe (Pinzgau) and archery at Bogendorf, staying at [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
+* **10-13/03/22, Zell am See (Austria)**, Business trip, invited to ski at Schmittenhöhe (Pinzgau) and archery at Bogendorf, staying at [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
 * **27/03-03/04/22, Venice, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venice (Italy)**, Personal trip (invited to cruise the Po river on [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
 * **04-07/04/22, Venice and Tuscany (Italy)**, Personal trip
 * **15-25/04/22, Trieste, Ancona (Italy), Kotor (Montenegro), Bari (Italy), Corfu (Greece), Dubrovnik (Croatia), Trieste, Bologna (Italy)**, Personal trip (invited to cruise on [MSC Fantasia](https://www.msccruisesusa.com/cruise/ships/msc-fantasia/itineraries?departureDateFrom=16%2F04%2F2022&departureDateTo=30%2F04%2F2022&passengers=2%7C0%7C0%7C0))
+* **02-03/05/22, Amsterdam (The Netherlands)**, Business trip
 * **11-12/05/22, Munich (Germany)**, Business trip to attend [BioVaria](https://www.biovaria.org/)
 * **28-29/09/22, Malmö (Sweden)**, Business trip to attend [Nordic LifeScience Days](https://www.nlsdays.com/)
 * 12-14/10/22, Yokohama (Japan), Business trip to attend [BioJapan](https://jcd-expo.jp/en/)
@@ -35,6 +35,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2021**
 
+* **15-17/02/22, Malaga (Spain)**, Business trip to attend [Transfiere](https://transfiere.fycma.com)
 * **10-12/12/21, Frankfurt (Germany)**, Personal trip (invited to stay at the [Rocco Forte Villa Kennedy Hotel](https://www.roccofortehotels.com/hotels-and-resorts/villa-kennedy/))
 * ~~**05-09/12/21, Dubai (United Arab Emirates)**, Personal trip (invited to stay in the Bvlgari Dubai)~~ postponed due to Omicron Covid19 variant
 * **01-02/12/21, Amsterdam (The Netherlands)**, Business trip
