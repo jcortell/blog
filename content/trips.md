@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-02-22T01:50:28+00:00
+date: 2022-03-03T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,8 +12,6 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
-* **26/02-01/03/22, Dubai (United Arab Emirates)**, Personal trip (invited to stay at the [Bvlgari Dubai](https://www.bulgarihotels.com/en_US/dubai))
-* **02-03/03/22, Amsterdam (The Netherlands)**, Business trip
 * **10-13/03/22, Zell am See (Austria)**, Business trip, invited to ski at Schmittenhöhe (Pinzgau) and archery at Bogendorf, staying at [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
 * **27/03-03/04/22, Venice, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venice (Italy)**, Personal trip (invited to cruise the Po river on [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
 * **04-07/04/22, Venice and Tuscany (Italy)**, Personal trip
@@ -40,9 +38,14 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 
+**2022**
+
+* **02-03/03/22, Amsterdam (The Netherlands)**, Business trip
+* **26/02-01/03/22, Dubai (United Arab Emirates)**, Personal trip (invited to stay at the [Bvlgari Dubai](https://www.bulgarihotels.com/en_US/dubai))
+* **15-17/02/22, Malaga (Spain)**, Business trip to attend [Transfiere](https://transfiere.fycma.com)
+
 **2021**
 
-* **15-17/02/22, Malaga (Spain)**, Business trip to attend [Transfiere](https://transfiere.fycma.com)
 * **10-12/12/21, Frankfurt (Germany)**, Personal trip (invited to stay at the [Rocco Forte Villa Kennedy Hotel](https://www.roccofortehotels.com/hotels-and-resorts/villa-kennedy/))
 * ~~**05-09/12/21, Dubai (United Arab Emirates)**, Personal trip (invited to stay in the Bvlgari Dubai)~~ postponed due to Omicron Covid19 variant
 * **01-02/12/21, Amsterdam (The Netherlands)**, Business trip
