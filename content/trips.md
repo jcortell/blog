@@ -12,7 +12,7 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
-* **10-13/03/22, Zell am See (Austria)**, Business trip, invited to ski at Schmittenhöhe (Pinzgau) and archery at Bogendorf, staying at [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
+* **10-13/03/22, Zell am See (Austria)**, Business trip, team-building trip to ski at Schmittenhöhe (Pinzgau) and archery at Bogendorf, staying at [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
 * **27/03-03/04/22, Venice, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venice (Italy)**, Personal trip (invited to cruise the Po river on [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
 * **04-07/04/22, Venice and Tuscany (Italy)**, Personal trip
 * **11-12/04/22, Amsterdam (The Netherlands)**, Business trip
