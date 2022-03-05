@@ -18,7 +18,7 @@ For a number of reasons, I flew with my wife and daughter to Dubai on Saturday (
 
 <!--more-->
 
-The outbound flight was an adventure in itself, as the first leg was delayed to a point where we would have missed our connecting flight in Amsterdam, so we changed our tickets to go via Paris... but getting the luggage (already cheked in for the other flight) was an ordeal. But it ended up working well, and after an epic layover in Paris we made it to Dubai.
+The outbound flight was an adventure in itself, as the first leg was delayed to a point where we would have missed our connecting flight in Amsterdam, so we changed our tickets to go via Paris... but getting the luggage (already checked in for the other flight) was an ordeal. But it ended up working well, and after an epic layover in Paris we made it to Dubai.
 
 By the way, the Air France lounge in Charles de Gaulle airport is really cool, with amazing food, showers, and even free massages.
 
@@ -50,7 +50,7 @@ On Monday we inspected several properties (the first four all by Jumeirah, all p
 
 Some [Monday photos here](https://photos.app.goo.gl/v8SvwuztHKsjZpux6)
 
-On Tuesday, after some fun at the beach (yes, I did paddleboard without falling a single time), we went to inspect [The Atlantis The Palm](https://www.atlantis.com/dubai/atlantis-the-palm), another very iconic, colorful, and big property in Dubai. We toured the massive [Royal Bridge Suite](https://www.atlantis.com/dubai/rooms-and-suites/signature-suites/royal-bridge-suite) with very discreet door, backside entrance direct from the parking lot (where a Bugatti Veyron was parked), private elevator, and every amenity you can think of. This is the suite where JLo, Kim Kardassian, or Kate Perry have stayed, for example.
+On Tuesday, after some fun at the beach (yes, I did paddleboard without falling a single time), we went to inspect [The Atlantis The Palm](https://www.atlantis.com/dubai/atlantis-the-palm), another very iconic, colorful, and big property in Dubai. We toured the massive [Royal Bridge Suite](https://www.atlantis.com/dubai/rooms-and-suites/signature-suites/royal-bridge-suite) with very discreet door, backside entrance direct from the parking lot (where a Bugatti Veyron was parked), private elevator, and every amenity you can think of. This is the suite where JLo, Kim Kardashian, or Katy Perry have stayed, for example.
 
 Then we changed into our swimsuits again to spend most of the rest of the day at the [Aquaventure Water Park](https://www.atlantis.com/dubai/atlantis-aquaventure/aquaventure-waterpark). With 105 slides, water sports, and tons of activities, we did have a blast, although the lines were not as short as we would have liked.
 
