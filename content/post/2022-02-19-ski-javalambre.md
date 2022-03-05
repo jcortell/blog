@@ -18,6 +18,8 @@ My daughter wanted to go skiing with a friend, so we drove with my dad to the cl
 
 <!--more-->
 
+The ski resort of Javalambre, in Teruel (an hour and a half away from where we live) is situated at a height of 1775 m (with a maximum elevation of 2000 m). Skiing is guaranteed due to over 95 artificial snow cannons. Most days at Javalambre you ski with clear blue skies. Temperatures can also be usually high for a ski resort.
+
 Unfortunately I can not ski anymore because of my knees, but my daughter and a friend enjoyed very much... until the fog was so dense, we had to call it a day and return home for some hot chocolate and churros.
 
 An enjoyable day trip nonetheless.

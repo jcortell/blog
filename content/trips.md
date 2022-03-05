@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-03-03T01:50:28+00:00
+date: 2022-03-05T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -42,6 +42,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 * **02-03/03/22, Amsterdam (The Netherlands)**, Business trip
 * **26/02-01/03/22, Dubai (United Arab Emirates)**, Personal trip (invited to stay at the [Bvlgari Dubai](https://www.bulgarihotels.com/en_US/dubai))
+* **19/02/22, Javalambre, Teruel (Spain)**, Personal trip to ski
 * **15-17/02/22, Malaga (Spain)**, Business trip to attend [Transfiere](https://transfiere.fycma.com)
 
 **2021**
