@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-03-05T01:50:28+00:00
+date: 2022-03-13T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,14 +12,14 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
-* **10-13/03/22, Zell am See (Austria)**, Business trip, team-building trip to ski at Schmittenhöhe (Pinzgau) and archery at Bogendorf, staying at [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
 * **27/03-03/04/22, Venice, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venice (Italy)**, Personal trip (invited to cruise the Po river on [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
 * **04-07/04/22, Venice and Tuscany (Italy)**, Personal trip
 * **11-12/04/22, Amsterdam (The Netherlands)**, Business trip
 * **15-25/04/22, Trieste, Ancona (Italy), Kotor (Montenegro), Bari (Italy), Corfu (Greece), Dubrovnik (Croatia), Trieste, Bologna (Italy)**, Personal trip (invited to cruise on [MSC Fantasia](https://www.msccruisesusa.com/cruise/ships/msc-fantasia/itineraries?departureDateFrom=16%2F04%2F2022&departureDateTo=30%2F04%2F2022&passengers=2%7C0%7C0%7C0))
 * **02-03/05/22, Amsterdam (The Netherlands)**, Business trip
 * **11-12/05/22, Munich (Germany)**, Business trip to attend [BioVaria](https://www.biovaria.org/)
-* **06-07/06/22, Amsterdam (The Netherlands)**, Business trip
+* **06-08/06/22, Amsterdam (The Netherlands)**, Business trip
+* **09-10/06/22, The Hague (The Netherlands)**, Business trip team building invited to sail through the North Sea
 * **11-12/07/22, Amsterdam (The Netherlands)**, Business trip
 * **05-06/09/22, Amsterdam (The Netherlands)**, Business trip
 * **28-29/09/22, Malmö (Sweden)**, Business trip to attend [Nordic LifeScience Days](https://www.nlsdays.com/)
@@ -40,6 +40,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* **10-13/03/22, Zell am See (Austria)**, Business trip, team-building trip to ski at Schmittenhöhe (Pinzgau) and archery at Bogendorf, staying at [Haidvogl Mavida Zell am See](https://www.mavida.at/en/wellnesshotel-zell-am-see/)
 * **02-03/03/22, Amsterdam (The Netherlands)**, Business trip
 * **26/02-01/03/22, Dubai (United Arab Emirates)**, Personal trip (invited to stay at the [Bvlgari Dubai](https://www.bulgarihotels.com/en_US/dubai))
 * **19/02/22, Javalambre, Teruel (Spain)**, Personal trip to ski
