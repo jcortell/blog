@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-03-13T01:50:28+00:00
+date: 2022-03-20T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -20,6 +20,7 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 * **11-12/05/22, Munich (Germany)**, Business trip to attend [BioVaria](https://www.biovaria.org/)
 * **06-08/06/22, Amsterdam (The Netherlands)**, Business trip
 * **09-10/06/22, The Hague (The Netherlands)**, Business trip team building invited to sail through the North Sea
+* 02-09/07/22, Venice (Italy), Piran (Slovenia), Split, Korcula, Dubrovnik (Croatia), Personal trip (invited to cruise the Adriatic sea on [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258))
 * **11-12/07/22, Amsterdam (The Netherlands)**, Business trip
 * **05-06/09/22, Amsterdam (The Netherlands)**, Business trip
 * **28-29/09/22, Malmö (Sweden)**, Business trip to attend [Nordic LifeScience Days](https://www.nlsdays.com/)
