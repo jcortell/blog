@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-03-20T01:50:28+00:00
+date: 2022-03-21T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -13,7 +13,7 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 **2022**
 
 * **27/03-03/04/22, Venice, Chioggia, Polesella-Ferrara, Porto Viro, Chioggia, Torcello-Mazzorbo-Burano, Venice (Italy)**, Personal trip (invited to cruise the Po river on [Uniworld S.S. La Venezia](https://www.uniworld.com/us/river-cruise/italy/venice-and-the-gems-of-northern-italy/2022-venice-to-venice))
-* **04-07/04/22, Venice and Tuscany (Italy)**, Personal trip
+* **04-09/04/22, Venice and Tuscany (Italy)**, Personal trip invited to stay at the [Sina Centurion Palace](https://www.sinahotels.com/en/h/sina-centurion-palace-venice/), the [JW Marriott's private island in Venice – Isola delle Rose](https://www.marriott.com/en-us/hotels/vcejw-jw-marriott-venice-resort-and-spa/overview/), and the [Relais Villa Olmo in Tuscany](https://www.relaisvillaolmo.com/en/).
 * **11-12/04/22, Amsterdam (The Netherlands)**, Business trip
 * **15-25/04/22, Trieste, Ancona (Italy), Kotor (Montenegro), Bari (Italy), Corfu (Greece), Dubrovnik (Croatia), Trieste, Bologna (Italy)**, Personal trip (invited to cruise on [MSC Fantasia](https://www.msccruisesusa.com/cruise/ships/msc-fantasia/itineraries?departureDateFrom=16%2F04%2F2022&departureDateTo=30%2F04%2F2022&passengers=2%7C0%7C0%7C0))
 * **02-03/05/22, Amsterdam (The Netherlands)**, Business trip
