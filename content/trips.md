@@ -30,6 +30,10 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 * 14-17/11/22, Düsseldorf (Germany), Business trip to attend [Medica](https://www.medica-tradefair.com/)
 * **05-06/12/22, Amsterdam (The Netherlands)**, Business trip
 
+**2023**
+
+* **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Kanmon Straits (Japan), Pusan (South Korea), Nagasaki, Kagoshima, Miyazaki, Philippine Sea, Tokyo (Japan)**, Personal trip (invited to [cruise Japan on the Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
+
 
 **PREVIOUS:**
 
