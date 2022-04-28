@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-04-26T01:50:28+00:00
+date: 2022-04-28T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -15,17 +15,16 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 * **02-03/05/22, Amsterdam (The Netherlands)**, Business trip
 * **05-08/05/22, Malmö (Sweden)**, Personal trip
 * **10-13/05/22, Munich (Germany)**, Business trip to attend [BioVaria](https://www.biovaria.org/)
-* **17/05/22, Antwerp (Belgium)**, Business trip to attend [Future Summits](https://www.futuresummits.com/2022)
 * **20/05/22, Amsterdam (The Netherlands)**, Business trip
 * **21-22/05/22, Barcelona (Spain)**, Business trip to attend [International Neuromodulation Society](https://ins-congress.com)
 * **24-25/05/22, Stockholm (Sweden)**, Business trip to attend [EIT Health Summit](https://summit.eithealth.eu/)
 * 28-29/05/22, Ibiza (Spain), Personal trip
-* **01/06/22, Brussels (Belgium)**, Business trip to attend [HIHR-EIT](https://www.hihr.eu/hihr-10-june-2022/)
 * **06-08/06/22, Amsterdam (The Netherlands)**, Business trip
 * **09-10/06/22, Harlingen (The Netherlands)**, Business trip team building invited to sail through the North Sea
 * 25-30/06/22, Washington D.C. (USA), Business trip to attend [Select USA Investment Summit](https://www.selectusasummit.us)
 * ~~02-09/07/22, Venice (Italy), Piran (Slovenia), Split, Korcula, Dubrovnik (Croatia), Personal trip (invited to cruise the Adriatic sea on [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258))~~
 * **11-12/07/22, Amsterdam (The Netherlands)**, Business trip
+* **17-25/07/21, Istanbul (Turkey), Lesbos (Greece), Ephesus, Bodrum, Antalaya (Turkey), Limassol (Cyprus),Rhodes, Crete, Santorini, Mykonos, Athens (Greece)**, Personal trip (invited to cruise on [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
 * **05-06/09/22, Amsterdam (The Netherlands)**, Business trip
 * **28-29/09/22, Malmö (Sweden)**, Business trip to attend [Nordic LifeScience Days](https://www.nlsdays.com/)
 * **10-11/10/22, Amsterdam (The Netherlands)**, Business trip
