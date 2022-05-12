@@ -26,4 +26,4 @@ Then, after a delicious seafood lunch onboard the ship, we went back out again t
 
 Almost overwhelmed with art and history, we went back to the ship to have dinner and sleep, still in awe.
 
-Some [photos here](hhttps://photos.app.goo.gl/crSvyXTsDaSy8FZe7)
+Some [photos here](https://photos.app.goo.gl/crSvyXTsDaSy8FZe7)
