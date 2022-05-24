@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-05-11T01:50:28+00:00
+date: 2022-05-24T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,19 +12,18 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
-* **20/05/22, Amsterdam (The Netherlands)**, Business trip
-* 28-29/05/22, Ibiza (Spain), Personal trip
 * **06-08/06/22, Amsterdam (The Netherlands)**, Business trip
 * **09-10/06/22, Harlingen (The Netherlands)**, Business trip team building invited to sail through the North Sea
-* 20-22/06/22, Ibiza (Spain), Business trip
-* 04-07/07/22, Canary Islands (Spain), Business trip
+* **27-30/06/22, Santa Cruz de Tenerife, and Las Palmas de Gran Canaria (Spain)**, Business trip
 * ~~02-09/07/22, Venice (Italy), Piran (Slovenia), Split, Korcula, Dubrovnik (Croatia), Personal trip (invited to cruise the Adriatic sea on [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258)) Rescheduled due to Covid~~
 * **11-12/07/22, Amsterdam (The Netherlands)**, Business trip
 * **15-28/07/21, Istanbul (Turkey), Lesbos (Greece), Ephesus, Bodrum, Antalaya (Turkey), Limassol (Cyprus),Rhodes, Crete, Santorini, Mykonos, Athens (Greece)**, Personal trip (invited to cruise on [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
+* 25/08-04/09/22, Athens, Mykonos (Greece), Istanbul (Turkey), Olympia (Greece), Venice (Italy), Personal trip (invited to cruise on [Holland America's Oosterdam](https://www.hollandamerica.com/es_ES/find-a-cruise/E2M07N/O260.html))
 * **05-06/09/22, Amsterdam (The Netherlands)**, Business trip
 * **28-29/09/22, Malmö (Sweden)**, Business trip to attend [Nordic LifeScience Days](https://www.nlsdays.com/)
 * **10-11/10/22, Amsterdam (The Netherlands)**, Business trip
 * 12-14/10/22, Yokohama (Japan), Business trip to attend [BioJapan](https://jcd-expo.jp/en/)
+* 13-14/10/22, Oxford (UK), Business trip to attend UBS ILN HealthTech event
 * **07-08/11/22, Amsterdam (The Netherlands)**, Business trip
 * 14-17/11/22, Düsseldorf (Germany), Business trip to attend [Medica](https://www.medica-tradefair.com/)
 * **05-06/12/22, Amsterdam (The Netherlands)**, Business trip
@@ -44,6 +43,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* **20/05/22, Amsterdam (The Netherlands)**, Business trip
 * **10-13/05/22, Munich (Germany)**, Business trip to attend [BioVaria](https://www.biovaria.org/)
 * **05-08/05/22, Malmö (Sweden)**, Personal trip
 * **02-03/05/22, Amsterdam (The Netherlands)**, Business trip
