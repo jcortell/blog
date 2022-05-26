@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-05-24T01:50:28+00:00
+date: 2022-05-25T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -13,7 +13,7 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 **2022**
 
 * **06-08/06/22, Amsterdam (The Netherlands)**, Business trip
-* **09-10/06/22, Harlingen (The Netherlands)**, Business trip team building invited to sail through the North Sea
+* **09-10/06/22, Harlingen (The Netherlands)**, Business trip team building invited to sail through the North Sea on two ships: [De Ortolan](https://www.zeilendeschepen.nl/schip/ortolan-stavoren/) and [Rode Swan](https://www.zeilendeschepen.nl/schip/rode-swan-harlingen/), to [Terschelling](https://www.google.com/maps/place/Terschelling/data=!4m2!3m1!1s0x47c926ad2422b941:0x6b577dbbeaff1c20?sa=X&ved=2ahUKEwjPmLWR7fr3AhVGfMAKHc83DZYQ8gF6BAhwEAE) (one of the Dutch "Wadden" islands).
 * **27-30/06/22, Santa Cruz de Tenerife, and Las Palmas de Gran Canaria (Spain)**, Business trip
 * ~~02-09/07/22, Venice (Italy), Piran (Slovenia), Split, Korcula, Dubrovnik (Croatia), Personal trip (invited to cruise the Adriatic sea on [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258)) Rescheduled due to Covid~~
 * **11-12/07/22, Amsterdam (The Netherlands)**, Business trip
