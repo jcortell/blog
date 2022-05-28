@@ -7,7 +7,7 @@ tags: ["travel", "personal"]
 images: "https://lh3.googleusercontent.com/19-2k3Dzl_LGbcLf5hMwNUAg1Agu81olVBsO3bEf1igY0tqBUS_nK5MbNepjyYYTdXljDTXYk_7W9GFheu_1IBMatL0CPXPr4elimEsOTAUFnrHo6spDgzxkrtLVonWmjidQCpM-Tbw=w2400"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: https://lh3.googleusercontent.com/LLB28X88VbxNXhyP7zje_sMfyXQ92amRazk-p3d_fCcU3w42PqcNIdTGVBewcp2js5JIUebbwxz5m57L5ztwqRmemnnXgPB95nRED0Fajc8cEpwpDuuSqqlyl6Dio0eHz5eXeMJh_P4=w2400
 coverImage: https://lh3.googleusercontent.com/19-2k3Dzl_LGbcLf5hMwNUAg1Agu81olVBsO3bEf1igY0tqBUS_nK5MbNepjyYYTdXljDTXYk_7W9GFheu_1IBMatL0CPXPr4elimEsOTAUFnrHo6spDgzxkrtLVonWmjidQCpM-Tbw=w2400
 metaAlignment: center
@@ -18,7 +18,9 @@ On Friday we had lunch with Giovanna, Marchesa (Marquise) Bartolini Baldelli, in
 
 <!--more-->
 
-In Impruneta’s hills, Florence, and with splendid views over the Chianti hills, Giovanna showed us the [Fattoria di Bagnolo](https://www.bartolinibaldelli.it/bagnolo-winery_fattoria-bagnolo_page_en.html)'s wines and olive oil and invited us to her home.
+After visiting the [Castello di Gabbiano](https://www.castellogabbiano.it/) in San Casciano - Val di Pesa, we went in our Jeep to Impruneta’s hills, Florence.
+
+With splendid views over the Chianti hills, Giovanna showed us the [Fattoria di Bagnolo](https://www.bartolinibaldelli.it/bagnolo-winery_fattoria-bagnolo_page_en.html)'s wines and olive oil and invited us to her home.
 
 Dating back to 1419, when this estate was called "Al Fonte', it belonged to Machiavelli family from 1458 to 1585. Now it's filled with art and enchanting little corners with breathtaking views.
 
