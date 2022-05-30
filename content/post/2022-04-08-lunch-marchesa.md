@@ -22,7 +22,7 @@ After visiting the [Castello di Gabbiano](https://www.castellogabbiano.it/) in S
 
 With splendid views over the Chianti hills, Giovanna showed us the [Fattoria di Bagnolo](https://www.bartolinibaldelli.it/bagnolo-winery_fattoria-bagnolo_page_en.html)'s wines and olive oil and invited us to her home.
 
-Dating back to 1419, when this estate was called "Al Fonte', it belonged to Machiavelli family from 1458 to 1585. Now it's filled with art and enchanting little corners with breathtaking views.
+Dating back to 1419, when this estate was called 'Al Fonte', it belonged to Machiavelli family from 1458 to 1585. Now it's filled with art and enchanting little corners with breathtaking views.
 
 The funny anecdote is that while strolling through the vineyards and olive trees, Giovanna kept asking if we knew any rich single woman to marry her son, in an almost parody of a typical Italian mamma. Of course, what we fell in love with was her sweet dog.
 

@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-After touring the Since Centurion Palace hotel, we went to the [Punta della Dogana](https://www.palazzograssi.it/en/about/sites/punta-della-dogana/) (Pinault Collection) art gallery, visited the [Peggy Guggenheim Museum](https://www.guggenheim-venice.it/)... and were invited (including a welcome note and gift from Cristiano) to stay in a private island in Venice!
+After touring the Sina Centurion Palace hotel, we went to the [Punta della Dogana](https://www.palazzograssi.it/en/about/sites/punta-della-dogana/) (Pinault Collection) art gallery, visited the [Peggy Guggenheim Museum](https://www.guggenheim-venice.it/)... and were invited (including a welcome note and gift from Cristiano) to stay in a private island in Venice!
 
 <!--more-->
 

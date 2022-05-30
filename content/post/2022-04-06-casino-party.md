@@ -20,7 +20,7 @@ For my birthday my wife invited me to the wildest and most stylish party ever, o
 
 Staying at our private island is very nice, the villa and resort are very nice, bla bla bla... but I really want to tell you about the party, so here are some [photos of the Isola delle Rose](https://photos.app.goo.gl/kRBo6jKgyk3HK8jd8).
 
-Now, imagine your wife tells you to dress in black tie and get ready for the party of your life. If your wife is anything like mine, that's not a joke. So I got into my D&G black suite, we hopped on the boat, and rode to the Ca' Vendramin Calergi palace in the Grand Canal.
+Now, imagine your wife tells you to dress in black tie and get ready for the party of your life. If your wife is anything like mine, that's not a joke. So I got into my D&G black suit, we hopped on the boat, and rode to the Ca' Vendramin Calergi palace in the Grand Canal.
 
 Paparazzi, friends, guests, entertainers, fancy dresses, gourmet banquet, performances (opera, swing, blues, ballet, rock...). I don't think I will ever get a fancier birthday party. It was amazing! Just like my wonderful wife.
 

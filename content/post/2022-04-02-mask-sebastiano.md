@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-April 2nd was our last day on the cruise, but also a double treat: a visit to the [Ca'Macana Maschere](https://www.camacana.com/) mask atelier, and a visit to the [Chiesa di San Sebastiano](https://en.wikipedia.org/wiki/San_Sebastiano,_Venice), with its Veronese, Tiziano and Veronese's frescoes.
+April 2nd was our last day on the cruise, but also a double treat: a visit to the [Ca'Macana Maschere](https://www.camacana.com/) mask atelier, and a visit to the [Chiesa di San Sebastiano](https://en.wikipedia.org/wiki/San_Sebastiano,_Venice), with its Tintoretto, Tiziano and Veronese's frescoes.
 
 <!--more-->
 
