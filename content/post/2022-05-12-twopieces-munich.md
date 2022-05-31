@@ -3,7 +3,7 @@ author: ""
 date: "2022-05-12T05:00:24+02:00"
 draft: false
 title: "Two of my art pieces exhibited in Munich museums"
-tags: ["personal, "art""]
+tags: ["personal, "art"]
 images: "https://lh3.googleusercontent.com/3mgavgEuFATG9AtZDLjzLz-xIQqckScA2z5WhcKb6voHBShbZIsj9Gd9ATqwinNoGSaK6ppDtQ_eM2j2mXV1fi2pjIJ_V5GA5LLlurVGofkJMjUOg64_HKbbP64BmSa0Ag0CXBjkLw8=w2400"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
