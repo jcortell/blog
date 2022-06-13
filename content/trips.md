@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-06-02T01:50:28+00:00
+date: 2022-06-13T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,12 +12,11 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
-* **06-08/06/22, Amsterdam (The Netherlands)**, Business trip
-* **09-10/06/22, Harlingen (The Netherlands)**, Business trip team building invited to sail through the North Sea on two ships: [De Ortolan](https://www.zeilendeschepen.nl/schip/ortolan-stavoren/) and [Rode Swan](https://www.zeilendeschepen.nl/schip/rode-swan-harlingen/), to [Terschelling](https://www.google.com/maps/place/Terschelling/data=!4m2!3m1!1s0x47c926ad2422b941:0x6b577dbbeaff1c20?sa=X&ved=2ahUKEwjPmLWR7fr3AhVGfMAKHc83DZYQ8gF6BAhwEAE) (one of the Dutch "Wadden" islands).
-* 14-16/06/22, Copenhaguen (Denmark), Business trip
+* **16-17/06/22, Zurich (Switzerland)**, Business trip
+* 22/06/22, Madrid (Spain), Business trip
 * **27-30/06/22, Santa Cruz de Tenerife, and Las Palmas de Gran Canaria (Spain)**, Business trip
-* ~~02-09/07/22, Venice (Italy), Piran (Slovenia), Split, Korcula, Dubrovnik (Croatia), Personal trip (invited to cruise the Adriatic sea on [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258)) Rescheduled due to Covid~~
-* **11-12/07/22, Amsterdam (The Netherlands)**, Business trip
+* ~~02-09/07/22, Venice (Italy), Piran (Slovenia), Split, Korcula, Dubrovnik (Croatia), Personal trip (invited to cruise the Adriatic sea on [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258))~~ Rescheduled due to Covid
+* **10-12/07/22, Amsterdam (The Netherlands)**, Business trip
 * **15-28/07/21, Istanbul (Turkey), Lesbos (Greece), Ephesus, Bodrum, Antalaya (Turkey), Limassol (Cyprus),Rhodes, Crete, Santorini, Mykonos, Athens (Greece)**, Personal trip (invited to cruise on [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
 * **05-06/09/22, Amsterdam (The Netherlands)**, Business trip
 * **10-11/10/22, Amsterdam (The Netherlands)**, Business trip
@@ -42,6 +41,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* ~~09-10/06/22, Harlingen (The Netherlands)**, Business trip team building invited to sail through the North Sea on two ships: [De Ortolan](https://www.zeilendeschepen.nl/schip/ortolan-stavoren/) and [Rode Swan](https://www.zeilendeschepen.nl/schip/rode-swan-harlingen/), to [Terschelling](https://www.google.com/maps/place/Terschelling/data=!4m2!3m1!1s0x47c926ad2422b941:0x6b577dbbeaff1c20?sa=X&ved=2ahUKEwjPmLWR7fr3AhVGfMAKHc83DZYQ8gF6BAhwEAE) (one of the Dutch "Wadden" islands)~~ cancelled due to airline rebooking last minute.
+* **06-08/06/22, Amsterdam (The Netherlands)**, Business trip
 * **20/05/22, Amsterdam (The Netherlands)**, Business trip
 * **10-13/05/22, Munich (Germany)**, Business trip to attend [BioVaria](https://www.biovaria.org/)
 * **05-08/05/22, Malmö (Sweden)**, Personal trip
