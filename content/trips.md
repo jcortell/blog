@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-07-05T01:50:28+00:00
+date: 2022-07-16T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,15 +12,13 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
-* **10-12/07/22, Amsterdam (The Netherlands)**, Business trip
-* **15-28/07/21, Istanbul (Turkey), Lesbos (Greece), Ephesus, Bodrum, Antalaya (Turkey), Limassol (Cyprus), Rhodes, Crete, Santorini, Mykonos, Athens (Greece)**, Personal trip (invited to cruise the Aegeum on [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
 * **03-12/08/22, Marina Zeas Piraeus - Kea, Delos, Mykonos, Santorini, Rethymnon/Crete, Kythira, Monemvasia - Nafplion, Nafplion - Hydra, Marina Zeas Piraeus (Greece)**, Personal trip (invited to cruise the Aegeum by [Variety Cruises](https://www.varietycruises.com/cruises/greece/greece-classical-greece))
 * **16-17/08/22, Madrid (Spain)**, Business trip
-* 01-04/09/22, Boston (USA), Business trip
-* **05-06/09/22, Amsterdam (The Netherlands)**, Business trip
-* **10-11/10/22, Amsterdam (The Netherlands)**, Business trip
+* 01/09/22, Boston (USA), Business trip
 * 12-14/10/22, Yokohama (Japan), Business trip to attend [BioJapan](https://jcd-expo.jp/en/)
 * 13-14/10/22, Oxford (UK), Business trip to attend UBS ILN HealthTech event
+* 17-18/10/22, Amsterdam (The Netherlands), Business trip
+* 19-26/10/22 Valencia (Spain), Business trip to attend South Summit and Valencia Digital Summit
 * **07-08/11/22, Amsterdam (The Netherlands)**, Business trip
 * 14-17/11/22, Düsseldorf (Germany), Business trip to attend [Medica](https://www.medica-tradefair.com/)
 * **05-06/12/22, Amsterdam (The Netherlands)**, Business trip
@@ -40,6 +38,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* **15-28/07/21, Istanbul (Turkey), Lesbos (Greece), Ephesus, Bodrum, Antalaya (Turkey), Limassol (Cyprus), Rhodes, Crete, Santorini, Mykonos, Athens (Greece)**, Personal trip (invited to cruise the Aegeum on [Oceania's Riviera](https://www.oceaniacruises.com/mediterranean-cruises/istanbul-to-athens-RVA220717/))
+* **10-12/07/22, Amsterdam (The Netherlands)**, Business trip
 * ~~02-09/07/22, Venice (Italy), Piran (Slovenia), Split, Korcula, Dubrovnik (Croatia), Personal trip (invited to cruise the Adriatic sea on [The Ritz-Carlton Yacht Collection Evrima](https://www.virtuoso.com/ships/15822258))~~ Rescheduled due to Covid
 * **27-30/06/22, Santa Cruz de Tenerife, and Las Palmas de Gran Canaria (Spain)**, Business trip
 * **16-17/06/22, Zurich (Switzerland)**, Business trip
