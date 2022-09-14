@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-09-06T01:50:28+00:00
+date: 2022-09-13T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -12,11 +12,12 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 **2022**
 
 * **24/09 -04/10/22, Bangkok (Thailand)**, Business trip
-* 08-10/10/22, Punta Cana (Domenican Republic), Personal trip
+* **08-10/10/22, Buffalo (USA) and Niagara (Canada)**, Personal trip
 * **13-14/10/22, London and Brackley (UK)**, Business trip to attend UBS ILN event
 * **17-18/10/22, Amsterdam (The Netherlands)**, Business trip
 * **19-26/10/22 Valencia (Spain)**, Business trip to attend Valencia Digital Summit
 * **07-08/11/22, Amsterdam (The Netherlands)**, Business trip
+* **11-13/11/22, Orlando (USA)**, Personal trip
 * **24-27/11/22, Buffalo (USA) and Niagara (Canada)**, Personal trip
 * **05-06/12/22, Amsterdam (The Netherlands)**, Business trip
 * **23-31/12/22, Valencia (Spain)**, Personal trip
