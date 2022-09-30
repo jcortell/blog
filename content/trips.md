@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-09-13T01:50:28+00:00
+date: 2022-09-30T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,11 +11,10 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
-* **24/09 -04/10/22, Bangkok (Thailand)**, Business trip
-* **08-10/10/22, Buffalo (USA) and Niagara (Canada)**, Personal trip
-* **13-14/10/22, London and Brackley (UK)**, Business trip to attend UBS ILN event
+* **24/09-05/10/22, Bangkok (Thailand)**, Business trip
+* **12-14/10/22, London and Brackley (UK)**, Business trip to attend UBS ILN event
 * **17-18/10/22, Amsterdam (The Netherlands)**, Business trip
-* **19-26/10/22 Valencia (Spain)**, Business trip to attend Valencia Digital Summit
+* **19-26/10/22 Valencia (Spain)**, Business trip and to [speak at Valencia Digital Summit](https://valenciadigitalsummit.com/speakers/)
 * **07-08/11/22, Amsterdam (The Netherlands)**, Business trip
 * **11-13/11/22, Orlando (USA)**, Personal trip
 * **24-27/11/22, Buffalo (USA) and Niagara (Canada)**, Personal trip
@@ -25,7 +24,7 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 **2023**
 
 * 18-26/02/23, Bangkok (Thailand), Business trip
-* 06-09/04/23, Orlando (USA), Personal trip
+* 06-09/04/23, Hamilton (Bermuda), Personal trip
 * **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Kanmon Straits (Japan), Pusan (South Korea), Nagasaki, Kagoshima, Miyazaki, Philippine Sea, Tokyo (Japan)**, Personal trip (invited to [cruise Japan on the Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
 
 
