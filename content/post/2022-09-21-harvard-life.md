@@ -3,11 +3,11 @@ author: ""
 date: "2022-09-21T05:00:24+02:00"
 draft: false
 title: "First days of Harvard life"
-tags: ["personal", "trips"]
+tags: ["personal", "Harvard"]
 images: "https://lh3.googleusercontent.com/kItDKgVL0IK0bTN4S3aPRFAJ8r-2I35oFMD1nec8pVu_0SNZWTpBo3YpJA-fHI1GiSpp8zLq8sy6Op21-Muc4jG5xmSrCI9j4ai-TwwFfPO3GzSwld0ushkKSK-W0JC3UOuTVWZlppM=w2400"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: https://lh3.googleusercontent.com/USYjQfG18KMb1-adsHYq3xaF7p9k25YKBUCOTzDg2uXjkCLX6qEvPS4dNFjCzAkgYjFjQDBx2VqWCth6KOrDg6t8QoGCoZvIYi5_UJOoabXhI2eNwHg-fsDYe5qEf4wzk6PjFlsrJd0=w2400
 coverImage: https://lh3.googleusercontent.com/kItDKgVL0IK0bTN4S3aPRFAJ8r-2I35oFMD1nec8pVu_0SNZWTpBo3YpJA-fHI1GiSpp8zLq8sy6Op21-Muc4jG5xmSrCI9j4ai-TwwFfPO3GzSwld0ushkKSK-W0JC3UOuTVWZlppM=w2400
 metaAlignment: center
@@ -18,7 +18,7 @@ Almost a month after we moved to Cambridge, MA (USA) to start my appointment as 
 
 <!--more-->
 
-I [a post in my Harvard Blog](https://blogs.harvard.edu/jorgecortell/2022/09/01/appointed/) I listed some of the logistical steps we had to take in order to move and normalize our life in this side of the Atlantic. 
+In [a post in my Harvard Blog](https://blogs.harvard.edu/jorgecortell/2022/09/01/appointed/) I listed some of the logistical steps we had to take in order to move and normalize our life in this side of the Atlantic. 
 
 After that, this first few weeks have been about getting familiarized with the environment (classes, supermarkets, transportation, schedules, etc). For that we took long walks around campus. Fortunately we live by the Charles river, next to the Harvard Kennedy School of Government, so it's all within comfortable walking distance.
 
