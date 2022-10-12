@@ -18,9 +18,9 @@ In order to provide some consulting to a large public corporation in Thailand, I
 
 <!--more-->
 
-I love traveling, Asia, Thailand, and Bangkok. So I was more than happy to take a Qatar Airways business flight to the other side of the world (Boston-Doha-Bangkok), staying at the [JWMarriott](https://www.marriott.com/en-us/hotels/bkkdt-jw-marriott-hotel-bangkok/) right across the street from the infamous Nana Entertainment Center, during Monsoon season, and spend several days in business meetings and brainstorming sessions.
+I love traveling, Asia, Thailand, and Bangkok. So I was more than happy to take a Qatar Airways business flight to the other side of the world (Boston-Doha with the obligatory pit stop at the Al Mourjan Business Lounge-Bangkok), staying at the [JWMarriott](https://www.marriott.com/en-us/hotels/bkkdt-jw-marriott-hotel-bangkok/) right across the street from the infamous Nana Entertainment Center, during Monsoon season, and spend several days in business meetings and brainstorming sessions.
 
-But it wasn't all work and meetings, although almost. I also visited the [BACC](https://en.bacc.or.th/) (Bangkok Art and Culture Center), went shopping (MBK, Paragon, JJ/Chatuchak), and had delicious street food.
+But it wasn't all work and meetings, although almost. I also visited the [BACC](https://en.bacc.or.th/) (Bangkok Art and Culture Center), went shopping (MBK, Paragon, JJ/Chatuchak), and had delicious street food (and indoor food too, like Michelin-guide recommended noodles by Lim Lao Ngow)
 
 One particularly mention-worthy event was meeting the very talented Georgian bodybuilder and artist Lash, who hand painted some sneakers specially for me. Thank you, Lash!
 
