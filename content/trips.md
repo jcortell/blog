@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-10-10T01:50:28+00:00
+date: 2022-10-16T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,9 +11,8 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
-* **12-14/10/22, London and Brackley (UK)**, Business trip to attend UBS ILN event
-* **17-18/10/22, Amsterdam (The Netherlands)**, Business trip
-* **19-26/10/22 Valencia (Spain)**, Business trip and to [speak at Valencia Digital Summit](https://valenciadigitalsummit.com/speakers/)
+* **15-18/10/22, Amsterdam (The Netherlands)**, Business trip
+* **19-26/10/22, Valencia (Spain)**, Business trip and to [speak at Valencia Digital Summit](https://valenciadigitalsummit.com/speakers/)
 * **07-08/11/22, Amsterdam (The Netherlands)**, Business trip
 * **11-13/11/22, Orlando (USA)**, Personal trip
 * **24-27/11/22, Buffalo (USA) and Niagara (Canada)**, Personal trip
@@ -37,6 +36,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* **12-14/10/22, London and Brackley (UK)**, Business trip to attend UBS ILN event
 * **09-10/10/22, Mystic, CT (USA)**, Personal trip
 * **24/09-05/10/22, Bangkok (Thailand)**, Business trip
 * **01/09/22-Onwards, Boston (USA)**, Moving to Cambridge, MA, to fulfill my role as Innovation Fellow at Harvard University
