@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-10-16T01:50:28+00:00
+date: 2022-11-06T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,19 +11,27 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
-* **15-18/10/22, Amsterdam (The Netherlands)**, Business trip
-* **19-26/10/22, Valencia (Spain)**, Business trip and to [speak at Valencia Digital Summit](https://valenciadigitalsummit.com/speakers/)
-* **07-08/11/22, Amsterdam (The Netherlands)**, Business trip
 * **11-13/11/22, Orlando (USA)**, Personal trip
 * **24-27/11/22, Buffalo (USA) and Niagara (Canada)**, Personal trip
-* **05-06/12/22, Amsterdam (The Netherlands)**, Business trip
+* 03-07/12/22, Basel (Switzerland) and Amsterdam (The Netherlands), Business trip
 * **23-31/12/22, Valencia (Spain)**, Personal trip
 
 **2023**
 
+* 08-11/01/23, Amsterdam (The Netherlands), Business trip
 * 18-26/02/23, Bangkok (Thailand), Business trip
+* 06-07/03/23, Amsterdam (The Netherlands), Business trip
+* 03-04/04/23, Amsterdam (The Netherlands), Business trip
 * 06-09/04/23, Hamilton (Bermuda), Personal trip
+* 01-02/05/23, Amsterdam (The Netherlands), Business trip
+* 05-06/06/23, Amsterdam (The Netherlands), Business trip
+* 03-04/07/23, Amsterdam (The Netherlands), Business trip
+* 07-08/08/23, Amsterdam (The Netherlands), Business trip
+* 04-05/09/23, Amsterdam (The Netherlands), Business trip
+* 02-03/10/23, Amsterdam (The Netherlands), Business trip
 * **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Kanmon Straits (Japan), Pusan (South Korea), Nagasaki, Kagoshima, Miyazaki, Philippine Sea, Tokyo (Japan)**, Personal trip (invited to [cruise Japan on the Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
+* 06-07/11/23, Amsterdam (The Netherlands), Business trip
+* 04-05/12/23, Amsterdam (The Netherlands), Business trip
 
 
 **PREVIOUS:**
@@ -36,6 +44,9 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* ~~07-08/11/22, Amsterdam (The Netherlands), Business trip~~Cancelled for health reasons
+* **19-26/10/22, Valencia (Spain)**, Business trip, to [speak at Valencia Digital Summit](https://valenciadigitalsummit.com/speakers/) and to be part of the [startup competition jury of VLChealth&I](https://vlchealth.com/jurado/)
+* **15-18/10/22, Amsterdam (The Netherlands)**, Business trip
 * **12-14/10/22, London and Brackley (UK)**, Business trip to attend UBS ILN event
 * **09-10/10/22, Mystic, CT (USA)**, Personal trip
 * **24/09-05/10/22, Bangkok (Thailand)**, Business trip
