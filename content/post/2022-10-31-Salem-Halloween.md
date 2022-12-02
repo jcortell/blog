@@ -3,7 +3,7 @@ author: ""
 date: "2022-11-05T05:00:24+02:00"
 draft: false
 title: "In Salem for Halloween, plus concert, football, and more"
-tags: ["personal", "trips"]
+tags: ["personal", "trips", "harvard"]
 images: "https://lh3.googleusercontent.com/bmGSOWKSsZ9dhpl8anx334JoJ2XpAma67rraw34DLrxsE8dlsHwdJ6AEA-O0xc7PaWG8huuGov5XNA2uy9z6ZJvQ7O0cFCPY1tPiDQo_mocBQOSsD0iv3kTOYzkCLPKs2m6rLuzWHWU=w2400"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
@@ -21,7 +21,7 @@ There's not a lot of Halloween spirit around Harvard, so we went to Salem, and d
 Maybe it's the lack of little kids, maybe because students are studying for tests, maybe because the parties are all about partying and not trick-or-treating... whatever the reason, we decided to not let Halloween go to waste, and chase its spirit all the way to Salem (if you don't know about the Salem witch trials, brush up on your US history, it's fascinating when you go beyond the myth and get to the sordid facts).
 
 
-So on Saturday 29th we drove there. THe first impression is that locals must be sick and tired of it, because houses were not decorated. Not a single one. BUT then we noticed the crowds, the festival, the market, and the many many businesses making their yearly profit out of selling Salem Halloween stuff, and realized that, this being the USA, of course it was all about money.
+So on Saturday 29th we drove there. The first impression is that locals must be sick and tired of it, because houses were not decorated. Not a single one. BUT then we noticed the crowds, the festival, the market, and the many many businesses making their yearly profit out of selling Salem Halloween stuff, and realized that, this being the USA, of course it was all about money.
 
 Yet, if you dig a little deeper, the instant community created by the hordes of dressed up trolls, witches, monsters, vampires, werewolves, astronauts, rastafaris, ninjas, mummies, ghosts, elves, and the like, is, as always, what made the gathering delightful.
 

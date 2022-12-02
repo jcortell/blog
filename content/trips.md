@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-11-06T01:50:28+00:00
+date: 2022-12-01T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,10 +11,8 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2022**
 
-* **11-13/11/22, Orlando (USA)**, Personal trip
-* **24-27/11/22, Buffalo (USA) and Niagara (Canada)**, Personal trip
-* 03-07/12/22, Basel (Switzerland) and Amsterdam (The Netherlands), Business trip
-* **23-31/12/22, Valencia (Spain)**, Personal trip
+* **03-17/12/22, Bangkok, and Phuket (Thailand)**, Business trip
+* **23/12-03/01/23, Valencia (Spain)**, Personal trip
 
 **2023**
 
@@ -44,6 +42,9 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
+* ~~24-27/11/22, Buffalo (USA) and Niagara (Canada), Personal trip~~ Cancelled for health reasons
+* ~~19-21/11/22, New York (USA), Business trip~~Cancelled for health reasons
+* **11-13/11/22, Orlando (USA)**, Personal trip
 * ~~07-08/11/22, Amsterdam (The Netherlands), Business trip~~Cancelled for health reasons
 * **19-26/10/22, Valencia (Spain)**, Business trip, to [speak at Valencia Digital Summit](https://valenciadigitalsummit.com/speakers/) and to be part of the [startup competition jury of VLChealth&I](https://vlchealth.com/jurado/)
 * **15-18/10/22, Amsterdam (The Netherlands)**, Business trip
