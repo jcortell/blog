@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-Two interesting days at Harvard, as explained in my Harvard Blog: [Field X](https://blogs.harvard.edu/jorgecortell/2022/11/29/invited-to-judge-startup-projects-for-the-field-x-pitch-day/) and [Gong-a-thon](https://blogs.harvard.edu/jorgecortell/2022/12/01/celebrating-the-harvard-innovation-labs-gong-a-thon/).
+Two interesting days, as explained in my Harvard Blog: [Field X](https://blogs.harvard.edu/jorgecortell/2022/11/29/invited-to-judge-startup-projects-for-the-field-x-pitch-day/) and [Gong-a-thon](https://blogs.harvard.edu/jorgecortell/2022/12/01/celebrating-the-harvard-innovation-labs-gong-a-thon/).
 
 <!--more-->
 
@@ -22,6 +22,6 @@ On November 29th, I had the honor to be invited by Professor Randolph Cohen to
 
 Then, on December 1st, the [Harvard Innovation Labs](https://innovationlabs.harvard.edu/) invited me to join their annual Gong-a-thon celebration, held at the [Queen’s Head Pub](https://cqh.harvard.edu/), where different teams share the joy of their progress, learnings, and the whole community enjoys food and fun. [Photos](https://photos.app.goo.gl/eyWNcfMFKJxCFzdWA).
 
-It was very enjoyable, and a wonderful opportunity to catch up in a very enjoyable social setting. 
+It was very enjoyable, and a wonderful opportunity to catch up in a very social setting. 
 
 Thank you both!
