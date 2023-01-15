@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-During two weeks I went with my wife and daughter to Doha (Quatar), Bangkok, and Phuket (Thailand), and Sentosa (Singapore). An amazing trip!
+During two weeks I went with my wife and daughter to Doha (Quatar), Bangkok and Phuket (Thailand), and Sentosa (Singapore). An amazing trip!
 
 <!--more-->
 

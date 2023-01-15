@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2022-12-23T01:50:28+00:00
+date: 2023-01-10T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -9,15 +9,10 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **Bold** = confirmed; otherwise = tentative:
 
-**2022**
-
-* **23/12-03/01/23, Valencia (Spain)**, Personal trip
-
 **2023**
 
-* 13-16/01/23, New York, NY (USA), Business trip
-* 17-24/02/23, Buffalo, NY (USA), Personal trip
-* 06-09/04/23, Las Vegas, NV, and Los Angeles, CA (USA), Personal trip
+* **17-24/02/23, Buffalo, NY (USA)**, Personal trip
+* **17-25/04/23, Maui, Hawaii (USA)**, Personal trip
 * **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Kanmon Straits (Japan), Pusan (South Korea), Nagasaki, Kagoshima, Miyazaki, Philippine Sea, Tokyo (Japan)**, Personal trip (invited to [cruise Japan on the Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
 
 **PREVIOUS:**
@@ -30,7 +25,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2022**
 
-* **03-17/12/22, Bangkok and Phuket (Thailand)**, Business trip
+* **23/12-03/01/23, Valencia (Spain)**, Personal trip
+* **03-17/12/22, Doha (Qatar), Bangkok and Phuket (Thailand), and Sentosa (Singapore)**, Business trip
 * ~~24-27/11/22, Buffalo (USA) and Niagara (Canada), Personal trip~~ Cancelled for health reasons
 * ~~19-21/11/22, New York (USA), Business trip~~Cancelled for health reasons
 * **11-13/11/22, Orlando (USA)**, Personal trip
