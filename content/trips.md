@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2023-01-10T01:50:28+00:00
+date: 2023-01-23T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,6 +11,7 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2023**
 
+* **28-29/01/23, New York, NY (USA)**, Personal trip
 * **17-24/02/23, Buffalo, NY (USA)**, Personal trip
 * **17-25/04/23, Maui, Hawaii (USA)**, Personal trip
 * **20-30/10/23, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Kanmon Straits (Japan), Pusan (South Korea), Nagasaki, Kagoshima, Miyazaki, Philippine Sea, Tokyo (Japan)**, Personal trip (invited to [cruise Japan on the Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
