@@ -4,7 +4,7 @@ date: "2022-12-17T05:00:24+02:00"
 draft: false
 title: "Two weeks in Doha, Bangkok, Phuket, and Sentosa-Singapore"
 tags: ["trips", "personal"]
-images: "hhttps://lh3.googleusercontent.com/Qidgnd220wXOn73yjwd4NxQ9f8NBDjAjhztD2p_UWwzVFLDpoUUC8TVNhf5QLz04FzxWXgMQfvQ3YUV1t7Gy0MXh-cHS4Fs1xvignvQDVgb4X7egIv52qS5O8FEJtXVJW5CTOR0SpBs=w2400"
+images: "https://lh3.googleusercontent.com/Qidgnd220wXOn73yjwd4NxQ9f8NBDjAjhztD2p_UWwzVFLDpoUUC8TVNhf5QLz04FzxWXgMQfvQ3YUV1t7Gy0MXh-cHS4Fs1xvignvQDVgb4X7egIv52qS5O8FEJtXVJW5CTOR0SpBs=w2400"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
