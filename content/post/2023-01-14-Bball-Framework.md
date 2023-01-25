@@ -3,7 +3,7 @@ author: ""
 date: "2023-01-14T05:00:24+02:00"
 draft: false
 title: "Harvard basketball, snow, and Framework laptop"
-tags: ["harvard", "personal, "geek"]
+tags: ["harvard", "personal", "geek"]
 images: "https://lh3.googleusercontent.com/3Zs2Rei6bEGujKOCOtrUxc8hdm4Z-o4w7CP7CSOYBXJDsehhulOoh4VcYn7cbVtCGFgqVRKC4LFj_JtnScyWRNj5Dq52XkRBTBj6731lyQwtNW3AQYJ9d3pkCmYUrc5B4Hf_6Ea5sXo=w2400"
 comments: false     # set false to hide Disqus comments
 share: true        # set false to share buttons

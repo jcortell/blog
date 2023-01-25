@@ -18,7 +18,7 @@ In 2005 I gave a talk at a Linux conference in Madrid ([in Spanish](https://www.
 
 <!--more-->
 
-My copyleft and anti-censorship days were very active and intense. Thousands attended the over 100 lectures and talks I gave on the topic (from Stanford and Harvard to Madrid and Oslo), and my work has been cited in papers and books. What I was not expecting is that 18 years later someone (thank you very much, Robert) was not only still thinking about it, but decided to ask OpenAI's chatbot built on top of thelarge language model GT-3 "Artificial Intelligence" [ChatGPT](https://chat.openai.com/) about it.
+My copyleft and anti-censorship days were very active and intense. Thousands attended the over 100 lectures and talks I gave on the topic (from Stanford and Harvard to Madrid and Oslo), and my work has been cited in papers and books. What I was not expecting is that 18 years later someone (thank you very much, Robert) was not only still thinking about it, but decided to ask OpenAI's chatbot built on top of the large language model GPT-3 "Artificial Intelligence" [ChatGPT](https://chat.openai.com/) about it.
 
 ![Schreeshot](https://lh3.googleusercontent.com/O1Jsd7xnU0TEPjJ9rfqSbu2_uVyRZHvTkikuFuQ_UcmWOULUwjZXwy-DFm5hOoD6Hankzqhf-BfwZJFTeBceHrp57xGFTF1Bvkc2rq6_ZOWJzn5RXNDx8p-BOuP8nNMApve9OKokamw=w2400)
 
