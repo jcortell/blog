@@ -27,5 +27,3 @@ On January 16th  we finally got our first real snow, with nice accumulation, so 
 But the most interesting event of the month has been receiving my brand new [Framework Laptop (12th gen Intel core, DIY edition)](https://frame.work/products/laptop-diy-12-gen-intel/). With its expansion cards, where you slide in and out selected modules/ports (like ethernet, HDMI, USB-C/A, microSD, SSD, etc.), hardware switches for the camera and microphone, great built quality, and repairability, it was an obvious choice to replace my failing Dell XPS13. So far I've been using it for a few days, and with the exception of having to mess with the BIOS Secure Boot to install GNU-Linux as OS, I must say I'm more than happy with it!
 
 Here are [some photos](https://photos.app.goo.gl/kepK8oFVyfxyfdS29).
-
-
