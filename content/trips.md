@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2023-02-23T01:50:28+00:00
+date: 2023-03-26T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -23,6 +23,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2023**
 
+* **23/03/23, New York, NY (USA)**, Business trip
+* **11-12/03/23, New York, NY (USA)**, Personal trip
 * **17-24/02/23, Buffalo, NY (USA)**, Personal trip
 * **28-29/01/23, New York, NY (USA)**, Personal trip
 * **23/12-03/01/23, Valencia (Spain)**, Personal trip
