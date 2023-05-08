@@ -14,7 +14,7 @@ metaAlignment: center
 coverMeta: out
 ---
 
-For a number of reasons,I had to drive to New York City twice in two weeks.
+For a number of reasons, I had to drive to New York City twice in two weeks.
 
 <!--more-->
 
