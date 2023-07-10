@@ -20,11 +20,7 @@ As my teenage son starts his university studies at New York University, we decid
 
 We moved in July 4th, barely missing the Pride parade, but catching the 4th of July fireworks from bed.
 
-After enjoying a vegan burger at the nearby [Bare Burger](https://www.bareburger.com/), porridge at [New Wonjo](https://newwonjo.com/) in Koreatown, and shopping at an Asian supermarket it didn't take long for us to remember why we love AND hate this city:
-
-https://twitter.com/jorgecortell/status/1147986918602432513
-
-{{< tweet 1147986918602432513 >}}
+After enjoying a vegan burger at the nearby [Bare Burger](https://www.bareburger.com/), porridge at [New Wonjo](https://newwonjo.com/) in Koreatown, and shopping at an Asian supermarket it didn't take long for us to remember why we love AND hate this city.
 
 In any case, a couple days later we helped my son move into his dorm near Union Square, and had lunch with him at [Momofuku Ssäm Bar](https://ssambar.momofuku.com/). Of course, we crossed the street to buy a compost cookie at [Milk Bar](https://milkbarstore.com/).
 
