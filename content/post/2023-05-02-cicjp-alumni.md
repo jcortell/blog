@@ -24,4 +24,4 @@ It featured the University of Tokyo, UTokyo Innovation Platform Co (IPC), and th
 
 Then I took the subway back to the iLabs to join the LLX-GEO Alumni & Friends dinner at the Harvard Business School Spangler Center. It was a great opportunity for networking, with keynote speaker Will Ahmed, co-founder of Whoop, a venture that was an iLab member for years.
 
-Here are [a few photos](https://photos.app.goo.gl/4yGVVtTveVxm4DVy8).
+Here are [a few photos I took](https://photos.app.goo.gl/4yGVVtTveVxm4DVy8), but here are [many more official photos of the dinner](https://flickr.com/photos/harvardinnovationlabs/albums/72177720309393676/page1/).
