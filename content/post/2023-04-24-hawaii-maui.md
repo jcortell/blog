@@ -18,15 +18,15 @@ To celebrate my birthday and my new position at Harvard, I spent a week in Maui,
 
 <!--more-->
 
-After landing in Kahului airport on Monday, April 17th, we took the Jeep we had rented, and drove straight to the condo we had rented in Wailea, stopping at the supermarket. Before going to bed we watched the sunset from the Kamaole Beach Park.
+After landing in Kahului airport on Monday, April 17th, we took our rental Jeep, and drove straight to the condo we had rented in Wailea, stopping at the supermarket. Before going to bed we watched the sunset from the Kamaole Beach Park.
 
 Here are some [photos](https://photos.app.goo.gl/dFMgqmKjh5q2Xjho8) of the first day.
 
-The next day we started the day by inspecting [The Westin Maui Resort & Spa, Ka'anapali](https://www.marriott.com/en-us/hotels/hnmwi-the-westin-maui-resort-and-spa-kaanapali/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0).After that we had lunch by the ocean in [Lahaina Fish Co.](https://www.lahainafishco.com/), swam in Hokolua-Mokuleia Bay, and finished the day at [Kepaniwai Park](https://www.mauicounty.gov/facilities/facility/details/Kepaniwai-Park-401) heritage themed gardens celebrating Hawaii's culture.
+The next day we started the day by inspecting [The Westin Maui Resort & Spa, Ka'anapali](https://www.marriott.com/en-us/hotels/hnmwi-the-westin-maui-resort-and-spa-kaanapali/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0). After that we had lunch by the ocean in [Lahaina Fish Co.](https://www.lahainafishco.com/), swam in Hokolua-Mokuleia Bay, and finished the day at [Kepaniwai Park](https://www.mauicounty.gov/facilities/facility/details/Kepaniwai-Park-401) heritage themed gardens celebrating Hawaii's culture. [Update from August: it's heartbreaking to see how Lahaina has been destroyed by wildfires].
 
 Here are some [photos](https://photos.app.goo.gl/mC5vYFRTkCYTio3o6) of Tuesday.
 
-Wednesday April 19th we inspected the [Fairmont Kea Lani Maui](https://www.fairmont.com/kea-lani-maui/) in the morning. and the [Four Seasons Resort Maui at Wailea](https://www.fourseasons.com/maui/) in the evening. Since it started to rain, and we liked their infinity pool so much, we returned the next morning!
+Wednesday April 19th we inspected the [Fairmont Kea Lani Maui](https://www.fairmont.com/kea-lani-maui/) in the morning, and the [Four Seasons Resort Maui at Wailea](https://www.fourseasons.com/maui/) in the evening. Since it started to rain, and we liked their infinity pool so much, we returned the next morning!
 
 Wednesday's [selected pìctures](https://photos.app.goo.gl/mt1qiu4Virp8FeHd9).
 
