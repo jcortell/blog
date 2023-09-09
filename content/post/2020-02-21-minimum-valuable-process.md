@@ -27,5 +27,5 @@ But here's why it not only doesn't work but it's also dangerous:
 * You shouldn't call something that "barely works" a "Product". It's an experiment, a step in the direction of a product. 
 * MVP as Minimum Viable Product means to emphasize speed. Go to market quick so you can learn from your mistakes an iterate. But that is not captured in those three words. Yet, using the word "Process" does capture the essence of iteration, of learning.
 
-As such, I recommend that MVP is from now on correctly defined as Minimum Valuable Product.
+As such, I recommend that MVP is from now on correctly defined as Minimum Valuable Process.
 
