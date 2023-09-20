@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2023-08-19T01:50:28+00:00
+date: 2023-09-17T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,8 +11,8 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2023**
 
-* **17-18/09/23, New York, NY (USA)**, Personal trip (invited to [cruise Oceania's new ship Vista](https://www.oceaniacruises.com/ships/vista))
 * **16-31/10/23, Tokyo, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Kanmon Straits (Japan), Pusan (South Korea), Nagasaki, Kagoshima, Miyazaki, Philippine Sea, Tokyo (Japan)**, Personal trip (invited to [cruise Japan on the Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
+* **17/11/23, New York, NY (USA)**, Personal trip (invited to Harvard President's Associates Dinner at the Mandarin Oriental, NY)
 * **21-26/11/23, Singapore (Singapore)**, Business trip (invited to speak at UBS event: “Future Forward – AI and Industry Disruption” Industry Leader Network)
 * **01-02/12/23, Port Everglades, FL (USA)**, Personal trip (invited to [cruise Celebrity Cruises's new ship Ascent](https://www.celebritycruises.com/cruise-ships/celebrity-ascent) for its naming ceremony)
 
@@ -26,6 +26,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2023**
 
+* **17-18/09/23, New York, NY (USA)**, Personal trip (invited to [cruise Oceania's new ship Vista](https://www.oceaniacruises.com/ships/vista))
 * **04-05/08/23, Martha's Vineyard, MA (USA)**, Personal trip
 * **16-19/06/23, San Francisco (USA)**, Personal trip
 * **01-02/06/23, New York, NY (USA)**, Personal trip
