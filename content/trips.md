@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2023-09-30T01:50:28+00:00
+date: 2023-10-28T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,10 +11,11 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2023**
 
-* **11-31/10/23, Tokyo, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Kanmon Straits (Japan), Pusan (South Korea), Nagasaki, Kagoshima, Miyazaki, Philippine Sea, Tokyo (Japan)**, Business trip (to speak at [BioJapan](https://jcd-expo.jp/en/outline.html) and [Medical Japan](https://www.medical-jpn.jp/tokyo/en-gb.html) Conferences, and meet representatives of 14 universities and 2 government entities; also invited to [cruise Japan on the Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
+* **11-31/10/23, Tokyo, Yokohama, Shimizu, Kobe, Kochi, Hiroshima, Kanmon Straits (Japan), Busan (South Korea), Nagasaki, Sasebo, Miyazaki, Philippine Sea, Tokyo (Japan)**, Business trip (to attend [BioJapan](https://jcd-expo.jp/en/outline.html) and [Medical Japan](https://www.medical-jpn.jp/tokyo/en-gb.html) Conferences, meet representatives of 14 universities and 2 government entities, and also invited to [cruise Japan on the Regent Explorer](https://www.virtuoso.com/cruises/sailings/16267292/colorful-gardens-bright-landscapes))
 * **17/11/23, New York, NY (USA)**, Personal trip (invited to Harvard President's Associates Dinner at the Mandarin Oriental, NY)
-* **21-26/11/23, Singapore (Singapore)**, Business trip (invited to speak at UBS event: “Future Forward – AI and Industry Disruption” Industry Leader Network)
-* **01-02/12/23, Port Everglades, FL (USA)**, Personal trip (invited to [cruise Celebrity Cruises's new ship Ascent](https://www.celebritycruises.com/cruise-ships/celebrity-ascent) for its naming ceremony)
+* **18-29/11/23, Singapore (Singapore), Bali (Indonesia), and Istanbul (Turkey)**, Business trip (invited to speak at UBS event: “Future Forward – AI and Industry Disruption” Industry Leader Network, and meeting investors)
+* **01-03/12/23, Port Everglades, FL (USA)**, Personal trip (invited to [cruise Celebrity Cruises's new ship Ascent](https://www.celebritycruises.com/cruise-ships/celebrity-ascent) for its naming ceremony)
+* **22-31/12/23, Valencia (Spain)**, Personal trip
 
 
 **PREVIOUS:**
