@@ -1,7 +1,8 @@
 repo_name: jcortell/blog
 report_id: a9c72b465301bd29640caef89b71b102
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-09T15:20:35+00:00'
+timestamp: '2024-01-05T08:27:21+00:00'
 requested_by: jcortell
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/jcortell/blog/blob/master/content/keybase.txt
   detection_source: content/keybase.txt
   last_updated_by: Jorge Cortell
   last_updated_on: 2017-07-31 15:27:22.000000000 Z
@@ -27,6 +29,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jcortell/blog/blob/master/.eslintrc
   detection_source: ".eslintrc"
   last_updated_by: Brian 'bdougie' Douglas
   last_updated_on: 2016-12-24 08:05:39.000000000 Z
@@ -38,6 +41,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jcortell/blog
   detection_source: Repo Metadata
 - name: Netlify
   description: Build, deploy and host your static site or app with a drag and drop
@@ -48,6 +52,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/jcortell/blog/blob/master/netlify.toml
   detection_source: netlify.toml
   last_updated_by: Brian 'bdougie' Douglas
   last_updated_on: 2016-12-24 08:05:39.000000000 Z
@@ -57,6 +62,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/jcortell/blog/blob/master/layouts/shortcodes/instagram.html
   detection_source: layouts/shortcodes/instagram.html
   last_updated_by: Jorge Cortell
   last_updated_on: 2023-05-09 00:51:16.000000000 Z
@@ -68,6 +74,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jcortell/blog/blob/master/content/keybase.txt
   detection_source: content/keybase.txt
   last_updated_by: Jorge Cortell
   last_updated_on: 2017-07-31 15:27:22.000000000 Z
