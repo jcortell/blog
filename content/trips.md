@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2023-12-10T01:50:28+00:00
+date: 2024-03-01T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -9,17 +9,10 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **Bold** = confirmed; otherwise = tentative:
 
-**2023**
-
-* **23-31/12/23, Valencia (Spain)**, Personal trip
-
 **2024**
 
-* 24/06-12/07/24, New York (USA), Personal trip
-
-**2026**
-
-* 22/2-04/03/26, Papeete, Moorea, Fakarava, Nuku Hiva, Rangiroa, Bora Bora, Raiatea (French Polynesia), Personal trip
+* **12-31/03/24, Singapore, Tokyo, Shimizu, Osaka, Kyoto, Kochi, Okinawa, Kumamoto (Japan), Jeju Island (South Korea), Kagoshima, Tokyo (Japan)**, Business trip and sailing in the [Celebrity Millennium](https://www.celebritycruises.com/itinerary-details/12-night-best-of-southern-japan-from-tokyo-yokohama-japan?packageID=ML12I080&sDT=2024-03-16&cCD=CO) 
+* 24-28/06/24, Taipei (Taiwan), Business trip invited to speak at BioAsia
 
 
 **PREVIOUS:**
@@ -31,6 +24,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2023**
 
+* **23-31/12/23, Valencia (Spain)**, Personal trip
 * **01-03/12/23, Port Everglades, FL (USA)**, Personal trip (invited to [cruise Celebrity Cruises's new ship Ascent](https://www.celebritycruises.com/cruise-ships/celebrity-ascent) for its naming ceremony)
 * **18-29/11/23, Singapore (Singapore), Bali (Indonesia), and Istanbul (Turkey)**, Business trip (invited to speak at UBS event: “Future Forward – AI and Industry Disruption” Industry Leader Network, and meeting investors)
 * **17/11/23, New York, NY (USA)**, Personal trip (invited to Harvard President's Associates Dinner at the Mandarin Oriental, NY)

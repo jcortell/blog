@@ -25,6 +25,7 @@ October 11th Stephanie and I flew to Tokyo. The first objective was to attend th
 But of course, it wasn't all business (and getting sick, which I did and had to stay in bed for three full days!). We stayed in an excellently located [hotel](https://www.centurion-hotel.com/cl-akasaka/) in Akasaka surrounded by restaurants and confectionary stores, with a surprisingly large room. From there, and with its proximity to the subway station, it was a breeze to visit attractions and restaurants such as:
 * Denko Sekka - Michelin Bib Gourmand guide Hiroshima style okonomiyaki 
 * Yagenbori - Amazing tamagoyaki yasaka!
+* Setve Jobs' favorite mochi shop
 * Akasaka Umaya - Adorable restaurant by Kabuki actor Ichikawa Ennosuke the third 
 * 天彩 - Amairo, great tendon (tempura+donburi)
 * UOHaRU - Market seafood dinner
@@ -36,6 +37,6 @@ But of course, it wasn't all business (and getting sick, which I did and had to 
 * Character stores at Tokyo Station
 * and a lot more
 
-We love it. My wife finally understands my fascination (although, unfortunately, not enough to consider moving there). We will definitely be back. But the trip was not over. That was only the beginning! Now time to cruise all around Japan.
+We love it. My wife finally understands my fascination (although, unfortunately, not enough to consider moving there). We will definitely be back. But the trip was not over. That was only the beginning! Now time to sail all around Japan.
 
 [A bunch of pictures here](https://photos.app.goo.gl/ifYhUiVip44kA7bs8).
