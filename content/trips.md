@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2024-03-03T01:50:28+00:00
+date: 2024-04-01T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -10,9 +10,8 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 **Bold** = confirmed; otherwise = tentative:
 
 **2024**
-
-* **12-31/03/24, Singapore, Tokyo, Shimizu, Osaka, Kyoto, Kochi, Okinawa, Kumamoto (Japan), Jeju Island (South Korea), Kagoshima, Tokyo (Japan)**, Business trip and sailing in the [Celebrity Millennium](https://www.celebritycruises.com/itinerary-details/12-night-best-of-southern-japan-from-tokyo-yokohama-japan?packageID=ML12I080&sDT=2024-03-16&cCD=CO) 
-* 24-28/07/24, Taipei (Taiwan), Business trip invited to speak at BioAsia
+ 
+* **23-28/07/24, Taipei (Taiwan)**, Business trip invited to speak at [BioAsia](https://bioasiataiwan.com/)
 * **12-19/08/24 Barcelona (Spain), Alghero-Sardinia (Italy), Ajaccio-Corsica (France), Messina-Sicily, Naples, Rome (Italy)**, Personal trip (invited to cruise in [Cunard's Queen Victoria](https://www.cunard.com/en-us/find-a-cruise/V419C/V419C))
 
 
@@ -22,6 +21,12 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
   <img src="https://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,3399ff,3399ff&chf=bg,s,eaf7fe&chtm=world&chld=ALADAQAGARAWAUATBDBEBMBRBGKHCACLCNCOHRCZDKDMDOECEEFIFRDEGRVAHKHUISINIDIEITJPKRLVLILTLUMYMTMXMCMENLNZNOPAPYPEPLPTPRRORUKNLCVCSMSTRSSGSKSIESSECHTHTNTRAEGBUSUYVEVN&chd=s:00000000000000000000000000000000000000000000000000000000000000000000000000000000" alt="Made with BigHugeLabs.com">
 </div>
 https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
+
+
+**2024**
+
+* **12-31/03/24, Singapore, Tokyo, Shimizu, Osaka, Kyoto, ~~Kochi~~, Okinawa, Kumamoto (Japan), Jeju Island (South Korea), Kagoshima, Tokyo (Japan)**, Business trip and sailing in the [Celebrity Millennium](https://www.celebritycruises.com/itinerary-details/12-night-best-of-southern-japan-from-tokyo-yokohama-japan?packageID=ML12I080&sDT=2024-03-16&cCD=CO)
+
 
 **2023**
 
