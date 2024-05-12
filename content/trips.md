@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2024-04-01T01:50:28+00:00
+date: 2024-05-12T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,7 +11,8 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2024**
  
-* **23-28/07/24, Taipei (Taiwan)**, Business trip invited to speak at [BioAsia](https://bioasiataiwan.com/)
+* **~~17-25/05/24, Nice (France), Monaco, Personal trip (invited to sail with Atlas and watch the Formula 1 Grand Prix from a private villa's balcony in Monaco, cancelled because I have to moderate a panel at Massachusetts General Hospital)~~** 
+* **22/07-02/08/24, Taipei (Taiwan), Tokyo, Awaji-shima (Japan)**, Business trip invited to speak at [BioAsia](https://bioasiataiwan.com/)
 * **12-19/08/24 Barcelona (Spain), Alghero-Sardinia (Italy), Ajaccio-Corsica (France), Messina-Sicily, Naples, Rome (Italy)**, Personal trip (invited to cruise in [Cunard's Queen Victoria](https://www.cunard.com/en-us/find-a-cruise/V419C/V419C))
 
 
