@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2024-08-22T01:50:28+00:00
+date: 2024-09-05T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -10,7 +10,10 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 **Bold** = confirmed; otherwise = tentative:
 
 **2024**
- 
+
+* **03/10/24, New York (USA)**, Personal trip
+* **04-05/10/24, Washington DC (USA)**, Business trip (invited to speak to MBA students at Georgetown University)
+* **11/12/24, New Hapmshire (USA)**, Personal trip
 * **19/12/24-05/01/25, Valencia (Spain)**, Personal trip
 
 
