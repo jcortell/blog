@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2024-09-05T01:50:28+00:00
+date: 2024-11-04T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -9,12 +9,15 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **Bold** = confirmed; otherwise = tentative:
 
+**2025**
+
+* 10-20/02/25, Tokyo, Nagano (Japan), Business trip
+* 10-20/04/25, Tokyo, Kyoto (Japan), Business trip
+
 **2024**
 
-* **03/10/24, New York (USA)**, Personal trip
-* **04-05/10/24, Washington DC (USA)**, Business trip (invited to speak to MBA students at Georgetown University)
-* **11/12/24, New Hapmshire (USA)**, Personal trip
-* **19/12/24-05/01/25, Valencia (Spain)**, Personal trip
+* **12-16/12/24, Fort Lauderdale, Key West (USA), Nassau (Bahamas)**, Personal trip cruising in the Celebrity Silhouette
+* **23/12/24-06/01/25, Valencia (Spain)**, Personal trip
 
 
 **PREVIOUS:**
@@ -27,6 +30,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2024**
 
+* **03-06/10/24, New York, Washington DC (USA)**, Business trip (invited to speak to MBA students at Georgetown University)
 * **12-19/08/24 Barcelona (Spain), Alghero-Sardinia (Italy), Ajaccio-Corsica (France), Messina-Sicily, Naples, Rome (Italy)**, Personal trip (invited to cruise in [Cunard's Queen Victoria](https://www.cunard.com/en-us/find-a-cruise/V419C/V419C))
 * **22/07-02/08/24, Taipei (Taiwan), Tokyo (Japan)**, Business trip invited to speak at [BioAsia](https://bioasiataiwan.com/)
 * **12-16/06/24, Valencia (Spain)**, Personal trip
