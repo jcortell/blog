@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2024-11-04T01:50:28+00:00
+date: 2024-12-01T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,6 +11,8 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2025**
 
+* 09/01/25, New York (USA), Personal trip
+* 29/01-06/02/25, Dubai (UAE), Business trip
 * 10-20/02/25, Tokyo, Nagano (Japan), Business trip
 * 10-20/04/25, Tokyo, Kyoto (Japan), Business trip
 
