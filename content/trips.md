@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2025-01-31T01:50:28+00:00
+date: 2025-03-14T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,11 +11,10 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2025**
 
-* **11-22/02/25, Tokyo, Nagano (Japan)**, Business trip
-* 26/03-06/04/25, Tokyo, Kyoto (Japan), Business trip
 * **07-09/04/25, New York (USA**), Personal trip (invited to sail in the Norwegian Aqua)
 * **07-08/05/25, New York (USA)**, Business trip (invited to speak at the UBS Tech Trends: Shaping the Future conference)
-  
+* **06-22/06/25, Tokyo (Japan)**, Business trip (Inaugural session of TECH-Tokyo)
+
 
 **PREVIOUS:**
 
@@ -24,6 +23,10 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 </div>
 https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
+
+**2025**
+
+* **11-22/02/25, Tokyo, Osaka (Japan)**, Business trip
 
 **2024**
 
