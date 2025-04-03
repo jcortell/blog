@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2025-03-14T01:50:28+00:00
+date: 2025-04-03T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,9 +11,10 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2025**
 
-* **07-09/04/25, New York (USA**), Personal trip (invited to sail in the Norwegian Aqua)
-* **07-08/05/25, New York (USA)**, Business trip (invited to speak at the UBS Tech Trends: Shaping the Future conference)
-* **06-22/06/25, Tokyo (Japan)**, Business trip (Inaugural session of TECH-Tokyo)
+* **07-09/04/25, New York (USA**), Personal trip (invited to sail in the [Norwegian Aqua](https://www.ncl.com/cruise/aqua) inaugural)
+* **07-08/05/25, New York (USA)**, Business trip (invited to speak at the [UBS Tech Trends: Shaping the Future conference](https://my.ubs.com/communities/events/template-iln-gen/en.html))
+* **06-22/06/25, Tokyo and Fukuoka (Japan)**, Business trip (Inaugural session of TECH-Tokyo)
+* **05-07/10/25, Kyoto (Japan)**, Business trip (Invited to speak at the [STS forum 2025](https://www.stsforum.org/))
 
 
 **PREVIOUS:**
