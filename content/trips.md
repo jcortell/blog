@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2025-05-05T01:50:28+00:00
+date: 2026-01-10T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -9,12 +9,9 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **Bold** = confirmed; otherwise = tentative:
 
-**2025**
+**2026**
 
-* **06-22/06/25, Tokyo (Japan)**, Business trip (Inaugural session of TECH-Tokyo)
-* **25/07/25, Osaka (Japan)**, Business trip (Invited to speak at the Symposium for Advancement of Interdisciplinary Research)
-* **05-07/10/25, Kyoto (Japan)**, Business trip (Invited to speak at the [STS forum 2025](https://www.stsforum.org/))
-
+* **02-03/02/26, Hong Kong (China)**, Business trip to meet ABIC
 
 
 **PREVIOUS:**
@@ -24,9 +21,17 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 </div>
 https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
+**2026**
+
+* **08-09/01/26, Taipei, Zhubei, and Taichiung (Taiwan)**, Business trip to meet PharmaEssentia
 
 **2025**
 
+* **19/12/25-05/01/26, Valencia (Spain)**, Personal trip
+* **18-26/11/25, Boston, New York (USA**), Personal trip (organizer of the Executive Education Conference at the Harvard Graduate School of Education, attendign a Boston Celtics game with court-side tickets, and dinner with Harvard University President Alan Garber in New York)
+* **05-07/10/25, Kyoto (Japan)**, Business trip (Invited to speak at the [STS forum 2025](https://www.stsforum.org/))
+* **25/07/25, Osaka (Japan)**, Business trip (Invited to speak at the Symposium for Advancement of Interdisciplinary Research)
+* **06-22/06/25, Tokyo (Japan)**, Business trip (Inaugural session of TECH-Tokyo)
 * **07-09/04/25, New York (USA**), Personal trip (invited to sail in the [Norwegian Aqua](https://www.ncl.com/cruise/aqua) inaugural)
 * **11-22/02/25, Tokyo, Osaka (Japan)**, Business trip
 
