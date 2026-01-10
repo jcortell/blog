@@ -28,7 +28,7 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 **2025**
 
 * **19/12/25-05/01/26, Valencia (Spain)**, Personal trip
-* **18-26/11/25, Boston, New York (USA**), Personal trip (organizer of the Executive Education Conference at the Harvard Graduate School of Education, attendign a Boston Celtics game with court-side tickets, and dinner with Harvard University President Alan Garber in New York)
+* **18-26/11/25, Boston, New York (USA**), Personal trip (organizer of the Executive Education Conference at the Harvard Graduate School of Education, attending a Boston Celtics game with court-side tickets, and dinner with Harvard University President Alan Garber in New York)
 * **05-07/10/25, Kyoto (Japan)**, Business trip (Invited to speak at the [STS forum 2025](https://www.stsforum.org/))
 * **25/07/25, Osaka (Japan)**, Business trip (Invited to speak at the Symposium for Advancement of Interdisciplinary Research)
 * **06-22/06/25, Tokyo (Japan)**, Business trip (Inaugural session of TECH-Tokyo)
