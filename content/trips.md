@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2026-01-10T01:50:28+00:00
+date: 2026-03-28T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,7 +11,7 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2026**
 
-* **02-03/02/26, Hong Kong (China)**, Business trip to meet ABIC
+* **01-13/06/26, Madrid and Valencia (Spain)**, Business trip with TECH Tokyo members
 
 
 **PREVIOUS:**
@@ -23,6 +23,8 @@ https://www.jetlovers.com/flights/map/?w=1000&h=700&uid=11060
 
 **2026**
 
+* **23-28/03/26, Boston (USA)**, Business trip to meet Harvard labs and startups
+* **02-03/02/26, Hong Kong (China)**, Business trip to meet ABIC
 * **08-09/01/26, Taipei, Zhubei, and Taichiung (Taiwan)**, Business trip to meet PharmaEssentia
 
 **2025**
