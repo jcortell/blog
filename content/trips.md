@@ -11,6 +11,7 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2026**
 
+* **15-18/07/26, Taipei, Zhubei, and Taichiung (Taiwan)**, Business trip to attend [BioAsia](https://bioasiataiwan.com/)) and PharmaEssentia Innovation Award Gala
 * **21/10-04/11/26, Madrid and Valencia (Spain), Avignon, Arles, Viviers, Tournon, Vienne, Lyon (France)**, Business trip to participate in a [Rafael del Pino Foundation event](https://frdelpino.es/eventos/), give a talk at [VDS](https://vds.tech/), and Personal trip [invited to a Rhône river cruise through the Provence](https://www.vikingrivercruises.com/cruise-destinations/europe/lyon-provence/2026-avignon-lyon/index.html).
 
 
