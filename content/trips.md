@@ -1,6 +1,6 @@
 ---
 title: Trips
-date: 2026-07-25T01:50:28+00:00
+date: 2026-08-07T01:50:28+00:00
 author: Jorge Cortell
 comments: false     # set false to hide Disqus comments
 share: false        # set false to share buttons, menu "main" set to "main" to add this content to the main menu
@@ -11,6 +11,7 @@ Here are my **upcoming** trips and speaking engagements (your can see my previou
 
 **2026**
 
+* **14-19/08/26, Da Nang, Hue, Hoi An (Vietnam)**, Personal trip 
 * **21-22/10/26, Valencia (Spain)**, Business trip to give a talk at [VDS](https://vds.tech/).
 * **25/10-01/11/26, Avignon, Arles, Viviers, Tournon, Vienne, Lyon (France)**, Personal trip [invited to a Rhône river cruise through the Provence](https://www.vikingrivercruises.com/cruise-destinations/europe/lyon-provence/2026-avignon-lyon/index.html).
 * **05/11/26, Madrid (Spain)**, Business trip to participate in a [Rafael del Pino Foundation event](https://frdelpino.es/eventos/).
